@@ -46,7 +46,58 @@ globalThis.AB = (() => {
    * Ručne ispravke gde OSM ne daje dobar naziv deonice: d = [[od, do], …] redom po deonicama
    * (posle orijentacije), k = "izlazi" koji su zapravo čvorišta.
    */
-  const ISPRAVKE = {};
+  const ISPRAVKE = {
+    A1: { d: [["Paris","Lille"]] },
+    A2: { d: [["Combles","Belgique"]] },
+    A4: { d: [["Paris","Strasbourg"]] },
+    A5: { d: [["Melun","Langres"]] },
+    A6: { d: [["Paris","Lyon"]] },
+    A7: { d: [["Lyon","Marseille"]] },
+    A8: { d: [["Aix-en-Provence","Menton"]] },
+    A9: { d: [["Orange","Le Perthus"]] },
+    A10: { d: [["Paris","Bordeaux"]] },
+    A11: { d: [["Ponthévrard","Nantes"]] },
+    A13: { d: [["Paris","Caen"]] },
+    A16: { d: [["L'Isle-Adam","Dunkerque"]] },
+    A19: { d: [["Sens","Artenay"]] },
+    A20: { d: [["Vierzon","Montauban"]] },
+    A23: { d: [["Lille","Valenciennes"]] },
+    A25: { d: [["Lille","Dunkerque"]] },
+    A26: { d: [["Calais","Reims"],["Châlons-en-Champagne","Troyes"]] },
+    A28: { d: [["Abbeville","Rouen"],["Rouen","Le Mans"],["Le Mans","Tours"]] },
+    A29: { d: [["Beuzeville","Le Havre"],["Le Havre","Saint-Saëns"],["Neufchâtel-en-Bray","Amiens"],["Amiens","Saint-Quentin"]] },
+    A31: { d: [["Beaune","Nancy"],["Nancy","Luxembourg"]] },
+    A35: { d: [["Strasbourg","Sélestat"],["Innenheim","Saint-Hippolyte"],["Colmar","Mulhouse"],["Mulhouse","Saint-Louis (Bâle)"]] },
+    A36: { d: [["Beaune","Mulhouse"]] },
+    A39: { d: [["Dijon","Bourg-en-Bresse"]] },
+    A40: { d: [["Mâcon","Saint-Gervais (Chamonix)"]] },
+    A41: { d: [["Chambéry","Genève"],["Montmélian","Grenoble"]] },
+    A42: { d: [["Lyon","Pont-d'Ain"]] },
+    A43: { d: [["Lyon","Chambéry"],["Chambéry","Tunnel du Fréjus"]] },
+    A48: { d: [["Coiranne","Grenoble"]] },
+    A49: { d: [["Valence","Grenoble"]] },
+    A50: { d: [["Marseille","Toulon"]] },
+    A51: { d: [["Marseille","Aix-en-Provence"],["Grenoble","Monestier-de-Clermont"],["Aix-en-Provence","Sisteron"]] },
+    A54: { d: [["Nîmes","Arles"],["Arles","Salon-de-Provence"]] },
+    A57: { d: [["Toulon","Le Cannet-des-Maures"]] },
+    A61: { d: [["Toulouse","Narbonne"]] },
+    A62: { d: [["Bordeaux","Toulouse"]] },
+    A63: { d: [["Biriatou (Espagne)","Bordeaux"]] },
+    A64: { d: [["Bayonne","Toulouse"]] },
+    A65: { d: [["Langon","Pau"]] },
+    A66: { d: [["Toulouse","Pamiers"]] },
+    A68: { d: [["Toulouse","Albi"]] },
+    A71: { d: [["Orléans","Clermont-Ferrand"]] },
+    A72: { d: [["Nervieux","Saint-Étienne"]] },
+    A75: { d: [["Clermont-Ferrand","Béziers"]] },
+    A77: { d: [["Nemours","Cosne-sur-Loire"],["Cosne-sur-Loire","Nevers"]] },
+    A81: { d: [["Le Mans","La Gravelle"]] },
+    A83: { d: [["Nantes","Niort"]] },
+    A84: { d: [["Rennes","Avranches"],["Avranches","Caen"]] },
+    A85: { d: [["Angers","Vierzon"]] },
+    A87: { d: [["Angers","La Roche-sur-Yon"]] },
+    A89: { d: [["Libourne","Brive"],["Brive","Clermont-Ferrand"],["Clermont-Ferrand","Balbigny"],["Balbigny","Lyon"]] },
+  };
   function ispravi(rez) {
     const isp = ISPRAVKE[rez.id];
     if (!isp) return rez;
@@ -312,9 +363,27 @@ globalThis.AB = (() => {
   async function preuzmi(ref) {
     const id = ref.replace(/\s+/g, ''); ref = ref.replace(/^A\s*(\d)/, 'A $1'); // OSM: "A 6" 
     const rel = `rel[route=road][network="FR:A-road"][ref="${ref}"]`;
+    // lokalni Geofabrik izvod (alati/osm_lokalno.js) umesto Overpass-a: relacija + putevi po oznaci (ref "A 6")
+    const L = ab.lokalno ? ab.lokalno('FR') : null;
+    const sjedini = (a, b) => { const ids = new Set(a.map(w => w.id)); return a.concat(b.filter(w => !ids.has(w.id))); };
+    const kaoRelacija = w => [{ type: 'relation', tags: { type: 'route' }, members: w.map(x => ({ type: 'way', role: '', geometry: x.geometry })) }];
+    let wL = [];
 
     zapisi('1/3 linija autoputa…');
-    const geo = await upit(`[out:json][timeout:240];${rel}->.r;(.r;rel(r.r););out geom;`);
+    // izvod Francuske sadrži i pogranične strane autoputeve iste oznake (nemački A 6 kod Sarbrikena, A 5 kod Bazela…):
+    // putevi po oznaci samo ako nisu u stranoj mreži i ako su do 30 km od puteva francuske relacije
+    const domaci = ws => {
+      if (!L) return ws;
+      const strani = L.uMrezama(/^(BAB|DE:|IT:|BE:|LU:|CH:|ch:|ES:|AD:|MC:)/);
+      ws = ws.filter(w => !strani.has(w.id));
+      const rel = L.putevi('FR:A-road', ref); if (!rel.length) return ws;
+      const c = p => Math.round(p.lat * 4) + '_' + Math.round(p.lon * 3), mreza = new Set();
+      for (const w of rel) for (const p of w.geometry) { const [a, b] = c(p).split('_').map(Number);
+        for (let i = -1; i <= 1; i++) for (let j = -1; j <= 1; j++) mreza.add((a + i) + '_' + (b + j)); }
+      return ws.filter(w => w.geometry.some(p => mreza.has(c(p))));
+    };
+    const geo = L ? { elements: kaoRelacija(wL = sjedini(L.putevi('FR:A-road', ref), domaci(L.poOznaci(ref)))) }
+      : await upit(`[out:json][timeout:240];${rel}->.r;(.r;rel(r.r););out geom;`);
     const postaviCos = elementi => { let s = 0, n = 0; for (const el of elementi) for (const m of el.members || [])
       if (m.geometry) for (const p of m.geometry) { s += p.lat; n++; } cosLat = Math.cos((n ? s / n : 50) * RAD); };
     postaviCos(geo.elements);
@@ -324,7 +393,7 @@ globalThis.AB = (() => {
     if (!linija.deonice.length) {
       zapisi('1/3 relacija bez puteva, uzimam puteve po oznaci…');
       putevi = `way[highway=motorway][ref~"(^|;)${ref}(;|$)"]->.w;`;
-      const poOznaci = await upit(`[out:json][timeout:240];${putevi}.w out geom;`);
+      const poOznaci = L ? { elements: wL = domaci(L.poOznaci(ref)) } : await upit(`[out:json][timeout:240];${putevi}.w out geom;`);
       const kao = [{ type: 'relation', tags: { type: 'route' },
         members: poOznaci.elements.map(w => ({ type: 'way', role: '', geometry: w.geometry })) }];
       postaviCos(kao);
@@ -339,7 +408,7 @@ globalThis.AB = (() => {
     // Francuska: smer po brojevima izlaza; polazni grad samo ako je ručno upisan u OD
     const od = glavna && OD[id];
     if (od) {
-      const mesto = await upit(`[out:json][timeout:60];area["ISO3166-1"="FR"][admin_level=2]->.it;
+      const mesto = L ? { elements: L.mesto(od) } : await upit(`[out:json][timeout:60];area["ISO3166-1"="FR"][admin_level=2]->.it;
         node[place~"^(city|town|village)$"][name="${od}"](area.it);out 1;`);
       const m = mesto.elements[0];
       if (m) odQ = xy(m.lat, m.lon); else zapisi('polazni grad "' + od + '" nije nađen, km po brojevima');
@@ -348,7 +417,12 @@ globalThis.AB = (() => {
     zapisi('2/3 izlazi i odmorišta…');
     // preopterećen server ponekad vrati prazan odgovor bez napomene (A1 bez ijednog odmorišta) → ponovi
     let osnova;
-    for (let i = 0; ; i++) {
+    if (L) { // odmorišta u pravougaoniku oko autoputa; udaljenost od trase se proverava kasnije (pr.d)
+      let ju = 90, za = 180, se = -90, is = -180;
+      for (const dd of linija.deonice) for (const q of dd.p) {
+        const [la, lo] = nazad(q); ju = Math.min(ju, la); se = Math.max(se, la); za = Math.min(za, lo); is = Math.max(is, lo); }
+      osnova = { elements: [...L.izlazi(wL), ...L.odmorista(ju - 0.01, za - 0.015, se + 0.01, is + 0.015)] };
+    } else for (let i = 0; ; i++) {
       osnova = await upit(`[out:json][timeout:240];${putevi}
       node(w.w)[highway=motorway_junction];out qt;
       nwr[highway~"^(services|rest_area)$"](around.w:400);out center qt;`);
@@ -362,11 +436,11 @@ globalThis.AB = (() => {
 
     zapisi('2/3 rampe izlaza (odredišta)…');
     // poseban upit: zajedno sa odmorištima server često pada (502)
-    const rampe = await upit(`[out:json][timeout:180];${putevi}
+    const rampe = L ? { elements: L.rampe(osnova.elements.filter(e => (e.tags || {}).highway === 'motorway_junction')) } : await upit(`[out:json][timeout:180];${putevi}
       node(w.w)[highway=motorway_junction]->.j;way(bn.j)[highway=motorway_link];out body qt;`);
 
     zapisi('3/3 pumpe, hrana, punjači…');
-    const usluge = await upit(`[out:json][timeout:240];${putevi}
+    const usluge = L ? { elements: L.usluge(osnova.elements.filter(e => /^(services|rest_area)$/.test((e.tags || {}).highway || ''))) } : await upit(`[out:json][timeout:240];${putevi}
       nwr[highway~"^(services|rest_area)$"](around.w:400)->.s;
       (nwr(around.s:350)[amenity~"^(fuel|fast_food|restaurant|cafe|toilets|charging_station|shower|parking)$"];
        nwr(around.s:350)[tourism~"^(hotel|motel)$"];
@@ -566,10 +640,16 @@ globalThis.AB = (() => {
 if (typeof window === 'undefined' && typeof require !== 'undefined' && require.main === module) (async () => {
   const fs = require('fs'), path = require('path');
   const arg = process.argv.slice(2), suvo = arg.includes('--suvo');
+  const lokalno = !arg.includes('--overpass'), osvezi = arg.includes('--osvezi');
   const refs = arg.filter(a => !a.startsWith('--')).map(a => a.toUpperCase().replace(/\s+/g, ''));
   if (!refs.length) { console.error('Upotreba: node alati/autoroutes_skripta.js [--suvo] A1 A2 …'); process.exit(1); }
   const cilj = path.join(__dirname, '..', 'app', 'src', 'main', 'assets', 'autoputevi');
   let greske = 0;
+  if (lokalno) { // Geofabrik izvod Francuske (~4,5 GB), jednom preuzet i obrađen (alati/osm/)
+    const L = require('./osm_lokalno');
+    await L.pripremi('FR', { osvezi });
+    AB.lokalno = L.ucitaj;
+  }
   for (const [i, r] of refs.entries()) {
     console.error(r + ':');
     AB.pokreni(r);
@@ -579,7 +659,7 @@ if (typeof window === 'undefined' && typeof require !== 'undefined' && require.m
       if (!suvo) fs.writeFileSync(path.join(cilj, ime), JSON.stringify(AB.rezultat));
       console.log((suvo ? '' : ime + ' ← ') + AB.sazetak + ' | van reda: ' + AB.provera());
     } else { console.log(r + ': ' + AB.stanje); greske++; }
-    if (i < refs.length - 1) await new Promise(ok => setTimeout(ok, 5000));
+    if (!lokalno && i < refs.length - 1) await new Promise(ok => setTimeout(ok, 5000));
   }
   process.exit(greske ? 1 : 0);
 })();
