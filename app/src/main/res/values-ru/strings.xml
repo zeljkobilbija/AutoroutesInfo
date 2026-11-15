@@ -51,6 +51,7 @@
     <string name="det_podeli">Поделиться</string>
     <string name="det_nema_podataka">В OpenStreetMap нет данных об этом месте.</string>
     <string name="det_izvor">Данные: © OpenStreetMap contributors (ODbL)</string>
+    <string name="det_izvor_logo">Логотипы: Wikimedia Commons; товарные знаки принадлежат их владельцам</string>
     <string name="det_cene_ucitavanje">Загрузка цен…</string>
     <string name="det_cene_greska">Цены сейчас недоступны.</string>
     <string name="det_cene_fr">Средняя цена во Франции, неделя с %s (EU Weekly Oil Bulletin, fuel-prices.eu). На заправках у автомагистралей обычно дороже.</string>

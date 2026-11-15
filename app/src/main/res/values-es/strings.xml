@@ -51,6 +51,7 @@
     <string name="det_podeli">Compartir</string>
     <string name="det_nema_podataka">OpenStreetMap no tiene datos sobre este lugar.</string>
     <string name="det_izvor">Datos: © OpenStreetMap contributors (ODbL)</string>
+    <string name="det_izvor_logo">Logotipos: Wikimedia Commons; las marcas pertenecen a sus dueños</string>
     <string name="det_cene_ucitavanje">Cargando precios…</string>
     <string name="det_cene_greska">Los precios no están disponibles ahora.</string>
     <string name="det_cene_fr">Precio medio en Francia, semana del %s (EU Weekly Oil Bulletin, fuel-prices.eu). Las gasolineras de autopista suelen ser más caras.</string>

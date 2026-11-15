@@ -51,6 +51,7 @@
     <string name="det_podeli">Partilhar</string>
     <string name="det_nema_podataka">O OpenStreetMap não tem dados sobre este local.</string>
     <string name="det_izvor">Dados: © OpenStreetMap contributors (ODbL)</string>
+    <string name="det_izvor_logo">Logótipos: Wikimedia Commons; as marcas pertencem aos seus proprietários</string>
     <string name="det_cene_ucitavanje">A carregar preços…</string>
     <string name="det_cene_greska">Os preços não estão disponíveis agora.</string>
     <string name="det_cene_fr">Preço médio em França, semana de %s (EU Weekly Oil Bulletin, fuel-prices.eu). Os postos na autoestrada costumam ser mais caros.</string>

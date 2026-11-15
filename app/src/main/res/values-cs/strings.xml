@@ -51,6 +51,7 @@
     <string name="det_podeli">Sdílet</string>
     <string name="det_nema_podataka">OpenStreetMap o tomto místě nemá údaje.</string>
     <string name="det_izvor">Data: © OpenStreetMap contributors (ODbL)</string>
+    <string name="det_izvor_logo">Loga: Wikimedia Commons; ochranné známky patří jejich vlastníkům</string>
     <string name="det_cene_ucitavanje">Načítám ceny…</string>
     <string name="det_cene_greska">Ceny teď nejsou dostupné.</string>
     <string name="det_cene_fr">Průměrná cena ve Francii, týden od %s (EU Weekly Oil Bulletin, fuel-prices.eu). Dálniční čerpací stanice bývají dražší.</string>

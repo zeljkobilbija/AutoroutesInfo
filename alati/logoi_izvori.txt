@@ -1,0 +1,14 @@
+logo_as_24.webp	AS 24	Q2819394	https://commons.wikimedia.org/wiki/File:LOGO_AS_24.png
+logo_auchan.webp	Auchan	Q758603	https://commons.wikimedia.org/wiki/File:Logo_Auchan_(1961-1983).svg
+logo_avia.webp	Avia	Q300147	https://commons.wikimedia.org/wiki/File:AVIA_International_logo.svg
+logo_bp.webp	BP	Q152057	https://commons.wikimedia.org/wiki/File:Bp_textlogo.svg
+logo_dyneff.webp	Dyneff	Q16630266	https://commons.wikimedia.org/wiki/File:Logo_Dyneff.svg
+logo_e_leclerc.webp	E. Leclerc	Q1273376	https://commons.wikimedia.org/wiki/File:E.Leclerc_logo.svg
+logo_elan.webp	Elan	Q57980752	https://commons.wikimedia.org/wiki/File:Logo_Elan.svg
+logo_eleclerc.webp	E.Leclerc	Q1273376	https://commons.wikimedia.org/wiki/File:E.Leclerc_logo.svg
+logo_eni.webp	Eni	Q565594	https://commons.wikimedia.org/wiki/File:Eni_wordmark.svg
+logo_esso.webp	Esso	Q867662	https://commons.wikimedia.org/wiki/File:Esso_textlogo.svg
+logo_intermarch.webp	Intermarché	Q3153200	https://commons.wikimedia.org/wiki/File:Intermarch%C3%A9_logo_2009_classic.svg
+logo_rompetrol.webp	Rompetrol	Q1788862	https://commons.wikimedia.org/wiki/File:Logo-Rompetrol_KMG_colored_approved.jpg
+logo_shell.webp	Shell	Q110716465	https://commons.wikimedia.org/wiki/File:Shell_wordmark_2019.svg
+logo_totalenergies.webp	TotalEnergies	Q154037	https://commons.wikimedia.org/wiki/File:Total_wordmark_(2003-2021).svg

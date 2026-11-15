@@ -51,6 +51,7 @@
     <string name="det_podeli">Podijeli</string>
     <string name="det_nema_podataka">OpenStreetMap nema podatke o ovom mjestu.</string>
     <string name="det_izvor">Podaci: © OpenStreetMap contributors (ODbL)</string>
+    <string name="det_izvor_logo">Logotipi: Wikimedia Commons; zaštitni znakovi pripadaju vlasnicima</string>
     <string name="det_cene_ucitavanje">Učitavam cijene…</string>
     <string name="det_cene_greska">Cijene trenutačno nisu dostupne.</string>
     <string name="det_cene_fr">Prosječna cijena u Francuskoj, tjedan od %s (EU Weekly Oil Bulletin, fuel-prices.eu). Benzinske na autocesti obično su skuplje.</string>

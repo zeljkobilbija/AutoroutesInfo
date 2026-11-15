@@ -51,6 +51,7 @@
     <string name="det_podeli">Udostępnij</string>
     <string name="det_nema_podataka">OpenStreetMap nie ma danych o tym miejscu.</string>
     <string name="det_izvor">Dane: © OpenStreetMap contributors (ODbL)</string>
+    <string name="det_izvor_logo">Logotypy: Wikimedia Commons; znaki towarowe należą do ich właścicieli</string>
     <string name="det_cene_ucitavanje">Wczytywanie cen…</string>
     <string name="det_cene_greska">Ceny są teraz niedostępne.</string>
     <string name="det_cene_fr">Średnia cena we Francji, tydzień od %s (EU Weekly Oil Bulletin, fuel-prices.eu). Stacje przy autostradach są zwykle droższe.</string>

@@ -52,6 +52,7 @@
     <string name="det_podeli">Share</string>
     <string name="det_nema_podataka">OpenStreetMap has no details about this place.</string>
     <string name="det_izvor">Data: © OpenStreetMap contributors (ODbL)</string>
+    <string name="det_izvor_logo">Logos: Wikimedia Commons; trademarks belong to their owners</string>
     <string name="det_cene_ucitavanje">Loading prices…</string>
     <string name="det_cene_greska">Prices are not available right now.</string>
     <string name="det_cene_fr">Average price in France, week of %s (EU Weekly Oil Bulletin, fuel-prices.eu). Motorway stations are usually more expensive.</string>

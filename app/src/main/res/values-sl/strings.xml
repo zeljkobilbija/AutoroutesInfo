@@ -51,6 +51,7 @@
     <string name="det_podeli">Deli</string>
     <string name="det_nema_podataka">OpenStreetMap nima podatkov o tem kraju.</string>
     <string name="det_izvor">Podatki: © OpenStreetMap contributors (ODbL)</string>
+    <string name="det_izvor_logo">Logotipi: Wikimedia Commons; blagovne znamke pripadajo lastnikom</string>
     <string name="det_cene_ucitavanje">Nalagam cene…</string>
     <string name="det_cene_greska">Cene trenutno niso na voljo.</string>
     <string name="det_cene_fr">Povprečna cena v Franciji, teden od %s (EU Weekly Oil Bulletin, fuel-prices.eu). Bencinske črpalke ob avtocesti so običajno dražje.</string>
