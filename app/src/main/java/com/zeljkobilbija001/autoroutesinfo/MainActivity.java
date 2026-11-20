@@ -67,6 +67,9 @@ public class MainActivity extends AppCompatActivity {
         lista.setAdapter(adapterAutoputeva);
 
         findViewById(R.id.dugmePodeli).setOnClickListener(v -> podeliAplikaciju());
+        // provera stanja na praćenim autoputevima (ako ih ima) ostaje zakazana
+        Obavestenja.otvorena(this, savedInstanceState == null); // i posle potpunog zatvaranja: aktuelne vesti nazad
+
         voznjaDugme = findViewById(R.id.voznjaDugme);
         voznjaTrazi = findViewById(R.id.voznjaTrazi);
         voznjaOpis = findViewById(R.id.voznjaOpis);
@@ -130,17 +133,17 @@ public class MainActivity extends AppCompatActivity {
         } else {
             // jasan prozor umesto sitne poruke na dnu: bez dozvole Vožnja ne može da radi
             prozorLokacije(R.string.voznja_bez_dozvole_poruka,
-                    new android.content.Intent(android.provider.Settings.ACTION_APPLICATION_DETAILS_SETTINGS,
-                            android.net.Uri.fromParts("package", this.getPackageName(), null)));
+                    new Intent(android.provider.Settings.ACTION_APPLICATION_DETAILS_SETTINGS,
+                            android.net.Uri.fromParts("package", getPackageName(), null)));
         }
     }
 
     /** Dozvola postoji; Vožnja se pokreće samo ako je lokacija na telefonu uključena. */
     private void pokreniAkoLokacija() {
-        android.location.LocationManager lm = this.getSystemService(android.location.LocationManager.class);
+        android.location.LocationManager lm = getSystemService(android.location.LocationManager.class);
         if (lm != null && !androidx.core.location.LocationManagerCompat.isLocationEnabled(lm)) {
             prozorLokacije(R.string.voznja_gps_iskljucen_poruka,
-                    new android.content.Intent(android.provider.Settings.ACTION_LOCATION_SOURCE_SETTINGS));
+                    new Intent(android.provider.Settings.ACTION_LOCATION_SOURCE_SETTINGS));
             return;
         }
         VoznjaService.pokreni(this);
@@ -148,13 +151,13 @@ public class MainActivity extends AppCompatActivity {
     }
 
     /** Prozor "Vožnja ne može da se pokrene" sa dugmetom koje otvara podešavanja. */
-    private void prozorLokacije(int poruka, android.content.Intent podesavanja) {
+    private void prozorLokacije(int poruka, Intent podesavanja) {
         new com.google.android.material.dialog.MaterialAlertDialogBuilder(this)
                 .setTitle(R.string.voznja_ne_moze_naslov)
                 .setMessage(poruka)
                 .setPositiveButton(R.string.stanje_podesavanja, (d, w) -> {
                     try {
-                        this.startActivity(podesavanja);
+                        startActivity(podesavanja);
                     } catch (Exception ignored) { }
                 })
                 .setNegativeButton(android.R.string.cancel, null)
@@ -166,23 +169,23 @@ public class MainActivity extends AppCompatActivity {
 
     private void osveziVoznju() {
         boolean radi = VoznjaService.radi;
-        // Vožnja je našla autoput i mesto na njemu: jednom po uključenju sama otvara taj autoput
-        // (ekran autoputa ide do reda "Vi ste ovde"); povratak nazad posle toga ne vraća ponovo
-        if (!VoznjaService.radi) voznjaOtvorila = false;
-        else if (VoznjaService.sadAutoput != null && !voznjaOtvorila && !isFinishing()) {
-            voznjaOtvorila = true;
-            startActivity(AutoputActivity.namera(this, VoznjaService.sadAutoput));
-        }
         voznjaDugme.setText(radi ? R.string.voznja_zaustavi : R.string.voznja_pokreni);
         String opis = VoznjaService.opisStanja;
         String tekst = radi && !opis.isEmpty() ? opis : getString(R.string.voznja_opis);
         if (Dnevnik.ukljucen(this)) tekst += "\nDNEVNIK › (dodir na karticu)";
         voznjaOpis.setText(tekst);
-        // kružić dok Vožnja traži autoput ili smer; narandžasto kad je lokacija isključena ili nema interneta
-        voznjaTrazi.setVisibility(radi && VoznjaService.trazi ? View.VISIBLE : View.GONE);
         voznjaOpis.setTextColor(radi && VoznjaService.upozorenje ? Izgled.boja(this, R.color.ovde)
                 : Izgled.boja(this, R.color.plava_svetla));
+        // kružić dok Vožnja traži autoput ili smer
+        voznjaTrazi.setVisibility(radi && VoznjaService.trazi ? View.VISIBLE : View.GONE);
         String sad = VoznjaService.sadAutoput;
+        // Vožnja je našla autoput i mesto na njemu: jednom po uključenju sama otvara taj autoput
+        // (ekran autoputa ide do reda "Vi ste ovde"); povratak na početni ekran posle toga ne vraća nazad
+        if (!radi) voznjaOtvorila = false;
+        else if (sad != null && !voznjaOtvorila && !isFinishing()) {
+            voznjaOtvorila = true;
+            startActivity(AutoputActivity.namera(this, sad));
+        }
         if (!java.util.Objects.equals(sad, obojeniAutoput)) {
             obojeniAutoput = sad;
             adapterAutoputeva.notifyDataSetChanged();
