@@ -1,0 +1,40 @@
+NASLOV (25/30):
+Autoroutes Info : sorties
+
+KRATAK OPIS (76/80):
+Sorties, aires de service, carburant et trafic sur les autoroutes de France.
+
+PUN OPIS (2475/4000):
+En route et besoin de carburant, d'un café, de toilettes ou d'une aire pour faire une pause ? Autoroutes Info montre ce qui vous attend sur chaque autoroute française – sortie par sortie, classé par point kilométrique, dans votre sens de circulation.
+
+Choisissez une autoroute et votre sens, et vous obtenez :
+• toutes les sorties et tous les échangeurs avec leur point kilométrique
+• les aires de service et de repos de votre côté de la chaussée
+• les stations avec le logo de l'enseigne, restaurants et services (WC, douches, boutique, hôtel)
+• les bornes de recharge et les places pour camions
+• téléphone et site web quand ils sont disponibles
+• le prix moyen national du SP95, du gazole et du GPL, mis à jour chaque semaine
+
+MODE CONDUITE
+Lancez le Mode conduite : l'application reconnaît l'autoroute sur laquelle vous roulez, le point kilométrique (comme sur les bornes) et votre sens, et affiche les prochaines sorties, aires et stations devant vous. Quand vous changez d'autoroute, la liste suit. Arrêt d'un simple toucher ou en fermant l'application.
+
+INFOS TRAFIC
+Accidents, bouchons, fermetures et chantiers de Bison Futé sur le réseau de l'État, avec le sens de circulation. Avec les notifications activées, vous êtes prévenu pour l'autoroute choisie ou celle où vous roulez. Les autoroutes à péage (Vinci, APRR, Sanef…) ne sont pas encore incluses.
+
+COUVERTURE
+50 autoroutes, de l'A1 Paris–Lille et l'A6 Paris–Lyon à l'A7 Autoroute du Soleil, l'A10, l'A9 La Languedocienne et l'A8 La Provençale.
+
+FONCTIONNE HORS LIGNE
+Les données autoroutières sont intégrées à l'application : la liste fonctionne même sans réseau. Seuls le trafic et les prix nécessitent une connexion.
+
+PENSÉE POUR LES CONDUCTEURS
+• un toucher lance l'itinéraire vers le lieu choisi
+• partagez une aire ou une sortie
+• filtres : carburant, repas, parkings, sorties, recharge
+• aucun compte, aucune inscription ; votre position reste sur le téléphone
+• achat unique pour supprimer la publicité
+
+SOURCES DES DONNÉES
+Données autoroutières © contributeurs OpenStreetMap (ODbL). Points kilométriques officiels : Wikipédia. Trafic : Bison Futé (Licence Ouverte). Prix des carburants : moyenne nationale hebdomadaire (fuel-prices.eu, Bulletin pétrolier de l'UE), pas le prix d'une station précise.
+
+Application indépendante, sans lien avec Vinci Autoroutes, APRR, Sanef ni aucun organisme public. Respectez toujours la signalisation et le Code de la route ; n'utilisez pas le téléphone en conduisant.
