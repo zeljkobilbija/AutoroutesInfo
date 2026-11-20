@@ -1,0 +1,132 @@
+{{voir homonymes|A26}}
+{{Infobox Route/France
+| statut = A
+| numéro = 26
+| autres_noms = Autoroute des Anglais
+| image = A26 - Sortie 6 (Béthune) à Fouquières-lès-Béthune et Vaudricourt.JPG
+| légende = L'A26 à hauteur de [[Fouquières-lès-Béthune]].
+| carte = France A26.svg
+| longueur = 394
+| direction = nord-ouest / sud-est
+| dir1 = nord-ouest
+| dir2 = sud-est
+| ville1 = {{Route européenne|15}} {{Route européenne|40}} {{Autoroute française|A16}} <br />{{Route européenne|15}} {{Autoroute française|A216}} à [[Calais]]
+| ville2 = {{Route européenne|17}} {{Autoroute française|A5}} à [[Verrières (Aube)|Verrières]]
+| villes_principales = [[Calais]], [[Béthune]], [[Lens (Pas-de-Calais)|Lens]], [[Arras]], [[Cambrai]], [[Saint-Quentin]], [[Laon]], [[Reims]], [[Châlons-en-Champagne]], [[Troyes]]
+| intersections = {{Autoroute française|A21}} à [[Bully-les-Mines]]<br />{{Route européenne|15}} {{Route européenne|17}} {{Autoroute française|A1}} à [[Plouvain]]<br />{{Route européenne|19}} {{Autoroute française|A2}} à [[Anneux]]<br />{{Route européenne|44}} {{Autoroute française|A29}} à [[Francilly-Selency]]<br />{{Route européenne|50}} {{Autoroute française|A4}} à [[Thillois]] puis aux [[Les Grandes-Loges|Grandes-Loges]]
+| ouverture = de [[1976]] à 1992
+| réseau = Autoroute française, également {{Route européenne|15}} {{Route européenne|17}}
+| régions = [[Hauts-de-France]], [[Grand Est]]
+| départements = [[Pas-de-Calais]], [[Nord (département français)|Nord]], [[Somme (département)|Somme]] (sur 1,2 km), [[Aisne (département)|Aisne]], [[Marne (département)|Marne]], [[Aube (département)|Aube]]
+| nb_reg = 2
+| nb_dep = 6
+|concessionnaire   = [[Société des autoroutes du Nord et de l'Est de la France|SANEF]] (entre A16 et {{Sortie|22}})<br/>[[Autoroutes Paris-Rhin-Rhône|APRR]] ({{Sortie|22}} et A5)
+}}
+
+L''''autoroute A26''' (aussi appelée l''''autoroute des Anglais''') est une [[autoroute]] qui part de [[Calais]], passe à proximité de [[Béthune]] de [[Lens (Pas-de-Calais)|Lens]] d'[[Arras]], de [[Cambrai]], de [[Saint-Quentin]], de [[Laon]], de [[Reims]], de [[Châlons-en-Champagne]], et se termine au sud-est de [[Troyes]] à son embranchement avec l'[[Autoroute A5 (France)|A5]].
+
+Elle fait partie du [[Grand contournement de Paris]] et est concédée à [[Société des autoroutes du Nord et de l'Est de la France|SANEF]], et à [[Autoroutes Paris-Rhin-Rhône|APRR]] pour les derniers {{unité|22|km}} entre la sortie {{Sortie|22}} et l'échangeur avec l'A5.
+
+== Historique ==
+La construction démarre en {{date-|septembre 1977}} pour relier à l'époque Calais à Reims. Sa construction demandera du temps : il faudra plus de quinze ans avant de parvenir à l'achèvement total du projet, grâce au plan d'accompagnement routier du [[tunnel sous la Manche]]. Elle est terminée le {{date-|1 juillet 1992}}<ref>Jean-François Gintzburger, « Ces kilomètres de bitume qui sillonnent la région », ''Cent ans de vie dans la région - Tome 3 - 1939-1958 : De la bataille du rail à la bataille du charbon'', [[La Voix du Nord]], {{date-|17 juin 1999}}, {{p.|82-84}}</ref>.
+
+== Son parcours ==
+'''Section concédée à [[Société des autoroutes du Nord et de l'Est de la France|SANEF]] et payante (sauf entre les sorties 16 et 16.1).'''
+* '''{{Échangeur autoroutier|[[Autoroute A16 (France)|A16]]|A26}}''' à {{unité|0|km}} : [[Boulogne-sur-Mer]], ''[[Tunnel sous la Manche]]'', [[Calais]] - ''ouest, centre'', [[Dunkerque]], [[Marck]] + {{Sortie|1 Calais - ''Port'' ([[Autoroute A216 (France)|A216]])}} : Calais - ''est'', ''[[File:France road sign ID13a.svg|15px|alt]] Car-Ferry''
+** [[Fichier:France road sign C207.svg|24x24px]] [[Fichier:Panneau-C24a-2.svg|22x22px]] [[Fichier:France road sign B14 (130).svg|22x22px]] Début de l'autoroute, début de {{dunité|2|2|voies}} et limitation à {{unité|130|km/h}}.
+** {{Aire de repos|de [[Zutkerque]]|Calais-Troyes|de [[Nortkerque]] (fermée)|Troyes-Calais}}
+* {{Sortie|2 Vallée de la Hem}} à {{unité|16|km}} : [[Licques]], [[Éperlecques]], [[Tournehem]], [[Audruicq]], [[Ardres]], [[Guînes]] 
+* {{Sortie|3 Saint-Omer}} à {{unité|31|km}} : [[Saint-Omer (Pas-de-Calais)|Saint-Omer]], [[Arques (Pas-de-Calais)|Arques]], [[Lumbres]], Boulogne-sur-Mer, Dunkerque 
+* {{Péage|Péage de Setques (à système fermé)}}
+* {{Sortie|4 Aire-sur-la-Lys}} à {{unité|40|km}} : Saint-Omer, Arques, [[Aire-sur-la-Lys]], [[Desvres]], [[Le Touquet-Paris-Plage|Le Touquet]], [[Berck (Pas-de-Calais)|Berck]]
+** {{Aire de repos|du Grand Riez|Calais-Troyes|de Villefleur (fermée)|Troyes-Calais}}
+** {{Aire de service|de [[Rely]]|Calais-Troyes|de [[Saint-Hilaire-Cottes]]|Troyes-Calais}}
+* {{Sortie|5 Lillers}} à {{unité|61|km}} : [[Lillers]], [[Auchel]], [[Saint-Pol-sur-Ternoise]], [[Hazebrouck]], Aire-sur-la-Lys
+** {{Aire de repos|du Réveillon|Calais-Troyes|de la Grande Bucaille (fermée)|Troyes-Calais}}
+* {{Sortie|6 Béthune}} à {{unité|73|km}} : [[Béthune]], [[Bruay-la-Buissière]]
+* {{Sortie|6.1 Nœux-les-Mines}} à {{unité|80|km}} : [[Nœux-les-Mines]], [[Labourse]], ''Loisinord''
+* {{Sortie|6.2 Liévin}} à {{unité|85|km}} : Bruay-la-Buissière, Nœux-les-Mines, [[Sains-en-Gohelle]], [[Aix-Noulette]] + '''{{Échangeur autoroutier|[[Autoroute A21 (France)|A21]]|A26}}''' : [[Lens (Pas-de-Calais)|Lens]], [[Liévin]], [[Douai]], [[Lille]] (A1), [[Bully-les-Mines]]
+** {{Aire de service|de [[Souchez]]|Calais-Troyes|d'[[Angres]]|Troyes-Calais}}
+* {{Sortie|7 Arras}} à {{unité|97|km}} : [[Arras]] - ''centre'', Lens, [[Vimy]]
+** {{Aire de repos|des Trois Crêtes (fermée)|Calais-Troyes|de La Cressonnière|Troyes-Calais}}
+* '''{{Échangeur autoroutier|[[Autoroute A1 (France)|A1]]|A26}}''' à {{unité|106|km}} : Arras - ''est'', Lille, [[Paris]], [[Douai]]
+** {{Aire de repos|de Bois Dhuez|Calais-Troyes|des Bonnetes|Troyes-Calais}}
+** {{Aire de service|de [[Baralle]]|Calais-Troyes|de [[Rumaucourt]]|Troyes-Calais}}
+* {{Sortie|8 Marquion}} à {{unité|127|km}} : [[Marquion]], [[Cambrai]]
+* '''{{Échangeur autoroutier|[[Autoroute A2 (France)|A2]]|A26}}''' à {{unité|135|km}} : Paris (A1), [[Ville de Bruxelles|Bruxelles (Brussel)]], [[Valenciennes]], Cambrai
+''Passage du département du [[Pas-de-Calais]] à celui du département du [[Nord (département français)|Nord]].''
+* {{Aire de repos|de La Vacquerie|Calais-Troyes|du Plateau (fermée)|Troyes-Calais}}
+* {{Sortie|9 Masnières}} à {{unité|136|km}} : [[Masnières]], Cambrai - Faubourg de Paris, [[Péronne (Somme)|Péronne]] 
+''Passage du département du Nord à celui de l'[[Aisne (département)|Aisne]].''<br>
+''Passage du département de l'Aisne à celui de la [[Somme (département)|Somme]].''<br>
+''Passage du département de la Somme à celui de l'Aisne.''
+* {{Aire de repos|de L'Omignon|Calais-Troyes|de La Haute Bruyère|Troyes-Calais}}
+* {{Sortie|10 Saint-Quentin - ''nord''}} à {{unité|161|km}} : [[Saint-Quentin]] - ''centre''
+* '''{{Échangeur autoroutier|[[Autoroute A29 (France)|A29]]|A26}}''' à {{unité|163|km}} : [[Rouen]] ([[Autoroute A28 (France)|A28]]), [[Amiens]], Péronne, [[Ham (Somme)|Ham]], Paris ([[Autoroute A1 (France métropolitaine)|A1]])
+* {{Sortie|11 Saint-Quentin - ''sud''}} à {{unité|167|km}} : [[Chauny]]-[[Tergnier]], [[Soissons]], Saint-Quentin - ''centre'', [[Gauchy]] 
+** {{Aire de service|d'[[Urvillers]]}} ''(Borne de recharge pour véhicules électriques).''
+* {{Sortie|12 La Fère}} à {{unité|186|km}} : [[La Fère]], [[Crécy-sur-Serre]], Chauny-Tergnier
+** {{Aire de repos|de Saint-Brice|Calais-Troyes|du Broyon|Troyes-Calais}}
+* {{Sortie|13 Laon}} à {{unité|202|km}} : [[Laon]], [[Maubeuge]], Crécy-sur-Serre, [[Vervins]], [[Sissonne (Aisne)|Sissonne]], ''[[Center Parcs|Center Parcs Aisne]]''
+** {{Aire de repos|de La Croisette|Calais-Troyes|des Pèlerins|Troyes-Calais}}
+** {{Aire de service|du [[Nizy-le-Comte|Mont de Nizy]]|Calais-Troyes|du Champ Roland|Troyes-Calais}}
+* {{Sortie|14 La Vallée de l'Aisne}} à {{unité|232|km}} : [[Villeneuve-sur-Aisne]], [[Berry-au-Bac]], [[Rethel]]
+''Passage de la région des [[Hauts-de-France]] à celui de [[Grand Est]].<br /> Passage du département de l'Aisne à celui de la [[Marne (département)|Marne]].''
+* {{Aire de repos|de [[Cauroy]]|Calais-Troyes|de [[Loivre]]|Troyes-Calais}}
+* {{Péage|Péage de Courcy (à système fermé)}}
+* {{Sortie|15 Reims - ''La Neuvillette''}} à {{unité|248|km}} : [[Reims]]
+* {{Sortie|16 Reims - ''Colbert''}} à {{unité|250|km}} : [[Bétheny]], Reims - ''nord, ouest'', [[Saint-Brice-Courcelles]]
+* {{Sortie|16.1 Tinqueux ([[Autoroute A344 (France)|A344]])}} à {{unité|263|km}} ''(Ancienne traversée urbaine de l'A4)'' : Reims - ''[[Centre-ville de Reims|centre]]'', [[Tinqueux]], [[Soissons]] + '''{{Échangeur autoroutier|[[Autoroute A4 (France)|A4]]|A26}}''' ''(quart-échangeur, vers Paris)'' : Paris, [[Château-Thierry]]
+* {{Péage|Péage d'Ormes (à système fermé)}}
+* '''{{Échangeur autoroutier|A4/A26|A26}}''' à {{unité|264|km}} ''(trois-quarts-échangeurs, non-accessible vers Paris)'' : Reims - ''sud''
+Début du tronc commun avec l'autoroute [[Autoroute A4 (France)|A4]], pendant {{unité|37|km}}.
+* {{Sortie|23 Reims - sud (sortie de l'A4)}} à {{unité|138|km}} : Reims, Épernay, [[Champfleury (Marne)|Champfleury]], ''[[File:France road sign ID12a.svg|15px|alt]] [[Gare de Champagne-Ardenne TGV|Champagne-Ardenne]]'', ''[[File:France road sign ID3.svg|15px|alt]] [[Centre hospitalier universitaire de Reims|C.H.U de Reims]]''
+* '''{{échangeur autoroutier|[[Autoroute A34 (France)|A34]]|A4/A26}}''' à {{unité|144|km}} : Reims - ''est, centre'', [[Charleroi]], [[Cormontreuil]], [[Charleville-Mézières]]
+** {{Aire de repos|de l'Espérance|Paris-Strasbourg|de la Vesle|Strasbourg-Paris}}
+** {{Aire de service|de Reims Champagne Sud|Paris-Strasbourg|de Reims Champagne Nord|Strasbourg-Paris}}
+* '''{{échangeur autoroutier|A4|A26}}''' à {{unité|301|km}} : [[Strasbourg]], [[Metz]]-[[Nancy]], [[Verdun]], [[Châlons-en-Champagne]] - ''centre''
+Fin du tronc commun avec l'autoroute [[Autoroute A4 (France)|A4]].
+* {{Aire de repos|des Grands Traquiers|Troyes-Calais}}
+* {{Sortie|17 Saint Gibrien}} à {{unité|309|km}} : [[Épernay]], Châlons-en-Champagne - ''Rive Gauche'', [[Fagnières]], [[Saint-Gibrien]]
+** {{Aire de repos|de La Garenne|Calais-Troyes}}
+* {{Sortie|18 Mont Choisy}} à {{unité|317|km}} : Châlons-en-Champagne - ''[[Compertrix]], centre, Mont-Choisy'', [[Fère-Champenoise]]
+** {{Aire de repos|de La Bardolle|Troyes-Calais}}
+* {{Sortie|19 Vatry}} à {{unité|339|km}} : ''[[File:France road sign ID2.svg|15px|alt]] [[Aéroport de Châlons-Vatry|Vatry]]''
+* {{Sortie|20 Sommesous}} à {{unité|340|km}} : [[Sézanne]], [[Vitry-le-François]], Fère-Champenoise + {{Aire de service|de [[Sommesous]]}}
+''Passage du département de la Marne à celui de l'[[Aube (département)|Aube]].''
+* {{Aire de repos|de Champ du Carreau|Calais-Troyes|de Champ l'Épée|Troyes-Calais}}
+* {{Sortie|21 La Vallée de l'Aube}} à {{unité|361|km}} : [[Arcis-sur-Aube]], [[Brienne-le-Château]], [[Romilly-sur-Seine]]
+* {{Sortie|22 Charmont-sous-Barbuise}} à {{unité|375|km}} : [[Troyes]] - ''centre'', [[Pont-Sainte-Marie]], [[Charmont-sous-Barbuise]], [[Feuges]] + {{Aire de service|aire1=de Chaumont}} 
+'''Section concédée à [[Autoroutes Paris-Rhin-Rhône|APRR]] et payante.'''
+* {{Aire de repos|de [[Villechétif]]|Calais-Troyes|des Crocs de la Terre|Troyes-Calais}}
+* {{Sortie|23 Thennelières}} à {{unité|388|km}} : Troyes - ''est'', [[Saint-Dizier]], [[Pont-Sainte-Marie]], ''[[File:France road sign ID16a.svg|15px|alt]] [[Forêt d'Orient]]'', [[Saint-Parres-aux-Tertres]]
+* '''{{échangeur autoroutier|[[Autoroute A5 (France)|A5]]|A26}}''' à {{unité|394|km}} : [[Orléans]] A19), Paris, [[Auxerre]], [[Sens (Yonne)|Sens]], [[Mulhouse]], [[Lyon]] (A6), [[Dijon]] (A31), [[Chaumont (Haute-Marne)|Chaumont]]
+** [[Fichier:France road sign C208.svg|22x22px]] Fin de l'autoroute A26.
+
+== Lieux sensibles ==
+(uniquement les lieux à bouchons et les pentes dangereuses) :
+
+{{...}}
+
+== Projets ==
+L'A26 devait être prolongée en direction d'[[Auxerre]] et [[Bourges]] vers 2025 dans le cadre du [[grand contournement de Paris]]<ref>[http://www.yonne.equipement.gouv.fr/article.php3?id_article=223 Direction départementale de l'équipement de l'Yonne – Liaison Troyes-Auxerre-Bourges]</ref>. Cette liaison est cependant hypothétique et sa réalisation ne pourrait pas se concrétiser avant 2050<ref>{{Lien web|url=https://www.lyonne.fr/auxerre-89000/politique/depuis-les-annees-80-jusqu-a-aujourd-hui-retour-en-dates-sur-le-projet-d-autoroute-troyes-auxerre-bourges_12972201/|titre=Depuis les années 80, jusqu'à aujourd'hui, retour en dates sur le projet d'autoroute Troyes-Auxerre-Bourges|périodique=[[L'Yonne républicaine]]|date=7 9 2018}}</ref>.
+
+== Notes ==
+{{Références}}
+
+== Voir aussi ==
+=== Articles connexes ===
+* [[Liste des autoroutes de France]]
+* [[Route européenne 15]]
+* [[Route européenne 17]]
+
+=== Liens externes ===
+{{Autres projets|commons=Category:A26 autoroute}}
+* [http://saratlas.free.fr/index.php?page=autoroute&route=a26&lang=fr Autoroute A26 dans Saratlas]
+* [http://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A26 Article détaillé de l'A26 sur WikiSara]
+
+{{Palette|Autoroutes de France}}
+{{Portail|route|Nord-Pas-de-Calais|Aisne|Marne|Aube}}
+
+[[Catégorie:Autoroute dans les Hauts-de-France|026]]
+[[Catégorie:Autoroute dans le Grand Est|026]]

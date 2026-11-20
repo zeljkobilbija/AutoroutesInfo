@@ -1,0 +1,227 @@
+{{Voir homonymes|A16}}
+{{Infobox Route/France|statut=A|numéro=16
+|autres_noms           = L'Européenne, <br /> Route des Estuaires
+|image                 =
+|légende               = 
+|carte                 = France_A16.svg
+|longueur              = 312
+|ouverture             = [[1991]]
+|direction             = Sud / Nord
+|dir1=sud
+|ville1 =
+{{Route nationale|104|France}} à [[Attainville]]
+|dir2=nord
+|ville2 = {{Cartouche route|BE|E|40}} {{Cartouche route|BE|A|18}} à [[Ghyvelde]]
+|intersections         = 
+{{Route nationale|184}} à [[L'Isle-Adam]]<br />{{Route européenne|44}} {{Autoroute française|A29}} à [[Amiens]]<br />{{Route européenne|402}} {{Autoroute française|A28}} à [[Abbeville]]<br />{{Route européenne|15}} {{Autoroute française|A26}} {{Autoroute française|A216}} à [[Calais]]<br />{{Route européenne|42}} {{Autoroute française|A25}} à [[Grande-Synthe]]
+|villes_principales    = [[Beauvais]], [[Amiens]], [[Abbeville]], [[Boulogne-sur-Mer]], [[Calais]], [[Dunkerque]]
+|réseau                = [[Liste des autoroutes de France|Autoroute française]], également {{Route européenne|15}}, {{Route européenne|40}}, {{Route européenne|44}}, {{Route européenne|402}}
+|régions               = [[Île-de-France]] et [[Hauts-de-France]]
+|départements          = [[Val-d'Oise]], [[Oise (département)|Oise]], [[Somme (département)|Somme]], [[Pas-de-Calais]] et [[Nord (département français)|Nord]]
+|nb_reg=2|nb_dep=5
+|concessionnaire   = [[Société des autoroutes du Nord et de l'Est de la France|SANEF]] (entre Attainville et Boulogne-sur-Mer)
+|gestionnaire      = [[Direction interdépartementale des Routes#Direction interdépartementale des Routes Nord|DIR Nord]] (entre Boulogne-sur-Mer et Ghyvelde)
+}}
+L''''autoroute française A16''', baptisée '''L'Européenne''', relie-la [[Francilienne]] dans le nord de la [[Île-de-France|région parisienne]] (au niveau de l'[[La Croix Verte|échangeur de la Croix Verte]]) à la frontière avec la [[Belgique]] à hauteur de [[Bray-Dunes]] dans le département du [[Nord (département français)|Nord]]. Elle dessert successivement [[Beauvais]], [[Amiens]], [[Abbeville]], [[Boulogne-sur-Mer]], [[Calais]] et [[Dunkerque]] en région [[Hauts-de-France]], et se prolonge ensuite par l'[[Autoroute A18 (Belgique)|autoroute belge A18]] vers [[Ostende]] et [[Bruges]]. Elle reprend en cela une grande partie de l'itinéraire de l'ancienne [[Route nationale 1 (France métropolitaine)|{{nobr|RN 1}}]]. Sa longueur est de {{unité|312|km}}. Elle longe le littoral de la [[Manche (mer)|Manche]] à partir d'Abbeville, puis celui de la [[Mer du Nord]] à partir de Calais jusqu'à la frontière belge. La portion entre Dunkerque et Abbeville fait partie de la [[route des Estuaires]], qui continue ensuite vers [[Rouen]] par l'[[Autoroute A28 (France)|A28]].
+
+Entre la Francilienne et Boulogne-sur-Mer, sa gestion est concédée à la [[Société des autoroutes du Nord et de l'Est de la France|Sanef]] (jusqu'au {{date|31|décembre|2032}}). Entre Boulogne-sur-Mer et la Belgique, c'est la [[Direction interdépartementale des Routes#Direction interdépartementale des Routes Nord|direction interdépartementale des routes Nord]] (DIRN) qui en assure l'entretien, l'exploitation et la gestion ; cette dernière section est libre de péage<ref>{{Légifrance|url=https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000457644&date=vig|texte=Arrêté du {{Date|26 mai 2006}} portant constitution des directions interdépartementales des routes}}, (voir notamment l'article&nbsp;8), sur ''legifrance.gouv.fr'', consulté le 6 juillet 2016.</ref> (volonté de laisser gratuite la desserte des trois grands ports de la région depuis Lille et la Belgique).
+
+L'autoroute est à {{dunité|2|2|voies}} sur la majorité de sa longueur, sauf sur quelques portions où elle est à {{dunité|2|3|voies}} (aux alentours de Calais et Dunkerque). La vitesse y est limitée à {{Unité|130|km/h}}, à l'exception de l'agglomération de Boulogne-sur-Mer et des derniers kilomètres en Île-de-France où celle-ci descend à {{Unité|110|km/h}}. La vitesse limite est passée à {{Unité|90|km/h}} autour de Dunkerque en {{date|novembre 2014}} pour des raisons de sécurité et d'écologie<ref>{{Article |auteur1=Alexis Constant |titre=Dunkerque: après les poids lourds, au tour des automobilistes de lever le pied sur l’A16 |périodique=[[La Voix du Nord]] |date=17-11-2014 |lire en ligne=http://www.lavoixdunord.fr/region/dunkerque-apres-les-poids-lourds-au-tour-des-ia17b47588n2497847 |accès url=payant}}.</ref>, et autour de Calais en {{date|mai 2015}} à cause de la [[Jungle de Calais|crise migratoire]]<ref>Jean-Philippe Delattre, [http://www.lavoixdunord.fr/region/calaisis-la-vitesse-restera-definitivement-limitee-a-ia33b48581n3145498 Calaisis : la vitesse restera définitivement limitée à {{unité|90|km/h}} sur l'A16] dans ''[[La Voix du Nord]]'', le 6 novembre 2015</ref>.
+
+Entre Abbeville et Boulogne-sur-Mer, l'A16 est souvent déconseillée aux [[Caravane (véhicule)|caravanes]] à cause du fort vent qui souffle en provenance de la Manche. En cas de vent de plus de {{Unité|70|km/h}}, la vitesse est limitée à {{Unité|90|km/h}} sur les viaducs, pour tous types de véhicules. En cas de vent de plus de {{Unité|90|km/h}}, la vitesse est limitée à {{Unité|70|km/h}} sur les viaducs, pour tous les véhicules et réduite à une voie dans chaque sens.
+
+== Histoire ==
+=== Origines ===
+La section non concédée de l'autoroute, longue de {{unité|85|km}}, est mise en service pour l'essentiel en 1993, entre Boulogne-sur-Mer et Dunkerque, puis en 1997 pour les trois kilomètres subsistants jusqu'à la [[Frontière entre la Belgique et la France|frontière franco-belge]].
+
+Le tronçon entre la région parisienne et Amiens ouvre en 1994, le contournement d'Amiens en 1995, la partie entre Amiens et Abbeville en 1997 et enfin le dernier tronçon, entre Abbeville et Boulogne-sur-Mer, ouvre le {{date|15 mai 1998}}<ref>{{Ouvrage|auteur1='''[[Société académique du Touquet-Paris-Plage]]'''|titre=Mémoires de la Société académique du Touquet-Paris-Plage Pas-de-Calais 1997-1999|passage=page 51 et 52 écrits de Jacques Garet|lieu=Le Touquet-Paris-Plage|éditeur=édition Auréoline, 18 allée Georges Brassens, 62520 Le Touquet-Paris-Plage|date=2003|isbn=|lire en ligne=}}</ref>. La construction du [[viaduc d'Echinghen]], à quelques kilomètres au sud de Boulogne-sur-Mer, s'achève en {{Date|septembre 1997}}. D'une longueur de {{Unité|1,3|km}} et d'une hauteur maximale de {{Unité|75|mètres}}, cet ouvrage d'art, dû à l'architecte Pierre-Louis Carlier, est alors le plus grand des viaducs édifiés sur le tracé de l'A16<ref>{{Lien web |auteur1=Florent Lacas |url=http://www.lemoniteur.fr/articles/trois-viaducs-edifies-dans-le-boulonnais-18151716 |titre=Trois viaducs édifiés dans le Boulonnais |date=11 juillet 1997 |site=[[Le Moniteur (revue)|Le Moniteur]] |page= {{N°|4885}} |consulté le=25 juin 2017}}.</ref>. L'ensemble est concédé à la Sanef par décret du {{date|29|octobre|1990}}<ref>{{PDF}} [http://www.cgedd.developpement-durable.gouv.fr/IMG/pdf/007087-01_avis_cle55ff7c-1.pdf Avis du CGEDD sur le bilan « LOTI » de l'autoroute A16 : section concédée L'Isle-Adam-Boulogne et section non concédée Boulogne frontière belge]</ref>.
+
+Ce n'est qu'à partir de 2005 que les sorties entre Boulogne-sur-Mer et la Belgique sont renumérotées pour assurer la continuité entre les deux tronçons construits.
+
+Beaucoup d'autoroutes se sont construites dans la région [[Nord-Pas-de-Calais]] mais la réalisation de l'A16 fut bien plus perturbée que les autres. En 1992, à la suite de l'élection de [[Marie-Christine Blandin]], du parti des [[Les Verts (France)|Verts]], à la présidence de la région, le projet connait un moratoire de plusieurs mois avant de connaitre un début d'exécution. Après son achèvement partiel intervenu en 1998, l'ouvrage ne sera pas officiellement inauguré. Sur les cartons d'invitation figure le nom de [[Charles Baur]], président de la [[Picardie (ancienne région administrative)|région Picardie]], qui a été élu grâce aux voix du Front national (aujourd'hui le [[Rassemblement national]]), ce qui scandalise les élus du Nord-Pas-de-Calais. La Sanef annule la cérémonie d'inauguration prévue à Boulogne-sur-Mer<ref>Jean-François Gintzburger, « Ces kilomètres de bitume qui sillonnent la région », ''Cent ans de vie dans la région - Tome 3 - 1939-1958 : De la bataille du rail à la bataille du charbon'', [[La Voix du Nord]], 17 juin 1999, {{p.|82-84}}.</ref>.
+
+=== Prolongement vers Paris ===
+L'autoroute A16 s'arrête dans le nord de l'Île-de-France et n'est pas directement reliée à Paris. Le [[Schéma directeur de la région Île-de-France]] de 1965 prévoit de prolonger l'A16 jusqu'au [[boulevard périphérique de Paris]], au niveau de la [[porte d'Aubervilliers]]. Les schémas directeurs suivants (de 1976, 1984 et 1994) inscrivent aussi un prolongement mais jusqu'à l'[[Autoroute A86 (France)|autoroute A86]], au niveau de [[La Courneuve]] (en traversant le [[parc Georges-Valbon|parc départemental de La Courneuve]])<ref name="Sénat"/>{{,}}<ref name="DREIA">{{lien web|url=https://vignette.wikia.nocookie.net/routes/images/7/77/A16_-_Dossier_-_F%C3%A9vrier_2006.pdf/revision/latest?cb=20090719104215|titre=Prolongement de l’autoroute A16 de l'Isle-Adam à la Francilienne - Dossier mis à la disposition du public|site=nocookie.net|date=février 2016|auteur=DREIA |consulté le=1er novembre 2018}}.</ref>. Une consultation, organisée dans cette optique entre octobre et {{date|décembre 1994}}, est validée par le [[Liste des ministres français de l'Équipement|ministre de l'Équipement]] [[Bernard Pons]] le {{date|5 mai 1995}}<ref name="DREIA"/>, choix qui est contesté localement<ref>{{Lien web |titre=Une autoroute près de chez vous ? |url=http://95560.ensemble.free.fr/Dossiers/Environnement/A16/A16_Cad.htm |site=95560.ensemble.free.fr |date=11 juin 2002 |consulté le=1er novembre 2018}}.</ref>.
+
+Le {{date|23 septembre 1997}}, le nouveau ministre de l'Équipement [[Jean-Claude Gayssot]] décide que l'A16 ne traversera pas la [[Seine-Saint-Denis]]<ref name="nouilles">{{Lien web |auteur=Philippe Fluckiger |titre=L'A 16 trace sa route vers la Francilienne |url=http://www.courrier-picard.fr/region/l-a-16-trace-sa-routevers-la-francilienne-ia0b0n876309 |périodique=[[Le Courrier picard]] |éditeur=courrier-picard.fr |date=6 novembre 2016 |consulté le=6 novembre 2016}}.</ref> et qu'elle s'arrêtera du côté de [[Gonesse]] sur l'[[avenue du Parisis]], avec un prolongement jusqu'à la [[Francilienne]] devant être réalisé dans un premier temps<ref name="DREIA"/>. Le {{date|3 novembre 2001}}, le ministre confirme devant le [[Sénat (France)|Sénat]], en réponse à la sénatrice [[Marie-Claude Beaudeau]]<ref name="Sénat">{{Lien web |titre=Liaisons routières en Ile-de-France nord |url=http://www.senat.fr/cra/s20011113/s20011113H3.html |site=senat.fr |date=3 novembre 2001 |consulté le=1er novembre 2018 |brisé le=2024-02-11 |archive-url=https://web.archive.org/web/20181118205635/http://www.senat.fr/cra/s20011113/s20011113H3.html |archive-date=18 novembre 2018}}.</ref>, que les études ne mettent pas en évidence la nécessité d'un prolongement au-delà de la Francilienne. Cependant, depuis 2004 et l'achèvement de l'[[Autoroute A115 (France)|autoroute A115]], une continuité d'autoroutes et de [[Voie rapide|voies rapides]] est assurée entre l'A16 et la capitale par le nord-ouest.
+
+Il s'est ensuite décidé de prolonger l'A16 sur environ {{unité|8|km}} jusqu'à l'échangeur de [[La Croix Verte]] ([[Route nationale 104 (France)|{{nobr|RN 104}}]]) par une mise aux normes autoroutières de la [[Route nationale 1 (France métropolitaine)|route nationale 1]] sur {{unité|3|km}} à hauteur de [[Nerville-la-Forêt]], puis par la création d'une nouvelle portion contournant les communes de [[Maffliers]] et de [[Montsoult]] (la {{nobr|RN 1}} étant fréquentée quotidiennement par {{unité|40000|voitures}} sur ces deux communes)<ref name="nouilles"/>. Au nord-est de Maffliers, l'A16 doit croiser la [[Ligne d'Épinay - Villetaneuse au Tréport - Mers|ligne SNCF Paris&nbsp;– Beauvais]], la [[ligne H du Transilien]] et à trois reprises l'[[oléoduc]] qui alimente l'[[Aéroport de Paris-Charles-de-Gaulle|aéroport de Roissy-Charles-de-Gaulle]]<ref name="nouilles"/>.
+
+Les études d'avant-projet de ce prolongement sont finalisées au printemps 2006, et quatre variantes sont proposées. Une concertation sur les études a lieu dans les communes concernées par le projet en {{date|février 2006}} sous la forme d'expositions de panneaux. L'enquête publique, commune au prolongement de l'autoroute A16 ainsi qu'à ses deux opérations connexes (réaménagement de l'échangeur de la Croix Verte et requalification de la {{nobr|RN 1}}), aurait dû se dérouler au second semestre 2006. L'objectif de début des travaux était 2009 pour une mise en service en 2012. Cette nouvelle section de {{unité|8.5|km}} doit être libre de [[péage]] et concédée à la SANEF.
+
+La commission nationale du débat public décide, le {{date|7|juin|2006}}, d'organiser un débat public sur ce projet, à la suite de sa saisine par le [[conseil régional d'Île-de-France]] et ''France Nature Environnement''<ref>{{Lien web |langue=ja |titre=Débat public sur le prolongement de l'A16 |url=http://www.debatpublic-projet-a16.org/ |site=debatpublic-projet-a16.org |brisé le=22 octobre 2026 |archive-url=https://web.archive.org/web/20180902072810/http://www.debatpublic-projet-a16.org/ |archive-date=2 septembre 2018}}.</ref> ; ce débat se déroule à l'automne 2007.
+
+Le {{date|16|juillet|2008}}, l'État choisit l'un des tracés proposés<ref name=prolongement-a16>{{Lien web |titre=Site sur le prolongement de l'A16 |url=http://prolongement-a16.fr/presentation-generale-du-projet/presentation-generale/ |site=prolongement-a16.fr |brisé le=22 octobre 2026 |archive-url=https://web.archive.org/web/20160304001942/http://prolongement-a16.fr/presentation-generale-du-projet/presentation-generale/ |archive-date=4 mars 2016}}.</ref>. De nouvelles études sont lancées sur le principe de la solution B conformément à la commande ministérielle du {{date|16|juillet|2008}}, incluant le réaménagement de la Croix Verte et la requalification de la {{nobr|RN 1}}. Une nouvelle concertation publique est engagée en {{date|septembre 2010}} sur le projet, organisée par le maître d'ouvrage du projet, la [[direction régionale et interdépartementale de l'Équipement et de l'Aménagement]]. Après cette étape de concertation, le projet est soumis à une [[enquête publique]] qui arrête définitivement le projet de prolongement de l'A16.
+
+Le {{date|11|décembre|2014}} a lieu la publication d'un décret déclarant d'utilité publique les travaux de prolongement de l'A16 entre l'Isle-Adam et l'échangeur de la Croix Verte<ref name=":0">Val d'Oise {{n°|18}} (magazine du conseil départemental), juillet/août 2015, page 18 : « L'A16 arrive à la Croix-Verte ».</ref>.
+
+Les travaux ont commencé en 2016 et se sont achevés avec l'ouverture du tronçon le {{date|15|novembre|2019}}. L'échangeur de la Croix Verte est totalement réaménagé pour faciliter les déplacements entre l'A16 et la [[Francilienne]], entre les deux côtés de la Francilienne et entre l'A16 et la {{nobr|RD 301}} (ancienne {{nobr|RN 1}}) vers/depuis [[Sarcelles]]. La {{nobr|RN 1}} est complètement déclassée dans le département du Val-d'Oise<ref name=":0" />.
+
+=== Rénovation du viaduc d'Echinghen ===
+En 2017, la SANEF remarque des signes de vétusté sur le [[viaduc d'Echinghen]], situé entre les sorties {{n°|28}} (commune d'[[Isques]], au sud de Boulogne-sur-Mer) et {{n°|29}} (port de Boulogne) de l'A16. Elle attaque les entreprises de construction à l'origine de l'ouvrage (notamment [[Bouygues Construction]]) et leur réclame sept millions d'euros<ref>{{Article |auteur1=Romain Douchin |titre=Viaducs (déjà) vétustes sur l'A16, Sanef et Bouygues se rejettent la faute devant le tribunal |périodique=[[La Voix du Nord]] |date=30-06-2017 |lire en ligne=http://www.lavoixdunord.fr/185207/article/2017-06-30/viaducs-deja-vetustes-sur-l-a16-sanef-et-bouygues-se-rejettent-la-faute-devant |accès url=payant}}.</ref>.
+
+Une importante opération de rénovation a lieu entre fin 2017 et début 2018 pour vérifier les {{Unité|331|câbles}} en acier qui supportent la structure. La circulation des [[Poids lourd|poids-lourds]] est alors momentanément interdite par mesures de sécurité ; ceux-ci doivent sortir à la sortie&nbsp;29 et récupérer l'autoroute à la sortie&nbsp;28 dans le sens Calais vers Amiens, et inversement dans le sens Amiens vers Calais<ref>{{Article|auteur1=Radio 6, Sébastien Foissel|titre=Plus aucun poids lourd ne peut passer par le viaduc d’Echinghen sur l’A16 !|périodique=radio6.fr|date=06 novembre 2017|lire en ligne=http://www.radio6.fr/article-28765-plus-aucun-poids-lourd-ne-peut-passer-par-viaduc-dechinghen-sur-la16.html|consulté le=2017-11-10|pages=}}</ref>. Bien en amont, les poids lourds circulant entre Calais et Amiens sont invités à passer par les autoroutes [[Autoroute A26 (France)|A26]], [[Autoroute A1 (France)|A1]] et [[Autoroute A29 (France)|A29]] (via [[Arras]] et [[Péronne (Somme)|Péronne]]) pour éviter d'être déviés une fois arrivés dans l'agglomération boulonnaise. Les autres véhicules circulent sur le viaduc à {{unité|90|km/h}} maximum et sur une voie dans les deux sens de circulation<ref>[https://france3-regions.francetvinfo.fr/hauts-de-france/pas-calais/boulogne-mer/a16-circulation-viaduc-echinghen-perturbee-fin-decembre-1360787.html A16 : la circulation sur le viaduc d'Echinghen perturbée jusqu'à la fin décembre], sur ''[[France 3 Nord-Pas-de-Calais]]'', 6 novembre 2017.</ref>.
+
+Face au non-respect de cette réglementation temporaire, les contrôles se multiplient et la vitesse est réduite à {{unité|50|km/h}} en amont de la sortie précédente, dans les deux sens de circulation, pour permettre aux poids-lourds d'avoir le temps de mieux voir la signalisation et les déviations. Des radars sont installés le {{date|9|janvier|2018}} à ces emplacements<ref>{{Article |auteur1=Camille Mordelet |titre=Quatre choses à savoir sur les nouveaux radars de l'A16 |périodique=[[La Voix du Nord]] |date=11-01-2018 |lire en ligne=http://www.lavoixdunord.fr/295023/article/2018-01-11/quatre-choses-savoir-sur-les-nouveaux-radars-de-l-a16 |accès url=payant}}.</ref>. L'accès au viaduc depuis la sortie&nbsp;29 (entrée sur l'autoroute vers le sud) est également fermé à tous les véhicules.
+
+Ces travaux, dont la durée s'est allongée à plusieurs reprises, font beaucoup parler : le trafic important de poids lourds dévié sur les routes communales d'[[Isques]] et de [[Saint-Léonard (Pas-de-Calais)|Saint-Léonard]] (entre {{formatnum:2000}} et {{formatnum:3000}} par jour) causent de nombreuses perturbations pour les riverains et plusieurs travaux de réparation sur les chaussées endommagées<ref>{{Article |auteur1=Camille Mordelet |titre=Les camions déviés de l'A16 envahissent la ville, les riverains sont exaspérés |périodique=[[La Voix du Nord]] |date=20-01-2018 |lire en ligne=http://www.lavoixdunord.fr/301077/article/2018-01-20/les-camions-devies-de-l-a16-envahissent-la-ville-les-riverains-sont-exasperes |accès url=payant}}.</ref>. Le député [[Jean-Pierre Pont]] a adressé un courrier destiné à la ministre des Transports, [[Élisabeth Borne]], demandant d'obliger la SANEF à respecter son engagement de fin des travaux à la date avancée par la société et la préfecture<ref>{{Article |auteur1=Camille Mordelet |titre=Après le coup de gueule du député Pont, le sous-préfet s’exprimera lundi sur la déviation de l'A16 |périodique=[[La Voix du Nord]] |date=18-01-2018 |lire en ligne=http://www.lavoixdunord.fr/299786/article/2018-01-18/apres-le-coup-de-gueule-du-depute-pont-le-sous-prefet-s-exprimera-lundi-sur-la?bot=1 |accès url=payant}}.</ref>. Le {{date|22|janvier|2018}}, la fin des travaux est repoussée une nouvelle fois jusqu'au {{date|30|juin|2018}}<ref>{{Article |auteur1=Élodie Rabé |titre=Les travaux du viaduc prolongés jusqu'au 30 juin |périodique=[[La Voix du Nord]] |date=22-01-2018 |lire en ligne=http://www.lavoixdunord.fr/302486/article/2018-01-22/les-travaux-du-viaduc-prolonges-jusqu-au-30-juin |accès url=payant}}.</ref>. Jean-Pierre Pont demande alors la réouverture de l'accès à l'A16 par la sortie&nbsp;29 dans le sens Calais vers Amiens et la gratuité de l'autoroute entre les sorties&nbsp;27 et 29<ref>{{Lien brisé |auteur1=Camille Mordelet |titre=Un Boulogne-Isques gratuit, le temps des travaux ? |url=http://lavdn.lavoixdunord.fr/304269/article/2018-01-25/un-boulogne-isques-gratuit-le-temps-des-travaux |date=25 janvier 2018 |brisé le=22 octobre 2026}}.</ref>.
+
+Malgré ces travaux, un rapport du {{date|26|septembre|2018}} publié par le ministère des Transports à la suite de la catastrophe du [[Pont Morandi|viaduc de Gênes]] classe un seul viaduc en France, celui d'Échinghen, en catégorie 3U, qui comprend les « ouvrages dont la structure est gravement altérée et nécessite une intervention urgente avec l'établissement d'un programme de travaux de réparation liés à l'insuffisance de capacité portante de l'ouvrage ou à la rapidité d’évolution des désordres »<ref>{{Article |auteur1=Mikael Libert |titre=Pas-de-Calais : La structure du viaduc d'Echinghen est « gravement altérée » |périodique=[[20 Minutes (France)|20 Minutes]] |date=26-09-2018 |lire en ligne=https://www.20minutes.fr/societe/2343575-20180926-calais-structure-viaduc-echinghen-gravement-alteree}}.</ref>.
+
+== Parcours ==
+'''Section concédée à [[Société des autoroutes du Nord et de l'Est de la France|SANEF]] et payante (sauf entre les sorties 9 à 11 et 30 à 31).'''
+* '''{{échangeur autoroutier|[[Fichier:SU4 - Rocade France.svg|22x22px]] [[Francilienne]] ([[Route nationale 104 (France)|RN 104]])|A16}}''' à {{unité|20|km}} ''(demi-échangeur, depuis et vers Ch. De Gaulle)'' : [[Paris]] - [[Porte de la Chapelle]] ([[Autoroute A1 (France métropolitaine)|A1]]), ''[[Fichier:France road sign ID2.svg|15px|alt]] [[Aéroport de Paris-Charles-de-Gaulle|Ch. De Gaulle]]''
+** [[Fichier:France road sign C207.svg|24x24px]] [[Fichier:Panneau-C24a-2.svg|24x24px]] [[Fichier:France road sign B14 (90).svg|22x22px]] Début de l'autoroute, début de {{dunité|2|2|voies}} et limitation à 90 km/h.
+* {{Sortie|9 [[La Croix Verte]] ([[Route nationale 1 (France métropolitaine)|RD 301]])}} à {{unité|22|km}} ''(demi-échangeur, depuis et vers Ghyvelde)'' : Paris, [[Sarcelles]], [[Domont]], [[Belloy-en-France]], [[Attainville]], [[Montsoult]]
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à {{unité|110|km/h}}.
+* {{Sortie|10 Presles}} à {{unité|27|km}} ''(demi-échangeur, depuis et vers Paris)'' : [[L'Isle-Adam]] - ''centre'', [[Presles (Val-d'Oise)|Presles]], [[Nerville-la-Forêt]]
+* '''{{échangeur autoroutier|[[Route nationale 184|RN 184]]|A16}}''' à {{unité|29|km}} ''(demi-échangeur, depuis et vers Ghyvelde)'' : Paris - ''[[Porte Maillot]]'' ([[Autoroute A115 (France)|A115]]), [[Cergy-Pontoise]] ([[Autoroute A15 (France)|A15]]), [[Méry-sur-Oise]], Presles
+* {{Sortie|11 Mours}} à {{unité|31|km}} : L'Isle-Adam - Parc d'Activités, [[Beaumont-sur-Oise]], [[Mours]], [[Chambly (Oise)|Chambly]], [[Persan]]
+** [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à {{unité|130|km/h}}.
+* {{Sortie|12 Chambly}} à {{unité|34|km}} ''(demi-échangeur, depuis et vers Ghyvelde)'' : Persan, Chambly
+''Passage du département du [[Val-d'Oise]] à celui de l'[[Oise (département)|Oise]].<br /> Passage de la région [[Île-de-France]] à celui des [[Hauts-de-France]].''
+* {{Péage|Péage d'Amblainville (à système fermé)}}
+* {{Sortie|13 Méru}} à {{unité|43|km}} : [[Méru]], [[Gisors]], [[Amblainville]]
+** {{Aire de repos|de Lormaison}}
+** {{Aire de repos|d'Auteuil|Paris-Ghyvelde|de Grand Courtil|Ghyvelde-Paris}}
+[[Fichier:Beauvais pont.JPG|vignette|L'autoroute A16, enjambée par la [[Route nationale 31 (France)|{{nobr|RN 31}}]] à hauteur de [[Beauvais]].]]
+* {{Sortie|14 Beauvais - ''centre''}} à {{unité|68|km}} : [[Rouen]], [[Mantes-la-Jolie]], [[Gournay-en-Bray]], Gisors, [[Beauvais]] - ''sud''
+* {{Sortie|15 Beauvais - ''nord''}} à {{unité|72|km}} : [[Compiègne]], [[Creil]], [[Clermont (Oise)|Clermont]], Beauvais - ''nord'', ''[[Fichier:France road sign ID2.svg|15px|alt]] [[Aéroport de Paris-Beauvais|Beauvais-Tillé]]''
+** {{Aire de repos|du Chêne Peuquet|Paris-Ghyvelde|du Grand Bois|Ghyvelde-Paris}}
+* {{Sortie|16 Hardivillers}} à {{unité|92|km}} : Gournay-en-Bray, [[Crèvecœur-le-Grand]], [[Breteuil (Oise)|Breteuil]] + {{Aire de service|d'Hardivillers}}
+''Passage du département de l'Oise à celui de la [[Somme (département)|Somme]].''
+* {{Sortie|17 Essertaux}} à {{unité|108|km}} : [[Moreuil]], [[Ailly-sur-Noye]], [[Poix-de-Picardie]], [[Conty]], [[Essertaux]]
+** {{Aire de repos|de la Vallée de la [[Selle (affluent de la Somme)|Selle]]}}
+* '''{{échangeur autoroutier|[[Autoroute A29 (France)|A29]] (Est)|A16}}''' à {{unité|97|km}} : [[Reims]] ([[Autoroute A26 (France)|A26]]), [[Lille]] (A1), [[Saint-Quentin]], [[Amiens]] - ''sud''
+''Début du tronc commun avec l'A29.''
+* {{Sortie|18 Salouël}} à {{unité|123|km}} : [[Salouël]], [[Saleux]]
+* '''{{échangeur autoroutier|A29 (Ouest)|A16}}''' à {{unité|129|km}} : [[Rouen]] ([[Autoroute A28 (France)|A28]]), [[Le Havre]], [[Dieppe (Seine-Maritime)|Dieppe]], Poix-de-Picardie
+''Fin du tronc commun avec l'A29.''
+* {{Sortie|19 Amiens - ''ouest''}} à {{unité|127|km}} : Amiens - ''centre'', ''[[Fichier:France road sign ID3.svg|15px|alt]] [[Centre hospitalier universitaire Amiens-Picardie|C.H.U Amiens. Picardie]]''
+* {{Sortie|20 Amiens - ''nord''}} à {{unité|132|km}} : Amiens, [[Longueau]], ''[[Fichier:France road sign ID35.svg|15px|alt]] Espace Industrielle Nord''
+** {{Aire de repos|de Vignacourt}}
+* {{Sortie|21 Vallée de La Nièvre}} à {{unité|149|km}} : [[Flixecourt]]
+** {{Aire de repos|du Haut Clocher|Paris-Ghyvelde|de La Hétroye|Ghyvelde-Paris}}
+* {{Sortie|22 Abbeville - ''est''}} à {{unité|167|km}} : [[Abbeville]] - ''centre'', [[Doullens]], [[Saint-Riquier]]
+** [[Fichier:AB-Brücke.svg]] [[Viaduc du Scardon]] ({{unité|1022|m}}) à {{unité|175|km}} 
+* {{Sortie|23 Abbeville - ''nord''}} '''({{échangeur autoroutier|[[Autoroute A28 (France)|A28]]|A16}})''' à {{unité|179|km}} : Abbeville - ''centre'', Le Havre (A29), Rouen, [[Eu (Seine-Maritime)|Eu]] - [[Le Tréport]], [[Le Crotoy]], [[Saint-Valery-sur-Somme]]
+** {{Aire de service|de la Baie de Somme}}
+* {{Sortie|24 La Côte Picarde (RD 1001)}} à {{unité|189|km}} : [[Saint-Valery-sur-Somme]], [[Fort-Mahon-Plage]], [[Crécy-en-Ponthieu]], [[Le Crotoy]], [[Quend]], [[Rue (Somme)|Rue]]
+''Passage du département de la Somme à celui du [[Pas-de-Calais]].''
+** {{Aire de repos|du bois de la Commanderie|Paris-Ghyvelde|du Fond de la Commanderie|Ghyvelde-Paris}}
+* {{Sortie|25 Berck}} à {{unité|207|km}} : [[Arras]], [[Berck (Pas-de-Calais)|Berck - Plage]], [[Merlimont]], [[Montreuil-sur-Mer]], Fort-Mahon-Plage, Quend, ''[[Fichier:France road sign ID3.svg|15px|alt]] C.H.A de Montreuil-sur-Mer''
+* {{Sortie|26 Étaples / Le Touquet}} à {{unité|219|km}} : [[Le Touquet-Paris-Plage]], [[Merlimont]], [[Camiers|Sainte-Cécile]], [[Cucq|Stella-Plage]], Montreuil-sur-Mer, [[Étaples]],
+** {{Aire de repos|des Falaises de Widehem}}
+[[Fichier:Viaduc_Echinghen_R01.jpg|vignette|L'autoroute A16, sur le viaduc d'Echinghen, près de [[Boulogne-sur-Mer]] (Pas-de-Calais).]]
+* {{Sortie|27 Neufchâtel-Hardelot}} à {{unité|232|km}} : [[Desvres]], Sainte-Cécile,, [[Neufchâtel-Hardelot]]
+** [[Fichier:France road sign C111.svg|22x22px]] Tranchée couverte d'Hardelot (tunnel sous la forêt d'Hardelot) à {{unité|239|km}}
+* {{Sortie|28 Boulogne - ''sud''}} à {{unité|240|km}} : [[Boulogne-sur-Mer]], [[Isques]], [[Samer]]
+** [[Fichier:AB-Brücke.svg]] Viaduc de Quéhen ({{unité|474|m}}) à {{unité|245,1|km}} 
+** [[Fichier:AB-Brücke.svg]] Viaduc de Herquelingue ({{unité|259|m}}) à {{unité|242|km}} 
+* {{Péage|Péage de Herquelingue (à système fermé)}}
+** [[Fichier:AB-Brücke.svg]] [[Viaduc d'Echinghen]] ({{unité|1301|m}}) à {{unité|243|km}} 
+* {{Sortie|29 Boulogne - ''[[Port de Boulogne-sur-Mer|Port]]''}} à {{unité|244|km}} : ''[[Fichier:France road sign ID35.svg|15px|alt]] Boulogne - ''centre'', [[Outreau]], [[Le Portel]], Amiens
+[[Fichier:A16 stmartinboulogne.jpg|vignette|L'autoroute A16, à hauteur de [[Saint-Martin-Boulogne]] (Pas-de-Calais).]] 
+* {{Sortie|30 Saint-Martin-Boulogne}} à {{unité|245|km}} ''(demi-échangeur, depuis et vers Paris)'' : Desvres, [[Baincthun]], [[Saint-Martin-Boulogne]] - ''centre'', ''[[Fichier:France road sign ID3.svg|15px|alt]] Centre Hospitalier''
+'''Section non-concédée gérée par la [[Direction interdépartementale des Routes#Direction interdépartementale des Routes Nord|DIR Nord]] et gratuite.'''
+* {{Sortie|31 Boulogne - ''est'' ([[Route nationale 42 (France)|RN 42]])}} à {{unité|223|km}} : [[Lille]], [[Saint-Omer (Pas-de-Calais)|Saint-Omer]], Boulogne-sur-Mer, Saint-Martin-Boulogne - ''est'', [[La Capelle-lès-Boulogne]], [[Baincthun]], [[Desvres]], ''[[Fichier:France road sign ID3.svg|15px|alt]] Centre Hospitalier'', ''[[Fichier:France road sign ID36.svg|15px|alt]] L'Inquiétrie''
+* {{Sortie|32 Boulogne - ''nord''}} à {{unité|226|km}} : Boulogne - ''centre'', [[Wimereux]] - ''sud'', Saint-Martin-Boulogne - ''nord'' ''[[Nausicaá - Centre national de la mer|Nausicaá]]''
+* {{Sortie|33 La Trésorerie}} à {{unité|229|km}} : Wimereux - ''nord'', [[Wimille]], [[Wacquinghen]]
+* {{Sortie|34 Wacquinghen}} à {{unité|232|km}} ''(demi-échangeur, depuis et vers Ghyvelde)'' : Wacquinghen, [[Offrethun]], [[Beuvrequen]]
+** {{Aire de service|de L'Épitre|Paris-Ghyvelde}}
+* {{Sortie|35 Marquise - ''sud''}} à {{unité|235|km}} ''(demi-échangeur, depuis et vers Paris)'' : [[Marquise (Pas-de-Calais)|Marquise]], [[Rinxent]], [[Beuvrequen]]
+* {{Sortie|36 Marquise - ''nord''}} à {{unité|237|km}} : [[Marquise (Pas-de-Calais)|Marquise]], [[Rinxent]], [[Guînes]], [[Wissant]], ''[[Cap Gris-Nez]], Carrières''
+* {{Sortie|37 Saint-Inglevert - ''sud''}} à {{unité|242|km}} ''(demi-échangeur, depuis et vers Paris)'' : [[Saint-Inglevert]], [[Leubringhen]], ''Cimitière Canadien''
+** {{Aire de service|des Deux Caps|Ghyvelde-Paris}}
+[[Fichier:Autouroute A16 - sortie 42 - Arrivée Eurotunnel.jpg|vignette|Retour sur l'A16 à la sortie de la [[navette d'Eurotunnel]].|alt=]]
+* {{Sortie|38 Saint-Inglevert - ''nord''}} à {{unité|245|km}} ''(demi-échangeur, depuis et vers Ghyvelde)'' : [[Saint-Inglevert]], [[Wissant]], ''Cap Gris-Nez'', ''Cimitière Canadien''
+* {{Sortie|39 Bonningues-lès-Calais}} à {{unité|248|km}} : [[Bonningues-lès-Calais]], [[Peuplingues]], ''[[Cap Blanc-Nez]]''
+* {{Sortie|40 Peuplingues}} à {{unité|250|km}} : [[Peuplingues]], [[Escalles]], [[Fréthun]], ''[[Fichier:France road sign ID12a.svg|15px|alt]] [[Gare de Calais - Fréthun|Calais - Fréthun]]'', ''Cap Blanc-Nez''
+* {{Sortie|41 Coquelles}} à {{unité|251|km}} : [[Coquelles]], [[Sangatte]], ''[[Cité Europe|Cité Europe Ouest Administration]]''
+* {{Sortie|42 [[Eurotunnel]]}} à {{unité|253|km}} '''(''[[Tunnel sous la Manche]]'')''' : [[Londres|Londres (London)]], [[Folkestone]]
+** [[Fichier:France road sign C24a.svg|22x22px]] Passage à {{dunité|2|3|voies}}.
+[[Fichier:Sortie 43 (direction sud-nord).jpg|vignette|L'autoroute A16 en direction de la Belgique, au niveau de la sortie 43 près de [[Calais]].]]
+* {{Sortie|43 Calais - ''Rivière-Neuve''}} à {{unité|254|km}} : [[Calais]] - ''centre'', [[Guînes]], [[Coulogne]], ''[[Sangatte#Blériot-Plage (ancien hameau Les Baraques)|Blériot-Plage]]'', ''Cité Europe Est''
+<!--[[Fichier:Sortie 44 sur l'autoroute A16, direction Sud-Nord.jpg|vignette|L'autoroute A16 en direction de la Belgique, au niveau de la sortie 44 près de [[Calais]].]]-->
+* {{Sortie|44 Calais - ''Saint-Pierre''}} à {{unité|255|km}} : Calais
+* {{Sortie|45 Ardres}} à {{unité|257|km}} ''(quart-échangeur, vers Paris)'' : Calais, [[Ardres]]
+** [[Fichier:Panneau-C24a-2.svg|22x22px]] Passage à {{dunité|2|2|voies}}.
+[[Fichier:Sortie 46 sur l'autoroute A16, direction Sud-Nord.jpg|vignette|L'autoroute A16 en direction de la Belgique, au niveau de la sortie 46 près de [[Calais]].]]
+* {{Sortie|46 ''Porte de Saint-Omer''}} à {{unité|258|km}} : [[Calais]] - ''centre'', [[Coulogne]], Ardres, Saint-Omer
+[[Fichier:Échangeur A16-A26 sur l'autoroute A16, direction Sud-Nord.jpg|vignette|L'autoroute A16 en direction de la Belgique, au niveau de l'échangeur avec l'autoroute A26.]]
+* '''{{échangeur autoroutier|[[Autoroute A26 (France)|A26]]|A16}}''' à {{unité|259|km}} : Saint-Omer, Arras, Reims, Paris (A1)
+* {{Sortie|47 Calais - ''[[Port de Calais|Port]]''}} '''({{échangeur autoroutier|[[Autoroute A216 (France)|A216]]|A16}})''' : Calais - ''Z. I. Est'', ''[[Fichier:France road sign ID13a.svg|15px|alt]] Car-Ferry'', ''Centre Universitaire''
+* {{Sortie|48 Marck - ''ouest''}} à {{unité|261|km}} : [[Marck]], ''Transmarck''
+* {{Sortie|49 Marck - ''est''}} à {{unité|264|km}} : Marck
+** {{Aire de repos|d'Offekerque|Paris-Ghyvelde}}
+* {{Sortie|50 Nouvelle-Église}} à {{unité|270|km}} : [[Oye-Plage]], [[Audruicq]]
+* {{Sortie|51 Saint-Folquin}} à {{unité|276|km}} : [[Grand-Fort-Philippe]], [[Gravelines]], [[Saint-Folquin]]
+''Passage du département du Pas-de-Calais à celui du [[Nord (département français)|Nord]].''
+* {{Sortie|52/52a/52b Bourbourg}} à {{unité|280|km}} : [[Bourbourg]], [[Saint-Georges-sur-l'Aa]], Gravelines, ''[[Grand port maritime de Dunkerque|Port - 7000 à 9000]]''
+* {{Sortie|53 Craywick - Loon-Plage}} à {{unité|283|km}} : Saint-Omer, [[Loon-Plage]], [[Craywick]], [[Bourbourg]], [[Mardyck]], Port - ''4000 à 7000'', ''[[Fichier:France road sign ID13a.svg|15px|alt]] Car Ferry''
+* {{Sortie|54 Grande-Synthe}} à {{unité|291|km}} : [[Grande-Synthe]], [[Dunkerque]], [[Fort-Mardyck]], [[Spycker]], [[Mardyck]], Ports - ''2000 à 4000, 3000 à 3800''
+* {{Sortie|55 Grande-Synthe - ''Courghain''}} à {{unité|292|km}} ''(demi-échangeur, depuis et vers Paris)'' : Grande-Synthe
+** {{Aire de service|de Grande-Synthe|Ghyvelde-Paris}}
+* {{Sortie|56 Grande-Synthe - ''centre''}} à {{unité|293|km}} : Grande-Synthe - ''Moulin''
+* {{Sortie|57/57a/57b Dunkerque - ''Z. I'' ([[Route nationale 225|RN 225]])}} '''{{échangeur autoroutier|[[Route nationale 225|RN 225]]|A16}}''' à {{unité|294|km}} : [[Lille]], [[Ypres|Ypres (Ieper)]] ([[Autoroute A25 (France)|A25]]), [[Armentières]], [[Bergues]], Grande-Synthe, [[Fort-Mardyck]], Dunkerque, Port  - ''2000 à 3000''
+* {{Sortie|58 Dunkerque - ''Petite-Synthe''}} à {{unité|296|km}} : Dunkerque - ''[[Saint-Pol-sur-Mer]], Point Loby''
+** [[Fichier:France road sign C24a.svg|22x22px]] Passage à {{dunité|2|3|voies}}.
+* {{Sortie|59 Cappelle-la-Grande}} à {{unité|297|km}} ''(demi-échangeur, depuis et vers Ghyvelde)'' : Dunkerque - ''Jeu de Mail'', [[Cappelle-la-Grande]]
+* {{Sortie|60 Coudekerque-Branche - ''centre''}} à {{unité|298|km}} : Dunkerque, [[Coudekerque-Branche]], Cappelle-la-Grande, [[Bergues]]
+* {{Sortie|61 Coudekerque-Branche - ''est''}} à {{unité|299|km}} : Coudekerque-Branche, Dunkerque
+* {{Sortie|62 Dunkerque - ''centre''}} à {{unité|300|km}} : Dunkerque - ''Malo,  Rosendaël'', ''[[Fichier:France road sign ID3.svg|15px|alt]] Centre Hospitalier''
+** [[Fichier:Panneau-C24a-2.svg|22x22px]] Passage à {{dunité|2|2|voies}}.
+** {{Aire de repos|de Téteghem Sud|Paris-Ghyvelde}}
+* {{Sortie|63 Téteghem}} à {{unité|302|km}} ''(demi-échangeur, depuis et vers Paris)'' : [[Téteghem-Coudekerque-Village|Téteghem]], [[Leffrinckoucke]], [[Zuydcoote]], Dunkerque
+* {{Sortie|64 Leffrinckoucke}} à {{unité|304|km}} ''(demi-échangeur, depuis et vers Ghyvelde)'' : Téteghem, Leffrinckoucke, Zuydcoote
+* {{Sortie|65 Ghyvelde}} à {{unité|310|km}} : [[Steenvoorde]], [[Hondschoote]], [[Bray-Dunes]], [[Ghyvelde]], [[Les Moëres]]
+** {{Aire de repos|de Ghyvelde|Paris-Ghyvelde|des Moëres|Ghyvelde-Paris}}
+* [[Fichier:France_road_sign_C208.svg|22px]] Fin de l'autoroute A16 
+'''{{France}} - {{Belgique}}''', [[Frontière entre la Belgique et la France|Frontière franco-belge]] à {{unité|312|km}}
+* [[Fichier:Traffic sign of border with Belgium.svg|25px]] Entrée sur le territoire [[Belgique|belge]] : [[Fichier:Belgian traffic sign F5.svg|16px]] L'[[Autoroute A18 (Belgique)|autoroute belge A18]] en direction de : [[Ville de Bruxelles|Bruxelles (Brussel)]], [[Bruges|Bruges (Brugge)]], [[Ostende|Ostende (Oostende)]], [[La Panne|La Panne (De Panne)]], [[Furnes|Furnes (Veurne)]], [[Adinkerque|Adinkerque (Adinkerke)]]
+
+== Lieux sensibles ==
+Les viaducs d'[[Viaduc d'Echinghen|Echinghen]], d'Herquelingue et de Quéhen près de [[Boulogne-sur-Mer]] et celui du [[viaduc du Scardon|Scardon]] près d'[[Abbeville]] sont exposés à de forts [[vent]]s de travers. Celui d'Echinghen est le plus exposé et peut être interdit aux caravanes, voire fermé à toute circulation en cas de forte [[tempête]].
+
+Si la circulation est habituellement fluide sur toute sa longueur, quelques [[Embouteillage (route)|embouteillages]] peuvent se produire aux heures de pointe sur les quelques kilomètres en Île-de-France, au niveau de la {{nobr|sortie 31}} vers Boulogne-Est (liaison avec la {{nobr|RN 42}}) ainsi qu'aux {{nobr|sorties 41}}, 42 et 43 vers [[Calais]] et le [[tunnel sous la Manche]]. Autour des trois grands ports, l'autoroute, qui s'est vite révélée être un lieu stratégique et médiatique de manifestations, est souvent bloquée ou ralentie lors des mouvements sociaux<ref>{{Article |auteur1=Christian Canivez |titre=A16, heurs et malheurs d’une autoroute pas comme les autres |périodique=[[La Voix du Nord]] |date=19-08-2017 |lire en ligne=http://www.lavoixdunord.fr/206334/article/2017-08-19/a16-heurs-et-malheurs-d-une-autoroute-pas-comme-les-autres |accès url=payant}}.</ref>.
+
+Depuis [[2008]], des [[Crise migratoire en Europe|migrants]] tentent de grimper sur les [[poids lourd]]s à destination du [[Royaume-Uni]], obligeant à la fermeture de quatre aires de repos dans le Dunkerquois : 
+* en 2008, l'aire de Saint-Georges-sur-l'Aa ;
+* en 2009, l'aire de Téteghem Nord et celle des Moëres ;
+* en 2016, l'aire du Beau-Marais, dont les accès sont bloqués depuis le {{date|27|juin|}} par des barrières de sécurité<ref>{{Lien web |auteur1=M. GO |titre=Migrants de Calais : sur l’autoroute A16, l’aire du Beau-Marais est désormais fermée |url=http://www.lavoixdunord.fr/region/migrants-de-calais-sur-l-autoroute-a16-l-aire-du-ia33b48599n3645510 |accès url=payant |site=[[La Voix du Nord]] |date=article du 22 juillet 2016 |consulté le=2016-08-08}}.</ref>.
+
+L'aire de [[Grande-Synthe]] reste ouverte sous surveillance policière. Il en est de même pour l'aire de Saint-Laurent, près de [[Steenvoorde]]<ref>[http://www.lavoixdunord.fr/region/autoroute-a16-ces-aires-de-repos-du-dunkerquois-condamnees-ia17b47588n2405113 Autoroute A16 : ces aires de repos du Dunkerquois condamnées], article du 28 septembre 2014, sur ''lavoixdunord.fr'', consulté le 30 janvier 2016.</ref>.
+
+== Éclairage ==
+Cette autoroute était initialement fortement éclairée, avec même un éclairage renforcé dans les courbes. Sur une grande partie du parcours, l'éclairage s'est finalement montré sans effet sur la [[Prévention et sécurité routières|sécurité routière]], voire localement [[Accidentologie des transports|accidentogène]], probablement parce qu'il diminuait la [[vigilance]] des conducteurs qui augmentaient leur vitesse, ce qui accroissait la gravité des accidents. Le laboratoire d'anthropologie appliquée de Paris, de l'[[Université Paris-Descartes]] a montré en 2001 une {{Citation|dissociation entre la pénibilité, qui varie peu, et les niveaux de fatigue et de [[Sommeil#Somnolence|somnolence]], qui augmentent}} ; {{Citation|Pour ce qui concerne l'amélioration de la sécurité et l'aide au maintien de la vigilance, l'éclairage continu ne parait pas plus réaliste que l'obscurité continue}} concluaient également les auteurs<ref name=ConcertoDRE07>{{pdf}} [http://www.astrosurf.com/anpcn/documents/A16_rapport_complet.pdf « A 16, Étude de sécurité comparative sur les autoroutes de rase campagne du Nord-Pas-de Calais, avec ou sans éclairage »], du 15 janvier 2007, basée sur les chiffres du logiciel « Concerto », alimenté par les forces de l'ordre.</ref>.
+
+En [[2006]], l'éclairage de l'A16 est supprimé ; il sera rétabli en {{date|octobre 2016}}, près du tunnel sous la Manche<ref>{{Lien web |titre=Migrants à Calais : l'éclairage de retour sur l'autoroute A16 |url=https://france3-regions.francetvinfo.fr/hauts-de-france/nord-pas-calais/pas-calais/calais/migrants-calais-eclairage-retour-autoroute-a16-1106003.html |site=France 3 Hauts-de-France |date=2016-10-11 |consulté le=2023-06-02}}.</ref>.
+
+En [[2007]], une étude française d'[[Accidentologie des transports|accidentologie]] comparative reposant sur onze ans de statistiques d'accidents a comparé l'A16 dans le Nord-Pas-de-Calais<ref name=ConcertoDRE07 />, avec d'autres autoroutes régionales ou voies à configuration autoroutière. Cette étude a conclu au vu des statistiques d'accident qu'en plaine, toutes choses égales par ailleurs, l'éclairage des autoroutes (ou voies rapides) n'améliorait pas la sécurité que ce soit du point de vue du nombre d'accidents ou de la gravité des accidents. Après une phase test de coupure des [[Réverbère|lampadaire]]s disposés sur les sections les moins dangereuses de l'autoroute qui n'a pas montré d'augmentation du nombre des accidents, au contraire, l'administration des routes a conclu que pour l'A16 {{Citation|l'amélioration de la sécurité routière par l'éclairage n'étant pas établie, il parait raisonnable de maintenir la coupure de l'éclairage entre Boulogne et la frontière belge pour les sections en rase campagne}}. Par la même occasion, des économies d'énergie ont pu être faites, de même que des progrès en ce qui concerne la [[pollution lumineuse]], le coût de fonctionnement et de maintenance (de 600 à {{Unité|900000|euros}} par an, rien que pour la maintenance de l'éclairage).
+
+Pour améliorer la sécurité et le confort de conduite, la DIR Nord a cependant une politique de renouvellement accru de la signalisation horizontale pour aider les automobilistes à mieux percevoir le tracé de l'autoroute la nuit<ref name=ConcertoDRE07 />.
+
+La DIR prévoit cependant de rétablir l'éclairage à proximité de Calais pour apporter plus de sécurité en raison des passages de migrants sur l'autoroute. Des travaux vont avoir lieu courant 2016<ref>{{Article |auteur1=Jean-Philippe Delattre |titre=Pression migratoire : l’éclairage de l'A16 de retour en 2016, entre Coquelles et Calais-Saint-Pierre |périodique=[[La Voix du Nord]] |date=09-12-2015 |lire en ligne=http://www.lavoixdunord.fr/region/pression-migratoire-l-eclairage-de-l-a16-de-retour-ia33b48581n3200615 |accès url=payant}}.</ref>. L'éclairage est rétabli à proximité du tunnel sous la Manche depuis {{date|décembre 2016}}<ref>[http://www.lasemainedansleboulonnais.fr/fait-divers/l-a16-retrouve-son-eclairage-enfin-sur-une-petite-portion-ia680b0n191750 L'A16 retrouve son éclairage (enfin sur une petite portion)] dans ''[[La Semaine dans le Boulonnais]]'', le 9 décembre 2016</ref>. L'éclairage est totalement fonctionnel entre [[Coquelles]] et [[Marck]]-est, soit sur une portion de {{Unité|15 kilomètres}}<ref>{{Lien web |auteur=Florent Caffery |titre=Et la lumière fut (de retour) sur l’A16 |url=http://www.nordlittoral.fr/120417/article/2019-03-03/et-la-lumiere-fut-de-retour-sur-l-a16 |accès url=payant |site=[[Nord Littoral|nordlittoral.fr]] |date=3 mars 2019 |consulté le=26 mars 2019}}.</ref>.
+
+== Références ==
+{{Références}}
+
+== Voir aussi ==
+{{Autres projets|commons=Category:A16 autoroute|commons titre=L'autoroute A16}}
+=== Bibliographie ===
+* Pierre-Louis Carlier, ''Les viaducs du Boulonnais - A16'', {{p.|63-65}}, dans ''Formes et structures'', {{n°|127}}, 1998 {{ISSN|1140-5597}}
+
+=== Articles connexes ===
+* [[Liste des autoroutes de France]]
+* [[Route nationale 1 (France métropolitaine)|Route nationale 1 (France)]]
+
+=== Liens externes ===
+<!-- * [http://saratlas.free.fr/index.php?page=autoroute&route=a16&lang=fr Autoroute A16 dans Saratlas] -->
+* [http://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A16 Article de l'A16 sur WikiSara]
+* {{Lien web |titre=Le prolongement de l'autoroute A16 de L'Isle-Adam à la Francilienne |url=http://www.prolongement-a16.sanef.com/ |site=sanef.com |brisé le=22 octobre 2026 |archive-url=https://web.archive.org/web/20200103094457/https://www.prolongement-a16.sanef.com/ |archive-date=3 janvier 2020}}
+
+{{Palette|Autoroutes de France}}
+{{Portail|Transports en Île-de-France|Picardie|Nord-Pas-de-Calais|route}}
+
+[[Catégorie:Autoroute en Île-de-France|016]]
+[[Catégorie:Autoroute dans les Hauts-de-France|016]]

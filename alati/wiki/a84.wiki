@@ -1,0 +1,190 @@
+{{Homonyme|A84}}
+{{Infobox Route/France
+ | statut             = A
+ | numéro             = 84
+ | autres_noms        = Autoroute des estuaires
+ | image              = Entrée A 84 Caen.JPG
+ | légende            = Entrée de l'autoroute A84 à [[Verson]],{{-}} en direction de Rennes.
+ | carte              = Autoroute 84.png
+ | longueur           = 170
+ | direction          = sud-ouest/nord-est
+ | dir1               = sud-ouest
+ | dir2               = nord-est
+ | ville1             = {{Route européenne|3}} {{Route nationale|136}} à [[Rennes]]
+ | ville2             = {{Route européenne|401}} {{Route nationale|814}} à [[Caen]]
+ | villes_principales = 
+ | intersections      = {{Route européenne|401}} {{Route nationale|175}} à [[Poilley (Manche)|Poilley]] et à [[Ponts (Manche)|Ponts]]
+ | ouverture          = [[2003]]
+ | réseau             = Autoroute française, également {{Route européenne|3}} {{Route européenne|401}}
+ | gestionnaire       = [[Direction_interdépartementale_des_Routes#Direction_interdépartementale_des_Routes_Nord-Ouest|DIR Nord-Ouest]] (entre Caen et Coglès)<br/>[[Direction_interdépartementale_des_Routes#Direction_interdépartementale_des_Routes_Ouest|DIR Ouest]] (entre Coglès et Rennes)
+ | régions            = [[Bretagne (région administrative)|Bretagne]], [[Normandie (région administrative)|Normandie]]
+ | départements       = [[Ille-et-Vilaine]], [[Manche (département)|Manche]], [[Calvados (département)|Calvados]]
+ | nb_reg             = 2
+ | nb_dep             = 3
+ | nom_notes          = 
+}}
+L''''autoroute A84''' est une [[autoroute]] qui relie [[Rennes]] à [[Caen]]. Elle est appelée communément l'[[Route des Estuaires|autoroute des Estuaires]], puisque faisant partie du projet autoroutier autoroute des Estuaires (de la [[Belgique]] à l'[[Espagne]] sans passer par [[Paris]], ni quitter l'autoroute<ref>Sauf à [[Avranches]] et entre [[Rennes]] et [[Nantes]] où la route est sous-forme de voie rapide</ref>). C'est également une portion de la [[route européenne 401]], et la seule autoroute située en [[Bretagne (région administrative)|Bretagne]] administrative. Elle a été mise en service le {{Date|27|janvier|2003}}. Elle a la particularité de ne croiser aucune autre autoroute.
+
+== Caractéristiques ==
+* {{dunité|2|2|voies}}
+* {{unité|170|kilomètres}} de longueur
+* Coût total : {{euro|650000000}} (en 2002)
+* {{unité|3|radars}} automatiques 
+* Aires de service et repos
+**l'aire du mont Saint-Michel (station [[Total (entreprise)|Total]]), [[Saint-Aubin-de-Terregatte]]
+**l'aire de la Baie, [[Braffais]]
+**l'aire de la vallée de la Vire (station [[Shell (entreprise)|Shell]]), [[Gouvets]]
+**l'aire de Cahagnes, [[Cahagnes]]
+**l'aire de Saint-Jean des Essartiers, [[Saint-Jean-des-Essartiers]]
+
+L’autoroute est gratuite sur toute sa longueur. Les différents gouvernements ont étudié une mise en concession de cette autoroute, mais les autorités régionales bretonnes et normandes ont convaincu les pouvoirs publics de construire et de gérer cette autoroute sur des fonds publics.
+
+Plusieurs services gèrent l'autoroute A84 : 
+* le Peloton d'Autoroute de [[Fougères]] de la [[Gendarmerie|Gendarmerie nationale]],
+* le Peloton d'Autoroute d'[[Avranches]] de la Gendarmerie nationale,
+* le Peloton d'autoroute de [[Saint-Martin-des-Besaces]] de la Gendarmerie nationale
+* les centres d'entretien et d'intervention de la DIRNO (Direction des routes nord-ouest) de [[Poilley (Manche)|Poilley]] et [[Fleury (Manche)|Fleury]], [[Ducey]] (Manche) et [[Saint-Aubin-du-Cormier]] (Ille-et-Vilaine), [[Villers-Bocage (Calvados)|Villers-Bocage]] (Calvados).
+* les centres des sapeurs pompiers locaux d'[[Avranches]], [[Villedieu-les-Poêles]], [[Saint-James]], [[Torigni-sur-Vire]], [[Maen Roch]], [[Fougères]] et [[Saint-Martin-des-Besaces]]
+* les dépanneurs VL et PL agréés par la Préfecture.
+
+Entre [[Verson]] et [[Tournay-sur-Odon]], l'autoroute reprend l'emprise de l'ancienne ligne de [[chemin de fer]] [[ligne de Caen à Vire|de Caen à Vire]].
+
+==Chronologie==
+* {{date|4|04|1968}} : le [[Comité interministériel d'aménagement et de développement du territoire|comité interministériel d'aménagement du territoire]] décide de désenclaver [[Bretagne (région administrative)|la Bretagne]] en créant notamment une voie rapide entre [[Brest]] et [[Caen]]<ref>{{article|titre=Aménagement du territoire|sous-titre=Importantes décisions pour les zones rurales|périodique=[[Ouest-France]], édition de Rennes|année=1968|mois=avril|jour=05}}</ref>
+* [[1969]] : aménagement du contournement d'[[Avranches]]<ref>{{article|titre=L'axe Caen-Brest à quatre voies : premiers chantiers dans la Manche|périodique=[[Ouest-France]], édition de Caen|année=1969|mois=juillet|jour=03}}</ref>
+* [[1979]] : Décision ministérielle d'aménager l'itinéraire Caen - Avranches en {{dunité|2|2|voies}}
+* {{date-|9|décembre|1986}} : ouverture d'une portion de 6,6 km entre [[Bretteville-sur-Odon]] et [[Grainville-sur-Odon]]<ref>{{article|titre=Routes des estuaires, 6,6 km de deux fois deux voies inaugurés par M. Méhaignerie|périodique=[[Ouest-France]], édition de Caen|année=1986|mois=décembre|jour=10}}</ref>
+* [[1987]] : Décision du [[Comité interministériel pour l'aménagement du territoire]] (CIAT) de relier Caen à Rennes et Nantes par une [[liaison assurant la continuité du réseau autoroutier]] (LACRA).
+* [[1994]] : Les liaisons Caen–Avranches et Avranches—Rennes sont déclarées d'utilité publique.
+* {{date-|17|11|1995}} : début des travaux avec le pont de [[Pontaubault]]<ref>{{article|titre=Premiers chantiers de l'autoroute des estuaires|périodique=[[Ouest-France]], édition de Saint-Lô|année=1995|mois=novembre|jour=17}}</ref>
+* {{date-|20|11|1995}} : début des travaux du pont de  [[Saint-Étienne-en-Coglès]]<ref>{{article|titre=Le chantier de la voie express a démarré près de Fougères|sous-titre=Routes des estuaires : premier pont|périodique=[[Ouest-France]], édition de Rennes |année=1995|mois=novembre|jour=21}}</ref>
+* {{date-|29|mars|1999}} : ouverture de la section [[Saint-Aubin-du-Cormier]] - Avranches<ref>{{article|titre=L'autoroute des estuaires reliera Dunkerque à Biarritz|sous-titre=La nouvelle liaison prend tournure. Demain, une nouvelle section entre l'Ille-et-Vilaine et la Manche sera inaugurée|périodique=[[Ouest-France]] dimanche|année=1999|mois=mars|jour=28}}</ref>
+* {{date|27 janvier 2003}} : Inauguration du dernier tronçon de l'A84 (sauf contournement d'Avranches).
+* [[2014]] : Abandon du projet de contournement autoroutier Est d'Avranches
+
+== Particularités ==
+Dotée d'un [[enrobé drainant]], l'A84 devient difficilement praticable en cas de [[verglas]] tenace ou de neige verglaçante, particulièrement dans le secteur de [[Pont-Farcy]]. Dans ces conditions, le salage n'a que très peu d'effet : le revêtement poreux de cette autoroute permet l'infiltration de l'eau liquide puis son passage sous la chaussée. L'eau est ensuite drainée et évacuée sur le bas-côté. Le problème est que pendant l'hiver, la saumure (sel un peu hydraté) liquéfie la glace et la neige qui s'évacuent par les pores du bitume si bien qu'une fois que la neige est fondue, elle est évacuée avec la saumure. Des parcours de substitution sont mis en place pour permettre aux véhicules de circuler. Pour la même raison, il n'est pas rare de voir l'autoroute interdite de circulation aux [[poids lourd]]s seulement<ref name="rapport-ponts-chaussée">{{Article|auteur1=|prénom1=Michèle|nom1=Joigny|prénom2=Régis|nom2=Rioufol|titre=Les difficultés de viabilité hivernale sur l'autoroute A84 mettant en cause le revêtement de chaussée en enrobé drainant|périodique=Conseil général des ponts et chaussées|date=juin 2007|lire en ligne=https://igedd.documentation.developpement-durable.gouv.fr/notice?id=Affaires-0004685}}</ref>.
+
+==Projets abandonnés d'extensions==
+L'A84 est interrompue au niveau d'[[Avranches]]. Le contournement par l'ouest d'Avranches, par la [[Route nationale 175|RN 175]] à deux fois deux voies, a des caractéristiques géométriques qui ne permettent pas la mise aux caractéristiques et statut autoroutiers. Un contournement autoroutier Est par l'A84 était donc prévu à terme. L'État achète {{unité|60|hectares}} de terrain et détruit quatre maisons se trouvant sur l'itinéraire<ref>{{Lien web |auteur1=La Manche Libre |titre=La déviation Est d’Avranches est-elle vitale pour le sud-Manche ? |url=https://www.lamanchelibre.fr/actualite-29246-la-deviation-est-d-avranches-est-elle-vitale-pour-le-sud-manche |site=lamanchelibre.fr |date=13-10-2011 |consulté le=01-08-2020}}.</ref>. Néanmoins, les travaux ne seront jamais lancés et la déclaration d'utilité publique prenant fin le {{date-|4 août 2014}}, le projet de contournement autoroutier Est d'Avranches est définitivement abandonné. Les terrains sont toujours propriétés de l'État. 
+
+Elle devait également être prolongée jusqu'à [[Nantes]] par mise au statut autoroutier de la [[Route nationale 137|RN 137]] ([[Rennes]]-[[Nantes]]) mais ce projet est abandonné en 2014<ref>[http://www.letelegramme.fr/bretagne/a81-et-a82-projet-abandonne-13-10-2014-10383075.php "A81 et A82 abandonnées"], ''[[Le Télégramme]]'', 13 octobre 2014</ref>.
+
+En outre au niveau de Rennes, la construction du {{citation|contournement sud-est}} devait permettre d'éviter la [[Rocade de Rennes|Rocade-sud de Rennes]] sur cet itinéraire. Ce projet a néanmoins été enterré en 2015<ref>{{Lien web |langue=fr |titre=L’autoroute au sud-est de l'agglomération enterrée |url=https://www.ouest-france.fr/bretagne/rennes-35000/rennes-lautoroute-au-sud-est-de-lagglomeration-enterree-3579775 |site=Ouest-France |date=24/07/2015}}</ref>.
+
+==Départements traversés==
+L'autoroute A84 traverse la Bretagne et la Normandie dont 3 départements.
+
+La liste suivante répertorie les villes desservies et sites visitables à proximité de l'autoroute.
+;[[Ille-et-Vilaine]]
+* Rennes
+* [[Liffré]]
+* [[Saint-Aubin-du-Cormier]]
+* [[Fougères]]
+* [[Maen Roch]]
+;
+;[[Manche (département)|Manche]]
+* [[Le Mont-Saint-Michel|Mont Saint-Michel]]
+* [[Saint-James]] (Sortie 32)
+* [[Avranches]]
+* [[Villedieu-les-Poêles]]
+;[[Calvados (département)|Calvados]]
+* [[Villers-Bocage (Calvados)|Villers-Bocage]] et [[Aunay-sur-Odon]] (Sortie 43)
+* [[Caen]] au niveau de la sortie {{n°|9}} du [[Boulevard périphérique de Caen|périphérique de Caen]]
+
+==Routes européennes==
+
+L’A84 est aussi [[Route européenne 3|E3]] de {{Sortie|24}} [[Rennes]] jusqu'à {{Sortie|40}} échangeur A84/[[Route nationale 174|RN 174]].
+
+Elle est aussi [[Route européenne 401|E401]] sur la section suivante : de {{Sortie|33}} Pontaubault jusqu'au Périphérique de Caen.
+
+== Tracé ==
+[[Image:Autoroute A84 - plan.png|vignette|250px|Tracé de l'A84.]]
+'''Section non-concédée à [[Direction_interdépartementale_des_Routes#Direction_interdépartementale_des_Routes_Ouest|DIR Ouest]] et gratuite.'''
+* '''{{échangeur autoroutier|[[Fichier:SU4 - Rocade France.svg|22x22px]] [[Rocade de Rennes|Périphérique de Rennes]]|A84}}''' : 
+** ''Rocade Nord'' : [[Rennes]] - ''centre'', [[Brest]], [[Lorient]], [[Saint-Malo]]
+** ''Rocade Est'' : [[Le Mans]], [[Nantes]], [[Thorigné-Fouillard]]
+** [[Fichier:France road sign C207.svg|24x24px]] [[Fichier:Panneau-C24a-2.svg|22x22px]] [[Fichier:France road sign B14 (90).svg|22x22px]] Début de l'autoroute, début de {{dunité|2|2|voies}} et limitation à {{unité|90|km/h}}. ''(Début de portion en Périphérie de Rennes).''
+** [[Fichier:Panneau-C24a.svg|22x22px]] [[Fichier:France road sign B14 (110).svg|22x22px]] Passage à {{dunité|2|3|voies}} ''(sens Rennes - Caen)'' et limitation à {{unité|110|km/h}}.
+** [[Fichier:France_road_sign_C28-2.svg|20x20px]] Réduction à {{dunité|2|2|voies}}. ''(sens Rennes - Caen)''
+* {{Sortie|25 Thorigné-Fouillard}} à {{unité|2|km}} ''(demi-échangeur, depuis et vers Caen)'' : [[Thorigné-Fouillard]]
+** [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à {{unité|130|km/h}}. ''(Fin de portion en périphérie de Rennes).''
+* {{Sortie|26 Liffré - ''sud''}} à {{unité|7|km}} : [[La Bouëxière]], [[Saint-Sulpice-la-Forêt]], [[Liffré]] - ''centre''
+* {{Sortie|27 Liffré - ''nord''}} à {{unité|10|km}} : [[Ercé-près-Liffré]], [[Gosné]], Liffré - ''centre, Beaugé''
+* {{Sortie|28 Saint-Aubin-du-Cormier}} à {{unité|18|km}} : [[Combourg]], [[Vitré (Ille-et-Vilaine)|Vitré]], [[Gosné]], [[Saint-Aubin-du-Cormier]]
+** {{Aire de repos|de La Chaîne|Rennes - Caen|de La Lande|Caen - Rennes}} 
+* {{Sortie|29 Romagné}} à {{unité|30|km}} : [[Alençon]], [[Fougères]], Vitré, [[Saint-Sauveur-des-Landes]], [[Romagné]]
+* {{Sortie|30 ''Saint-Étienne-en-Coglès''}} à {{unité|37|km}} : [[Le Mont-Saint-Michel]], [[Antrain]], [[Maen Roch]], [[Saint-Germain-en-Coglès]]
+** {{Aire de repos|du Coglais-Est|Rennes - Caen|du Coglais-Ouest|Caen - Rennes}} 
+* {{Sortie|31 ''Coglès''}} à {{unité|44|km}} : [[Louvigné-du-Désert]], Antrain, [[Les Portes du Coglais]]
+''Passage de la région [[Bretagne (région administrative)|Bretagne]] à la région [[Normandie (région administrative)|Normandie]].<br /> Passage du département d'[[Ille-et-Vilaine]] à celui de la [[Manche (département)|Manche]].''<br>
+'''Section non-concédée à [[Direction_interdépartementale_des_Routes#Direction_interdépartementale_des_Routes_Nord-Ouest|DIR Nord-Ouest]] et gratuite.'''
+* {{Sortie|32 Saint-James}} à {{unité|52|km}} : [[Pontorson]], [[Saint-James]]
+** {{Aire de service|du Mont-Saint-Michel}}
+* {{Sortie|33 Ducey}} à {{unité|63|km}} : Alençon, Le Mont-Saint-Michel, [[Saint-Hilaire-du-Harcouët]], [[Ducey-Les Chéris]]
+* {{Sortie|34 Poilley}} '''({{échangeur autoroutier|[[Route nationale 175|RN 175]]|A84}})''' ''(demi-échangeur, depuis et vers Caen)'' : [[Saint-Brieuc]], [[Saint-Malo]], Le Mont-Saint-Michel, Pontorson
+** [[Fichier:France_road_sign_C208.svg|22x22px]] [[Fichier:France_road_sign_C107.svg|22x22px]] [[Fichier:France road sign B14 (110).svg|22x22px]] L'Autoroute A84 devient la [[Route nationale 175|Route Nationale N175]] en route à accès réglementée et limitation à {{unité|110|km/h}}.
+* {{Sortie|''Cromel'' (RD 103 - RD 43<sup>E2</sup>)}} à {{unité|66|km}} : [[Avranches]] - ''centre'', [[Saint-Quentin-sur-le-Homme]], [[Pontaubault]], [[Le Val-Saint-Père]], ''[[File:France road sign ID35.svg|15px|alt]] Z. A. Cromel'', ''[[File:France road sign ID36.svg|15px|alt]] Avranches - Saint-Martin''
+* {{Sortie|''La Croix Verte'' (RD 456)}} à {{unité|69|km}} : Avranches - ''Jardin des Plantes'', Le Val-Saint-Père, ''Le Gué de l'Épine'', ''[[File:France road sign ID2.svg|15px|alt]] [[Aérodrome d'Avranches - Le Val-Saint-Père|Avranches - Le Val-Saint-Père]]'' 
+* {{Sortie|La Porrionais Moncreton ([[Route nationale 173|RD 973]])}} à {{unité|72|km}} ''(trois-quarts-échangeurs, pas accessible vers Caen)'' : [[Granville]], [[Jullouville]], Avranches - ''centre, Gare SNCF''
+* {{Sortie|Avranches - ''Hôpital'' (RD 31)}} à {{unité|74|km}} ''(quart-échangeur, depuis Rennes)'' : ''[[File:France road sign ID3.svg|15px|alt]] Centre Hospitalier''
+* {{Sortie|Aubigny Maudon (RD 7)}} à {{unité|74.5|km}} : [[Coutances]], [[La Haye-Pesnel]], [[Ponts (Manche)|Ponts]], Avranches, ''[[File:France road sign ID3.svg|15px|alt]] Centre Hospitalier''
+* {{Sortie|36 Ponts}} à {{unité|75|km}} : [[Brécey]], [[Villedieu-les-Poêles-Rouffigny]], [[Granville]], [[Sartilly-Baie-Bocage]]
+** [[Fichier:France_road_sign_C108.svg|22x22px]] [[Fichier:France_road_sign_C207.svg|22x22px]] [[Fichier:France road sign B14 (130).svg|22x22px]] La Route Nationale N175 redevient l'Autoroute A84 et limitation à {{unité|130|km/h}}.
+** {{Aire de repos|de la Baie}} 
+* {{Sortie|37 Villedieu-les-Poêles - ''est''}} à {{unité|92|km}} : [[Coutances]], Granville, [[Gavray-sur-Sienne]], Villedieu-les-Poêles-Rouffigny
+** [[Fichier:Panneau-C24a.svg|20x20px]] Passage à {{dunité|2|3|voies}}. ''(sens Rennes - Caen)''
+* {{Sortie|38 Villedieu-les-Poêles - ''nord''}} à {{unité|96|km}} : [[Vire Normandie]], [[Brécey]], [[Percy-en-Normandie]], Villedieu-les-Poêles, Avranches
+** [[Fichier:France_road_sign_C28-2.svg|20x20px]] Réduction à {{dunité|2|2|voies}}. ''(sens Rennes - Caen)''
+** {{Aire de service|de la Vallée de la Vire Gouvets}}
+** [[Fichier:Panneau-C24a-2.svg|22x22px]] + 1 réservés aux véhicules lents.
+** [[Fichier:France road sign A1a.svg|23x23px]] [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à {{unité|110|km/h}} sur {{unité|6|km}}, virages dangereux successifs.
+* {{Sortie|39 Tessy-Bocage}} à {{unité|112|km}} : [[Tessy-Bocage]]
+** [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à {{unité|130|km/h}}. Fin de la section aux virages dangereux successifs.
+* {{Sortie|40 Torigny-les-Villes}} à {{unité|119|km}} : [[Cherbourg-en-Cotentin]], [[Saint-Lô]], Coutances, [[Torigny-les-Villes]]
+''Passage du département de la Manche à celui du [[Calvados (département)|Calvados]].''
+* {{Sortie|41 Saint-Martin-des-Besaces}} à {{unité|130|km}} : [[Caumont-sur-Aure]], [[Saint-Martin-des-Besaces]]
+** {{Aire de repos|de Saint-Jean des Essartiers|Caen - Rennes|de Cahagnes|Rennes - Caen}}
+* {{Sortie|42 Coulvain}} à {{unité|139|km}} : Vire Normandie, Caumont-sur-Aure, [[Dialan sur Chaîne]]
+* {{Sortie|43 Villers-Bocage - ''ouest''}} à {{unité|144|km}} : [[Les Monts d'Aunay]], [[Villers-Bocage (Calvados)|Villers-Bocage]], [[Bayeux]]
+* {{Sortie|44 Villers-Bocage - ''nord''}} à {{unité|147|km}} ''(demi-échangeur, depuis et vers Caen)'' : Bayeux, Villers-Bocage
+* {{Sortie|45 Monts-en-Bessin}} à {{unité|151|km}} : [[Évrecy]], [[Parfouru-sur-Odon]], [[Val d'Arry]], [[Monts-en-Bessin]]
+* {{Sortie|46 Val d'Arry}} à {{unité|153|km}} ''(trois-quarts-échangeurs, pas accessible vers Rennes)'' : [[Thue et Mue]], Val d'Arry
+* {{Sortie|47 Mondrainville}} à {{unité|159|km}} ''(demi-échangeur, depuis et vers Caen)'' : Évrecy, Thue et Mue, [[Mondrainville]], [[Grainville-sur-Odon]]
+* {{Sortie|48 Verson}} à {{unité|162|km}} : [[Saint-Manvieu-Norrey]], [[Verson]], ''[[File:France road sign ID35.svg|15px|alt]] Z. I. Verson''
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à {{unité|110|km/h}}.
+** [[Fichier:France_road_sign_C208.svg|22x22px]] [[Fichier:France road sign B14 (90).svg|22x22px]] Fin de l'autoroute à 400 m. Limitation à {{unité|90|km/h}}.
+* '''{{échangeur autoroutier|[[Fichier:SU4 - Rocade France.svg|22x22px]] [[Boulevard périphérique de Caen|Périphérique Sud]]|A84}}''' à {{unité|165|km}} : [[Paris]] ([[Autoroute A13 (France)|A13]]), [[Alençon]], [[Flers (Orne)|Flers]], [[Caen]] - ''centre''
+** [[Fichier:France_road_sign_C208.svg|22x22px]] Fin de l'autoroute A84.
+* '''{{Carrefour giratoire|'''{{sortie|9/9a/9b Porte de Bretagne ([[Périphérique de Caen]])}}'''|A84}}''' :
+** ''Périphérique Nord'' : Cherbourg-en-Cotentin, ''[[File:France road sign ID3.svg|15px|alt]] [[Centre hospitalier universitaire de Caen|C.H.U]]'', ''[[File:France road sign ID4.svg|15px|alt]] C.H.R'', ''[[File:France road sign ID13a.svg|15px|alt]] [[Ouistreham]] - Car-Ferry'', [[Carpiquet]]
+** ''RD 675''  : [[Verson]], [[Fontaine-Étoupefour]], [[Évrecy]]
+** ''Route de Bretagne'' : [[Caen]] - ''Venoix'', [[Bretteville-sur-Odon]], ''[[File:France road sign ID2.svg|15px|alt]] [[aéroport de Caen-Carpiquet|Caen-Carpiquet]]'', ''Parc d'Attractions Festyland''
+
+== Radio-info trafic ==
+L'info trafic de l'A84 est donnée sur [[Ici Armorique]] (103.1) entre Rennes et Avranches et sur [[Ici Normandie (Caen)]] (102.6) entre Avranches et Caen (Zones approximatives de couverture des émetteurs).
+
+==Notes et références==
+<references />
+
+== Voir aussi ==
+{{Autres projets|commons=Category:A84 autoroute|commons titre=L'autoroute A84}}
+== Bibliographie ==
+* {{Ouvrage|auteur=Cyprien Desrez|titre=A84 - Autoroute des Estuaires Rennes-Caen|pages=184|date=2025}}
+=== Articles connexes ===
+* [[Liste des autoroutes de France]]
+* [[Route européenne 3]]
+* [[Route européenne 401]]
+
+=== Liens externes ===
+* {{Lien web |titre=L'A84 sur le site de la DDE 50 |url=https://web.archive.org/web/20081231044807/http://www.manche.equipement.gouv.fr:80/route/a84.html |site=equipement.gouv.fr via [[Internet Archive]] |consulté le= |archive-date=31 décembre 2008}}
+* [http://fr.structurae.de/projects/data/index.cfm?id=p00177 Structurae - Autoroute 84]
+* [http://saratlas.free.fr/index.php?page=autoroute&route=a84&lang=fr Autoroute A84 dans Saratlas]
+* [http://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A84 Article de l'A84 sur WikiSara]
+
+{{Palette Autoroutes de France}}
+{{Portail|route|Normandie|Bretagne|Caen|Rennes}}
+
+[[Catégorie:Autoroute en Bretagne|084]]
+[[Catégorie:Autoroute en Normandie|084]]
+[[Catégorie:Transport à Caen]]

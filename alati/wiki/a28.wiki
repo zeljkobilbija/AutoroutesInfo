@@ -1,0 +1,173 @@
+{{Voir homonymes|A28}}
+{{Infobox Route/France
+| statut = A
+| numéro = 28
+| nom = 
+| autres_noms = 
+| image = A28 Neufchâtel-en-Bray.jpg
+| légende = L'A28 au niveau de [[Neufchâtel-en-Bray]]
+| carte = France_A28.svg
+| longueur = 405
+| direction = nord / sud
+| dir1 = nord
+| dir2 = sud
+| ville1 = [[Abbeville]]
+| ville2 = {{route européenne|5}} {{Autoroute française|A10}} à [[Parçay-Meslay]]
+| villes_principales = [[Rouen]], [[Alençon]], [[Le Mans]], [[Tours]]
+| intersections = {{route européenne|402}} {{autoroute française|A16}} à [[Abbeville]]<br />{{route européenne|44}} {{autoroute française|A29}} à [[Neufchâtel-en-Bray]] et [[Saint-Saëns (Seine-Maritime)|Saint-Saëns]]<br />{{route européenne|5}} {{Route européenne|46}} {{route européenne|402}} {{Autoroute française|A13}} à [[Bourg-Achard]]<br />{{Autoroute française|A88}} à [[Sées]]<br />{{route européenne|50}} {{Autoroute française|A11}} à [[Saint-Saturnin (Sarthe)|Saint-Saturnin]] et à [[Yvré-l'Évêque]]
+| ouverture = Du 27 octobre 2005 au 14 décembre 2005
+| réseau = Autoroute française, également {{route européenne|44}} {{Route européenne|402}} et {{Route européenne|502}}
+| régions = [[Hauts-de-France]], [[Normandie (région administrative)|Normandie]], [[Pays de la Loire]], [[Centre-Val de Loire]]
+| départements = [[Somme (département)|Somme]], [[Seine-Maritime]], [[Eure (département)|Eure]], [[Calvados (département)|Calvados]], [[Orne (département)|Orne]], [[Sarthe (département)|Sarthe]], [[Indre-et-Loire]]
+| nb_reg = 4
+| nb_dep = 7
+| concessionnaire  = [[Alis (entreprise)|ALiS]] (entre Bourg-Achard et Alençon)<br/>[[Cofiroute]] (entre Alençon et Tours)
+| gestionnaire     = [[Direction interdépartementale des Routes#Direction interdépartementale des Routes Nord-Ouest|DIR Nord-Ouest]] (entre Abbeville et Rouen)
+| nom_notes = 
+}}
+L’'''autoroute A28''' est une autoroute française allant d’[[Abbeville]] ([[Autoroute A16 (France)|A16]]) à [[Tours]] ([[Autoroute A10 (France)|A10]]) en passant par [[Rouen]], [[Alençon]] et [[Le Mans]]. Elle est interrompue entre le nord de Rouen, où elle se raccorde à la [[Route nationale 28 (France)|N28]], et l'échangeur de [[Bourg-Achard]] sur l'[[Autoroute A13 (France)|A13]]. Au nord du Mans, elle se raccorde à l'[[Autoroute A11 (France)|A11]] à [[Saint-Saturnin (Sarthe)|Saint-Saturnin]] et reprend {{unité|10|km}} plus à l'est à [[Yvré-l'Évêque]]. La section entre l'[[Autoroute A29 (France)|A29]] ([[Neufchâtel-en-Bray]]) et l'A10 (Tours) est un élément de la liaison européenne nord-sud du [[grand contournement de Paris]], tandis que la section entre l'A16 (Abbeville) et l'A29 ([[Saint-Saëns (Seine-Maritime)|Saint-Saëns]]) fait partie de l’[[Route des Estuaires|autoroute des Estuaires]]. De ce fait, l'A28 améliore la desserte routière des ports du [[Le Havre|Havre]] et de Rouen.
+
+== Historique ==
+{{...}}
+Le tronçon entre [[Rouen]] et [[Tours]] est inscrit au Schéma directeur routier national en [[1987]]. 
+
+Elle est construite en plusieurs parties.
+
+D'[[Abbeville]] à Rouen, l'autoroute a été construite par l'État{{quand}}.
+
+Le tronçon entre [[Bourg-Achard]] sur l'[[Autoroute A13 (France)|autoroute A13]], au sud-ouest de Rouen,  et [[Alençon]] est la première portion d'autoroute française ouverte à un [[appel d'offres]] européen. Il a fait suite à l'abandon, en [[1998]] du projet proposé par la [[Société des autoroutes Paris-Normandie]] qui avait acquis, à l'origine, la concession en [[1995]]. Les travaux ont débuté en 2001. Inauguré le {{date|21 octobre 2005}} par le premier ministre [[Dominique de Villepin]], ce tronçon a été ouvert le {{Date|27|octobre|2005}}{{refnec}}.
+
+La construction de la portion reliant Alençon à Tours a longtemps été arrêtée au sud d'[[Écommoy]] à la suite de la découverte d'une espèce de [[scarabaeoidea|scarabées]] protégée par la [[Convention de Berne (protection de la vie sauvage)|Convention de Berne]] : ''Osmoderma eremita'' ou [[Pique-prune]] <ref>{{Article|langue=fr|auteur1=|titre=Le scarabée pique-prune met l'A28 en danger. L'espèce est protégée, le projet d'autoroute bloqué.|périodique=Libération.fr|date=1998-07-01|issn=|lire en ligne=https://www.liberation.fr/societe/1998/07/01/le-scarabee-pique-prune-met-l-a28-en-danger-l-espece-est-protegee-le-projet-d-autoroute-bloque_242823|consulté le=2018-09-18|pages=}}</ref>. Les travaux n'ont pu reprendre qu'en [[2004]]. Elle a été mise en service le {{Date|14|décembre|2005}}{{refnec}}.
+
+== Gestion ==
+D'[[Abbeville]] à [[Rouen]], l'autoroute est gérée par l'État ([[Ministère de l'Écologie (France)|ministère chargé des transports]]). Longue de {{unité|97|km}}, c'est une autoroute gratuite. Cette section est entretenue par la [[Direction interdépartementale des Routes|DIR Nord-Ouest]].
+
+De [[Rouen]] à [[Alençon]], l'autoroute est exploitée par [[Alis (entreprise)|ALiS]] (concessionnaire regroupant notamment [[Bouygues Construction|Bouygues TP]] et la [[Société des autoroutes du Nord et de l'Est de la France|SANEF]]). Elle a une longueur de {{unité|125|km}}. Il y a deux viaducs majeurs, tous deux non loin de la commune de [[Brionne]] et tous deux à une voie limitée à {{unité|90|km/h}} : le viaduc de la [[Risle]] et le viaduc du [[Ruisseau du Bec|Bec]]. 
+
+D'[[Alençon]] à l'[[Autoroute A10 (France)|A10]] ([[Tours]]), l'autoroute est exploitée par [[Cofiroute]]. Sur cette portion, l'A28 est couverte par [[Radio Vinci Autoroutes|Radio VINCI Autoroutes]] (107.7FM).
+
+== Son parcours ==
+* '''{{Carrefour giratoire|[[Route nationale 1 (France métropolitaine)|RD 1001]]|[[Route nationale 28 (France)|RD 928]]|A28}}''', au nord d'Abbeville :
+** RD 928 : [[Arras]], [[Crécy-en-Ponthieu]], [[Hesdin]]
+** RD 1001 : [[Boulogne-sur-Mer]], [[Berck (Pas-de-Calais)|Berck]], [[Rue]], [[Nouvion]], ''Stadium Automobile'', [[Abbeville]] - centre, ''Hippodrome''
+'''Section non-concédée gérée par la [[Direction interdépartementale des Routes#Direction interdépartementale des Routes Nord-Ouest|DIR Nord-Ouest]] et gratuite.'''<br>
+Début de la section Abbeville - Rouen<br>
+Début de la périphérie d'Abbeville.
+* [[Fichier:France road sign C207.svg|24x24px]] [[Fichier:Panneau-C24a-2.svg|22x22px]] [[Fichier:France road sign B14 (110).svg|22x22px]] Début de l'autoroute, début de {{dunité|2|2|voies}} et limitation à {{unité|110|km/h}}. 
+* '''{{échangeur autoroutier|[[Autoroute A16 (France)|A16]]|A28}}''' : Amiens, Paris, Berck, Boulogne-sur-Mer, [[Calais]]
+* {{Sortie|1 Baie de Somme}} à {{unité|1|km}} : [[Cayeux-sur-Mer]], [[Saint-Valery-sur-Somme]], [[Le Crotoy]], Abbeville - ''Menchecourt''
+* {{Sortie|2 Val de Somme}} à {{unité|4|km}} : [[Le Tréport]], [[Friville-Escarbotin]], Abbeville - ''Mautort''
+Fin de la périphérie d'Abbeville.
+* [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à 130 km/h.
+* {{Sortie|3 Monts Caubert}} à {{unité|10|km}} : [[Mareuil-Caubert]], [[Moyenneville (Somme)|Moyenneville]], Abbeville - ''Gare''
+** {{Aire de repos|de Béhen}}
+* {{Sortie|4 Le Vimeu}} à {{unité|18|km}} : [[Saint-Maxent]], [[Martainneville]], [[Tours-en-Vimeu]], [[Oisemont]], [[Friville-Escarbotin]]
+** {{Aire de service|du Translay}}
+''Passage de la région des [[Hauts-de-France]] à la région de [[Normandie (région administrative)|Normandie]].<br /> Passage du département de la [[Somme (département)|Somme]] à celui de la [[Seine-Maritime]].''
+* {{Sortie|5 Vallée de la Bresle}} à {{unité|29|km}} : Eu - Le Tréport, [[Beauvais]], [[Blangy-sur-Bresle]] - ''Z. I.'', [[Aumale (Seine-Maritime)|Aumale]], [[Gamaches]]
+* {{Sortie|6 L'Yère et la Haute Belloy}} à {{unité|47|km}} : [[Londinières]], [[Foucarmont]]
+** {{Aire de repos|du Bois du Coudroy}}
+* {{Sortie|7 Le Plateau de la Mare}} à {{unité|56|km}} ''(demi-échangeur, depuis et vers Abbeville)'' : [[Neufchâtel-en-Bray]] - ''nord''
+* '''{{échangeur autoroutier|[[Autoroute A29 (France)|A29 (Est)]]|A28}}''' à {{unité|56|km}} : Amiens, [[Reims]], [[Lille]]
+Début du tronc commun avec l'A29
+* {{Sortie|8 Portes du Pays de Bray}} à {{unité|58|km}} ''(demi-échangeur, depuis et vers Rouen)'' : Amiens, Neufchâtel-en-Bray - ''nord''
+* {{Sortie|9 Le Four Rouge}} à {{unité|63|km}} : Neufchâtel-en-Bray - ''sud, centre''
+* {{Sortie|10 Les Hayons}} à {{unité|68|km}} : [[Dieppe (Seine-Maritime)|Dieppe]], [[Forges-les-Eaux]], [[Saint-Saëns (Seine-Maritime)|Saint-Saëns]]
+** {{Aire de service|de Maucomble|Abbeville-Tours|de Bosc-Mesnil|Tours-Abbeville}}
+* {{Sortie|11 Saint-Saëns - Le Pucheuil}} à {{unité|66|km}} : [[Le Havre]], [[Fécamp]], [[Tôtes]], Saint-Saëns
+* '''{{échangeur autoroutier|A29 (Ouest)|A28}}''' à {{unité|66|km}} ''(depuis et vers Abbeville)'' : Le Havre, [[Caen]]
+Fin du tronc commun avec l'A29
+* {{Sortie|12 Le Moulin d'Ecalles}} à {{unité|87|km}} : [[Buchy (Seine-Maritime)|Buchy]], [[Montville]], [[Forges-les-Eaux]]
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à {{unité|110|km/h}} avant fin de l'autoroute à 8,5 km.
+** {{Aire de repos|de Quincampoix}}
+Fin de la section Abbeville - Rouen.<br>
+Début de la Traversée de Rouen.
+* [[Fichier:France_road_sign_C208.svg|22px]] [[Fichier:France_road_sign_C107.svg|22x22px]] Fin de l'autoroute A28, et devient la [[Route nationale 28 (France)|Route nationale RN 28]] (continue ensuite par les [[Route nationale 338|RN 338]], [[Route nationale 138|RN 138]] et [[Autoroute A13 (France)|A13]] pour rejoindre l'A28 Sud.) (Contournement par l'A133 et l'A134 en projet.)
+* {{Sortie|13 Bois-Guillaume}} à {{unité|101|km}} : [[Isneauville]], [[Quincampoix]], [[Bois-Guillaume]], [[Mont-Saint-Aignan]], [[Maromme]], [[Fontaine-le-Bourg]]
+{{Article détaillé|Route nationale 28 (France)}}
+{{Article détaillé|Route nationale 338}}
+{{Article détaillé|Route nationale 138}}
+{{Article détaillé|Autoroute A13 (France)}}
+'''Section concédée à [[Alis (entreprise)|ALIS]] et payante.''' (0,271 € par km pour 124,500 km en {{date|avril 2025}})<br>
+* '''{{échangeur autoroutier|[[Autoroute A13 (France)|A13]]|A28}}''' : Paris, Rouen, Calais, [[Nantes]], Caen, [[Lisieux]], Le Havre, Fécamp
+Début de la section Bourg-Achard - Le Mans
+* [[Fichier:France road sign C207.svg|24x24px]] [[Fichier:Panneau-C24a-2.svg|22x22px]] [[Fichier:France road sign B14 (90).svg|22x22px]] Début de l'autoroute A28, début de {{dunité|2|2|voies}} et limitation à {{unité|90|km/h}}.
+* {{Péage|Péage de Roumois (à système fermé)}}
+** [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à {{unité|130|km/h}}.
+* {{Sortie|13 Brionne}} à {{unité|152|km}} : [[Elbeuf]], [[Bourgtheroulde]], [[Le Neubourg]], [[Brionne]] + {{Aire de repos|du Domaine d'Harcourt}}
+* {{Sortie|14 Bernay}} à {{unité|173|km}} : [[Évreux]], Lisieux, Le Havre, [[Pont-Audemer]], Brionne, [[Bernay (Eure)|Bernay]] + {{Aire de repos|de Risle et Charentonne}}
+* {{Sortie|15 Orbec}} à {{unité|191|km}} : [[L'Aigle]], [[Orbec]], [[Broglie (Eure)|Broglie]]
+''Passage du département de l'[[Eure (département)|Eure]] à celui du [[Calvados (département)|Calvados]].''<br>
+''Passage du département du Calvados à celui de l'Eure.''<br>
+''Passage du département de l'Eure à celui de l'[[Orne (département)|Orne]].''
+* {{Aire de service|des Haras}}
+* {{Sortie|16 Gacé}} à {{unité|203|km}} : Lisieux, [[L'Aigle]], [[Vimoutiers]], [[Gacé]]
+** {{Aire de repos|des Sources de l'Orne}}
+* '''{{échangeur autoroutier|[[Autoroute A88 (France)|A88]]|A28}}''' à {{unité|222|km}} : Caen, [[Flers (Orne)|Flers]], [[Argentan]], [[Mortagne-au-Perche]], [[Sées]] - ''nord'', [[Falaise (Calvados)|Falaise]] 
+* {{Sortie|17 Sées}} : Sées - ''sud''
+* {{Sortie|18 Alençon - ''nord''}} à {{unité|242|km}} : [[Saint-Malo]], [[Dreux]], [[Alençon]] - ''centre'', Mortagne-au-Perche, [[Pré-en-Pail]] + {{Aire de service|de la Dentelle d'Alençon}}<br>
+'''Section concédée à [[Cofiroute]] et payante.'''<br>
+''Passage de la région de Normandie à celui de la région des [[Pays de la Loire]].<br /> Passage du département de l'Orne à celui du département de la [[Sarthe (département)|Sarthe]].''
+* {{Sortie|19 Alençon - ''sud''}} à {{unité|250|km}} : [[Le Mans]], Alençon - ''centre'', [[Arçonnay]], [[Mamers]]
+* {{Sortie|20 Mamers}} à {{unité|261|km}} : [[Sillé-le-Guillaume]], Mamers, [[Fresnay-sur-Sarthe]]
+** {{Aire de repos|Joël Boisgard|Abbeville-Tours|de La Suzannerie|Tours-Abbeville}}
+* {{Sortie|21 Beaumont-sur-Sarthe}} à {{unité|275|km}} : [[Ballon (Sarthe)|Ballon]], [[Beaumont-sur-Sarthe]]
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à {{unité|110|km/h}}.
+** [[Fichier:France road sign C28-3.svg|22x22px]] [[Fichier:France road sign B14 (90).svg|22x22px]] Réduction à 1 voie et limitation à {{unité|90|km/h}}.
+** [[Fichier:France road sign B14 (70).svg|22x22px]] Limitation à {{unité|70|km/h}} sur l'échangeur.
+* '''{{échangeur autoroutier|[[Autoroute A11 (France)|A11 (Ouest)]]|A28}}''' à {{unité|292|km}} : [[Rennes]] (A81), Nantes, Le Mans - ''Université'' + {{Sortie|22 Le Mans - ''Z. I. Nord''}} : Le Mans - ''centre'', [[Sillé-le-Guillaume]], [[Coulaines]]
+Fin de la section Bourg-Achard - Le Mans
+* [[Fichier:France road sign C208.svg|22x22px]] Fin de l'autoroute A28.
+
+* '''{{échangeur autoroutier|A11 (Est)|A28}}''' à {{unité|302|km}} : Paris, [[Chartres]]
+Début de la section Le Mans - Tours
+* [[Fichier:France road sign C207.svg|24x24px]] [[Fichier:Panneau-C24a-2.svg|22x22px]] [[Fichier:France road sign B14 (90).svg|22x22px]] Début de l'autoroute A28, début de {{dunité|2|2|voies}} et limitation à {{unité|90|km/h}}.
+* {{Sortie|23 Le Mans - ''Z. I. Sud''}} à {{unité|308|km}} : [[Orléans]], [[Blois]], Le Mans - ''centre'', [[Saint-Calais]]
+* {{Sortie|24 Parigné-l'Évêque}} à {{unité|315|km}} : [[Parigné-l'Évêque]]
+** {{Aire de repos|des Perrières|Abbeville-Tours|de Croiselles|Tours-Abbeville}}
+* {{Sortie|25 Écommoy}} à {{unité|328|km}} : [[Écommoy]]
+* {{Sortie|26 Montabon}} à {{unité|344|km}} : [[Montval-sur-Loir|Château-du-Loir]], [[Le Lude]]
+** {{Aire de service|Sarthe-Touraine}}
+''Passage de la région des Pays de la Loire à la région du [[Centre-Val de Loire]].<br /> Passage du département de la Sarthe à celui d'[[Indre-et-Loire]].''
+* {{Péage|Péage de Saint-Christophe (à système fermé)}}
+* {{Sortie|27 Neuillé-Pont-Pierre}} à {{unité|368|km}} : [[Château-Renault]], [[Neuillé-Pont-Pierre]]
+** {{Aire de repos|de Chantemerle|Abbeville-Tours|de Chenardière|Tours-Abbeville}}
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à {{unité|110|km/h}}.
+** [[Fichier:France road sign C28-3.svg|22x22px]] [[Fichier:France road sign B14 (90).svg|22x22px]] Réduction à 1 voie et limitation à {{unité|90|km/h}}.
+** [[Fichier:France road sign B14 (70).svg|22x22px]] [[Fichier:France road sign A1a.svg|23x23px]] Limitation à {{unité|70|km/h}} sur l'échangeur.
+* '''{{échangeur autoroutier|[[Autoroute A10 (France)|A10]]|A28}}''' à {{unité|387|km}} : [[Orléans]], [[Blois]], [[Tours]], [[Poitiers]], [[Bordeaux]], [[Vierzon]]
+Fin de la section Le Mans - Tours.
+* [[Fichier:France road sign C208.svg|22x22px]] Fin de l'autoroute A28.
+
+== Lieux sensibles ==
+* Descente suivant l'aire du Translay (sens Abbeville - Rouen)
+* Descente suivant l'échangeur des Hayons (sens Rouen - Abbeville)
+* Traversée de Rouen très difficile
+* Étroitesse des voies de gauche d'Alençon à Tours.
+
+== Autour de l'autoroute ==
+* En 1998, l'arrêt de la construction de l'A28 sur la commune de [[Saint-Marceau (Sarthe)|Saint-Marceau]] a été mis à profit par [[Philippe Berre]], escroc dont il est question dans le film ''[[À l'origine (film)|À l'origine]]'' (2009).
+
+== Notes et références ==
+{{Références}}
+
+== Voir aussi ==
+=== Liens externes ===
+* [http://saratlas.free.fr/index.php?page=autoroute&route=a28&lang=fr Autoroute A28 dans Saratlas]
+* [http://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A28 Fiche autoroutière de l'A28 sur WikiSara]
+* [http://ecopolit.eu/2007/09/03/bilan-environnemental-intermediaire-de-l%e2%80%99a-28/ Un bilan environnemental de l'A28 ?]
+* [http://www.multitoll.fr Le Site de MultiToll Solutions SAS, fournisseur du système de péage de L’A28]
+
+=== Articles connexes ===
+* [[Autoroute A133 (France)|Autoroute A133]] (projet faisant partie de la [[rocade de Rouen]])
+* [[Rocade du Mans]]
+* [[Périphérique de Tours]]
+
+{{Palette|Autoroutes de France}}
+{{Portail|route}}
+
+{{DEFAULTSORT:028}}
+[[Catégorie:Autoroute dans les Hauts-de-France]]
+[[Catégorie:Autoroute en Normandie]]
+[[Catégorie:Autoroute dans les Pays de la Loire]]
+[[Catégorie:Autoroute en Centre-Val de Loire]]

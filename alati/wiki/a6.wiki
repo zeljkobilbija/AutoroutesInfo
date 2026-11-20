@@ -1,0 +1,442 @@
+{{Voir homonymes|A6|Autoroute A6|Autoroute du Soleil}}
+{{Infobox Route/France
+| statut = A
+| numéro = 6
+| autres_noms = Autoroute du Soleil
+| image = Autoroute A6 & Route N104 - Évry-Courcouronnes (FR91) - 2026-08-15 - 4.jpg
+| légende = L'autoroute à [[Évry-Courcouronnes]] (Essonne).
+| carte = Carte Autoroute A6.svg
+| longueur = 445<ref name="req">{{Lien web |titre=Requalification de l'autoroute A6-A7 - La Métropole de Lyon |url=https://www.grandlyon.com/actions/requalification-autoroute-a6-a7.html |site=grandlyon.com |consulté le=2021-12-22}}</ref>
+| direction = nord / sud-est
+| dir1 = nord
+| dir2 = sud-est
+| ville1 = {{route européenne|5}} {{Autoroute française|A6a}}<br>{{route européenne|15}} {{route européenne|50}} {{Autoroute française|A6b}} à [[Wissous]] ([[Paris]])
+| ville2 = {{Route métropolitaine A|A6|6}} à [[Limonest]] ([[Lyon]])<ref name="grandlyon.com" />
+| villes_principales = [[Évry-Courcouronnes]], [[Fontainebleau]], [[Nemours]], [[Auxerre]], [[Beaune]], [[Chalon-sur-Saône]], [[Mâcon]], [[Villefranche-sur-Saône]], [[Lyon]]
+| intersections = {{Autoroute française|A77}} à [[Poligny (Seine-et-Marne)|Poligny]]<br>
+{{route européenne|60}} {{route européenne|511}} {{Autoroute française|A19}} à [[Piffonds]]<br>
+{{Autoroute française|A38}} à [[Pouilly-en-Auxois]]<br>
+{{route européenne|21}} {{route européenne|17}} {{Autoroute française|A31}} à [[Beaune]]<br>
+{{route européenne|21}} {{Autoroute française|A40}} à [[Sancé (Saône-et-Loire)|Sancé]]<br>
+{{route européenne|62}} {{Autoroute française|A406}} à [[Mâcon]] <br>
+{{route européenne|15}} {{Autoroute française|A46}} à [[Ambérieux]]<br>
+{{route européenne|70}} {{Autoroute française|A466}} aux [[Les Chères|Chères]]<br>
+{{route européenne|70}} {{Autoroute française|A89}} à [[Limonest]]
+| régions = [[Île-de-France]], [[Centre-Val de Loire]], [[Bourgogne-Franche-Comté]] et [[Auvergne-Rhône-Alpes]]
+| départements = [[Val-de-Marne]], [[Essonne (département)|Essonne]], [[Seine-et-Marne]], [[Loiret (département)|Loiret]], [[Yonne (département)|Yonne]], [[Côte-d'Or]], [[Saône-et-Loire]], [[Rhône (département)|Rhône]] et [[Métropole de Lyon]]
+| collectivité = oui
+| nb_reg = 4
+| nb_dep = 10
+| nom_notes = 
+| ouverture = de [[1960]] à 1971
+| réseau = Autoroute française, également {{Route européenne|15}}, {{Route européenne |21}}, {{Route européenne|60}}, {{route européenne|70}}
+| concessionnaire = [[Autoroutes Paris-Rhin-Rhône|APRR]] (entre Évry-Courcouronnes et Limonest)
+| gestionnaire = [[Direction interdépartementale des Routes#Direction des routes d'Île-de-France (DIRIF)|DIR Île-de-France]] (entre Wissous et Évry-Courcouronnes)
+}}
+{{maplink|frame=yes|plain=yes|frame-width=290|frame-height=460|frame-align=right|type=line|stroke-width=2| |stroke-color=#0000C0| id= }}
+L''''autoroute A6''' (surnommée '''autoroute du Soleil''') est une [[autoroute]] qui relie le sud-est de [[Paris]] et [[Lyon]], en [[France]], en empruntant la vallée de la [[Saône]]. Elle est prolongée par la M6 puis par la M7 à Lyon et ensuite par l'[[autoroute A7 (France)|autoroute A7]] pour rejoindre [[Marseille]].
+
+L'autoroute A6 est exploitée par la société [[Autoroutes Paris-Rhin-Rhône]]. Elle mesure {{Unité|445|km}} de long. Elle fait partie des [[Route européenne|routes européennes]] [[Route européenne 15|E15]], [[Route européenne 21|E21]] et [[Route européenne 60|E60]].
+
+Les sorties de l'autoroute A6 sont très éloignées les unes des autres (hormis dans les agglomérations de Paris et Lyon), alors qu'au contraire les aires sont très proches les unes des autres.
+
+== Historique ==
+L'autoroute A6 a été construite entre 1953 et 1971.
+* 1953 : début de la construction d'un premier tronçon entre [[Paris]] et [[Le Coudray-Montceaux]]<ref>[https://www.leparisien.fr/champs-sur-marne-77420/l-autoroute-du-sud-a-50-ans-25-09-2010-1081537.php Le Parisien - ''L’autoroute du Sud a 50 ans''], article du 25 septembre 2010.</ref>.
+* 1960 : l'« Autoroute du Sud » ouvre entre Paris et Le Coudray-Montceaux ({{Unité|34|km}}).
+* 1961 : la SAPL (Société de l'autoroute Paris-Lyon) est créée. Les premiers terrassements de la section [[Auxerre]]-Sud / [[Nitry]] sont lancés durant l'été, à proximité de [[Saint-Cyr-les-Colons]].
+* 1963 : ouverture du tronçon Auxerre-Sud / Nitry, long de {{Unité|25|km}}. Cette section est d'abord gratuite mais interdite aux [[poids lourd]]s et aux [[autocar]]s.
+* 1964 : ouverture du tronçon Nitry / [[Avallon]]. L'utilisation de la portion entre Auxerre et Avallon est désormais à péage et autorisée à tous types de véhicules à moteur. Il en ira ainsi pour le reste du tracé entre [[Fleury-en-Bière]] et [[Limas]] près de [[Villefranche-sur-Saône]]. Une portion gratuite est inaugurée entre Le Coudray-Montceaux et [[Ury]].
+* 1965 : ouverture du tronçon Auxerre-Nord / Auxerre-Sud. Une autre portion payante est inaugurée entre Ury et [[Nemours]].
+* 1966 : ouverture de la déviation de [[Villefranche-sur-Saône]], longue de {{Unité|12|km}}, reliant [[Arnas]] au nord et [[Anse (Rhône)|Anse]] au sud.
+* 1967 : ouverture du tronçon Nemours / Auxerre-Nord. L'autoroute relie désormais Paris à Avallon sur {{Unité|210|km}} sans interruption. Cette ouverture se déroule peu avant le week-end pascal. Lors de ces congés de fin de semaine, une véritable marée automobile déferle sur l'A6, provoquant alors de grands embouteillages et pulvérisant littéralement les records de trafic de l'époque. Les Franciliens sont très nombreux à profiter du week-end pour aller à la campagne, et par la même occasion, découvrir cette nouvelle liaison rapide entre Paris et la [[Bourgogne (ancienne région administrative)|Bourgogne]]<ref>Véronique Lefèvre, ''Paris-Rhin-Rhône, histoire d'autoroutes'', Le Cherche Midi éditeur, 2001.</ref>.
+* 1969 : ouverture des tronçons entre Avallon et [[Pouilly-en-Auxois]] ainsi qu'entre Villefranche-sur-Saône et [[Mâcon]]-Nord. Inauguration d'une portion gratuite entre Anse et [[Limonest]].
+* 1970 : dernière ouverture d'une portion payante entre Pouilly-en-Auxois et Mâcon-Nord. Inauguration, par le président de la République [[Georges Pompidou]], de la liaison autoroutière [[Marseille]] - [[Lille]], à l'aire de repos de [[Savigny-lès-Beaune]]. Cette aire, à équidistance de Lille et de Marseille, comporte une plaque commémorative rappelant cet événement.
+* 1971 : fin de la construction de l'A6 le {{date|8 décembre}} avec l'ouverture du [[tunnel de Fourvière]] et achèvement de l'axe Paris - [[Lyon]] ({{Unité|455|km}}).
+* 1972 : ouverture de l'A6b entre [[Cachan]] et [[Le Kremlin-Bicêtre]].
+* 1975 : la SAPL devient la SAPRR (Société des [[Autoroutes Paris-Rhin-Rhône]]).
+* {{date|31 juillet 1982}} : [[Accident de Beaune|accident d'autocar à Beaune]] faisant plus de {{Unité|50|morts}}. À la suite de ce drame, on décide de doter l'autoroute de glissières de sécurité centrales (chaussées autrefois séparées par une simple bande végétale sans barrière) et l'autoroute s'élargit à {{dunité|2|3|voies}} entre [[Beaune]] et Lyon puis entre Auxerre et Paris (la section de {{Unité|30|km}} comprise entre l'[[Autoroute A19 (France)|A19]] et l'[[Autoroute A77 (France)|A77]] demeure toutefois en {{dunité|2|2|voies}}).
+* 1997 : début des travaux de mise aux normes de sécurité du tunnel de Fourvière (fermetures fréquentes la nuit).
+* 2006 : limitation de vitesse au tunnel de Fourvière à {{Unité|70|km/h}} au lieu de {{Unité|90|km/h}} auparavant. Ouverture de l'échangeur Villefranche-Nord 31.1 (celui situé au niveau du péage étant renuméroté en 31.2) le vendredi {{date|10 novembre}} à [[Heure|16]] ; le poste de péage est entièrement automatisé.
+* 2007 : début de l'automatisation des péages sur certains échangeurs la nuit.
+* 2012 : couverture de l'A6b entre Le Kremlin-Bicêtre et [[Arcueil]].
+* 2015 : Mise en service d'une voie réservée aux bus et taxis entre [[L'Haÿ-les-Roses]] (A6) et la [[porte d'Orléans]] (bretelle de sortie du périphérique intérieur). Par conséquent, dans le sens province - Paris, la bretelle A6a - périphérique extérieur (direction [[porte de Gentilly]] ; A4 ([[Metz]]-[[Nancy]]) ; A3 (Lille)) est fermée définitivement.
+* 2015 : ouverture, au nord de Lyon, du [[Autoroute A466 (France)|barreau autoroutier A466]] entre les directions sud des autoroutes A6 et A46.
+* 2015 : fin des travaux de régénération des chaussées au sud d'[[Évry-Courcouronnes]], par fractionnement et recouvrement des dalles de béton de la chaussée originelle entre la [[Route nationale 104 (France)|RN 104]] au nord et la [[Route nationale 37 (France)|RN 37]] au sud<ref>{{PDF}} {{Lien web|titre=Autoroute A6 – Travaux de régénération de chaussées|url=http://www.sytadin.fr/direct/communiques/DiRIF_CdP_A6_Chaussees-Sud-Evry_Tranche-4_Chaussees-Phase-1_Juin-2015_VDef.pdf|archive-url=https://web.archive.org/web/20151009000028/http://www.sytadin.fr/direct/communiques/DiRIF_CdP_A6_Chaussees-Sud-Evry_Tranche-4_Chaussees-Phase-1_Juin-2015_VDef.pdf|archive-date=9 octobre 2015|brisé le=8 novembre 2026|site=sytadin.fr|date=communiqué de presse du 5 juin 2015|consulté le=18 août 2015}}.</ref>.
+* 2017 : la portion de l'A6 depuis la sortie de Limonest jusqu'au centre de Perrache a été déclassée en [[Voie rapide#France|voie rapide]] le {{date|1 novembre 2017}}<ref>{{pdf}} [https://rhone.eelv.fr/wp-content/blogs.dir/862/files/2017/01/2017-1717-2.pdf PROJET DE DELIBERATION DU CONSEIL {{n°|2017-1717}}] sur ''rhone.eelv.fr''], 30 janvier 2017.</ref>
+* 2018 : au nord de Lyon, raccordement de {{unité|6|km}} de l'[[autoroute A89 (France)|autoroute A89]] avec l'A6<ref>{{Lien web |titre=Site officiel du raccordement A89-A6 |url=http://www.a89-a6.fr/spip.php?rubrique23 |site=a89-a6.fr |date=24 mai 2011 |consulté le=2 septembre 2014 |brisé le=30 septembre 2026 |archive-url=https://web.archive.org/web/20161225221629/http://www.a89-a6.fr:80/spip.php?rubrique23 |archive-date=25 décembre 2016}}.</ref>.
+* 2020 : les {{unité|16|km}} des tronçons de l'A6 et de l'[[Autoroute A7 (France)|A7]] traversant Lyon qui ont été déclassés en 2017 en voie rapide sont transformés en boulevard urbain sous le nom de route M6 et M7 ([[route métropolitaine]] 6 et 7)<ref>{{pdf}} [https://rhone.eelv.fr/wp-content/blogs.dir/862/files/2017/01/2017-1717-2.pdf PROJET DE DELIBERATION DU CONSEIL n° 2017-1717] sur rhone.eelv.fr], 30 janvier 2017</ref>{{,}}<ref>Étienne Jacob, [https://www.lefigaro.fr/actualite-france/2016/12/30/01016-20161230ARTFIG00182-pour-limiter-le-trafic-et-la-pollution-lyon-sacrifie-une-autoroute.php « Pour limiter trafic et pollution, Lyon sacrifie une autoroute »], ''[[Le Figaro]]'', samedi 31 décembre 2016 / lundi 1{{er}} janvier 2017, page 7.</ref>.
+Longue de {{unité|445|km}}, l’A6 est la quatrième [[Liste des autoroutes de France|autoroute la plus longue de France]], derrière l'[[Autoroute A10 (France)|A10]] et ses {{unité|557|km}}, l'[[Autoroute A89 (France)|A89]] et ses {{unité|544|km}}, et l'[[Autoroute A4 (France)|A4]] et ses {{unité|482|km}}.
+
+== Gestion ==
+Entre [[Paris]] et la RN 104, les autoroutes A6, A6a et A6b sont gérées par la [[Direction interdépartementale des Routes#Direction_des_routes_d'Île-de-France_(DIRIF)|DIR Île-de-France]]. <br />Entre la RN 104 et la sortie 33, l'autoroute A6 est concédée à [[Autoroutes Paris-Rhin-Rhône|APRR]].
+
+== Itinéraire ==
+=== A6a ===
+[[File:Autoroute A6a vue depuis Passerelle Chaperon Vert - Gentilly (FR94) - 2021-11-06 - 2.jpg|thumb|L'A6a depuis la Passerelle Chaperon Vert, à [[Gentilly (Val-de-Marne)|Gentilly]].]]
+'''Section non-concédée gérée par la [[Direction interdépartementale des Routes#Direction des routes d'Île-de-France (DIRIF)|DIR Île-de-France]] et gratuite.'''
+* '''{{Échangeur autoroutier|[[Fichier:SU4 - Rocade France.svg|22x22px]] [[Boulevard périphérique de Paris|Boulevard périphérique (Ouest) de Paris]]|A6a}} (''[[Échangeur de l'autoroute A6a]]'')''' à {{Unité|0|km}} ''(demi-échangeur, depuis et vers Périphérique - Ouest)'' : ''[[Fichier:France road sign C207.svg|22x22px]] [[Autoroute A13 (France)|A13]]'', [[Paris]] - ''[[Porte de Châtillon]]'' + {{Sortie|1 ''Porte d'Orléans''}} : Paris - ''centre, [[Porte d'Orléans]]''
+** [[Fichier:France road sign C207.svg|24x24px]] [[Fichier:Panneau-C24a-2.svg|22x22px]] [[Fichier:France road sign B14 (50).svg|22x22px]] Début de l'autoroute, début de {{dunité|2|2|voies}} et limitation à {{unité|50|km/h}}.
+''Passage du département de [[Paris]] à celui du [[Val-de-Marne]].''
+* '''{{Échangeur autoroutier|[[Fichier:SU4 - Rocade France.svg|22x22px]] Boulevard périphérique (Est) de Paris|A6a}}''' à {{Unité|0,9|km}} : ''(quart-échangeur, depuis Périphérique - Est et [[Porte de Gentilly]])''
+** [[Fichier:Panneau-C24a.svg|22x22px]] [[Fichier:France road sign B14 (70).svg|22x22px]] Passage à {{dunité|2|3|voies}} et limitation à {{unité|70|km/h}}.
+** [[Fichier:France road sign B14 (90).svg|22x22px]] Limitation à {{unité|90|km/h}}.
+* '''{{Échangeur autoroutier|A6b|A6a}}''' à {{Unité|4|km}} et {{Unité|6|km}} ''(deux demi-échangeurs)'' : ''[[Fichier:France road sign C207.svg|22x22px]] [[Autoroute A1 (France métropolitaine)|A1]] - [[Autoroute A4 (France)|A4]]'', [[Villejuif]], [[Arcueil]], Paris - ''[[Porte d'Italie]]'', ''[[Fichier:SU4 - Rocade France.svg|22x22px]] Périphérique Est''
+[[File:Autoroute A6 Fresnes Val Marne 2.jpg|thumb|A6a (au centre) et A6b (sur les côtés), à la hauteur de [[Fresnes (Val-de-Marne)|Fresnes]].]]
+* '''{{Échangeur autoroutier|[[Autoroute A106 (France)|A106]]|A6a}}''' à {{Unité|5,4|km}} ''(quart-échangeur, depuis Paris)'' : ''[[Fichier:France road sign ID2.svg|15px|alt]] [[Aéroport de Paris-Orly|Orly]]''<ref group="note" name="EchgrA106">{{Échangeur autoroutier|[[Autoroute A106 (France)|A106]]|A6a}} - Coordonnées : {{coord|48.7665|2.3437}}</ref>
+* {{Sortie|3 Rungis}} à {{Unité|5,5|km}} ''(quart-échangeur, depuis Paris)'' : [[Rungis]], ''[[Fichier:France road sign ID35.svg|15px|alt]] [[Marché d'intérêt national de Rungis|Marché international de Rungis]]''
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à {{unité|110|km/h}}.
+''Passage du département du [[Val-de-Marne]] à celui de l'[[Essonne (département)|Essonne]] à 7,5 km.''
+* '''{{Échangeur autoroutier|[[Autoroute A10 (France)|A10]]|A6a}}''' à {{Unité|9|km}} ''(demi-échangeur, depuis et vers Paris)'' : [[Nantes]] ([[Autoroute A11 (France)|A11]]), [[Bordeaux]], [[Étampes]], [[Palaiseau]], [[Massy (Essonne)|Massy]], [[Longjumeau]]
+Fin de l'autoroute A6a et début de l'autoroute A6 en direction de [[Lyon]], [[Évry-Courcouronnes]] et [[Chilly-Mazarin]].
+
+=== A6b ===
+[[File:Autoroute A6b près Tunnel Italie - Le Kremlin-Bicêtre (FR94) - 2021-11-06 - 2.jpg|vignette|L'A6b au [[Le Kremlin-Bicêtre|Kremlin-Bicêtre]] au niveau du Tunnel d'Italie.]]
+'''Section non-concédée gérée par la [[Direction interdépartementale des Routes#Direction des routes d'Île-de-France (DIRIF)|DIR Île-de-France]] et gratuite.'''
+* '''{{Échangeur autoroutier|[[Fichier:SU4 - Rocade France.svg|22x22px]] [[Boulevard périphérique de Paris|Boulevard périphérique (Est) de Paris]]|A6b}} (''[[Échangeur de l'autoroute A6b]]'')''' à {{Unité|0|km}} ''(depuis et vers Périphérique Est)'' : ''[[Fichier:France road sign C207.svg|22x22px]] [[Autoroute A1 (France métropolitaine)|A1]] - [[Autoroute A4 (France)|A4]]'', [[Paris]] - ''[[Porte d'Ivry]]''
+** [[Fichier:France road sign C207.svg|24x24px]] [[Fichier:Panneau-C24a-2.svg|22x22px]] [[Fichier:France road sign B14 (50).svg|22x22px]] Début de l'autoroute, début de {{dunité|2|2|voies}} et limitation à {{unité|50|km/h}}.
+** [[Fichier:France road sign C111.svg|22x22px]] ''Tunnel d'Italie'' ({{unité|450|m}}, sens Paris-Lyon) ({{unité|250|m}}, sens Lyon-Paris)
+** [[Fichier:France road sign C112.svg|22x22px]] Sortie du tunnel
+''Passage du département de [[Paris]] à celui du [[Val-de-Marne]].''
+* {{Sortie|1 ''Porte d'Italie''}} à {{Unité|0,3|km}} ''(demi-échangeur, depuis et vers Lyon)'' : Paris - ''[[Porte d'Italie]]''
+** [[Fichier:France road sign B14 (70).svg|22x22px]] Limitation à {{unité|70|km/h}}.
+** [[Fichier:France road sign C111.svg|22x22px]] ''[[Tunnel de Bicêtre]]'' ({{unité|1600|m}})
+** [[Fichier:France road sign C112.svg|22x22px]] Sortie du tunnel
+* {{Sortie|2 Villejuif}} à {{Unité|3|km}} ''(demi-échangeur, depuis et vers Lyon)'' : [[Villejuif]], [[Arcueil]], [[Le Kremlin-Bicêtre]]
+** [[Fichier:France road sign C24a.svg|22x22px]] Passage à {{dunité|2|3|voies}}
+* '''{{Échangeur autoroutier|A6a|A6b}}''' à {{Unité|4|km}} et {{Unité|6|km}} ''(deux demi-échangeurs)'' : ''[[Fichier:France road sign C207.svg|22x22px]] [[Autoroute A13 (France)|A13]]'', [[Paris]] - ''centre, [[Porte d'Orléans]]'', ''[[Fichier:SU4 - Rocade France.svg|22x22px]] Périphérique - Ouest'' ; [[Lyon]], [[Évry-Courcouronnes]]
+* '''{{Échangeur autoroutier|[[Autoroute A106 (France)|A106]]|A6b}}''' à {{Unité|5,4|km}} ''(demi-échangeur, depuis et vers Paris)'' : ''[[Fichier:France road sign ID2.svg|15px|alt]] [[Aéroport de Paris-Orly|Orly]]''<ref name="EchgrA106" group="note" />
+** [[Fichier:Panneau-C24a-2.svg|22x22px]] Passage à {{dunité|2|2|voies}}.
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à {{unité|110|km/h}}.
+* {{Sortie|3 Rungis}} à {{Unité|5,6|km}} ''(demi-échangeur, depuis et vers Paris)'' : [[Rungis]], ''[[Fichier:France road sign ID35.svg|15px|alt]] [[Marché d'intérêt national de Rungis|Marché international de Rungis]]''
+* '''{{Échangeur autoroutier|[[Route nationale 186|RN 186]] ([[Fichier:SU4 - Rocade France.svg|22x22px]] [[Autoroute A86 (France)|A86]])|A6b}}''' à {{Unité|8|km}} ''(trois-quarts-échangeur, pas accessible depuis Paris)'' : ''[[Fichier:France road sign C207.svg|22x22px]] A13'', [[Versailles]], [[Antony]], [[L'Haÿ-les-Roses]], [[Chevilly-Larue]], [[Fresnes (Val-de-Marne)|Fresnes]] ; ''[[Fichier:France road sign C207.svg|22x22px]] A1 - A4'', [[Créteil]], ''[[Fichier:France road sign ID2.svg|15px|alt]] Orly'', Rungis, 
+** [[Fichier:Panneau-C24a.svg|22x22px]] Passage à {{dunité|2|3|voies}}
+''Passage du département du [[Val-de-Marne]] à celui de l'[[Essonne (département)|Essonne]] à 7,8 km.''
+* [[Fichier:France road sign B14 (90).svg|22x22px]] Limitation à {{unité|90|km/h}}.
+* '''{{Échangeur autoroutier|[[Autoroute A10 (France)|A10]]|A6b}}''' ''(demi-échangeur, depuis et vers Paris)'' à {{Unité|9|km}} : [[Nantes]] ([[Autoroute A11 (France)|A11]]), [[Bordeaux]], [[Étampes]], [[Palaiseau]], [[Massy (Essonne)|Massy]], [[Longjumeau]], ''[[File:France road sign ID35.svg|15px|alt]] Antony'' 
+** [[Fichier:Panneau-C24a-2.svg|22x22px]] Passage à {{dunité|2|2|voies}}.
+Fin de l'autoroute A6b et début de l'autoroute A6 en direction de [[Lyon]], [[Évry-Courcouronnes]] et [[Chilly-Mazarin]].
+
+=== A6 ===
+'''Section non-concédée gérée par la [[Direction interdépartementale des Routes#Direction des routes d'Île-de-France (DIRIF)|DIR Île-de-France]] et gratuite.'''
+* '''{{Échangeur autoroutier|A6a|A6b|A6}}''' à {{Unité|9|km}} : [[Paris]], [[Villejuif]], [[Arcueil]] ; ''[[Fichier:SU4 - Rocade France.svg|22x22px]] [[Autoroute A86 (France)|A86]]'', ''[[Fichier:France road sign ID2.svg|15px|alt]] [[Aéroport de Paris-Orly|Orly]]'', [[Rungis]]
+* {{Sortie|4 Wissous}} + '''{{Échangeur autoroutier|[[Autoroute A126 (France)|A126]]|A6}}''' à {{Unité|13|km}} ''(demi-échangeur, depuis et vers Lyon)'' : [[Chilly-Mazarin]], [[Wissous]] ; ''[[Fichier:France road sign C207.svg|22x22px]] [[Autoroute A10 (France)|A10]]'', [[Palaiseau]], [[Massy (Essonne)|Massy]]
+* {{Sortie|5 Chilly-Mazarin}} à {{Unité|14|km}} : Chilly-Mazarin, [[Morangis (Essonne)|Morangis]], [[Longjumeau]]
+* {{Sortie|6 Savigny-sur-Orge}} à {{Unité|17|km}} : [[Savigny-sur-Orge]], [[Épinay-sur-Orge]], [[Morsang-sur-Orge]], [[Sainte-Geneviève-des-Bois (Essonne)|Sainte-Geneviève-des-Bois]]
+* {{Sortie|7 Viry-Châtillon ([[Route nationale 445|RD 445]])}} à {{Unité|20|km}} ''(demi-échangeur, depuis et vers Paris)'' : [[Viry-Châtillon]], [[Fleury-Mérogis]]
+* {{Sortie|7.1/7 Grigny}} à {{Unité|22|km}} et {{Unité|24|km}} ''(deux demi-échangeurs)'' : [[Grigny (Essonne)|Grigny]], [[Ris-Orangis]], Viry-Châtillon
+* '''{{Échangeur autoroutier|[[Fichier:SU4 - Rocade France.svg|22x22px]] [[Francilienne]] ([[Route nationale 104 (France)|RN 104]])|A6}}''' à {{Unité|26 et 28|km}} : [[Bordeaux]]-[[Nantes]] ([[Autoroute A10 (France)|A10]]), [[Rouen]] ([[Autoroute A13 (France)|A13]]), [[Versailles]], [[Évry-Courcouronnes]], [[Bondoufle]] ; ''[[Fichier:France road sign C207.svg|22x22px]] [[Autoroute A1 (France métropolitaine)|A1]]-[[Autoroute A4 (France)|A4]]'', [[Troyes]] ([[Autoroute A5 (France)|A5]]), [[Melun]], [[Corbeil-Essonnes]], ''[[Sénart]]'', ''[[Marne-la-Vallée]]'', [[Lisses]] - ''centre''
+'''Section concédée à [[Autoroutes Paris-Rhin-Rhône|APRR]] et payante (sauf entre les sorties 9 et 13)<ref>{{Lien web |langue=fr |titre=A6 l'autoroute de toutes les mobilités {{!}} APRR AREA |url=https://voyage.aprr.fr/mobilite-a6 |site=voyage.aprr.fr |consulté le=2025-11-14}}</ref>.'''
+[[Fichier:Villabe IMG 8081.JPG|thumb|La ''cuvette de l'Essonne'' à Villabé.]]
+* {{Sortie|9 Villabé - Lisses}} à {{Unité|29|km}} : ''[[Fichier:France road sign ID35.svg|15px|alt]] Lisses'', [[Villabé]], Lisses, [[Mennecy]] + {{Aire de service|de Lisses|Paris – Lyon|de Villabé|Lyon – Paris}} 
+* {{Sortie|10 Ormoy - Mennecy}} à {{Unité|33|km}} ''(demi-échangeur, depuis et vers Lyon)'' : Corbeil-Essonnes - ''centre'', Mennecy, [[Ormoy (Essonne)|Ormoy]], [[Le Coudray-Montceaux]]
+* {{Sortie|11 Le Coudray-Montceaux}} à {{Unité|33|km}} ''(demi-échangeur, depuis et vers Paris)'' : Mennecy, Le Coudray-Montceaux, [[Auvernaux]]
+* {{Sortie|12 Saint-Fargeau-Ponthierry}} à {{Unité|34|km}} ''(demi-échangeur, depuis et vers Paris)'' : [[Saint-Fargeau-Ponthierry]]
+** [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à {{unité|130|km/h}}.
+''Passage du département de l'Essonne à celui de [[Seine-et-Marne]] à 38 km.''
+* '''{{Échangeur autoroutier|[[Route nationale 37 (France)|RN 37]] ([[Route nationale 7 (France métropolitaine)|RN 7]])|A6}}''' ''(demi-échangeur, depuis et vers Paris)'' à {{Unité|45|km}} : [[Nemours]], [[Fontainebleau]], Melun, [[Cély]]
+* {{Sortie|13 Cély-en-Bière}} à {{Unité|47|km}} : [[Étampes]], Melun, [[Milly-la-Forêt]], Cély
+[[Fichier:A6 Péage de Fleury-en-Bière IMG 0005.JPG|thumb|Péage de [[Fleury-en-Bière]].]]
+* {{Péage|Péage de Fleury-en-Bière (à système fermé)}}, à {{Unité|50|km}}
+** {{Aire de repos|d'Arbonne|Lyon – Paris}} à {{Unité|52|km}}
+** {{Aire de service|d'[[Achères-la-Forêt]]|Paris – Lyon|d'Achères|Lyon – Paris}} à {{Unité|57|km}}
+* {{Sortie|14 Ury}} à {{Unité|61|km}} : [[Le Malesherbois]], [[Ury]] 
+** {{Aire de repos|de Villiers|Paris – Lyon}} à {{Unité|65|km}}
+* {{Sortie|15 Fontainebleau}} à {{Unité|70|km}} ''(demi-échangeur, depuis et vers Lyon)'' : Fontainebleau
+* {{Sortie|16 Nemours}} à {{Unité|73|km}} : [[Montereau-Fault-Yonne]], [[Nemours]]
+** {{Aire de service|de Nemours « [[Pont-restaurant|Restaupont]] »|Paris – Lyon|de [[Darvault]]|Lyon – Paris}} à {{Unité|74|km}}
+[[Fichier:A6 Bif-A6-A77 IMG 0008.JPG|thumb|{{Échangeur autoroutier|A6|A77}}.]]
+* '''{{Échangeur autoroutier|[[Autoroute A77 (France)|A77]]|A6}}''' à {{Unité|80|km}} ''(demi-échangeur, depuis et vers Paris)'' : [[Saint-Étienne]] ([[Autoroute A72 (France)|A72]]), [[Nevers]], Montargis
+** [[Fichier:France road sign C28-2.svg|22x22px]] Réduction à {{dunité|2|2|voies}}.
+** {{Aire de repos|de Sonville|Paris – Lyon|de Floée|Lyon – Paris}} à {{Unité|86|km}}
+** {{Aire de repos|du Liard|Paris – Lyon|d'Égreville|Lyon – Paris}} à {{Unité|90|km}}
+''Passage de la région [[Île-de-France]] à la région [[Centre-Val de Loire]].<br /> Passage du département de Seine-et-Marne au département du [[Loiret (département)|Loiret]] à 91 km.''
+* {{Aire de repos|du Parc Thierry|Paris – Lyon|de la Roche|Lyon – Paris}} à {{Unité|103|km}}
+''Passage de la région Centre-Val de Loire à la région [[Bourgogne-Franche-Comté]].<br /> Passage du département de Loiret à celui de l'[[Yonne (département)|Yonne]] à 106 km.''
+* {{Sortie|17 Courtenay}} à {{Unité|111|km}} : [[Villeneuve-sur-Yonne]], [[Courtenay (Loiret)|Courtenay]]
+[[Fichier:A6 Bif-A19 IMG 0017.JPG|thumb|''[[Échangeur de Courtenay]]''.]]
+* '''{{Échangeur autoroutier|[[Autoroute A19 (France)|A19]]|A6}} (''[[Échangeur de Courtenay]]'')''' à {{Unité|112|km}} : Troyes (A5), [[Orléans]] (A10), Paris - ''est'', [[Sens (Yonne)|Sens]], Montargis
+** [[Fichier:Panneau-C24a.svg|22x22px]] {{dunité|2|3|voies}}.
+** {{Aire de repos|des Châtaigniers|Paris – Lyon}} à {{Unité|117|km}}
+** {{Aire de service|de la Réserve|Paris – Lyon|de la Couline|Lyon – Paris}} à {{Unité|123|km}}
+* {{Sortie|18 Joigny}} à {{Unité|128|km}} : [[Toucy]], Villeneuve-sur-Yonne, [[Migennes]], [[Joigny]], [[Charny Orée de Puisaye]], [[Château-Renard]], [[Sépeaux-Saint Romain]]
+** {{Aire de repos|de la Loupière|Lyon – Paris à {{Unité|132|km}} |de la Racheuse|Paris – Lyon à {{Unité|133|km}}}}
+** {{Aire de repos|des Pâtures|Lyon – Paris}} à {{Unité|145|km}}
+** {{Aire de repos|de la Biche|Paris – Lyon}} à {{Unité|150|km}}
+** [[Fichier:France road sign C28-2.svg|22x22px]] Réduction à {{dunité|2|2|voies}}
+* {{Sortie|19 Auxerre - ''nord''}} à {{Unité|153|km}} : [[Auxerre]], [[Monéteau]], Migennes, Joigny 
+** {{Aire de repos|des Bois Impériaux|Paris – Lyon|du Thureau|Lyon – Paris}} à {{Unité|159|km}}
+* {{Sortie|20 Auxerre - ''sud''}} à {{Unité|165|km}} : Auxerre, [[Chablis (Yonne)|Chablis]], [[Tonnerre (Yonne)|Tonnerre]]
+** {{Aire de service|de [[Venoy]]-Chablis ''(anc. Venoy Grosse Pierre)''|Paris – Lyon|de Venoy-Soleil Levant|Lyon – Paris}} à {{Unité|167|km}}
+** {{Aire de repos|de la Grosse Tour|Paris – Lyon}} à {{Unité|174|km}}
+** {{Aire de repos|du Buisson Rond|Lyon – Paris}} à {{Unité|179|km}}
+** {{Aire de repos|du Chevreuil|Lyon – Paris}} à {{Unité|185|km}}
+** {{Aire de repos|de la Couée|Paris – Lyon}} à {{Unité|187|km}}
+* {{Sortie|21 Nitry}} à {{Unité|190|km}} : [[Montbard]], [[Vézelay]], Tonnerre, Chablis, [[Nitry]]
+** {{Aire de repos|de Montmorency|Paris – Lyon}}, à {{Unité|198|km}}
+** {{Aire de repos|d'Hervaux|Lyon – Paris}}, à {{Unité|199|km}}
+* {{Sortie|22 Avallon}} à {{Unité|209|km}} : [[Avallon]]
+** {{Aire de service|de la Chaponne|Paris – Lyon|de Maison-Dieu|Lyon – Paris}} à {{Unité|213|km}}
+''Passage du département de l'Yonne à celui de la [[Côte-d'Or]] à 219 km.''
+* {{Aire de repos|de Genetoy|Lyon – Paris}} à {{Unité|220|km}}
+** {{Aire de repos|d'Époisses|Paris – Lyon}} à {{Unité|223|km}}
+** {{Aire de repos|de Ruffey|Paris – Lyon|de la Côme|Lyon – Paris}} à {{Unité|233|km}}
+* {{Sortie|23 ''Bierre-lès-Semur''}} à {{Unité|235|km}} : [[Semur-en-Auxois]], [[Saulieu]], Montbard, [[Le Val-Larrey]]
+**{{Aire de repos|de Fermenot|Paris – Lyon|de Marcigny|Lyon – Paris}} à {{Unité|242|km}}
+** {{Aire de service|du Chien Blanc|Paris – Lyon|Aire des Lochères|Lyon – Paris}} à {{Unité|255|km}}
+[[Fichier:A6 Bif-A38 IMG 0034.JPG|thumb|{{Échangeur autoroutier|A6|A38}} ''([[Échangeur de Pouilly-en-Auxois]])''.]]
+[[Fichier:Michelin A6 maps la Garenne.jpg|thumb|Panneau [[Michelin]] de l'aire de La Garenne.]]
+* '''{{Échangeur autoroutier|[[Autoroute A38 (France)|A38]]|A6}} (''[[Échangeur de Pouilly-en-Auxois]]'')''' à {{Unité|264|km}} : [[Dijon]], [[Autun]], Saulieu, [[Pouilly-en-Auxois]]
+** {{Aire de repos|de Chaignot|Paris – Lyon|de la Repotte|Lyon – Paris}} à {{Unité|269|km}}
+** {{Aire de repos|de La Garenne|Paris – Lyon}} à {{Unité|280|km}}
+** [[Fichier:Signal B29 VL.svg|23x23px]] Début de voie pour véhicules lents (sens Paris → Lyon)
+** {{Aire de service|de la Forêt|Paris – Lyon à {{Unité|285|km}} |de Creux-Moreau|Lyon – Paris à {{Unité|286|km}}}}
+** {{Aire de repos|du Bois des Corbeaux|Lyon – Paris}} à {{Unité|294|km}}
+** [[Fichier:France road sign B14 (110).svg|22x22px]] [[Fichier:France road sign A1c.svg|22x22px]] [[Fichier:France road sign A16.svg|22x22px]] Limitation à {{unité|110|km/h}} à cause de fortes courbes et descente à 4 %.
+** [[Fichier:Signal B49 VL.svg|26x26px]] Fin de voie pour véhicules lents.
+** {{Aire de repos|du Rossignol|Paris – Lyon}} à {{Unité|295|km}}
+** {{Aire de repos|de Savigny-lès-Beaune|Lyon – Paris}} à {{Unité|298|km}}
+* {{Sortie|24 Beaune - ''nord''}} à {{Unité|301|km}} : [[Beaune]] - ''centre, Saint-Nicolas'', [[Savigny-lès-Beaune]]
+[[Fichier:A6 Bif-A31 IMG 0045.JPG|thumb|{{Échangeur autoroutier|A6|A31}} ''(Échangeur de Beaune)''.]]
+* '''{{Échangeur autoroutier|[[Autoroute A31 (France)|A31]]|A6}} ''(Échangeur de Beaune / Croix de [[Vignoles]])''''' à {{Unité|304|km}} : [[Besançon]] ([[Autoroute A36 (France)|A36]]), [[Lille]] (A5), [[Metz]]-[[Nancy]], Dijon
+** Début de section à {{dunité|2|5|voies}}.
+** [[Fichier:Signal C28-4.svg|22x22px]] [[Fichier:France road sign B14 (130).svg|22x22px]] Réduction des voies à {{dunité|2|4|voies}} et limitation à {{unité|130|km/h}}.
+* {{Sortie|24.1 Beaune - ''sud''}} à {{Unité|307|km}} : Beaune - ''centre, [[Hospices de Beaune|Hospices]]'', [[Chagny (Saône-et-Loire)|Chagny]]
+** [[Fichier:Panneau-C24a.svg|22x22px]] Passage à {{dunité|2|3|voies}}. (sens Lyon – Paris)
+** {{Aire de service|de Beaune-Tailly|Paris – Lyon|de Beaune-Merceuil|Lyon – Paris}} à {{Unité|311|km}}
+''Passage du département de la Côte-d'Or à celui de [[Saône-et-Loire]] à 314 km.''
+* [[Fichier:France road sign C28.svg|22x22px]] Réduction à {{dunité|2|3|voies}}. (sens Paris – Lyon)
+** {{Aire de repos|du Curney|Paris – Lyon|de la Loyère|Lyon – Paris}} à {{Unité|322|km}}
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à {{unité|110|km/h}}. (mesure de réduction de pollution)<ref>{{Lien web |auteur1=Damien Valette) |titre=A6 : rouler à 110 km/h pour réduire la pollution dans le Chalonnais |url=http://www.lejsl.com/edition-de-chalon/2017/04/27/a6-rouler-a-110-km-h-pour-reduire-la-pollution-dans-le-chalonnais |accès url=payant |site=[[Le Journal de Saône-et-Loire]] |date=article du {{Date|27 avril 2017}} |consulté le=24 octobre 2017}}.</ref>
+* {{Sortie|25.1 Chalon - ''nord''<ref>{{Lien web |langue=fr |titre=Le chantier - A6 APRR |url=https://a6chalon.aprr.com/le-chantier.htm |site=https://a6chalon.aprr.com |consulté le=2024-12-23}}</ref>''}} à {{Unité|325|km}} ''(demi-échangeur, depuis et vers Paris)'' : [[Chalon-sur-Saône]], ''[[Fichier:France road sign ID35.svg|15px|alt]] SaôneOr'' 
+* {{Sortie|25.2 Chalon - ''centre''<ref>{{Lien web |langue=fr |titre=CHANGEMENT DE NOM POUR L'ACTUELLE SORTIE CHALON NORD - A6 APRR |url=https://a6chalon.aprr.com/article-changement-de-nom-pour-l-actuelle-sortie-chalon-nord,63,le-chantier.htm |site=https://a6chalon.aprr.com |consulté le=2024-08-18}}</ref>}} à {{Unité|329|km}} : Chalon-sur-Saône - ''nord'', Chagny, [[Châtenoy-le-Royal]], ''[[Fichier:France road sign ID35.svg|15px|alt]] SaôneOr''
+* {{Sortie|26 Chalon - ''sud''}} à {{Unité|335|km}} : Autun, [[Montceau-les-Mines]], [[Le Creusot]], Chalon-sur-Saône, , ''[[Fichier:France road sign ID35.svg|15px|alt]] Sud''
+** [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à {{unité|130|km/h}}.
+** {{Aire de service|de la Ferté|Paris – Lyon|de Saint-Ambreuil|Lyon – Paris}} à {{Unité|342|km}}
+** {{Aire de repos|de Jugy|Paris – Lyon|de Boyer|Lyon – Paris}} à {{Unité|352|km}}
+* {{Sortie|27 Tournus}} à {{Unité|355|km}} : [[Tournus]]
+** {{Aire de repos|de Farges|Paris – Lyon à {{Unité|363|km}}|d'Uchizy|Lyon – Paris à {{Unité|365|km}}}}
+** {{Aire de service|de Mâcon-Saint-Albain|Paris – Lyon|de Mâcon-la-Salle|Lyon – Paris}} à {{Unité|375|km}}
+* {{Sortie|28 Mâcon - ''nord''}} à {{Unité|381|km}} : [[Pont-de-Vaux]], [[Mâcon]] - ''centre''
+* '''{{Échangeur autoroutier|[[Autoroute A40 (France)|A40]]|A6}}''' à {{Unité|383|km}} ''(demi-échangeur, depuis et vers Paris)'' : [[Genève]], [[Milan]], [[Bourg-en-Bresse]] 
+* {{Sortie|29 Mâcon - ''sud'' ([[Autoroute A406 (France)|A406]])}} à {{Unité|391|km}} : Bourg-en-Bresse (A40), [[Moulins (Allier)|Moulins]] ([[Autoroute A79 (France)|A79]]), [[Charolles]], [[Thoissey]], [[Pont-de-Veyle]], [[Charnay-lès-Mâcon]], Mâcon - ''centre''
+** {{Aire de repos|de Crêches|Paris – Lyon|des Sablons|Lyon – Paris}} à {{Unité|397|km}}
+''Passage de la région Bourgogne-Franche-Comté à la région [[Auvergne-Rhône-Alpes]].<br /> Passage du département de Saône-et-Loire à celui du [[Rhône (département)|Rhône]] à 404 km.''
+* {{Aire de service|de Dracé|Paris – Lyon|de Taponas|Lyon – Paris}} à {{Unité|408|km}}
+[[Fichier:A6 Péage-Villefranche IMG 0073.JPG|thumb|Péage de Villefranche-Limas.]]
+* {{Sortie|30 Belleville}} à {{Unité|412|km}} : [[Belleville-en-Beaujolais]], Thoissey, [[Châtillon-sur-Chalaronne]]
+** {{Aire de repos|de Patural|Paris – Lyon|de Boitray|Lyon – Paris}}, à {{Unité|419|km}}
+* {{Sortie|31.1 Villefranche - ''nord''}} à {{Unité|421|km}} : [[Villefranche-sur-Saône]] - ''centre'', [[Jassans-Riottier]], [[Arnas]]
+* {{Sortie|31.2 Villefranche - ''Ville/est''}} à {{Unité|426|km}} : [[Roanne]], Villefranche-sur-Saône - ''centre, sud'', Jassans-Riottier
+* {{Péage|Péage de Villefranche-Limas (à système fermé)}} à {{Unité|427|km}}
+[[Fichier:A6 - Bif A6-A46 - 12-07-2012 - IMG 5082.jpg|thumb|{{Échangeur autoroutier|A6|A46}}.]]
+* '''{{Échangeur autoroutier|[[Fichier:SU4 - Rocade France.svg|22x22px]] [[Autoroute A46 (France)|A46]]|A6}}''' à {{Unité|431|km}} ''(demi-échangeur, depuis et vers Paris)'' : [[Marseille]] ([[Autoroute A7 (France)|A7]]), Genève ([[Autoroute A42 (France)|A42]]), [[Grenoble]] ([[Autoroute A43 (France)|A43]]), [[Lyon]] - ''est'', ''[[Fichier:France road sign ID2.svg|15px|alt]] [[Aéroport de Lyon-Saint-Exupéry|Saint-Exupéry]]''
+* {{Sortie|32 Anse}} à {{Unité|433|km}} ''(demi-échangeur, depuis et vers Paris)'' : [[Quincieux]], [[Anse (Rhône)|Anse]]
+** {{Aire de service|des Chères-Ouest|Paris – Lyon|de Chères-Est|Lyon – Paris}}, à {{Unité|436|km}}
+* '''{{Échangeur autoroutier|[[Autoroute A466 (France)|A466]]|A6}}''' à {{Unité|437|km}} ''(demi-échangeur, depuis et vers Lyon)'' : Genève (A42), Lyon - est (A46), Grenoble (A43), ''[[Fichier:France road sign ID2.svg|15px|alt]] Saint-Exupéry''
+* '''{{Échangeur autoroutier|[[Autoroute A89 (France)|A89]]|A6}}''' à {{Unité|442|km}} : [[Bordeaux]], [[Clermont-Ferrand]], Roanne
+* {{Sortie|33 Limonest ([[Route nationale 6 (France métropolitaine)|RD 306]])}} à {{Unité|445|km}} ''(demi-échangeur, depuis et vers Paris)'' : [[Limonest]], [[Dardilly]], ''[[Fichier:France road sign ID1b.svg|15px|alt]] [[Fichier:France road sign ID36.svg|15px|alt]] ''Porte de Lyon''
+** [[Fichier:France road sign C208.svg|22x22px]] ''Fin de l'autoroute A6.''
+
+=== M6 ===
+'''Section non-concédée gérée par la [[métropole de Lyon]] et gratuite.'''
+* [[Fichier:France_road_sign_C107.svg|20px]] ''Début de la voie rapide M6''<ref name="req" />
+** [[Fichier:France road sign B14 (70).svg|22x22px]] Limitation à {{unité|70|km/h}}
+* {{sortie|33 Limonest}} à {{Unité|445|km}} ''(demi-échangeur, depuis et vers Lyon)'' :
+** {{sortie|33.1 Limonest - ''Le Bourg''}} : Villefranche-sur-Saône par RD, Roanne, Limonest
+** {{sortie|33.2 Limonest - ''La Garde''}} : Limonest, Dardilly, ''[[File:France road sign ID36.svg|15px|alt]] Porte de Lyon''
+* {{Sortie|34 Dardilly}} à {{Unité|446 et 448|km}} ''(deux demi-échangeurs)'' : ''[[Fichier:France road sign ID35.svg|15px|alt]] [[Techlid]] - Pôle Économique'', Dardilly
+** {{Aire de service|de Paisy|Lyon – Paris}}, à {{Unité|447|km}}
+* {{Sortie|35 Écully}} à {{Unité|449|km}} : [[Écully]], [[Champagne-au-Mont-d'Or]], ''[[École centrale de Lyon|Campus Lyon Ouest Écully]]'', ''[[Fichier:France road sign ID3.svg|15px|alt]] La Sauvegarde'', [[Fichier:France road sign ID36.svg|15px|alt]] Grand Ouest''
+* {{Sortie|36 ''Porte du Valvert''}} à {{Unité|451|km}} : ''[[Fichier:SU4 - Rocade France.svg|22x22px]] [[Boulevard périphérique de Lyon]]'', Marseille (A7), Genève (A42), Grenoble (A43), Lyon - ''[[Vaise]]'', [[Tassin-la-Demi-Lune]]
+** [[Fichier:France road sign C28-2.svg|22x22px]] Réduction {{dunité|2|2|voies}}.
+[[Fichier:Lyon - A6 et Pont Kitchener.JPG|vignette|M6 en direction du [[tunnel de Fourvière]], depuis la [[gare de Lyon-Perrache]].]]
+* {{Sortie|37 Lyon - ''Ménival''}} à {{Unité|453|km}} ''(demi-échangeur, depuis et vers Lyon)'' : Tassin-la-Demi-Lune, Lyon - ''[[Ménival (Lyon)|Ménival]]''
+* {{Sortie|38 Lyon - ''Vaise''}} à {{Unité|453|km}} ''(demi-échangeur, depuis et vers Lyon)'' : Lyon
+** [[Fichier:France road sign C111.svg|22x22px]] [[Tunnel de Fourvière]] ({{Unité|1853|m}})
+* {{Sortie|39a Lyon - ''Vieux Lyon''}} à {{Unité|455|km}} ''(demi-échangeur, depuis et vers Paris)'' : Lyon - [[Fichier:France road sign ID16c.svg|15px|alt]] ''[[Vieux Lyon]]''
+* {{Sortie|39b Lyon - ''centre''}} à {{Unité|455|km}} ''(demi-échangeur, depuis et vers Paris)'' : [[Fichier:France road sign ID6.svg|15px|alt]] [[Fichier:France road sign ID16c.svg|15px|alt]] Lyon - ''centre'', [[Fichier:France road sign ID1b.svg|20px|alt]] [[Fichier:France road sign ID12a.svg|15px|alt]] [[Gare de Lyon-Perrache|Perrache]]'', Lyon - ''[[Presqu'île (Lyon)|Presqu'Île]], [[La Confluence]], [[Perrache (quartier de Lyon)|Perrache]]'' 
+* {{Sortie|39c Lyon - ''Part-Dieu''}} à {{Unité|455|km}} : Lyon - ''Part-Dieu'', [[Fichier:France road sign ID3.svg|15px|alt]] [[Centre hospitalier Saint-Joseph Saint-Luc|Saint-Joseph Saint-Luc]], [[Fichier:France road sign ID16c.svg|15px|alt]] Vieux-Lyon''
+* Fin de l'M6 et continue sur l'[[Autoroute A7 (France)|M7]] par le '''[[Centre d'échanges de Perrache]]''' en direction de : Lyon - ''[[Gerland]]'', Marseille (A7)
+
+== Autoroutes A6a et A6b ==
+=== Autoroute A6a ===
+L’autoroute A6a part du [[Boulevard périphérique de Paris|périphérique parisien]] au niveau de la [[porte d'Orléans]] en direction du sud et rejoint rapidement l'autoroute A6b qui part de la [[porte d'Italie]]. Les deux autoroutes sont accolées la plupart du temps mais restent séparées par un [[Terre-plein central|terre-plein]] et des [[Glissière de sécurité|glissières de sécurité]]. Des embranchements permettent de rejoindre l’[[Autoroute A10 (France)|autoroute A10]] en direction de [[Bordeaux]]. Les deux autoroutes fusionnent au niveau d’[[Antony]] pour devenir l’autoroute A6 en direction de [[Lyon]]. À l'origine, l'A6a faisait partie intégralement de l'autoroute A6, lorsque cette dernière fut ouverte en 1960. Cette partie de l'A6 est devenue depuis l'A6a après une renumérotation intervenue en 1982.
+
+=== Autoroute A6b ===
+L’autoroute A6b a été construite à la fin des années 1960 afin de relier Paris au marché d'intérêt national de Rungis ; elle est mise en service en 1969 sans aucune protection acoustique. L'A6b est le regroupement de plusieurs sections autoroutières préexistantes qui portaient des numérotations distinctes. À l'origine, cette autoroute fut ouverte sous les noms de '''H6''' en 1969 sur la section entre la [[porte d'Italie]] et [[Arcueil]], puis '''B6''' entre la porte d'Italie et [[Chevilly-Larue]] (tronçon qui intégrait également la section de Chevilly-Larue à l'[[Aéroport de Paris-Orly|aéroport d'Orly]] de l'actuelle [[Autoroute A106 (France)|A106]]), de 1970 à 1982. L'actuel tronçon de Chevilly-Larue à [[Wissous]] fut ouvert en 1972, sous le nom de '''C6''', puis renuméroté en A6b en 1982{{Refnec|date=15 juillet 2024}}.
+
+Des protections ont été installées ultérieurement après constatation d'un trafic s'élevant à {{Unité|100000|véhicules}} par jour. Contrairement à l'A6a, dont le tracé a été dessiné à travers le tissu urbain existant, l'A6b reprend le tracé d'un axe historique (chemin entre la porte d'Italie et le village de [[L'Haÿ-les-Roses]])<ref>IGN – Remonter le temps {{lire en ligne|url=https://remonterletemps.ign.fr/comparer/basic?x=2.346439&y=48.802793&z=13&layer1=GEOGRAPHICALGRIDSYSTEMS.MAPS&layer2=GEOGRAPHICALGRIDSYSTEMS.ETATMAJOR40&mode=doubleMap}}.</ref>.
+
+Pour protéger les riverains des nuisances sonores, une première couverture fut installée entre 1974 et 1978, cependant face à la vétusté et la dégradation de cette dernière au fil des années et décennies, elle fut déposée d'urgence en janvier 2001, nécessitant la fermeture de l'autoroute durant plusieurs jours, l'autoroute se retrouve dès lors en tranchée ouverte comme à l'époque de son ouverture en 1969{{Refnec|date=15 juillet 2024}}. Des travaux pour une nouvelle couverture ont été réalisés entre 2010 et 2012 au [[Le Kremlin-Bicêtre|Kremlin-Bicêtre]]. Ce projet a été estimé à 120 millions d’euros<ref>[http://www.couverturea6b.fr/ Site officiel de l’A6b]</ref>.
+{{clr}}
+<gallery mode="packed" caption="Travaux routiers au-dessus de l'autoroute A6b">
+Road work above Highway A6B in Le Kremlin-Bicetre 2011 01.jpg
+Road work above Highway A6B in Le Kremlin-Bicetre 2011 04.jpg
+Road work above Highway A6B in Le Kremlin-Bicetre 2011 11.jpg
+Road work above Highway A6B in Le Kremlin-Bicetre 2011 12.jpg
+Road work above Highway A6B in Le Kremlin-Bicetre 2011 14.jpg
+</gallery>
+
+== Lieux sensibles ==
+[[Fichier:Villabe IMG 8084.JPG|thumb|L'autoroute A6 à Villabé dont la chaussée comporte encore des dalles de béton en août 2010.]]
+[[Fichier:A6-Villabé- 2012-07-22 IMG 6136.jpg|thumb|L'autoroute A6 à Villabé pendant les travaux de réfection de la chaussée en juillet 2012. À gauche, la chaussée rénovée du sens Paris-Lyon.]]
+
+''[[Col de Bessey-en-Chaume]]'' : situé entre [[Avallon]] et [[Beaune]] à {{Unité|565|mètres}} d'altitude. Une pente dangereuse, surtout par une météo défavorable, existe en direction de [[Lyon]]. Cette pente est limitée à {{Unité|110|km/h}}, avec contrôle automatique de la vitesse. Des fermetures aux véhicules lourds ont parfois lieu pendant la période hivernale, en cas d'enneigement.
+
+Le tronçon entre [[Villabé]] et [[Saint-Germain-sur-École]], d'une longueur de {{unité|13|km}}, était, jusqu'en 2014, le dernier tronçon qui utilisait encore le revêtement d'origine en béton, datant de 1960. Ces dalles de béton offraient une adhérence et une visibilité précaires par temps de pluie (pas de drainage des eaux), étaient très inconfortables pour les automobilistes (bruits de roulement, secousses dues aux jointures entre dalles, souvent décalées), dangereuses pour les 2 roues (rainurages) et sources de nuisances sonores pour les riverains. Un renouvellement complet de la chaussée de cette section a été réalisé de 2012 à 2014<ref>{{lien web|titre=Les vieilles dalles de béton de l’A6 remplacées à partir de juillet|url=https://www.leparisien.fr/espace-premium/essonne-91/les-vieilles-dalles-de-beton-de-l-a-6-remplacees-a-partir-de-juillet-20-02-2012-1868485.php|site=le site du journal [[le Parisien]]|date=20 février 2012|consulté le=23 mars 2012}}.</ref>{{,}}<ref>{{Lien web |titre=Marché de travaux 47460-2012 : travaux de revêtement d'autoroutes 2012/S 30-047460, avis d'attribution de marché. |url=http://ted.europa.eu/udl?uri=TED:NOTICE:47460-2012:TEXT:FR:HTML |site=le site ted.europa.eu, supplément au Journal officiel de l'Union européenne consacré aux marchés publics européens |consulté le=12/04/2012}}.</ref>. Des travaux préparatoires ont dans un premier temps permis la refonte du terre-plein central et de la hauteur des dispositifs latéraux de sécurité ainsi que le relèvement des ponts. La rénovation en elle-même a consisté en la mise en œuvre d'une nouvelle couche de chaussée de {{unité|15|cm}} après fragmentation de la couche de béton en place<ref>{{lien web|titre=Autoroute A6 – Rénovation des chaussées sur les communes de Lisses et de Villabé. Communiqué de presse de la Direction régionale et interdépartementale de l'équipement et de l'aménagement Île de France, 17 avril 2012.|url=https://www.enroute.ile-de-france.developpement-durable.gouv.fr/IMG/pdf/CdP_A6-Sud-Evry_Avril-2012.pdf|site=le site internet de la Direction régionale et interdépartementale de l'équipement et de l'aménagement Île de France|consulté le=19 avril 2012}}.</ref>.
+
+== Secteurs chargés ==
+=== Région de Lyon ===
+Dans le [[tunnel de Fourvière]], de nombreux bouchons sont notables depuis [[Dardilly]] en direction de [[Lyon]]. Enfin, dans l'agglomération lyonnaise, le trafic est très dense de l'échangeur de la [[Route nationale 6 (France métropolitaine)|Nationale 6]] jusqu'à l'[[Centre d'échanges de Perrache|échangeur de Perrache]] dans le centre-ville de [[Lyon]] tous les jours. Dans les deux sens, Paris - Lyon et Lyon - Paris, l'échangeur de la N6 est toujours saturé.
+
+== Région parisienne (section non concédée) ==
+L'A6 est une des autoroutes les plus fréquentées d'[[Île-de-France]].
+
+=== Sens Lyon → Paris ===
+''Pour le tronçon [[Villabé]] vers [[Paris]] Porte d'Italie et Porte d'Orléans.''
+
+Le trafic est très dense entre {{Heure|6}} et {{Heure|9|30}} environ, accompagné d'une circulation fortement ralentie voire arrêtée à certains endroits de [[Lisses]], situé à {{unité|31|km}} de la capitale jusqu'aux portes d'[[Porte d'Italie|Italie]] et d'[[Porte d'Orléans|Orléans]] à [[Paris]]. De plus, à ces mêmes périodes, sur le tronçon entre [[Grigny (Essonne)|Grigny]] et [[Chilly-Mazarin]] en passant par la ''cuvette'' de [[Savigny-sur-Orge|Savigny]], le trafic est extrêmement ralenti.
+
+[[Fichier:Autoroute A6 Wissous.jpg|vignette|L'autoroute à [[Wissous]], en direction de [[Paris]].]]
+De nombreuses villes sont situées au bord de cet axe telles que [[Lisses]], [[Corbeil-Essonnes]], [[Villabé]], [[Évry-Courcouronnes]], [[Ris-Orangis]], [[Grigny (Essonne)|Grigny]], [[Viry-Châtillon]], [[Savigny-sur-Orge]], [[Chilly-Mazarin]], [[Wissous]], etc. De ce fait, l'A6 permet ainsi aux personnes domiciliées dans ces secteurs résidentiels d'aller travailler à [[Paris]], chaque matin.
+
+Les usagers se rendant à [[Paris]] ont une information en temps réel grâce à un panneau à message variable, au niveau de [[Wissous]] - situé à {{unité|15|km}} du boulevard périphérique de [[Paris]] - leur permettant de choisir entre l'A6a ou l'A6b, en fonction des conditions de circulation<ref>[https://www.dir.ile-de-france.developpement-durable.gouv.fr/IMG/pdf/CPA6_cle57a218.pdf communiqué de presse du 2 avril 2009 de la DIRIF sur un panneau à message variable à hauteur de Chilly-Mazarin / Wissous], consulté le 5 mars 2011.</ref>. Enfin, sur l'ensemble du tronçon, les automobilistes sont informés régulièrement par des panneaux leur indiquant les temps de parcours entre la banlieue et le boulevard périphérique. En fin de journée, le trafic peut être légèrement dense à certains endroits - souvent chargé à l'approche des deux portes de [[Paris]] - mais est moins ralenti que le matin. Enfin, les matinées des mardis et jeudis sont les deux périodes les plus denses.
+
+Le weekend et sauf événement particulier, la circulation vers [[Paris]] est plutôt fluide. Cependant les dimanches, en fin d'après-midi, la circulation peut se densifier à partir de [[Villabé]] jusqu'aux deux portes de la capitale : retours de séjours à la campagne, achats dans les grandes zones commerciales, etc.
+
+==== Vitesse moyenne entre 6 h et 10 h ====
+Selon les secteurs, les vitesses moyennes constatées sont<ref>[https://www.enroute.ile-de-france.developpement-durable.gouv.fr/IMG/pdf/vitesses_moyennes_HPM_2009_cle121ccb.pdf Vitesses moyennes du réseau Sirius - Tranche 6/10 h - Année 2009], sur « ''enroute.ile-de-france.developpement-durable.gouv.fr'' », consulté le 10 avril 2011</ref> :
+* [[Villabé]] → [[Évry-Courcouronnes]] : supérieure à {{unité|75|km/h}}
+* [[Évry-Courcouronnes]] → [[Grigny (Essonne)|Grigny]] : inférieure à {{unité|30|km/h}} (souvent aux alentours de {{unité|10|km/h}})
+* [[Grigny (Essonne)|Grigny]] → [[Savigny-sur-Orge]] : entre 30 et {{unité|45|km/h}} (souvent aux alentours de {{unité|10|km/h}})
+* [[Savigny-sur-Orge]] → [[Wissous]] : entre 45 et {{unité|60|km/h}} avec des pointes au-delà de {{unité|80|km/h}} après [[Chilly-Mazarin]] (l'échangeur A126 désengorge l'A6)
+* [[Fresnes (Val-de-Marne)|Fresnes]] → Portes [[Porte d'Italie|d'Italie]] ou [[Porte d'Orléans|d'Orléans]] : inférieure à {{unité|30|km/h}} et très ralentie à partir de [[L'Haÿ-les-Roses]].
+
+==== Vitesse moyenne entre 16 h et 20 h ====
+Selon les secteurs, les vitesses moyennes constatées sont<ref>[https://www.enroute.ile-de-france.developpement-durable.gouv.fr/IMG/pdf/vitesses_moyennes_HPS_2009_cle19bed9.pdf Vitesses moyennes du réseau Sirius - Tranche 16/20 h - Année 2009], sur « ''enroute.ile-de-france.developpement-durable.gouv.fr'' », consulté le 10 avril 2011</ref> :
+
+* [[Villabé]] → [[Évry-Courcouronnes]] : supérieure à {{unité|75|km/h}}
+* [[Évry-Courcouronnes]] → [[Grigny (Essonne)|Grigny]] : {{unité|60|km/h}} en moyenne
+* [[Viry-Châtillon]] → [[Wissous]] : au-delà de {{unité|60|km/h}} et plus de {{unité|90|km/h}} après [[Savigny-sur-Orge]]
+* [[Wissous]] → [[Arcueil]] : entre 45 et {{unité|60|km/h}}
+* [[Arcueil]] → Portes d'Italie ou d'Orléans : inférieure à {{unité|30|km/h}} (souvent, vitesse entre 3 et {{unité|6|km/h}}).
+
+=== Sens Paris → Lyon ===
+Les matins de semaine, le trafic connaît quelques difficultés de circulation à certains endroits. Il faut compter en moyenne 25 minutes entre la porte d'Italie et [[Évry-Courcouronnes]] ({{unité|29|kilomètres}}). Cependant, le trafic se charge considérablement des deux portes de [[Paris]] jusqu'à [[Évry-Courcouronnes]] entre 16 h et 20 h. Le plus souvent, les embouteillages se localisent entre [[Wissous]] et [[Savigny-sur-Orge]] en passant par l'échangeur A126 en provenance de [[Massy (Essonne)|Massy]], soit un total {{unité|10|kilomètres}} environ.
+
+=== Info trafic en direct ===
+Le site internet [[Sytadin]] permet de visualiser en direct le trafic de l'A6 en [[Île-de-France]] ou sur téléphone portable.
+
+[[EFM (radio)]], radio sud-francilienne, fait le point sur le trafic de l'A6 tous les quarts d'heure le matin et toutes les demi-heures le soir, en semaine.
+
+[[France Bleu 107.1]] (ex-France Bleu Île-de-France) permet le matin (de {{Heure|7|}} à {{Heure|10|}}) et le soir (de {{Heure|17|30}} à {{Heure|21|}}) aux conducteurs de partager en direct des informations sur les accidents et autres dangers de la route dans l'émission ''On fait la route ensemble'' du lundi au dimanche. Toutes les nuits, un point sur les fermetures d'autoroutes et de routes nationales est diffusé tous les quarts d'heures.
+
+== Particularités ==
+Pendant ces périodes, l'autoroute est particulièrement chargée en direction du sud en début de congé puis, dans un second temps, en direction de [[Paris]] en fin de vacances. Durant le dernier weekend de juillet et le premier weekend d'août, la circulation est régulièrement bloquée dans les deux sens sur des centaines de kilomètres. Cette période est surnommée le ''[[Chassé-croisé entre les juillettistes et les aoûtiens|chassé-croisé]]'' entre les [[Île-de-France|Franciliens]] dits ''juillettistes'' qui terminent leurs vacances et ceux dits ''aoûtiens'' qui les commencent.
+
+=== Vacances scolaires ===
+Cette autoroute est très utilisée en période de [[congés payés|congés]] car elle permet aux personnes vivant dans le nord de la [[France]] et aux [[Île-de-France|Franciliens]] de rejoindre les côtes de la [[Mer Méditerranée|Méditerranée]] et plus généralement le sud-est de la France (par l'[[Autoroute A7 (France)|A7]] de [[Lyon]] à [[Marseille]]).
+
+=== Vacances de Noël et d'hiver ===
+Elle permet également de rejoindre les [[Alpes]] via [[Lyon]] pour les stations de sport d'hiver.
+
+=== Désengorgement ===
+L'[[Autoroute A5 (France)|autoroute A5]] a été construite entre [[1990]] et [[1995]] pour désengorger l'A6 aux abords de Paris. Ainsi, l'automobiliste qui vient du sud a la possibilité, à hauteur de [[Beaune]], de quitter l'A6 pour emprunter l'[[Autoroute A31 (France)|autoroute A31]] pendant environ {{unité|120|kilomètres}}. Ce trajet l'amène jusqu'aux abords de [[Marac]] ([[Haute-Marne]]) où débute l'[[Autoroute A5 (France)|autoroute A5]] qui permet de rejoindre la région Est de l'[[Île-de-France]] en passant au sud de [[Chaumont (Haute-Marne)|Chaumont]] et de [[Troyes]] et au nord de [[Melun]]. Il est également possible de passer de l'A6 à l'A5 en empruntant l'A19 entre [[Piffonds]] au nord-est de [[Courtenay (Loiret)|Courtenay]], et [[La Chapelle-sur-Oreuse]] au nord de [[Sens (Yonne)|Sens]]. Toutefois, la tarification en vigueur ainsi que les moteurs de recherche d'itinéraires n'incitent pas les usagers de l'est parisien à briser l'habitude du détour par la [[porte d'Italie]] ou par [[Évry-Courcouronnes]].
+
+Depuis 2004, après la construction de [[viaduc de Millau]] sur l’[[Autoroute A75 (France)|autoroute A75]] [[Clermont-Ferrand]] – [[Béziers]], qui permet de relier le nord de l'Europe à l'Espagne sans faire de détour par l'A6 puis l'A7 (diminution du temps de trajet entre le nord de la France et Barcelone), l'autoroute A6 a été déchargée de beaucoup de vacanciers en route vers Perpignan et l'Espagne.
+
+== Lieux touristiques ==
+{{colonnes|nombre=2|
+* [[Paris]] ([[tour Eiffel]], [[Cathédrale Notre-Dame de Paris|Notre-Dame]], [[Avenue des Champs-Élysées|Champs-Élysées]]…)
+* [[Savigny-sur-Orge]] ([[Lycée Jean-Baptiste-Corot - Le Château#Le château de Savigny|château]])
+* [[Maincy]] ([[château de Vaux-le-Vicomte]])
+* [[Fontainebleau]] ([[Château de Fontainebleau|château]], [[Forêt de Fontainebleau|forêt]], [[obélisque de Marie-Antoinette]])
+* [[Joigny]]
+* [[Auxerre]] ([[Cathédrale Saint-Étienne d'Auxerre|cathédrale Saint-Étienne]], [[Abbaye Saint-Germain d'Auxerre|abbaye Saint-Germain]], [[Centre-ville d'Auxerre|centre-ville]])
+* [[Irancy]] ([[Irancy (AOC)|vins rouges]])
+* [[Chablis (Yonne)|Chablis]] ([[Chablis (AOC)|vins blancs]])
+* [[Arcy-sur-Cure]]
+* [[Sermizelles]] ([[camp antique de Cora]])
+* [[Vézelay]] ([[Basilique Sainte-Marie-Madeleine de Vézelay|basilique Sainte-Marie-Madeleine]])
+* [[Avallon]] (fortifications de [[Sébastien Le Prestre de Vauban|Vauban]] et sa tour de l'horloge, vallée du [[Cousin (rivière)|Cousin]])
+* [[Autun]]
+* [[Semur-en-Auxois]] ([[Collégiale Notre-Dame de Semur-en-Auxois|collégiale]] et fortifications)
+* [[Saulieu]] ([[Basilique Saint-Andoche de Saulieu|basilique Saint-Andoche]])
+* [[Éguilly]] ([[Château d'Éguilly|château]])
+* [[La Rochepot]] ([[Château de La Rochepot|château]])
+* [[Beaune]] ([[Beaune (AOC)|caves vinicoles]], [[Hospices de Beaune|hospices]])
+* [[Merceuil]] ([[archéodrome de Beaune]], fermé en octobre 2005)
+* [[Chalon-sur-Saône]]
+* [[Tournus]] (église Saint-Philibert : exemple original du roman [[Bourgogne (ancienne région administrative)|bourguignon]])
+* [[Vergisson]] ([[roche de Vergisson]])
+* [[Villefranche-sur-Saône]], le [[Beaujolais]] et le pays des [[Pierres dorées]]
+* [[Lyon]], ville classée au patrimoine mondial de l'Unesco.
+}}
+
+== Insolite ==
+* Entre le 22 août 1984 et le 2 avril 2005, une vingtaine de jeunes femmes sont victimes de crimes ou de disparitions mystérieuses {{Citation|dans un rayon de 200 kilomètres le long de l'autoroute A6}}. Ce dossier des « [[disparues de l'A6]] » connaît de nombreux rebondissements, l'enquête policière ayant pu élucider certains meurtres mais hésitant pour les autres à y voir des coïncidences ou les actes d'un ou de plusieurs [[Tueur en série|tueurs en série]]<ref>{{Lien web |auteur=Elsa Vigoureux |titre=Les étranges meurtres de l'autoroute A6 |url=https://www.nouvelobs.com/societe/20111217.OBS7007/les-etranges-meurtres-de-l-autoroute-a6.html |site=[[Le Nouvel Obs|Le Nouvel Observateur]] |date=17 décembre 2011 |consulté le=23 septembre 2014}}.</ref>.
+* Depuis 1992<ref>D'après le [http://www.distrimix.com/demo/communication.htm site de l'entreprise en question], consulté le 23 septembre 2014.</ref>, sur la commune de [[Senan (Yonne)|Senan]] dans l'[[Yonne (département)|Yonne]], entre [[Joigny]] et [[Auxerre]], une publicité géante est dessinée par la taille particulière d'un champ à flanc de colline de façon à être vue de loin par les automobilistes, dans le sens [[Paris]] - [[Lyon]]. Le slogan change tous les ans à l'occasion de la récolte, l'été.
+* Avec {{unité|66|km}}, la distance entre les sorties 23 et 24 est la plus longue sur une autoroute française mais la bifurcation A6/A38, située entre les deux, permet de rejoindre rapidement le réseau classique.
+== Œuvres d'art ==
+Plusieurs œuvres d'art (que l'on nomme [[art d'autoroute]]) sont disposées le long du parcours de l'autoroute. Les plus remarquables étant<ref>{{Lien web |titre=A la découverte des œuvres d’art près des autoroutes |url=https://voyage.aprr.fr/autoroute-info/la-decouverte-des-oeuvres-dart-pres-des-autoroutes |site=aprr.fr |consulté le=17 décembre 2021}}.</ref> :
+* aire de repos de Fleury : la ''fresque de Fleury'', du peintre Djoka Ivackovic, réalisée en céramique par le maître céramiste Alain Girard en 1991 ;
+* aire de Villiers : ''Mignonne allons voir'', sept sculptures réalisées en 1989 par France Siptrott et Hugues Siptrott ;
+* aire du Curney : le ''Mémorial pour l’avenir'', mémorial en souvenir de l'[[accident de Beaune]], réalisé en 1985 par Françoise Jolivet ;
+* au niveau de la jonction de l'A46 et de l'A6 : le ''[[Signe infini]]'', sculpture réalisée en 1993 par [[Marta Pan]].
+
+En outre, entre [[Laives (Saône-et-Loire)|Laives]] et [[Jugy]], sur l'aire de Jugy, sont installées quatre grandes structures simulant des champignons et un personnage (''Champignon Jaune'', ''Champignon Bleu'', ''Champignon Violet'', et ''Champignon Rouge'')<ref>{{Lien web |auteur=Jean-Marc Schwartz |titre=L'aire de Jugy |url=https://voyage.aprr.fr/aires-sur-autoroute/aires-de-repos/aire-de-jugy |site=voyage.aprr.fr |consulté le=23 mars 2022 |citation=Bien connue des familles, cette aire, célèbre pour ses jeux en forme de champignons, a fait le bonheur des enfants durant de nombreuses années}}.</ref>{{,}}<ref>[https://soundcloud.com/autorouteinfo/laire-de-jugy-laboratoire-dexperimentation-pour-les-autoroutes-aprr ''L'aire de Jugy, laboratoire d'expérimentation pour les autoroutes APRR''], sur le site soundcloud.com.</ref>.
+
+Deux œuvres en mosaïque de l'artiste [[Invader (artiste)|Invader]] ont également été posées sur le tracé de l'autoroute :
+* PA_306 : autoportrait en noir et blanc de l'artiste réalisé en juillet 2000<ref>{{Ouvrage|langue=fr|auteur1=[[Invader (artiste)|Invader]]|titre=L'Invasion de Paris (tomes 1 et 2)|lieu=Montreuil|éditeur=Control P Editions|date=avril 2012|pages totales=255|isbn=978-2954125916}}.</ref>, et qui était visible en direction du nord, à hauteur de la rue de Chevilly à [[l'Haÿ-les-Roses]] ;
+* PA_1184 : [[Space Invaders|space invaders]] blanc réalisé en décembre 2015, visible en direction du sud à hauteur du parc municipal des sports de [[Chevilly-Larue]].
+
+== Dans la culture ==
+=== Littérature ===
+Dans son livre ''[[Les Autonautes de la cosmoroute]]'' (''Los Autonautas de la cosmopista''), l'écrivain argentin [[Julio Cortázar]] raconte le voyage de trente-deux jours fait avec son épouse, l'autrice américaine [[Carol Dunlop]] sur l'{{citation|autoroute du soleil}} (les autoroutes A6 et A7), entre Paris et Marseille.
+
+=== Cinéma ===
+* [[2016 au cinéma|2016]] : [[À fond (film)|À fond]], de [[Nicolas Benamou]] avec [[José Garcia]], la Danjoon Medusa de Tom Cox reste bloquée à {{unité|160|km/h}} sur cette autoroute.
+
+== Notes et références ==
+=== Notes ===
+{{Références|group=note}}
+
+=== Références ===
+{{Références | références=
+
+<ref name="grandlyon.com">{{Lien archive|titre=Requalification de l'autoroute A6-A7 - La Métropole de Lyon |url=https://www.grandlyon.com/actions/requalification-autoroute-a6-a7.html |site=grandlyon.com |horodatage archive=20210508011549}}.</ref>
+
+}}
+
+== Voir aussi ==
+{{Autres projets|commons=Category:A6 autoroute (France)}}
+
+=== Articles connexes ===
+* [[Liste des autoroutes de France]]
+* [[Route européenne 5]]
+* [[Route européenne 15]]
+* [[Route européenne 21]]
+* [[Route européenne 60]]
+
+=== Liens externes ===
+{{Liens}}
+* {{Lien web |titre=APRR, site officiel |url=http://www.parisrhinrhone.com/ |site=parisrhinrhone.com |consulté le= |brisé le=30 septembre 2026 |archive-url=https://archive.wikiwix.com/cache/index2.php?url=http%3A%2F%2Fwww.parisrhinrhone.com%2F |archive-date=24 février 2011}}
+* [http://saratlas.free.fr/index.php?page=autoroute&route=a6&lang=fr Autoroute A6 dans Saratlas]
+* [https://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A6 Fiche autoroutière de l'A6 sur WikiSara]
+* [https://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A106 Fiche autoroutière de l'A106 sur WikiSara]
+* [https://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A126 Fiche autoroutière de l'A126 sur WikiSara]
+
+=== Bibliographie ===
+* {{Ouvrage|langue=fr|prénom1=Jean-Luc|nom1=France Barbou|titre=La difficile genèse de l'autoroute du Sud|sous-titre=1934-1964|lieu=Paris|éditeur=Presses de l’École Nationale des Ponts et Chaussées|année=2010|pages totales=320|isbn=978-2-85978-453-9|présentation en ligne=https://www.presses-des-ponts.fr/notre-librairie/273-la-difficile-genese-de-lautoroute-du-sud-1934-1964.html}}
+* Carte-guide, édition juin 2009, 48 pages, groupe APRR.
+* ''[[Les Autonautes de la cosmoroute]]''
+
+{{Palette|Autoroutes de France}}
+{{Portail|transports en Île-de-France|route|Île-de-France|Bourgogne}}
+
+[[Catégorie:Autoroute en Île-de-France|006]]
+[[Catégorie:Autoroute en Centre-Val de Loire|006]]
+[[Catégorie:Autoroute en Bourgogne-Franche-Comté|006]]
+[[Catégorie:Autoroute en Auvergne-Rhône-Alpes|006]]
+[[Catégorie:Autoroute A6 (France)|*]]

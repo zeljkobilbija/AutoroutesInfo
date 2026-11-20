@@ -1,0 +1,314 @@
+{{Voir homonymes|A4|Autoroute A4|Autoroute de l'Est}}
+{{Infobox Route/France
+| statut = A
+| numéro = 4
+| image = Autoroute A4 vue depuis Pont Nogent Champigny Marne 1.jpg
+| légende = L'autoroute A4 depuis le pont de Nogent, à [[Champigny-sur-Marne]] ([[Val-de-Marne]]), en mai 2020.
+| autres_noms = Autoroute de l'Est (E25, E50)
+| ouverture = de 1970 à 1976
+| longueur = 482
+| direction = ouest / est
+| intersections = {{route européenne|15}} {{route européenne|50}} [[Boulevard périphérique de Paris|Boulevard Périphérique]] à [[Quartier de Bercy|Bercy]]<br>{{Autoroute française|A86}} à [[Saint-Maurice (Val-de-Marne)|Saint-Maurice]] et [[Champigny-sur-Marne]]<br>{{Route nationale|104|France}} à [[Émerainville]]<br>{{Autoroute française|A104}} à [[Croissy-Beaubourg]]<br>{{Autoroute française|A140}} à [[Quincy-Voisins]]<br>{{Autoroute française|A344}} à [[Thillois]]<br>{{Route européenne|17}} {{Route européenne|46}} {{Autoroute française|A26}} à [[Ormes (Marne)|Ormes]]<br>{{Route européenne|46}} {{Autoroute française|A34}} à [[Taissy]]<br>{{Route européenne|17}} {{Autoroute française|A26}} à [[La Veuve (Marne)|La Veuve]]<br>{{Route européenne|21}} {{Route européenne|25}} {{Autoroute française|A31}} à [[Hauconcourt]]<br>{{Autoroute française|A314}} et {{Autoroute française|A315}} à [[Mey]]<br>{{Route européenne|50}} {{Autoroute française|A320}} à [[Freyming-Merlebach]]<br>{{Route nationale|4|France métropolitaine}} à [[Phalsbourg]]<br>{{Autoroute française|A340}} à [[Brumath]]<br>{{Autoroute française|A35}} Nord (direction [[Allemagne]]) et {{Route européenne|25}} {{Autoroute française|A355}} (direction A35 Sud) à [[Vendenheim]]
+| villes_principales = [[Paris]], [[Champigny-sur-Marne]], [[Noisy-le-Grand]], [[Marne-la-Vallée]], [[Meaux]], [[Château-Thierry]], [[Reims]], [[Châlons-en-Champagne]], [[Verdun]], [[Metz]], [[Saint-Avold]], [[Saverne]]
+| réseau = [[Liste des autoroutes de France|Autoroute française]] {{Route européenne|17}} {{Route européenne|25}} {{Route européenne|46}} {{Route européenne|50}} {{Route européenne|54}}
+| dir1 = ouest
+| ville1 = {{route européenne|54}} à [[Paris]]
+| dir2 = est
+| ville2 = {{Route métropolitaine A|A35|35}} à [[Reichstett]] ([[Strasbourg]])
+| régions = [[Île-de-France]], [[Hauts-de-France]], [[Grand Est]]
+| départements = [[Paris]], [[Val-de-Marne]], [[Seine-Saint-Denis]], [[Seine-et-Marne]], [[Aisne (département)|Aisne]], [[Marne (département)|Marne]], [[Meuse (département)|Meuse]], [[Meurthe-et-Moselle]], [[Moselle (département)|Moselle]], [[Bas-Rhin]] ([[Collectivité européenne d'Alsace]])
+| concessionnaire = [[Société des autoroutes du Nord et de l'Est de la France|SANEF]] (entre Noisy-le-Grand et Reichstett)
+| gestionnaire = [[Direction interdépartementale des Routes#Direction des routes d'Île-de-France (DIRIF)|DIR Île-de-France]] (entre Paris et Noisy-le-Grand)
+}}
+{{maplink|frame=yes|plain=yes|frame-width=290|frame-height=460|type=line|stroke-width=2|zoom=5}}
+L''''autoroute A4''' (aussi appelée '''autoroute de l'Est''') est une [[autoroute]] [[France|française]] reliant Paris ([[Boulevard périphérique de Paris|boulevard périphérique]]) à [[Strasbourg]], via [[Reims]] et [[Metz]].
+
+[[Fichier:Autoroute A4 vue depuis Pont Avenue Tremblay Paris 4.jpg|vignette|Autoroute A4 vue depuis le pont de l'[[avenue du Tremblay]] à Paris en mai 2020.]]
+L’autoroute dessert la banlieue Est de Paris. Elle traverse, selon une orientation est-ouest, la ville nouvelle de [[Marne-la-Vallée]], comme le fait la {{Lnobr|Ligne A du RER d'Île-de-France|ligne A du RER}}, et permet d'atteindre le complexe de loisirs de [[Disneyland Paris]]. Elle dessert ensuite [[Reims]] puis [[Metz]] pour se terminer à [[Strasbourg]]. Par ses extensions, elle se connecte à l’[[Allemagne]] et, en particulier, à l’Allemagne du Sud.
+
+L’autoroute A4 est gérée par la [[DIR Île de France|DiRIF]] de la [[Porte de Bercy]] jusqu'à [[Noisy-le-Grand]], où elle est totalement gratuite. La reste de l'A4 est en très grande partie concédée par la [[Société des autoroutes du Nord et de l'Est de la France|SANEF]], jusqu'à [[Reichstett]] (près de Strasbourg), où elle est payante. La concession a pour terme le {{Date|31 décembre 2032}}. Elle est couverte par la radio [[107.7 FM]]. Dans ses tout derniers kilomètres, l'A4 est gérée par l'[[Eurométropole de Strasbourg]].
+
+== Historique ==
+Sa construction a commencé au tout début des [[années 1970]] aux abords de Paris. Une première section a été mise en service entre la porte de Bercy et [[Joinville-le-Pont]] en [[1974]]. Progressivement les autres sections, de Joinville à l’est de Metz sont entrées en service en 1975 et 1976.
+
+Les anciennes autoroutes [[Autoroute A32 (France)|A32]] et [[Autoroute A34 (France)|A34]] ([[Metz]]-[[Merlebach]] et Merlebach-Strasbourg) ont ensuite été intégrées en 1982 à l’autoroute A4.
+
+* Section Porte de Bercy - [[Saint-Maurice (Val-de-Marne)|Saint-Maurice]] : première chaussée 1974, deuxième 1975.
+* Section Saint-Maurice - [[Joinville-le-Pont]] : première chaussée 1974, deuxième 1975.
+* Section Joinville - [[Coutevroult]] : {{date|20 octobre 1976}}, après une lutte locale pour que la section à péage ne soit pas implantée en proche banlieue<ref>{{Lien web
+|titre=Selon un responsable communiste du Val-de-Marne Le gouvernement renoncerait au péage sur l'autoroute A 4
+|site=Le Monde |date=7 septembre 1976
+|url=https://www.lemonde.fr/archives/article/1976/09/07/selon-un-responsable-communiste-du-val-de-marne-le-gouvernement-renoncerait-au-peage-sur-l-autoroute-a-4_3125104_1819218.html#
+|consulté le=2 octobre 2017}}.</ref>.
+* Section Coutevroult - [[Bouleurs]] : 1975.
+* Section Bouleurs - [[Château-Thierry]] : 1976.
+* Section Château-Thierry - [[Tinqueux]] : 1975.
+* Section Tinqueux - [[Les Islettes]] : 1976.
+* Section Les Islettes - [[Autoroute A31 (France)|A31]] : 1975.
+* Section [[Autoroute A31 (France)|A31]] - Metz-est : 1976.
+* Section Metz-est - Merlebach : 1971 (ex-[[Autoroute A32 (France)|A32]]).
+* Section Merlebach - [[Mundolsheim]] : [[1976]] (ex-[[Autoroute A34 (France)|A34]]).
+* Section Mundolsheim - Strasbourg : [[1972]] (ex-A34).
+* Construction de l’autoroute [[Autoroute A86 (France)|A86]] : les deux autoroutes ont un tronçon commun entre [[Champigny-sur-Marne]] et [[Saint-Maurice (Val-de-Marne)]].
+* Travaux pour la mise en place d’un dispositif d’exploitation dynamique pour tenter de réduire l’effet goulot posé par la jonction A4/A86 : [[2005]].
+* Contournement sud de Reims : [[2010]].
+* Suppression du dispositif d'exploitation dynamique<ref>{{Lien web |url=http://www.dir.ile-de-france.developpement-durable.gouv.fr/amenagement-du-pont-de-nogent-sur-marne-mise-en-a1231.html |titre=Aménagement du pont de Nogent-sur-Marne. Mise en service de la nouvelle bretelle d’entrée sur l’A4 direction Paris depuis Champigny-sur-Marne le 1er octobre 2018 |date=28 septembre 2018 |site=direction des routes d'Île-de-France |consulté le=8 mars 2019}}.</ref>: 2018.
+* Suppression des croisements de flux principaux : A86 intérieure nord vers A4 province avec tous les trafics de surface y compris l'entrée vers A4 Paris et Créteil : 2019.
+* Déclassement en route métropolitaine M35 de la portion Reichstett / Strasbourg - Place de Haguenau : 2021.
+
+Un incident est survenu pendant une intervention sur la ligne de [[Ligne de Paris-Est à Mulhouse-Ville|Paris à Bâle]] au mois d'{{date|août 1975}}, lors de la pose d'un [[Tablier (pont)|tablier]] sur la future autoroute A4 à [[Champigny-sur-Marne]] où la grue ferroviaire [[Diplodocus (chemin de fer)|Diplodocus]] du [[5e régiment du génie|{{5e}} régiment du génie]] bascule et se retrouve couché sur le flanc{{Source insuffisante|date=mars 2025}}<ref>Incident du Diplodocus [https://forum.e-train.fr/trains/download/file.php?id=133893 '''''ICI'''''] et [https://forum.e-train.fr/trains/download/file.php?id=133894 '''''ICI'''''], sur forum-train.fr. Consulté le 5 juillet 2014.</ref>{{,}}<ref group="Note">Le trafic est interrompu, pendant un mois environ au lieu de quelques nuits et week-end, et reporté sur la Grande Ceinture Complémentaire électrifiée par anticipation pour ce chantier désastreux.</ref>.
+
+L’A4, longue de {{unité|482|km}}, est la troisième [[Liste des autoroutes de France|autoroute la plus longue de France]], derrière l'[[Autoroute A10 (France)|A10]] et ses {{unité|557|km}}, et l'[[Autoroute A89 (France)|A89]] et ses {{unité|544|km}}. Sur l'intégralité du parcours (Strasbourg-Paris), on comptait huit péages avant la mise en service du contournement sud de [[Reims]] supprimant du tracé principal les barrières de [[Dormans]] (à l'ouest de Reims) et [[Taissy]] (à l'est de Reims). Sur le trajet entre Paris et [[Metz]], il n'y a plus de barrières intermédiaires entre [[Montreuil-aux-Lions]] et Beaumont.
+
+La mise en service du contournement de Reims et le déclassement de la portion strasbourgeoise de l'autoroute justifient la renumérotation des sorties situées entre Reims et Strasbourg, opérée par le concessionnaire en {{date|octobre 2021}}<ref name="a">{{Lien web|titre=Renumérotation de 25 échangeurs de l’autoroute A4|auteur=Observatoire Régional Transports & Logistique du Grand Est|url=https://www.ortl-grandest.fr/renumerotation-echangeurs-autoroute-a4/#:~:text=Du%20fait%20de%20l'ensemble,peut%20%C3%AAtre%20source%20de%20confusions.|date=15 octobre 2021|site=ortl-grandest.fr|consulté le=5 mars 2024}}.</ref>.
+
+== Itinéraire ==
+Le kilomètre zéro de l'autoroute se situe à la [[porte de Bercy]], à Paris. L'A4 passe au pied du [[Chasseur à pied (Auguste Arnaud)|« Chasseur de Vincennes »]] puis, après seulement quelques kilomètres, collecte le trafic de l'[[Autoroute A86 (France)|A86 Sud]]. L'autoroute est parallèle à la [[Seine]] jusqu'au confluent avec la [[Marne (rivière)|Marne]] puis longe cette rivière à [[Charenton-le-Pont]] et [[Saint-Maurice (Val-de-Marne)|Saint-Maurice]] en surplomb du [[Allée du Moulin des Corbeaux|chemin de halage-voie verte]] séparé par un [[mur anti-bruit]] jusqu'à l'échangeur avec cette autoroute. Ce tronçon le long de la Marne a été établi en 1974-1975 à l'emplacement de l'ancien [[canal de Saint-Maurice]] remblayé vers 1950.
+
+Cette portion commune à l'A4 et à l'A86 est l'une des sections autoroutières les plus chargées d'Europe avec {{Unité|244000| véhicules}} par jour en 2008<ref>{{pdf}} {{Lien web |titre = La circulation routière en Île-de-France en 2010 |url = http://www.omnil.fr/IMG/pdf/la_circulation_routiere_en_idf_en_2010.pdf|site = omnil.fr|date = Mai 2013 |page = 19 & 31 |consulté le = 28 octobre 2017}}.</ref>, loin devant le fameux M25 de Londres ou l'A4 italienne à Milan. Cette portion demeure souvent saturée aux heures de pointe. L'A4 se déleste ensuite du flux de véhicules se dirigeant vers le nord de la région parisienne, vers l'aéroport de [[Aéroport de Paris-Charles-de-Gaulle|Roissy-Charles-de-Gaulle]], le Nord de la France et la [[Belgique]] puis l'A86 est de nouveau distincte de l'A4. Malgré un habitat urbain dense, le tracé de la chaussée est rectiligne, permettant une hausse régulière de la vitesse maximale autorisée. L'autoroute croise ensuite la [[Francilienne]], avec laquelle, et comme pour l'A86, elle partage une courte section commune. Venant de l'Est, la bifurcation dite de [[Collégien (Seine-et-Marne)|Collégien]] marque la sortie de la banlieue parisienne. La première [[Aire de repos et de service autoroutière#Aire de service|aire de service]] se situe au niveau de [[Ferrières-en-Brie]]. À hauteur de celle-ci, la vitesse limite est fixée à {{Unité|130|km/h}}. Le trafic devient moins dense, l'habitat est plus épars, sans pour autant devenir champêtre et les sorties sont plus espacées. L'A4 croise ensuite la [[LGV Interconnexion Est|LGV de contournement Est de l'Île-de-France]], non loin de la [[gare de Marne-la-Vallée - Chessy]].
+
+La première [[Péage|barrière de péage]] de pleine voie se situe à [[Coutevroult]]. Pour autant, l'autoroute redevient gratuite sur une très courte portion entre la sortie 15 et l'embranchement avec l'[[Autoroute A140 (France)|A140]]. Dans les faits, la plupart des automobilistes en transit ne remarquent pas cette courte section gratuite<ref group="Note">Le cahier des charges imposait de réaliser un tronc commun avec la déviation locale de l'ex RN36 entre Melun et Meaux et donc en toute gratuité</ref>. L'A4 perd le flux se dirigeant sur l'A140, desservant [[Meaux]]. Elle est maintenant configurée comme une autoroute de liaison standard, à 2×2 voies. En effet c'est ici qu'elle perd sa vocation intra-urbaine. Le trafic chute donc brutalement.
+
+Le tracé est exclusivement à dominante champêtre. [[La Ferté-sous-Jouarre]] est contournée au nord, de même que [[Château-Thierry]]. Après la deuxième barrière de péage, à [[Montreuil-aux-Lions]], le tracé pénètre en [[Picardie (ancienne région administrative)|Picardie]]. Le tracé de la [[LGV Est européenne]] est jumelé avec l'A4 entre Château-Thierry et l'aire de repos de Reims-Champagne, {{Unité|20|km}} à l'est de Reims. Au niveau de la sortie 21, desservant [[Épernay]], on peut encore apercevoir les traces de l'ancien péage pleine voie de Dormans, détruit à la suite de l'ouverture du contournement sud de Reims.
+
+L'A4 entre maintenant dans la [[Marne (département)|Marne]]. Elle se dirige ensuite vers [[Reims]]. Depuis 2010, la ville est contournée par le sud. À l'ouest de la ville, l'autoroute collecte le trafic provenant du nord de la France, de la Grande-Bretagne et de la partie occidentale de la Belgique, par l'[[Autoroute A26 (France)|A26]]. Les deux autoroutes partagent une section commune sur une trentaine de kilomètres. L'A4 demeure ici sous une configuration 2×2 voies, malgré l'importance du trafic. Sur cette portion, on peut apercevoir au sud la [[montagne de Reims]] et ses prestigieux vignobles. L'A4 se déleste ensuite du flux continuant sur l'A26, à destination du sud de la France. C'est à ce niveau que le tracé devient particulièrement rectiligne et monotone. Sur près de {{Unité|50|kilomètres}}, l'autoroute traverse la plaine de Champagne, terre agricole aujourd'hui réputée pour sa fertilité (parfois encore nommée [[Champagne crayeuse]]). [[Châlons-en-Champagne]] est laissée {{Unité|10|kilomètres}} au sud.
+
+La sortie 26 desservant [[Sainte-Menehould]] marque la fin de la plaine de Champagne et le seuil de l'[[Argonne (région)|Argonne]]. L'autoroute pénètre alors au cœur du massif forestier d'Argonne. Le tracé devient légèrement plus complexe, sans présenter de difficultés majeures, hormis des gelées fréquentes l'hiver, cédant tard dans la journée. La [[Biesme (affluent de l'Aisne)|Biesme]] est franchie ensuite, marquant la frontière entre la Marne et la [[Meuse (département)|Meuse]]. La sortie 27 signe la sortie de l'Argonne. Cette sortie est d'ouverture récente (fin des [[années 2000]]). Elle n'avait pas été jugée utile lors de l'ouverture de l'A4 au milieu des [[années 1970]]. Deux arguments majeurs ont permis cette ouverture : le désenclavement de l'Argonne et du Nord-Ouest Meusien ont été mis en avant. À cela s'est ajouté le développement du [[Écotourisme|tourisme vert]] porté par le massif forestier, potentialisé par la proximité relative de la région parisienne située à deux heures de trajet.
+
+L'A4 croise la [[Voie sacrée (Verdun)|Voie sacrée]], qui relie [[Bar-le-Duc]] à [[Verdun]], au niveau de la sortie 28, puis franchit la [[Meuse (fleuve)|Meuse]] à la sortie 29 (demi-échangeur). L'autoroute gravit ensuite les [[côtes de Meuse]], au cours d'une ascension à forte pente (6 %). Après l'aire de service de Verdun-Saint-Nicolas, et la descente des côtes de Meuse, l'A4 coupe quasiment en son centre la plaine de la [[Woëvre]]. Elle croise successivement trois voies ferrées toujours en service : la ligne non électrifiée de Châlons-en-Champagne à Metz via Verdun, la ligne reliant Longwy à Pagny-sur-Moselle et la ligne de Jarny à Hagondange. Après l'aire de Metz-Saint-Privat, l'A4 entame une longue descente vers la [[vallée de la Moselle]]. Le tracé se fait plus complexe et le tissu urbain plus dense. À partir de la sortie 34, l'A4 devient également un axe de liaison interurbain (contournement est de Metz). Conséquemment, elle devient gratuite jusqu'à l'[[Autoroute A314 (France)|A314]] desservant Metz-Est. Elle croise l'[[Autoroute A31 (France)|A31]] au droit d'[[Hauconcourt]] et perd le trafic à destination de Luxembourg et de Metz-Centre, pour collecter celui à destination de Metz-Est. La Moselle est traversée à [[Argancy]]. Metz est contournée à une dizaine de kilomètres au nord et à l'est. L'A4 redevient payante lorsqu'elle collecte le trafic venant de Metz vers Strasbourg.
+
+Après la traversée du [[plateau lorrain]], elle débouche dans le [[Bassin houiller lorrain|bassin houiller est-mosellan]]. Elle frôle [[Saint-Avold]]. Au droit de [[Freyming-Merlebach]], l'embranchement avec l'[[Autoroute A320 (France)|A320]] via l'[[échangeur de Freyming]] permet d'orienter le trafic en direction de l'[[Allemagne]] (Francfort notamment). L'A4 contourne [[Sarreguemines]] au sud. Après une courte excursion en [[Alsace bossue]], l'A4 retrouve la [[Lorraine]] non loin de [[Phalsbourg]]. C'est aussi à ce niveau qu'elle retrouve le tracé historique de Paris à Strasbourg, en croisant la [[Route nationale 4 (France métropolitaine)|route nationale 4]]. Le [[massif des Vosges]] est traversé au [[col de Saverne]]. Après [[Saverne]], l'A4 plonge dans la [[plaine d'Alsace]]. À hauteur de [[Hochfelden (Bas-Rhin)|Hochfelden]], elle redevient gratuite pour sa dernière portion. Par la suite, l'A4 croise l'[[Autoroute A340 (France)|autoroute A340]] qui permet de desservir la ville de [[Haguenau]]. À [[Vendenheim]], elle collecte le trafic provenant de l'[[Autoroute A35 (France)|A35 Nord]] et dessert l'[[Autoroute A355 (France)|A355]]. Puis l'autoroute se prolonge par la M35.
+
+== Contexte controversé sur l'option du tracé ==
+L'autoroute passe largement au nord de l'axe historique Paris-Strasbourg. Elle a longtemps été déficitaire<ref>{{Ref-Reitel 1982}}, {{p.|86}}</ref>. Pour certains usagers qui empruntent l’A4 comme pour de nombreux élus du sud lorrain, le choix du tracé nord Reims-Metz au lieu d’un tracé sud Reims-Nancy a été une erreur. Ils pouvaient escompter d'un tracé sud qu'il désengorgeât la [[Route nationale 4 (France métropolitaine)|RN 4]] et offrît une liaison autoroutière pour [[Nancy]] vers et depuis la capitale, dont le manque se ressent en [[Champagne-Ardenne]]. Dans cette optique, l’A4 aurait desservi l’agglomération nancéienne pour rejoindre l'itinéraire actuel au droit de [[Sarrebourg]], et ainsi se prolonger jusqu’à [[Strasbourg]] — l'accès à l’Allemagne via Metz était déjà aisément réalisé par une autoroute.
+
+Dans un contexte de querelle de rivalité à laquelle sont coutumières les deux villes lorraines, malgré un surcoût de 25 % par rapport au tracé plus direct, la décision de faire passer l’A4 à Metz a notamment été défendue par des considérations démographiques et économiques telles que le soutien à la reconversion du bassin sidérurgique et du [[Bassin houiller lorrain|bassin houillier]]<ref>[http://www.persee.fr/web/revues/home/prescript/article/geo_0003-4010_1997_num_106_595_20777 ''La délimitation des aires métropolitaines. Représentations et enjeu politique''], Bruno Moriset Annales de Géographie année 1997, {{n°|595}}, {{p.|243-262}}.</ref>, les partisans du tracé par Nancy ayant argué d'un développement plus global de la région. La détermination du tracé résulte de l'influence essentielle de [[Raymond Mondon (1914-1970)|Raymond Mondon]], maire de Metz de 1947 à 1970, ministre des Transports en 1969-1970, qui voulait désenclaver la ville.
+
+[[Pierre Weber]], alors maire de Nancy, avait démissionné une fois le tracé nord annoncé. En {{date|juin 1970}}, [[Roger Souchal]], député (UDR) de Meurthe-et-Moselle (circonscription de Nancy-Nord), démissionne en raison du tracé d'une autoroute, jugé trop favorable à Metz.
+
+La construction de l’A4 n’a pas permis de désenclaver la [[Meuse (département)|Meuse]] de sa ruralité comme attendu ; rares sont les entreprises à s'être installées en bord d’autoroute sur la traversée meusienne. Une A4 sud aurait profité de l’actuelle A33, tronçon reliant Nancy à [[Lunéville]].
+
+Dans une optique européenne, le tracé Nord a permis une forte amélioration de la communication avec la capitale européenne [[Luxembourg (ville)|Luxembourg]], ainsi qu'avec la région allemande de la [[Sarre (Land)|Sarre]], favorisant ainsi le développement de la structure politico-économique [[Saar-Lor-Lux]] qui est apparue dans la foulée de la mise en service de l'A4.
+
+En compensation pour Nancy, la liaison Paris – Strasbourg par Nancy ([[Route nationale 4 (France métropolitaine)|route nationale 4]]) a bénéficié par la suite d'importants crédits. Cette RN4 est efficace, plus courte en km, gratuite (l'A4 est payante), mais sous-dimensionnée, en particulier entre [[Jouy-le-Châtel]] et [[Vitry-le-François]].
+
+== Parcours ==
+'''Section non-concédée à [[Direction_interdépartementale_des_Routes#Direction des routes d'Île-de-France (DIRIF)|DIR Île-de-France]] et gratuite.'''
+* '''{{échangeur autoroutier|[[Fichier:SU4 - Rocade France.svg|22x22px]] [[Boulevard périphérique de Paris]]|A4}} (''[[Échangeur de la porte de Bercy]]'')''' à {{unité|0|km}} : 
+** [[Paris]] - ''centre '': ''[[Paris-Gare-de-Lyon|Gare de Lyon]]''
+** ''Périphérique Intérieur (Nord)'' : [[Fichier:France_road_sign_C207.svg|22x22px]] [[Autoroute A1 (France métropolitaine)|A1]] - [[Autoroute A3 (France)|A3]], Paris - ''[[Porte de Charenton]]''
+** ''Périphérique Extérieur (Sud)'' : [[Fichier:France_road_sign_C207.svg|22x22px]] [[Autoroute A6 (France)|A6]] ([[Autoroute A10 (France)|A10]]), [[Rouen]] ([[Autoroute A13 (France)|A13]]), Paris - ''[[Quai d'Ivry]]'' + {{Sortie|Porte de Bercy}} : Paris - ''[[Porte de Bercy]]''
+** [[Fichier:France road sign C207.svg|24x24px]] [[Fichier:France road sign B14 (70).svg|22x22px]] Début d'autoroute, début de {{dunité|2|5|voies}} et limitation à {{unité|70|km/h}}.
+[[Fichier:A4 (Ivry - Charenton).JPG|vignette|alt=Autoroute A4 à Charenton-le-Pont en direction de Paris|L'autoroute A4 à [[Charenton-le-Pont|Charenton]], en direction de [[Paris]].]]
+''Passage du département de [[Paris]] à celui du [[Val-de-Marne]].''
+* {{Sortie|1 Ivry-sur-Seine}} à {{unité|0,8|km}} ''(demi-échangeur, depuis et vers Strasbourg)'' : [[Ivry-sur-Seine]] 
+* {{Sortie|2 Charenton-le-Pont}} à {{unité|2|km}} ''(demi-échangeur, depuis et vers Strasbourg)'' : [[Charenton-le-Pont]] - ''centre, Bercy''
+* {{Sortie|3 Saint-Maurice ([[Route nationale 6 (France métropolitaine)|RD 6]] - [[Route nationale 19 (France)|RD 19]])}} à {{unité|2,2|km}} et {{unité|2,6|km}} ''(deux demi-échangeurs)'' : [[Maisons-Alfort]], [[Alfortville]], [[Saint-Maurice (Val-de-Marne)|Saint-Maurice]], Charenton-le-Pont - ''Gravelle''
+* '''{{échangeur autoroutier|[[Fichier:SU4 - Rocade France.svg|22x22px]] [[Autoroute A86 (France)|A86]] (Sud)|[[Fichier:SU4 - Rocade France.svg|22x22px]] A4/A86|A4}}''' à {{unité|3,6|km}} : [[Fichier:France road sign C207.svg|22x22px]] ''A6'', [[Bordeaux]] - [[Nantes]] (A10), [[Versailles]], [[Créteil]], Maisons-Alfort
+** [[Fichier:Panneau-C24a-4.svg|22x22px]] [[Fichier:France road sign B14 (90).svg|22x22px]] Passage à {{dunité|2|4|voies}} et limitation à {{unité|90|km/h}}.
+''Début du tronc commun avec l'A86.''
+* {{Sortie|4 Joinville ([[Route nationale 4 (France métropolitaine)|RD 4]])}} à {{unité|4|km}} et {{unité|6,2|km}} ''(trois-quart échangeurs, pas accessible vers Strasbourg)'' : [[Saint-Maur-des-Fossés]], [[Vincennes]], [[Joinville-le-Pont]]
+** [[Fichier:AB-Brücke.svg]] [[Viaduc de Joinville]] ({{unité|700|m}}) sur [[Fichier:Panneau cours d'eau France.png|20px]] la [[Marne (rivière)|Marne]].
+* '''{{échangeur autoroutier|[[Fichier:SU4 - Rocade France.svg|22x22px]] A86 (Nord)|[[Fichier:SU4 - Rocade France.svg|22x22px]] A4/A86|A4}}''' à {{unité|7,2|km}} ''(demi-échangeur, depuis et vers Paris)'' : ''[[Fichier:France_road_sign_C207.svg|22x22px]] [[Autoroute A15 (France)|A15]] - [[Autoroute A16 (France)|A16]]'', [[Lille]] (A1 - A3), [[Bobigny]], [[Fontenay-sous-Bois]], [[Le Perreux-sur-Marne]]
+''Fin du tronc commun avec l'A86.''
+* {{Sortie|5 Pont de Nogent ([[Route nationale 486|RN 486]] - RD 145)}} à {{unité|7,4|km}} : [[Fichier:SU4 - Rocade France.svg|22x22px]] A86, ''[[Fichier:France_road_sign_C207.svg|22x22px]] A1 - A3'', [[Nogent-sur-Marne]], [[Champigny-sur-Marne]] - ''La Fourchette'', Bobigny, Fontenay-sous-Bois, Le Perreux-sur-Marne
+** Passage à {{dunité|2|5|voies}}.
+** [[Fichier:France road sign C111.svg|25x25px]] Tunnel d'André Dreyer ({{unité|250|m}})
+** [[Fichier:France road sign C112.svg|22x22px]] Sortie du Tunnel d'André Dreyer.
+* {{Sortie|6 Champigny-sur-Marne}} à {{unité|9|km}} ''(demi-échangeur, depuis et vers Paris)'' : Champigny-sur-Marne - ''centre'', [[Bry-sur-Marne]]
+** [[Fichier:Panneau-C24a-4.svg|22x22px]] Passage à {{dunité|2|4|voies}}.
+** [[Fichier:France road sign C111.svg|25x25px]] [[Tunnel de Champigny]] ({{unité|800|m}})
+** [[Fichier:France road sign C112.svg|22x22px]] Sortie du Tunnel de Champigny.
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à {{unité|110|km/h}}.
+''Passage du département du Val-de-Marne à celui de la [[Seine-Saint-Denis]].''
+* {{Sortie|8 ''[[Porte de Paris (Marne-la-Vallée)|Porte de Paris]]'' (RD 331 - RD 231)}} à {{unité|12|km}} : [[Noisy-le-Grand]] - ''centre, [[Mont d'Est|Mont-d'Est]]'', ''[[Marne-la-Vallée]]'', [[Villiers-sur-Marne]], Bry-sur-Marne, ''[[Fichier:France road sign ID36.svg|15px|alt]] [[Arcades (galerie marchande)|Centres Commerciaux Les Arcades]], Les Armoires''
+'''Section concédée à [[Société des autoroutes du Nord et de l'Est de la France|SANEF]] et payante (sauf entre les sorties 9 à 14, 46 à 48 et le Contournement Nord-Est de Metz).'''
+* {{Sortie|9 Noisy-le-Grand (RD 194)}} à {{unité|14|km}} ''(demi-échangeur, depuis et vers Strasbourg)'' : Noisy-le-Grand - ''centre'' 
+* {{Sortie|10 ''[[Cité Descartes]]'' ([[Route nationale 370|RD 970]])}} à {{unité|15|km}} : [[Chelles]], ''Marne-la-Vallée'', [[Champs-sur-Marne]], Noisy-le-Grand - ''Richardets''
+''Passage du département de la Seine-Saint-Denis à celui de la [[Seine-et-Marne]].''
+* [[Fichier:France road sign C24a.svg|22x22px]] Passage à {{dunité|2|3|voies}}.
+* '''{{échangeur autoroutier|[[Fichier:SU4 - Rocade France.svg|22x22px]] [[Francilienne]] ([[Route nationale 104 (France)|RN 104]])|[[Route nationale 499|RD 499]]|[[Fichier:SU4 - Rocade France.svg|22x22px]] A4/A104|A4}} (''[[Échangeur de Lognes]]'')''' à {{unité|17|km}} : [[Troyes]] - [[Lyon]] ([[Autoroute A5 (France)|A5]]), [[Nancy]], Bordeaux - Nantes (A10), [[Évry-Courcouronnes]], [[Sénart]], [[Pontault-Combault]], [[Émerainville]] ; ''Marne-la-Vallée, ''[[Val Maubuée]] - centre'', [[Torcy (Seine-et-Marne)|Torcy]], [[Noisiel]]
+''Début du tronc commun avec l'A104''
+* {{Sortie|10.1 ''Val Maubuée - sud''}} à {{unité|19|km}} : ''Marne-la-Vallée'', [[Lognes]], [[Croissy-Beaubourg]], ''[[Fichier:France road sign ID35.svg|15px|alt]] Pariest''
+* '''{{échangeur autoroutier|[[Fichier:SU4 - Rocade France.svg|22x22px]] Francilienne ([[Autoroute A104 (France)|A104]])|RD 471|[[Fichier:SU4 - Rocade France.svg|22x22px]] A4/A104|A4}} (''[[Échangeur de Collégien]]'')''' à {{unité|20|km}} :  [[Fichier:France road sign C207.svg|22x22px]] ''[[Autoroute A16 (France)|A16]]'', Lille (A1), ''[[Fichier:France road sign ID2.svg|15px|alt]] [[Aéroport de Paris-Charles-de-Gaulle|Ch. De Gaulle]]'', [[Lagny-sur-Marne]], [[Collégien (Seine-et-Marne)|Collégien]] - ''centre'', ''[[Fichier:France road sign ID36.svg|15px|alt]] [[Bay 2]]'' ; [[Gretz-Armainvilliers]], [[Tournan-en-Brie]], [[Fichier:France road sign ID35.svg|15px|alt]] ''Collégien''
+''Fin du tronc commun avec l'A104''
+* {{Sortie|12 ''[[Val de Bussy]]''}} à {{unité|24|km}} : ''Marne-la-Vallée'', [[Bussy-Saint-Georges]] - ''centre'', [[Ferrières-en-Brie]], Collégien
+** [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à {{unité|130|km/h}}.
+** {{Aire de service|de [[Ferrières-en-Brie|Ferrières]]|Paris – Strasbourg|de [[Bussy-Saint-Georges]]|Strasbourg – Paris}} à {{unité|27|km}} + (en projet) {{Sortie|12.1 Bussy-Saint-Georges - ''Sycomore''}} à {{unité|27|km}} : Bussy-Saint-Georges - ''Génitoy''
+* {{sortie|12.2 ''[[Val d'Europe (Marne-la-Vallée)|Val d'Europe]]''}} à {{unité|28|km}} ''(demi-échangeur, depuis et vers Paris)'' : ''Marne-la-Vallée'', [[Montévrain]], ''[[Fichier:France road sign ID36.svg|15px|alt]] [[Val d'Europe (centre commercial)|Val d'Europe]]'' 
+* {{Sortie|13 Serris}} à {{unité|30|km}} : [[Provins]], ''Marne-la-Vallée'', ''Val de Lagny'', [[Serris]]
+* {{Sortie|14 ''[[Disneyland Paris|Parcs Disney]]'' (RD 344P)}} à {{unité|32|km}} : ''Marne-la-Vallée'', ''Val d'Europe'', [[Bailly-Romainvilliers]], ''[[Fichier:France road sign ID36.svg|15px|alt]] Val d'Europe''
+* {{Péage|Péage de Coutevroult (à système ouvert)}}
+* {{Sortie|15 Coutevroult}} à {{unité|36|km}} ''(demi-échangeur, depuis et vers Strasbourg)'' : [[Melun]], Provins, [[Fontenay-Trésigny]], [[Coutevroult]]
+* {{Sortie|16 Crécy-la-Chapelle}} à {{unité|38|km}} ''(demi-échangeur, depuis et vers Paris)'' : [[Coulommiers (Seine-et-Marne)|Coulommiers]], [[Esbly]], [[Crécy-la-Chapelle]]
+* '''{{échangeur autoroutier|[[Autoroute A140 (France)|A140]]|A4}}''' à {{unité|40|km}} : [[Meaux]] - ''centre'', [[Quincy-Voisins]], Crécy-la-Chapelle
+** [[Fichier:Panneau-C24a-2.svg|22x22px]] Passage à {{dunité|2|2|voies}}.
+** {{Aire de repos|de [[Vaucourtois]]|Paris – Strasbourg|de Prévilliers|Strasbourg – Paris}} à {{unité|46|km}} 
+* {{Sortie|18 Saint-Jean-les-Deux-Jumeaux}} à {{unité|54|km}} : [[Saint-Jean-les-Deux-Jumeaux]], [[Sammeron]], Meaux - ''est'', [[La Ferté-sous-Jouarre]], [[Trilport]]
+** {{Aire de service|d'[[Ussy-sur-Marne]]|Paris – Strasbourg|de [[Changis-sur-Marne]]|Strasbourg – Paris}} à {{unité|56|km}} 
+* {{Sortie|19 Montreuil-aux-Lions}} à {{unité|65|km}} : [[Montreuil-aux-Lions]], [[Lizy-sur-Ourcq]], La Ferté-sous-Jouarre
+* {{Péage|Péage de Montreuil-aux-Lions (à système fermé)}}
+''Passage de la région [[Île-de-France]] à la région des [[Hauts-de-France]].<br /> Passage du département de Seine-et-Marne à celui de l'[[Aisne (département)|Aisne]]''.
+* {{Aire de repos|de la Fontenelle|Paris – Strasbourg|de la Talmousse|Strasbourg – Paris}} à {{unité|78|km}}
+* {{Sortie|20 Château-Thierry}} à {{unité|85|km}} : [[Château-Thierry]], [[Soissons]], [[Fère-en-Tardenois]]
+** {{Aire de service|de [[Fresnes-en-Tardenois|Tardenois]]-Sud|Paris – Strasbourg|de Tardenois-Nord|Strasbourg – Paris}} à {{unité|97|km}} 
+''Passage de la région des Hauts-de-France à la région [[Grand Est]].<br /> Passage du département de l'Aisne à celui de la [[Marne (département)|Marne]].''<br>
+''Repassage de la région Grand Est à la région des Hauts-de-France.<br /> Repassage du département de la Marne à celui de l'Aisne.''
+* {{Sortie|21 Dormans}} à {{unité|111|km}} : [[Épernay]], [[Fismes]], [[Dormans]], Fère-en-Tardenois
+''Repassage de la région des Hauts-de-France à la région Grand-Est.<br /> Repassage du département de l'Aisne à celui de la Marne''.
+* {{Aire de repos|de Romigny|Paris – Strasbourg|de Lhéry|Strasbourg – Paris}} à {{unité|117|km}} 
+** {{Aire de service|de [[Vrigny (Marne)|Vrigny]]|Paris – Strasbourg|de [[Gueux (Marne)|Gueux]]|Strasbourg – Paris}} à {{unité|129|km}} 
+* {{Sortie|22 Reims - Thillois (A344)}} à {{unité|131|km}} : [[Reims]] - ''[[Centre-ville de Reims|centre]]'', Soissons, [[Tinqueux]]
+* '''{{Échangeur autoroutier|[[Autoroute A26 (France)|A26]] (Nord)|A4}}''' à {{unité|133|km}} : [[Calais]], [[Ville de Bruxelles|Bruxelles (Brussel)]] ([[Autoroute A2 (France)|A2]]), Lille (A1), [[Laon]], [[Rouen]] ([[Autoroute A29 (France)|A29]]), [[Saint-Quentin]], Reims - ''nord''
+* {{Sortie|23 Reims - ''sud''}} à {{unité|138|km}} : Épernay, Reims, [[Champfleury (Marne)|Champfleury]], ''[[Fichier:France road sign ID12a.svg|15px|alt]] [[Gare de Champagne-Ardenne TGV|Champagne-Ardenne]]'', ''[[Fichier:France road sign ID3.svg|15px|alt]] [[Centre hospitalier universitaire de Reims|Centre Hospitalier de Reims]]''
+* '''{{échangeur autoroutier|[[Autoroute A34 (France)|A34]]|A4}}''' à {{unité|144|km}} : [[Charleroi]], [[Charleville-Mézières]], Reims - ''est, centre'', [[Cormontreuil]]
+** {{Aire de repos|de l'Espérance|Paris – Strasbourg|de la Vesle|Strasbourg – Paris}} à {{unité|151|km}}
+** {{Aire de service|de Reims Champagne Sud|Paris – Strasbourg|de Reims Champagne Nord|Strasbourg – Paris}} à {{unité|160|km}} 
+* '''{{Échangeur autoroutier|[[Autoroute A26 (France)|A26]] (Sud)|A4}}''' à {{unité|167|km}} : Lyon, [[Orléans]] (A5), Troyes, Épernay, [[Châlons-en-Champagne]] - ''Rive Gauche''
+* {{Sortie|24 La Veuve}} à {{unité|171|km}} : Châlons-en-Champagne - ''centre, Saint Martin'', [[Vitry-le-François]], [[Mourmelon-le-Grand]], [[La Veuve (Marne)|La Veuve]]
+* {{Sortie|25 Saint-Étienne-au-Temple}} à {{unité|180|km}} : [[Bar-le-Duc]], Châlons-en-Champagne - ''centre, Mont Bernard'', [[Suippes]], [[Saint-Étienne-au-Temple]]
+** {{Aire de repos|du Mont de Charme|Paris – Strasbourg|de la Noblette|Strasbourg – Paris}} à {{unité|186|km}} 
+** {{Aire de service|de Valmy Orbeval|Paris Strasbourg|de Valmy le Moulin|Strasbourg – Paris}} à {{unité|206|km}} 
+* {{Sortie|26 Sainte-Menehould}} à {{unité|213|km}} : [[Sainte-Menehould]], [[Vouziers]], Vitry-le-François
+** {{Aire de repos|de Fontaine d'Olive Sud|Paris – Strasbourg|de Fontaine d'Olive Nord|Strasbourg – Paris}} à {{unité|219|km}} 
+''Passage du département de la Marne à celui de la [[Meuse (département)|Meuse]].''
+* {{Sortie|27 Clermont-en-Argonne}} à {{unité|228|km}} : [[Clermont-en-Argonne]] 
+** {{Aire de repos|de Rarécourt|Paris – Strasbourg|de Jubécourt|Strasbourg – Paris}} à {{unité|233|km}} 
+* {{Sortie|28 [[Voie sacrée (Verdun)|Voie Sacrée]]}} à {{unité|243|km}} : [[Verdun]], Bar-le-Duc, [[Saint-Mihiel]]
+** {{Aire de repos|de La Rouge Haie|Paris – Strasbourg|de Genièvres|Strasbourg – Paris}} à {{unité|245|km}} 
+* {{Sortie|29 Verdun}} à {{unité|254|km}} ''(demi-échangeur, depuis et vers Strasbourg)'' : Verdun, Saint-Mihiel
+** {{Aire de service|de Verdun Saint-Nicolas Sud|Paris – Strasbourg|de Verdun Saint-Nicolas Nord|Strasbourg – Paris}} à {{unité|262|km}} 
+* {{Sortie|30 Fresnes-en-Woëvre}} à {{unité|271|km}} : [[Pont-à-Mousson]], [[Longwy]], [[Vigneulles-lès-Hattonchâtel]], [[Étain (Meuse)|Étain]], [[Fresnes-en-Woëvre]], ''[[Lac de Madine]]''
+** {{Aire de repos|de l'Épinotte|Paris – Strasbourg|du Bois de la Ronce|Strasbourg – Paris}} à {{unité|276|km}} 
+''Passage du département de la Meuse à celui de [[Meurthe-et-Moselle]].''
+* {{Aire de repos|du Bois de Labry|Paris – Strasbourg|du Bois-Saint-Martin|Strasbourg – Paris}} à {{unité|290|km}} 
+* {{Sortie|31 Jarny}} à {{unité|293|km}} : [[Jarny]], [[Val de Briey|Briey]]
+* {{Péage|Péage de Beaumont (à système fermé)}}
+''Passage du département de Meurthe-et-Moselle à celui de la [[Moselle (département)|Moselle]].''
+* {{Sortie|32/32a/32b Batilly / Sainte-Marie}} à {{unité|300|km}} : [[Ars-sur-Moselle]], [[Sainte-Marie-aux-Chênes]], [[Homécourt]], [[Auboué]], ''[[Fichier:France road sign ID35.svg|15px|alt]] Batilly''
+** {{Aire de service|de Metz Saint-Privat}} à {{unité|304|km}} 
+* {{Sortie|33 Marange-Silvange}} à {{unité|312|km}} : [[Rombas]], [[Marange-Silvange]]
+* {{Sortie|34 Semécourt}} à {{unité|313|km}} : [[Amnéville]], ''[[Walygator Grand Est|Parc Walygator]]'', [[Woippy]], [[Maizières-lès-Metz]], [[Semécourt]]
+* '''{{Échangeur autoroutier|[[Fichier:SU4 - Rocade France.svg|22x22px]] [[Autoroute A31 (France)|A31]]|[[Fichier:SU4 - Rocade France.svg|22x22px]] A4|A4}} (''Échangeur de la Croix de Hauconcourt'')''' à {{unité|315|km}} : [[Luxembourg (ville)|Luxembourg (Lëtzebuerg)]] , [[Trèves (Allemagne)|Trèves (Trier)]], [[Thionville]], Nancy, [[Metz]] - ''centre'', Longwy ([[Autoroute A30 (France)|A30]]), [[La Maxe]]
+** [[Fichier:France road sign C24a.svg|22x22px]] Passage à {{dunité|2|3|voies}}.
+''Début du [[Fichier:SU4 - Rocade France.svg|22x22px]] [[Rocade de Metz|Contournement Nord-Est de Metz]].''
+* {{Sortie|35 Argancy}} à {{unité|318|km}} : [[Ennery (Moselle)|Ennery]], [[Argancy]], ''[[Fichier:France road sign ID35.svg|15px|alt]] EuroTransit''
+** {{Aire de repos|de la Crouée|Paris – Strasbourg|de Charly-Oradour|Strasbourg – Paris}} à {{unité|320|km}} 
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à {{unité|110|km/h}}.
+* '''{{Échangeur autoroutier|[[Fichier:SU4 - Rocade France.svg|22x22px]] [[Autoroute A315 (France)|A315]]|[[Fichier:SU4 - Rocade France.svg|22x22px]] A4|A4}} (Bifurcation de Mey)''' à {{unité|326|km}} ''(demi-échangeur, depuis et vers Paris)'' : Nancy (A31), [[Château-Salins]], Metz - ''est'', ''[[Fichier:France road sign ID3.svg|15px|alt]] Hôpitaux''
+** [[Fichier:Panneau-C24a-2.svg|22x22px]] Passage à {{dunité|2|2|voies}}.
+''Fin du Contournement Nord-Est de Metz.''
+* '''{{Échangeur autoroutier|[[Autoroute A314 (France)|A314]]|A4}} (Bifurcation de Lauvallières)''' à {{unité|328|km}} ''(demi-échangeur, depuis et vers Strasbourg)'' : Nancy (A31), Metz
+** [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à {{unité|130|km/h}}.
+** {{Aire de repos|de Landonvillers-Sud|Paris – Strasbourg|de Landonvillers-Nord|Strasbourg – Paris}} à {{unité|340|km}} 
+* {{Sortie|36 Boulay}} à {{unité|344|km}} : [[Boulay-Moselle]], [[Bouzonville]], [[Faulquemont]] '' (1ère sortie d’autoroute en France équipée d’un système de péage en flux libre, totalement sans barrière)''<ref>{{Lien web |langue=fr-FR |prénom=Par Doris Henry Le 16 janvier 2021 |nom=à 11h59 |prénom2=Modifié Le 8 Février 2021 |nom2=À 17h05 |titre=Sur l’A4, le premier péage sans barrière de France exaspère les automobilistes |url=https://www.leparisien.fr/economie/sur-l-a-4-le-premier-peage-sans-barriere-de-france-exaspere-les-automobilistes-16-01-2021-8419467.php |site=leparisien.fr |date=2021-01-16 |consulté le=2024-11-24}}</ref>
+** {{Aire de repos|de Brouck|Paris – Strasbourg|de Narbéfontaine|Strasbourg – Paris}} à {{unité|348|km}} 
+** {{Aire de service|de Longeville-Sud|Paris – Strasbourg|de Longeville-Nord|Strasbourg – Paris}} à {{unité|358|km}} 
+* {{Péage|Péage de Saint-Avold (à système ouvert)}}
+* {{Sortie|37 Saint-Avold}} à {{unité|362|km}} : [[Sarrelouis|Sarrelouis (Saarlouis)]], [[Saint-Avold]], [[Creutzwald]], [[Faulquemont]], [[Carling]]
+** [[Fichier:France road sign A1a.svg|23x23px]] [[Fichier:France road sign B14 (110).svg|22x22px]] Virage dangereux sur 1 km, limitation à {{unité|110|km/h}}.
+* '''{{Échangeur autoroutier|[[Autoroute A320 (France)|A320]]|A4}}''' + {{Sortie|38 Freyming}} '''(''[[Échangeur de Freyming]]'')''' à {{unité|369|km}} : [[Sarrebruck|Sarrebruck (Saarbrücken)]], [[Forbach]], ''[[Freyming-Merlebach|Merlebach]]'' ; ''Freyming''
+** [[Fichier:France road sign B14 (130).svg|22x22px]] Fin du virage dangereux, limitation à {{unité|130|km/h}}.
+* {{Sortie|39 Farébersviller}} à {{unité|375|km}} : [[Farébersviller]]
+* {{Péage|Péage de Loupershouse (à système fermé)}}
+* {{Sortie|40 Puttelange}} à {{unité|381|km}} ''(demi-échangeur, depuis et vers Paris)'' : [[Puttelange-aux-Lacs]], [[Loupershouse]] 
+** {{Aire de repos|de Grundviller|Paris – Strasbourg|de Petite Hambach|Strasbourg – Paris}} à {{unité|388|km}} 
+* {{Sortie|41 Sarreguemines}} à {{unité|390|km}} : [[Sarreguemines]], [[Sarralbe]], ''Europôle''
+''Passage du département de la Moselle à celui du [[Bas-Rhin]] de la [[Collectivité européenne d'Alsace]].''
+* {{Aire de service|de Keskastel-Ouest|Paris – Strasbourg|de Keskastel-Est|Strasbourg – Paris}} à {{unité|400|km}} 
+* {{Sortie|42 Sarre-Union}} à {{unité|408|km}} : [[Sarre-Union]], [[Diemeringen]], [[Drulingen]], Sarralbe
+** {{Aire de repos|de Eywiller|Paris – Strasbourg|de Berg|Strasbourg – Paris}} à {{unité|411|km}} 
+''Passage du département du Bas-Rhin de la Collectivité européenne d'Alsace à celui de la Moselle.''
+* {{Aire de repos|de Katzenkopf|Paris – Strasbourg|de Schalbach|Strasbourg – Paris}} à {{unité|418|km}} 
+* {{Sortie|43 Phalsbourg ([[Route nationale 4 (France métropolitaine)|RN 4]])}} à {{unité|428|km}} : [[Lunéville]], Nancy, [[Phalsbourg]], [[Sarrebourg]]
+''Passage du département de la Moselle à celui du Bas-Rhin de la Collectivité européenne d'Alsace.''
+* [[Fichier:France road sign A1c.svg|25x25px]] [[Fichier:France road sign B14 (110).svg|25x25px]] Zone dangereuse à forte courbe ([[Col de Saverne]]), limitation à {{unité|110|km/h}} sur 4,5 km.
+** {{Aire de repos|de Danne|Paris – Strasbourg|de Quatre-Vents|Strasbourg – Paris}} à {{unité|432|km}} 
+** [[Fichier:France road sign B14 (130).svg|22x22px]] Fin de zone dangereuse à forte courbe, limitation à {{unité|130|km/h}}.
+** {{Aire de service|de Saverne-Monswiller|Paris – Strasbourg|de Saverne-Eckartswiller|Strasbourg – Paris}} à {{unité|438|km}} 
+* {{Sortie|44 Saverne}} à {{unité|439|km}} : [[Saverne]], [[Bouxwiller (Bas-Rhin)|Bouxwiller]], [[Molsheim]]
+** {{Aire de repos|de Lienbach|Paris – Strasbourg|de Gottesheim|Strasbourg – Paris}} à {{unité|447|km}}  
+[[Fichier:A4-A35-A355.jpg|vignette|Panneau annonçant l'échangeur entre A4 et A35, peu avant l'inauguration de la A355.]]
+* {{Sortie|45 Hochfelden}} à {{unité|456|km}} : [[Hochfelden (Bas-Rhin)|Hochfelden]], Bouxwiller
+* {{Péage|Péage de Schwindratzheim (à système fermé)}}
+* {{Sortie|46 Haguenau ([[Autoroute A340 (France)|A340]])}} à {{unité|463|km}} : [[Haguenau]], ''[[Fichier:France road sign ID35.svg|15px|alt]] [[Brumath]] - Nord''
+** {{Aire de service|de Brumath-Ouest|Paris – Strasbourg|de Brumath-Est|Strasbourg – Paris}} à {{unité|466|km}} 
+* {{Sortie|47 Brumath}} à {{unité|468|km}} : ''[[Fichier:France road sign ID35.svg|15px|alt]] Brumath - Sud'', [[Vendenheim]]
+* '''{{Échangeur autoroutier|[[Autoroute A35 (France)|A35]] (Nord)|[[Fichier:SU4 - Rocade France.svg|22x22px]] [[Autoroute A355 (France)|A355 (Grand Contournement Ouest de Strasbourg)]]|A4}}''' à {{unité|470|km}} : 
+** A35 : [[Lauterbourg]], [[Hœrdt]], [[Karlsruhe]] ({{Allemagne}}), [[Ludwigshafen]]
+** A355 ([[Fichier:Péage.png|30 px]]) : [[Mulhouse]] (A35 Sud), ''[[Fichier:France road sign ID13b.svg|15px|alt]] [[Port autonome de Strasbourg|Port de Strasbourg]]'', [[Strasbourg]], ''[[Fichier:France road sign ID2.svg|15px|alt]] [[Aéroport de Strasbourg-Entzheim|Entzheim]]''
+* [[Fichier:France road sign C208.svg|25x25px]] Fin de l'Autoroute A4 et continue sur la [[Autoroute A35 (France)|RM 35]]
+
+== Ouvrages d'art ==
+* [[Tunnel de Champigny]]
+* [[Viaduc de Joinville]]
+
+== Déclassement en avenue de la section entre la porte de Bercy et le péage de Coutevroult ==
+Entre la [[porte de Bercy]], à [[Paris]], et le péage de [[Coutevroult]], l'autoroute pourrait, dans les années à venir, être déclassée pour devenir une avenue avec feux rouges, des passerelles, des voies réservés pour le bus... et une limitation de vitesse à {{unité|70|km/h}}. Le projet est en cours d'étude ({{date|septembre 2011}})<ref>[https://www.leparisien.fr/paris-75/paris-75005/l-autoroute-a-4-transformee-en-avenue-28-09-2011-1628481.php L'autoroute A 4 transformée en avenue ?], sur ''leparisien.fr'', article du 28 septembre 2011, consulté le 22 juillet 2020.</ref>.
+
+En {{date|avril 2024}}, le département du [[Val-de-Marne]] lance une concertation sur l'abaissement de la vitesse à {{unité|70|km/h}} sur la portion située entre [[Charenton-le-Pont]] et [[Saint-Maurice (Val-de-Marne)|Saint-Maurice]]<ref>{{Lien web|lang=|url=https://www.lesechos.fr/pme-regions/ile-de-france/trafic-routier-letat-envisage-de-baisser-la-vitesse-sur-une-portion-de-lautoroute-a4-2089640|titre=Trafic routier : l'Etat envisage de baisser la vitesse sur une portion de l'autoroute A4|site=[[Les Échos]]|auteur=Audrey Guettier|date=18 avril 2024|consulté le=13 mai 2024}}.</ref>. Une expérimentation est prévue pour l'automne 2024<ref>{{Lien web|lang=|url=https://www.leparisien.fr/val-de-marne-94/bruit-accidents-pollution-labaissement-de-la-vitesse-a-70-kmh-sur-la4-plebiscite-22-04-2024-4TTFO6U5IJHNZB5CNJBHLZ6S6U.php|titre=Bruit, accidents, pollution… l’abaissement de la vitesse à 70 km/h sur l’A4 plébiscité|site=[[Le Parisien]]|auteur=Laure Parny|date=22 avril 2024|consulté le=13 mai 2024}}.</ref>.
+
+== Déclassement en boulevard urbain de la section entre Reichstett et Strasbourg ==
+{{Article détaillé|Autoroute A355 (France)#Requalification de la M35 traversant Strasbourg{{!}}Requalification de la M35 traversant Strasbourg}}
+Depuis le {{Date|1 janvier 2021}}, cette section est déclassée en route métropolitaine (M35)<ref>{{Lien web |url=https://www.strasbourg.eu/evolution-modalites-circulation-m35 |titre=Évolution des modalités de circulation sur la M35 |site=strasbourg.eu |date=décembre 2021 |consulté le=14 décembre 2021}}.</ref>.
+
+== Lieux sensibles ==
+{{Section à sourcer|date=mars 2025}}
+Entre [[Joinville-le-Pont]] et le tunnel de [[Nogent-sur-Marne]], l'A4 et l'A86 partagent une même chaussée sur plusieurs kilomètres. L'addition des flux cause très fréquemment des ralentissements importants, notamment dans le sens Paris-Province (pour l'A4) et Créteil-Nogent (pour l'A86). À l'intersection A4-BP, il y a souvent des embouteillages en direction du Périphérique Nord et du Périphérique Sud, la situation étant devenue plus difficile en raison de la mise « hors service » de la voie auxiliaire à la suite d'un incident<ref>{{Lien web|auteur=Laure Parny|titre=Bouchons sur les autoroutes d’Ile-de-France : bande d’arrêt urgence empruntable, feux sur les bretelles d’accès... est-ce efficace ?|url=https://www.leparisien.fr/info-paris-ile-de-france-oise/transports/circulation-en-ile-de-france-bande-darret-urgence-voie-dediee-est-ce-efficace-contre-les-bouchons-05-09-2022-NOMLEBSZXRDGVIDMZWI67RRZOU.php|site=[[Le Parisien]]|date=2022-09-05|consulté le=2025-04-16}}</ref>.
+
+Des embouteillages ont également quotidiennement lieu sur les sorties de la traversée de Reims aux heures de pointe. Mais avec l'ouverture du contournement sud de Reims le {{date|23 novembre 2010}}, le trafic se fluidifie.
+
+Des embouteillages ont également lieu à proximité de Strasbourg et de sa banlieue, presque en permanence.
+
+== Traversée urbaine rémoise ==
+Avant 2010, l'autoroute A4 coupait en deux la cité des Sacres. La limitation de vitesse sur ce tronçon de onze kilomètres était de {{unité|110|kilomètres}} par heure, comme pour toute autre section urbaine. Depuis l'ouverture du contournement sud de Reims, inauguré le {{date|23 novembre 2010}}, l'autoroute A4 ne passe plus dans le centre de Reims. Cet ancien tracé, désormais dénommé [[Autoroute A344 (France)|A344]]<ref>[https://www.bulletin-officiel.developpement-durable.gouv.fr/fiches/BO201314/met_20130014_0100_0057.pdf Décision du 16 juillet 2013 portant dénomination de l'autoroute A344 et de l'autoroute A34], consulté le 25 août 2013.</ref> depuis l'échangeur avec l'A4-A26 jusqu'à l'[[échangeur de Cormontreuil]], et intégré à l'[[Autoroute A34 (France)|A34]] entre l'échangeur de Cormontreuil et l'A4 vers Metz, est maintenant limité à {{unité|90|km/h}}.
+
+== Péages ==
+* Péage de [[Coutevroult]]
+* Péage de [[Reims]]-Sud
+* Péage de [[Montreuil-aux-Lions]]
+* Péage de [[Moineville|Beaumont]]
+* Péage de [[Saint-Avold]]
+* Péage de [[Loupershouse]]
+* Péage de [[Schwindratzheim]]
+== Œuvres d'art ==
+* De nombreuses sculptures en forme géométrique de [[Guy de Rougemont]] (''Environnement pour une autoroute''), installées en 1977, pour rompre la monotonie et éviter l’assoupissement des automobilistes, sont visibles sur une trentaine de kilomètres entre [[Saint-Étienne-au-Temple]] et [[Dommartin-Dampierre]]<ref>{{Lien web |url=https://www.republicain-lorrain.fr/actualite/2018/06/27/il-fallait-rompre-la-monotonie-de-l-autoroute-a4 |titre=PHOTOS. Il fallait "réveiller" l'autoroute A4 |site=republicain-lorrain.fr |date=28 juin 2018 |consulté le=15 décembre 2022}}.</ref>{{,}}<ref>[https://big-bear-photos.eklablog.com/on-the-road-vi-a47014625 '' On the Road (VI) ''] sur le site big-bear-photos.eklablog.com</ref>.
+* ''L'Europe pacifiée'' sculpture de [[Paul Flickinger]], installée en 2009, sur l'aire de Verdun Saint Nicolas Nord à Haudiomont.
+
+== Galerie de photographies ==
+<gallery mode="packed">
+Charenton A4.jpg|{{Centrer|L’autoroute à [[Charenton-le-Pont]].}}
+IMG A4 Sortie15.JPG|{{Centrer|L’autoroute au niveau de [[Coutevroult]].}}
+Autoroute A4 Reims.JPG|{{Centrer|L'autoroute dans la traversée du quartier Centre à [[Reims]].}}
+Autoroute A4 aux Islettes (Meuse).JPG|{{Centrer|L’autoroute traverse la forêt d'Argonne à hauteur des [[Les Islettes|Islettes]].}}
+</gallery>
+
+== Notes ==
+{{Références|groupe=Note}}
+
+== Références ==
+{{références}}
+
+== Voir aussi ==
+{{Autres projets|commons=Category:A4 autoroute|commons titre=L'autoroute A4}}
+=== Bibliographie ===
+* Cabinet Berdj Mikaelian, ''Passerelle tournée sur l'autoroute A4'', {{p.|58}}, dans ''Formes et structures'', {{n°|127}}, 1998 {{ISSN|1140-5597}}
+
+=== Articles connexes ===
+* [[Liste des autoroutes de France]]
+* [[Route européenne 17]]
+* [[Route européenne 25]]
+* [[Route européenne 50]]
+* [[Redoute de Gravelle]]
+
+=== Liens externes ===
+* [http://saratlas.free.fr/index.php?page=autoroute&route=a4&lang=fr Autoroute A4 dans Saratlas]
+* [http://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A4 Fiche autoroutière de l'A4 sur WikiSara]
+
+{{Palette|Autoroutes de France}}
+{{Portail|route|Transports en Île-de-France|Aisne|Marne|Meuse|Meurthe-et-Moselle|Moselle|Bas-Rhin}}
+
+[[Catégorie:Autoroute A4 (France)]]
+[[Catégorie:Autoroute en Île-de-France|004]]
+[[Catégorie:Autoroute dans les Hauts-de-France|004]]
+[[Catégorie:Autoroute dans le Grand Est|004]]

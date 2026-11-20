@@ -1,0 +1,170 @@
+{{voir homonymes|A49}}
+{{Infobox Route/France
+ | statut         = autoroute
+ | numéro         = 49
+ | image          = Autoroute A49 direction Valence.JPG
+ | légende        = Autoroute A49 en direction de Valence.
+ | carte          = France_A4X_A49.svg
+ | autres_noms    = 
+ | ouverture      = 1991 – 1992
+ | fermeture      = 
+ | déclassement   = 
+ | longueur       = 70.4
+ | direction      = nord-est / sud-ouest
+ | ville 1        = {{Route européenne|711}} {{Route européenne|713}} {{Autoroute française|A48}} à [[Voreppe]]
+ | direction 1    = nord-est
+ | intersections  = 
+ | ville 2        = {{Route européenne|713}} {{route nationale|532}} à [[Châteauneuf-sur-Isère]] / [[Bourg-de-Péage]]
+ | direction 2    = sud-ouest
+ | villes         = [[Valence (Drôme)|Valence]], [[Romans-sur-Isère]], [[Saint-Marcellin (Isère)|Saint-Marcellin]], [[Tullins]], [[Grenoble]]
+ | réseau         = Autoroute française<br />Dénomination européenne : {{Route européenne|713}}
+ | concessionnaire= [[AREA (société d'autoroutes)|AREA]]
+ | gestionnaire   = 
+ | régions        = [[Auvergne-Rhône-Alpes]]
+ | départements   = [[Isère (département)|Isère]], [[Drôme (département)|Drôme]]
+ | nb_reg         = 1
+ | nb_dep         = 2
+ | nom_notes      = 
+}}
+
+L''''autoroute A49''' est une [[autoroute]] française qui relie [[Valence (Drôme)|Valence]] (début de l'autoroute à [[Bourg-de-Péage]]) à [[Grenoble]] (fin de l'autoroute au niveau de la bifurcation avec l'[[Autoroute A48 (France)|A48]], à [[Voreppe]]). Elle a été mise en service définitivement en [[1992]].
+
+== Caractéristiques ==
+
+* {{dunité|2|2|voies}}.
+* {{unité|70,4|kilomètres}} de longueur (de [[Voreppe]] à [[Bourg-de-Péage]], à la jonction avec la [[Route nationale 532|{{nobr|RN 532}}]]).
+* Section concédée à [[AREA (société d'autoroutes)|AREA]] entre la sortie 6 et la jonction avec l'[[Autoroute A48 (France)|A48]] ({{unité|62|km}}<ref>
+{{lien web
+ |url=http://www.aprr.com/fr/le-groupe/carte-didentite-du-reseau-aprr
+ |titre=Carte d'identité du réseau APRR 
+ |site=aprr.com
+ |consulté le=18 juin 2020
+}}.</ref>).
+* Section à péage entre la sortie 7 et la jonction avec l'autoroute A48.
+
+== Historique ==
+
+Le premier tronçon a été livré à la circulation en 1991 entre la jonction sur l'[[Autoroute A48 (France)|A48]] à Voreppe et l'échangeur de [[Tullins]] (sortie {{numéro|11}}). Son prolongement vers Bourg-de-Péage a été ouvert en 1992.
+
+== Tracé ==
+=== A49 ===
+'''Section concédée à [[AREA (société d'autoroutes)|AREA]] et payante (sauf entre les sorties 7 à 6).'''
+[[Fichier:Séparation A48-A49 (France).JPG|vignette|alt=Panneaux sur l'A49 à la séparation avec l'A48 peu après Grenoble|Commencement de l'A49 à la séparation avec l'[[Autoroute A48 (France)|A48]] peu après [[Grenoble]].]]
+* '''{{échangeur autoroutier|[[Autoroute A48 (France)|A48]]|A49}}''' à {{unité|0|km}} : [[Turin]]-[[Milan]], [[Genève]] ([[Autoroute A41 (France)|A41]]), [[Chambéry]], [[Lyon]] ([[Autoroute A43 (France)|A43]]), [[Grenoble]], [[Voiron]]
+** [[Fichier:France road sign C207.svg|24x24px]] [[Fichier:Panneau-C24a-2.svg|22x22px]] [[Fichier:France road sign B14 (130).svg|22x22px]] Début de l'autoroute, début de {{dunité|2|2|voies}} et limitation à {{unité|130|km/h}}.
+* {{Sortie|11 Tullins}} à {{unité|9,5|km}} : [[Moirans]], [[Tullins]]
+** {{Aire de repos|de Poliénas|Grenoble – Valence}}
+** {{Aire de repos|de L'Albenc|Valence – Grenoble}}
+* {{Sortie|10 Vinay}} à {{unité|23|km}} : [[Vinay (Isère)|Vinay]]
+** [[Fichier:AB-Brücke.svg]] Viaduc du Tréry
+** [[Fichier:AB-Brücke.svg]] Viaduc du Vézy
+** [[Fichier:AB-Brücke.svg]] Viaduc du Puits d'Enfer
+** {{Aire de repos|de Saint-Sauveur|Grenoble – Valence|de Chambaran|Valence – Grenoble}}
+[[Fichier:A49 sortie 6 direction Valence 2013-07-13.JPG|vignette|alt=Panneaux sur l'A49 en direction de Valence|Dernière sortie en direction de Valence en juillet 2013, avant que l'autoroute ne devienne route nationale.]]
+* {{Sortie|9 Saint-Marcellin}} à {{unité|33|km}} : [[Pont-en-Royans]], [[Saint-Marcellin (Isère)|Saint-Marcellin]]
+** [[Fichier:AB-Brücke.svg]] Viaduc de l'Isère sur [[Fichier:Panneau cours d'eau France.png|20px]] l'[[Isère (rivière)|Isère]]. (306 m)
+''Passage du département de l'[[Isère (département)|Isère]] à celui de la [[Drôme (département)|Drôme]]''
+* {{Aire de service|de La Porte de la Drôme|Grenoble – Valence|de Royans-en-Vercors|Valence – Grenoble}}
+* {{Sortie|8 La Baume d'Hostun}} à {{unité|46|km}} : [[Villard-de-Lans]], Pont-en-Royans, [[Saint-Nazaire-en-Royans]], [[La Baume-d'Hostun]]
+** [[Fichier:AB-Brücke.svg]] Viaduc de la Béaure sur [[Fichier:Panneau cours d'eau France.png|20px]] le Ruisseau de Béaure. (341 m)
+* {{Péage|Péage de Chatuzange-le-Goubet (à système fermé)}}
+* {{Sortie|7 Chatuzange-le-Goubet}} à {{unité|57|km}} : Chambéry, Grenoble, [[Romans-sur-Isère]] - ''est'', [[Chatuzange-le-Goubet]], [[Bourg-de-Péage]]
+* {{Sortie|6 Bourg-de-Péage}} à {{unité|60|km}} et {{unité|61|km}} ''(deux demi-échangeur)'' : Romans-sur-Isère - ''centre'', Bourg-de-Péage, [[Crest (Drôme)|Crest]], [[Chabeuil]]
+** [[Fichier:France_road_sign_C208.svg|22px]] [[Fichier:France_road_sign_C107.svg|22px]] [[Fichier:France road sign B14 (110).svg|22x22px]] Fin d'autoroute et début de route à accès réglementé : l'A49 devient la {{nobr|RN 532}} et limitation à {{unité|110|km/h}}
+
+=== [[Route nationale 532|RN 532]] ===
+'''Section non-concédée à [[Direction interdépartementale des Routes#Direction interdépartementale des Routes Centre-Est|DIR Centre-Est]] et gratuite.''' 
+* {{sortie|5 Alixan}} à {{unité|64,5|km}} : [[Châteauneuf-sur-Isère]], [[Alixan]], [[Rovaltain]] - ''nord'' + {{Aire de service|de Marlhes|Valence – Grenoble|et de Bayanne|Grenoble – Valence}}
+* {{sortie|4 Gare T.G.V.}} à {{unité|66,8|km}} : Rovaltain - ''sud'', ''[[File:France road sign ID12a.svg|15px|alt]] [[Gare de Valence TGV|Valence T.G.V.]]'', ''[[File:France road sign ID35.svg|15px|alt]] Les Plaines
+* {{sortie|3 Saint-Marcel-lès-Valence - ''nord''}} à {{unité|67,6|km}} ''(trois-quarts-échangeur, pas accessible depuis Valence)'' : [[Saint-Marcel-lès-Valence]]
+** {{Aire de repos|des Fruitiers|Valence – Grenoble}}
+* {{sortie|2 Saint-Marcel-lès-Valence - ''sud''}} à {{unité|71,3|km}} : Saint-Marcel-lès-Valence, ''[[File:France road sign ID2.svg|15px|alt]] Le Plovier, Laye''
+** La RN 532 devient la RN 7
+
+=== [[Route nationale 7 (France métropolitaine)|RN 7]] ===
+'''Section non-concédée à [[Direction interdépartementale des Routes#Direction interdépartementale des Routes Centre-Est|DIR Centre-Est]] et gratuite.'''
+* '''{{échangeur autoroutier|RN 532|RN 7}} ('''{{Sortie|35 Valence - ''Les Couleures''}}''')''' à {{unité|72,1|km}} : Lyon ([[Autoroute A7 (France)|A7]]), [[Valence (Drôme)|Valence]] - ''centre'', [[Bourg-lès-Valence]]
+(en cours d'aménagement) {{Sortie|34.1 Montélier}} à {{unité|72,8|km}} : [[Montélier]], Valence - ''Le Plan''
+* {{Sortie|34 Valence - ''Briffaut''}} à {{unité|74,1|km}} : ''[[File:France road sign ID2.svg|15px|alt]] [[Aéroport de Valence-Chabeuil|Chabreuil]]'', [[Malissard]], Valence
+* {{Sortie|33 Beaumont-lès-Valence}} à {{unité|75,4|km}} : [[Beaumont-lès-Valence]], Valence, Malissard, ''Université, Technoparcs''
+* {{Sortie|32 Valence - ''Lautagne''}} à {{unité|77,1|km}} : [[Montéléger]], [[Beauvallon (Drôme)|Beauvallon]], Valence, ''[[File:France road sign ID3.svg|15px|alt]] Centre Hospitalier''
+** [[Fichier:France road sign C28-2.svg|22x22px]] Réduction à {{dunité|2|2|voies}}. (sens Valence – Grenoble)
+** [[Fichier:France road sign B14 (90).svg|22x22px]] Limitation à 90 km/h.
+** [[Fichier:France road sign B14 (70).svg|22x22px]] Limitation à 70 km/h.
+** [[Fichier:Panneau-C24a.svg|22x22px]] Passage à {{dunité|2|3|voies}}. (sens Valence – Grenoble)
+* {{Sortie|31 Valence - ''Fontlozier''}} à {{unité|77,9|km}} : [[Gap]], [[Montélimar]], [[Privas]], [[Crest (Drôme)|Crest]], Valence - ''Les Auréats''
+* {{Sortie|30 Valence - ''Victor Hugo''}} à {{unité|79,11|km}} : Valence - ''centre'', [[Le Puy-en-Velay]], [[Guilherand-Granges]], [[Portes-lès-Valence]], ''[[File:France road sign ID35.svg|15px|alt]] La Motte, ''[[File:France road sign ID8.svg|15px|alt]] [[Parc de l'Épervière|L'Épervière]]''
+'''Section concédée à [[Autoroutes du Sud de la France|ASF]] et payante'''
+* {{Péage|Péage de Valence-sud (à système fermé)}}
+* '''{{échangeur autoroutier|[[Autoroute A7 (France)|A7]]|RN 7}}''' à {{unité|80|km}} : [[Lyon]], [[Marseille]], [[Avignon]], Montélimar, Privas
+
+=== Ouvrages d'art exceptionnels ===
+{| class="wikitable centre" style="font-size:95%; text-align:center"
+! Nom !! Longueur !! Date de construction !! Lieu
+|-
+| Pont sur la Roize
+| 112 m
+| 1989 
+| [[Voreppe]]
+|-
+| Viaduc sur le Tréry
+| 240 et 230 m
+| 1987-1989
+| [[Vinay (Isère)|Vinay]]
+|-
+| Viaduc sur le Vézy
+| 2 × 90  m
+| 1989-1990
+| [[Têche]]
+|-
+| Viaduc du Puits d'Enfer
+| 220 et 210 m
+| 1989-1990
+| [[Saint-Sauveur (Isère)|Saint-Sauveur]]
+|-
+| Viaduc sur l'Isère
+| 306 m
+| 1989-1990
+| [[La Baume-d'Hostun]]
+|-
+| Viaduc de La Beaure
+| 2 × 341,50 m
+| 1989-1990
+| [[Beauregard-Baret]]
+|-
+|}
+
+=== Croisements autoroutiers ===
+Il n'existe aucun croisement autoroutier en dehors de ses extrémités :
+* l'A48, en direction de l'[[Autoroute A43 (France)|A43]] ([[Lyon]] et Grenoble) ;
+* la {{nobr|RN 532}} (voie express) vers Valence.
+
+== Départements traversés ==
+
+L'autoroute '''A49''' traverse deux [[Département français|départements]] et longe le massif du Vercors. 
+
+La liste suivante répertorie les villes desservies et sites à visiter à proximité de l'autoroute.
+
+;[[Isère (département)|Isère]]
+* [[Grenoble]]
+* [[Parc naturel régional du Vercors]]
+;[[Drôme (département)|Drôme]]
+* [[Romans-sur-Isère|Romans]]
+* [[Valence (Drôme)|Valence]]
+
+== Notes et références ==
+<references />
+
+== Voir aussi ==
+=== Articles connexes ===
+* [[Sillon alpin]]
+* [[Liste des autoroutes de la France]]
+
+=== Liens externes ===
+* [http://saratlas.free.fr/index.php?page=autoroute&route=a49&lang=fr L'autoroute A49 dans Saratlas]
+* [http://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A49 L'autoroute A49 sur WikiSara]
+
+{{Palette Autoroutes de France}}
+{{Portail|route|Rhône-Alpes}}
+
+[[Catégorie:Autoroute en Auvergne-Rhône-Alpes|049]]

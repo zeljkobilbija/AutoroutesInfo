@@ -1,0 +1,429 @@
+{{Voir homonymes|A75|La Méridienne}}
+{{Infobox Route/France
+ | statut         = autoroute
+ | numéro         = 75
+ | image          = Début de l'autoroute A75 depuis le pont de la rue Jean-Auguste Senèze (Clermont-Ferrand) 2021-08-15.JPG
+ | légende        = Début de l'autoroute à Clermont-Ferrand.
+ | carte          = France_Autoroutes_CS_A75.svg
+ | autres_noms    = La Méridienne
+ | ouverture      = De [[1989]] à [[2014]]<br /><small>par ouverture directe ou mises aux normes autoroutières</small>
+ | fermeture      = 
+ | déclassement   = 
+ | longueur       = 335
+ | direction      = nord/sud
+ | ville 1        = {{Route européenne|11}} {{Autoroute française|A71}} {{Autoroute française|A711}} à [[Clermont-Ferrand]]
+ | direction 1    = nord
+ | intersections  =
+{{Autoroute française|A750}} à [[Ceyras]]
+ | ville 2        = {{Route européenne|15}} {{Route européenne|80}} {{Autoroute française|A9}} à [[Villeneuve-lès-Béziers]] ([[Béziers]])
+ | direction 2    = sud
+ | villes         = [[Clermont-Ferrand]], [[Issoire]], [[Massiac]], [[Saint-Flour (Cantal)|Saint-Flour]], [[Saint-Chély-d'Apcher]], [[Marvejols]], [[Millau]], [[Lodève]], [[Pézenas]], [[Béziers]]
+ | réseau         = [[Liste des autoroutes de la France|Autoroute française]], également {{Route européenne|11}}
+ | concessionnaire= [[Autoroutes Paris-Rhin-Rhône|APRR]] (entre Clermont-Ferrand à Saint-Amant-Tallende)<br/>Compagnie [[Eiffage]] du [[Viaduc de Millau]] (entre Saint-Germain et Saint-Rome-De-Cernon)<br/>[[Autoroutes du Sud de la France|ASF]] (Béziers)
+ | gestionnaire   = [[Direction interdépartementale des Routes#Direction interdépartementale des Routes Massif central|DIR Massif-Central]] (entre Saint-Amant-Tallende et Aguessac)
+ | régions        = [[Auvergne-Rhône-Alpes]], [[Occitanie (région administrative)|Occitanie]]
+ | départements   = [[Puy-de-Dôme]], [[Haute-Loire]], [[Cantal (département)|Cantal]], [[Lozère (département)|Lozère]], [[Aveyron (département)|Aveyron]], [[Hérault (département)|Hérault]]
+ | nb_reg         = 2
+ | nb_dep         = 6
+ | nom_notes      = 
+}}
+L''''autoroute A75''', dite '''''La Méridienne''''', est une [[autoroute]] à {{dunité|2|2|voies}} reliant [[Clermont-Ferrand]] à [[Villeneuve-lès-Béziers]], en banlieue sud-est de [[Béziers]], dans le prolongement de l'[[Autoroute A71 (France)|A71]]. L'A75, non concédée (hormis sur le tronçon du Viaduc de Millau), est gratuite.
+
+Avec un point culminant à {{unité|1121|mètres}} [[Nivellement général de la France|NGF]] au [[col des Issartets]], l'A75 est le plus haut passage autoroutier français.
+
+C'est également l'autoroute avec le plus de sorties.
+
+== Description ==
+L'autoroute A75, longue de {{unité|335|km}}, traverse six départements : le [[Puy-de-Dôme]], la [[Haute-Loire]], le [[Cantal (département)|Cantal]], la [[Lozère (département)|Lozère]], l'[[Aveyron (département)|Aveyron]] et l'[[Hérault (département)|Hérault]]. Au-delà de son rôle majeur d'aménagement du territoire, c'est un chaînon important du réseau routier national.
+
+C'est, d'une part, un nouvel axe de transit nord-sud facilitant les trajets de l'Europe du Nord et la région parisienne vers l'Espagne et l'ouest de la façade méditerranéenne, tout en contribuant au désenclavement du Massif central<ref name="dp-liaison" /> et en améliorant la desserte locale<ref name="Hadjou" />.
+
+Il s'agit donc d'une alternative aux autoroutes de la [[Vallée du Rhône (France)|vallée du Rhône]] et de l'arc languedocien<ref name="Hadjou" /> :
+* [[Paris]] – [[Béziers]] (par A10, A71 [[Clermont-Ferrand]] et l'A75) : {{unité|721|km}} ;
+* Paris – Béziers (par A6, [[Lyon]], l'[[Autoroute A7 (France)|A7]] et l'[[Autoroute A9 (France)|A9]]) : {{unité|778|km}}.
+Elle complète d'autre part le maillage autoroutier en s'intégrant au réseau constitué par l'[[Autoroute A71 (France)|A71]] ([[Orléans]] – [[Clermont-Ferrand]]), l'[[Autoroute A89 (France)|A89]] ([[Bordeaux]] – Clermont-Ferrand – [[Lyon]]) et la {{nobr|[[Route nationale 88 (France)|RN 88]]}} (Lyon – [[Toulouse]]).
+
+En {{Date|mars 1987}}, à l'occasion d'un [[Comité interministériel d'aménagement et de développement du territoire|CIAT]], il a été décidé que l'axe A75 devait être réalisée aux normes autoroutières et sans péage pour {{Citation|favoriser le développement économique et touristique du Massif central}}<ref name="dp-liaison" />.
+
+Par ailleurs, l'autoroute A75, dont le coût s'élève à {{nobr|2,2 milliards}} d'euros environ (soit {{nobr|6,5 millions}} d'euros par kilomètre), est intégralement gérée par la [[Direction interdépartementale des routes|DIR]] Massif central, donc sans péage (hormis le [[viaduc de Millau]], concédé à [[Eiffage]], le raccordement à l'A9, concédé aux [[Autoroutes du Sud de la France]] (ASF), et la section nord de l'autoroute, concédée en 2016 à APRR depuis dans le cadre de son élargissement).
+
+== Historique ==
+=== Projet ===
+Dans les [[années 1970]], il fut proposé plusieurs projets pour la réalisation de l'autoroute A75 entre le sud de Clermont-Ferrand et Lempdes-sur-Allagnon, au débouché de la {{Lnobr|Route nationale 102 (France métropolitaine)|route nationale 102}}. Un projet de 1974 prévoyait un passage à l'ouest d'Issoire et une barrière de péage à Authezat.
+
+==== Premiers aménagements ====
+Les premiers aménagements sur la {{Lnobr|Route nationale 9 (France métropolitaine)|route nationale 9}} commencent dans les années 1960, à commencer en 1969 entre les actuels {{Nobr|échangeurs 51}} et 52 de [[Poujols]] à [[Pégairolles-de-l'Escalette]] sur {{unité|4.5|km}} en réutilisant la {{nobr|D 149}}, puis la déviation de [[Clermont-l'Hérault]] et la création de la section comprise entre l'{{Nobr|échangeur 55}} et le raccordement avec l'actuelle [[Autoroute A750 (France)|A750]] à la suite de la création du [[lac du Salagou]] coupant la {{nobr|RN 9}} originelle.
+
+La première déviation de [[Clermont-Ferrand]], par l'aménagement de la {{nobr|[[Route départementale 21 (Puy-de-Dôme)|RD 21]]}}, s'achève en 1973.
+
+Au nord de [[Saint-Flour (Cantal)|Saint-Flour]], le [[col de la Fageole]] est dévié sur un kilomètre en 1976 et la même année, une section de dix kilomètres est aménagée entre les {{Nobr|échangeurs 40}} et 41 en réutilisant la {{nobr|D 67}} après [[La Canourgue]] jusqu'à la limite des départements de l'[[Aveyron (département)|Aveyron]] et de la [[Lozère (département)|Lozère]].
+
+En 1977 sont mises en service les déviations de [[Pérignat-lès-Sarliève]] entre les {{Nobr|échangeurs 2}} (''[[échangeur de Pérignat-lès-Sarliève]]'') et 4 sur une longueur de quatre kilomètres au départ d'[[Aubière]] à la fin de la première déviation de [[Clermont-Ferrand]] (actuelle {{nobr|RD 2009}}), de [[Coudes]] sur une longueur de deux kilomètres entre les actuels {{Nobr|échangeurs 7}} et 8 ainsi que d'un barreau de trois kilomètres à la sortie d'[[Issoire]] entre les actuels {{Nobr|échangeurs 14}} et 15.
+
+Durant l'été 1978, la {{nobr|[[Route nationale 9 (France)|RN 9]]}} commence à être aménagée à deux fois deux voies entre [[Clermont-Ferrand]] et [[Issoire]]. L'ancienne {{nobr|RN 9}} est déclassée<ref group="Note">{{nobr|D 978}} pour les traversées de [[Pérignat-lès-Sarliève]], d'[[Orcet]] et de [[Veyre-Monton]], jusqu'à l'échangeur de La Sauvetat ; puis {{nobr|D 797}} (d'abord numérotée {{nobr|D 229E}}, cf. carte IGN 49 1/{{formatnum:100000}}, édition 1983) jusqu'à [[Coudes]].</ref>. La section entre [[Pérignat-lès-Sarliève]] et [[Authezat]], entre les {{Nobr|échangeurs 4}} et 7 sur une longueur de {{nobr|13 km}}, est mise en service, assurant ainsi une continuité presque totale entre [[Clermont-Ferrand]] et [[Issoire]], la section entre les {{Nobr|échangeurs 8}} et 11 n'étant pas encore aux normes autoroutières.
+
+Une petite section de deux kilomètres à la sortie du [[Pas de l'Escalette]] est mise à {{dunité|2|2|voies}} en 1979.
+
+Plus au nord, à la sortie de [[Millau]], un petit secteur à {{dunité|2|2|voies}} de {{nobr|3 km}} de long est créé fin 1980, dans le cadre du doublement de la {{nobr|RN 9}} ; à la sortie d'[[Aguessac]], des travaux ont commencé sans jamais être achevés.
+
+En {{date|novembre 1981}}, la déviation d'[[Issoire]] entre les actuels {{Nobr|échangeurs 11}} et 14 d'une longueur de {{nobr|7 km}} est mise en service, de même qu'un tronçon à {{dunité|2|2|voies}} entre les actuels {{Nobr|échangeurs 29}} et 30 sur {{nobr|4 km}} à la sortie Sud de [[Saint-Flour (Cantal)|Saint-Flour]].
+
+En 1982, sont mises en service la déviation de [[Lodève]] sur {{nobr|4 km}} et d'une section de {{nobr|11 km}} entre les {{Nobr|échangeurs 52}} et 55 et la section entre [[Le Broc (Puy-de-Dôme)|Le Broc]] ({{Nobr|éch. 15}}) et [[Lempdes-sur-Allagnon]] ({{Nobr|éch. 19}}) sur une longueur de {{nobr|13 km}}. Cette dernière section est prolongée jusqu'à la [[Route nationale 102 (France métropolitaine)|route nationale 102]] ({{nobr|2 km}}) en 1984.
+
+Dans le Cantal, une section de {{nobr|7 km}} entre les {{Nobr|échangeurs 26}} et 27 de [[Vieillespesse]] au [[col de la Fageole]] est ouverte en 1986.
+
+La déviation de [[Pézenas]] est mise en service sur {{nobr|5 km}} entre les {{Nobr|échangeurs 59}} et 61 en 1988. C'est la dernière section sous contrat de plan de l'État.
+
+==== Premiers classements autoroutiers ====
+Fin 1988, la section entre Clermont-Ferrand (dans la continuité de l'autoroute A71) et l'{{Nobr|échangeur 2}} est directement ouverte comme autoroute. Celle-ci est prolongée par classement de la {{nobr|RN 9}} dans la voirie autoroutière jusqu'à [[Lempdes-sur-Allagnon]], [[Massiac]] et [[Saint-Flour (Cantal)|Saint-Flour]] par un décret du {{Date|4 mars 1991}}<ref>{{Article|titre=Décret du 4 mars 1991 portant déclassement de la voirie express nationale de la section Lempdes-Saint-Flour-Sud de la route nationale 9 et classement dans la voirie autoroutière de la section Pérignat-lès-Sarliève (Puy-de-Dôme)-Saint-Flour-Sud (commune de Saint-Georges-Cantal) |périodique=Journal officiel de la République française |numéro=58 |date=8 mars 1991 |pages=3344 |lire en ligne=https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000170732 |consulté le=13 février 2022}}.</ref>.
+
+En {{date||juin|1991}}, sont mises en service les déviations du [[Le Caylar|Caylar]], entre les {{Nobr|échangeurs 49}} et 50 d'une longueur de {{nobr|3 km}}, et de [[Pézenas]] sur {{nobr|5 km}} entre les {{Nobr|échangeurs 59}} et 61.
+
+En {{date||octobre|1991}}, la section [[Massiac]] - [[Col de la Fageole]] – [[Vieillespesse]], entre les {{Nobr|échangeurs 23}} et 26, d'une longueur de {{nobr|18 km}}, et de la section entre le col de la Fageole et [[Saint-Flour (Cantal)|Saint-Flour]], entre les {{Nobr|échangeurs 27}} et 29, d'une longueur de {{nobr|10 km}}, sont ouvertes.
+
+Le tronçon entre les {{Nobr|échangeurs 30}} et 31 (déviation de Garabit) ouvre fin 1992.
+
+La déviation de [[La Canourgue]], entre les {{Nobr|échangeurs 39}} et 40, sur {{nobr|3 km}}, et un barreau de {{nobr|4 km}} après l'{{Nobr|échangeur 41}} ([[Campagnac (Aveyron)|Campagnac]]), sont ouverts fin 1993.
+
+En 1994, la section entre [[Loubaresse (Cantal)|Loubaresse]] et [[Aumont-Aubrac]], entre les {{Nobr|échangeurs 31}} et 36, sur une longueur de {{nobr|32 km}}, est ouverte. Celle située entre les {{Nobr|échangeurs 37}} et 39 ([[Le Buisson (Lozère)|Le Buisson]] – [[Le Monastier-Pin-Moriès]]), longue de {{nobr|16 km}}, ouvre à la fin de la même année, tout comme la déviation de [[L'Hospitalet-du-Larzac]] sur {{nobr|8 km}} de part et d'autre de l'{{Nobr|échangeur 48}} jusqu'à l'aérodrome de [[Millau]].
+
+En {{date||juin|1996}}, la section [[Aumont-Aubrac]] – [[Le Buisson (Lozère)|Le Buisson]], entre les {{Nobr|échangeurs 36}} et 37, d'une longueur de {{nobr|9 km}}, est ouverte.
+
+La déviation de [[Sévérac-le-Château]], entre les {{Nobr|échangeurs 41}} et 44 (au droit du col d'Engayresque), longue de {{nobr|24 km}}, est achevée en {{date||juillet|1997}} ; celle-ci ayant été déclarée d'utilité publique le {{date|24|mars|1992}}<ref>[http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000161876 Décret du 24 mars 1992 déclarant d'utilité publique les travaux de construction de la section de l'autoroute A75 à {{dunité|2|2|voies}} entre Auberoques et Engayresque (du P.R. 6,600 au P.R. 23,520) dans le département de l'Aveyron ainsi que les travaux de raccordement entre l'autoroute A75 et la R.N. 88 jusqu'à l'ouvrage de franchissement de la R.N. 9 inclus, y compris les bretelles Est, classant l'ensemble de la voie depuis la limite entre les départements de la Lozère et de l'Aveyron (P.R. 0,000) et Engayresque (P.R. 23,520) et modifiant le plan d'occupation des sols de la commune de Sévérac-le-Château].</ref>.
+
+La section comprise entre l'{{Nobr|échangeur 40}} et 41, créée en 1977, est mise en conformité fin 1997 par la réutilisation de la route {{Nobr|départementale 67}} après [[La Canourgue]], malgré de nombreux problèmes liés au relief local en bordure du [[causse de Sauveterre]].
+
+En [[1998]] :
+* la liaison A89-A71-A75 est livrée. Cette dernière était déjà prévue lors de la création du premier tronçon de la B71 fin 1978 (devenu [[Autoroute A72 (France)|A72]] puis [[Autoroute A89 (France)|A89]] entre [[Thiers]] et [[Lempdes]]) ;
+* le tronçon du [[Le Caylar|Caylar]], {{Nobr|échangeur 50}}, à [[Pégairolles-de-l'Escalette]] (département de l'Hérault), {{Nobr|échangeur 52}}, avec le [[Tunnel du Pas de l'Escalette|tunnel à double-tube du Pas de l'Escalette]], limité à {{unité|50|km/h}} par le fort degré de la pente due au relief accidenté marquant la fin du [[Massif central]] et la descente vers la Méditerranée, est mis en service.
+
+==== Années 2000 et 2010 : achèvement ====
+La section de [[Clermont-l'Hérault]] à [[Pézenas]]-nord, entre les {{Nobr|échangeurs 57}} et 59, est réaménagée en {{Date|juillet 2002}}.
+
+Le {{date|14|décembre|2004}}, le [[viaduc de Millau]] est inauguré par le Président de la République [[Jacques Chirac]] et par delà la section comprise entre l'{{Nobr|échangeur 44}} du col d'Engayresque et l'{{Nobr|échangeur 47}} à [[La Cavalerie (Aveyron)|La Cavalerie]].
+
+Le contournement de [[Lodève]], réaménagé par le Ministre des Transports [[Gilles de Robien]], entre les {{Nobr|échangeurs 52}} et 54, est inauguré le {{date|15|mars|2005}} (mise en service le {{Date|25 mars}}, coût {{nobr|160 millions d'euros}} pour {{nobr|12 km}} avec le doublement du tunnel de la Vierge (longueur : {{unité|440|m}}), le viaduc de Fozières (longueur : {{nobr|100 m}}, hauteur : {{nobr|20 m}}) et le mur de Soumont en terre armée (longueur : {{nobr|300 m}}, hauteur : {{nobr|30 m}})). Cette mise en service permet une liaison autoroutière continue de [[Clermont-Ferrand]] à [[Pézenas]].
+
+La transformation en {{dunité|2|2|voies}} de la liaison entre [[Clermont-l'Hérault]] et [[Montpellier]] ([[Autoroute A750 (France)|A750]]) s'est achevée le {{Date|26 juillet 2010}} (inauguration), et a été entièrement ouverte à la circulation le {{Date|27 juillet 2010}}.
+[[Fichier:2009 07 12 Travaux A75 (1).jpg|vignette|Travaux de création de l'A75 au niveau de [[Servian]] (tronçon Pézenas-Béziers) en 2009.]]
+Les travaux de mise aux normes de l'A75 entre Pézenas et Béziers ont eu lieu dès 2009, avec :
+* en 2009, la déviation de [[Valros]], avec un raccordement provisoire sur la [[Route nationale 9 (France)|RN 9]] ;
+* le {{date|23 juin 2010}}, l'ouverture de la section entre l'échangeur de Servian et l'[[Autoroute A9 (France)|A9]] à [[Béziers]] ({{nobr|18 km}}, coût {{unité|200|millions d'euros}} financé par l'État<ref name="dp-liaison" />) ;
+* le {{date|3 décembre 2010}}, l'achèvement de l'A75 entre l'échangeur de [[Servian]] et la déviation de Valros ;
+* fin 2010, la réalisation de la voie d'accès du diffuseur de Béziers Nord-Est et la [[Route nationale 9 (France)|RN 9]] ;
+* la déviation de Pézenas, intégrée le {{date|1|juillet|2014}}.
+Le {{Date|12|septembre|2015}}, à hauteur du village du [[Le Bosc (Hérault)|Bosc]], une portion de l'A75 s'effondre, à la suite de fortes pluies et de chutes de rochers. En conséquence, l'autoroute est fermée à la circulation dans les deux sens entre la {{Nobr|sortie 52}} et la {{Nobr|sortie 54}}. Les travaux de réfection ont duré plusieurs semaines<ref>Source : [[Centre national d'information routière|Bison Futé]]{{Référence incomplète|date=décembre 2025}}.</ref>{{,}}<ref>{{Lien web|format=pdf|auteur institutionnel=Préfecture de l'Hérault|titre=Communiqué de presse du 13 septembre 2015 à 13h30|url=http://www.herault.gouv.fr/content/download/16691/129988/file/CP_vigilance%20orange_13%20sept%202015_situation%2013h30.pdf|site=herault.gouv.fr|consulté le=13 septembre 2015}}.</ref>.
+
+=== Élargissement au sud de Clermont-Ferrand ===
+La [[communauté de communes Gergovie Val d'Allier Communauté]]<ref group="Note">Intégrée le {{date|1 janvier 2017}} au sein de [[Mond'Arverne Communauté]].</ref>, ancienne intercommunalité située au sud de Clermont-Ferrand, invoquait fin 2012 {{Citation|la saturation du trafic à l'horizon 2020 estimé à {{unité|110000|véhicules}} [par jour] entre la Pardieu et la Grande Halle d'Auvergne}}. Un élargissement est proposé afin {{Citation|d'atténuer les risques de saturation du réseau autoroutier en entrée sud de l'agglomération clermontoise<ref name="GVA" />}} ; l'élargir jusqu'à la {{Nobr|sortie 6}} {{Citation|permettra de développer les capacités de stockage des véhicules en provenance du sud de l'agglomération et de fluidifier les flux de transit ainsi que les flux pendulaires<ref name="GVA" />}}.
+
+Par délibération du conseil métropolitain de [[Clermont Auvergne Métropole]] du {{Date|16 novembre 2018}}, certaines portions de routes croisant l'A75 et gérées alors par le département du Puy-de-Dôme, et situées sur le territoire de l'intercommunalité, ont été transférées à la métropole et sont devenues des routes métropolitaines<ref>{{Lien web|format=pdf |titre=Transfert de {{unité|4 compétences}} du département du Puy-de-Dôme à Clermont Auvergne Métropole : adoption et signature des conventions de transfert |url=https://www.clermontmetropole.eu/fileadmin/user_upload/Conseils_communautaires/2018-11-16_-_Conseil_Metropolitain_du_16_novembre_2018/Administration_Generale/DEL20181116_002.pdf |site=clermontmetropole.eu |éditeur=Clermont Auvergne Métropole |date=16 novembre 2018 |consulté le=9 juillet 2021}}.</ref>.
+
+Dans le cadre du plan de relance autoroutier, l'A75 sera élargie à {{dunité|2|3|voies}} entre l'{{Nobr|échangeur 16}} de l'[[Autoroute A71 (France)|A71]] et le {{Nobr|kilomètre 11}} situé au niveau de l'{{Nobr|échangeur 5}}. La société des [[Autoroutes Paris-Rhin-Rhône]] (APRR) réalise les travaux<ref name="montagne-elarg">{{Lien web |prénom1=Cédric |nom1=Gourin |titre=L'autoroute A75 va passer à deux fois 3 voies au sud de Clermont |url=http://www.lamontagne.fr/auvergne/actualite/2015/09/04/l-autoroute-a75-va-passer-a-deux-fois-3-voies-au-sud-de-clermont_11571080.html |site= |périodique=[[La Montagne (journal)|La Montagne]] |date=04/09/2015 |consulté le=18 mars 2016}}.</ref> de cette section {{unité|10.5|km}}<ref name="aprr">[http://www.aprr.com/sites/www.aprr.com/files/aprr_a75_cp_mai2016.pdf Aujourd’hui 17 mai, reprise d’exploitation de l’A75 par APRR (Clermont-Ferrand – le Crest)] {{pdf}}, communiqué de presse de la société [[Autoroutes Paris-Rhin-Rhône|APRR]], {{Date|17 mai 2016}}.</ref> qui a été concédée (transfert du réseau de l'État à APRR en {{Date|mai 2016}})<ref name="montagne-elarg" />. Les travaux ont démarré fin 2018, pour un montant de {{unité|170 millions}} d'euros. En service depuis le {{Date|13 juillet 2021}}, la limitation de vitesse est fixée à {{unité|110|km/h}}<ref>{{Lien web |auteur=Olivier Choruszko |titre=L'A75 passe à 2 x 3 voies à partir de la deuxième quinzaine de juillet à Clermont-Ferrand |url=https://www.lamontagne.fr/clermont-ferrand-63000/actualites/l-a75-passe-a-2-x-3-voies-a-partir-de-la-deuxieme-quinzaine-de-juillet-a-clermont-ferrand_13978245/ |accès url=libre |périodique=[[La Montagne (journal)|La Montagne]] |date=9 juillet 2021 |consulté le=9 juillet 2021}}.</ref> depuis le {{Date|11 octobre 2021}}<ref>{{Lien web |auteur=Juliette Micheneau |titre=L'A75 en 2X3 voies : retour à {{unité|110 km/h}} ce lundi entre Clermont-Ferrand et Le Crest |url=https://www.francebleu.fr/infos/transports/retour-a-110km-h-sur-l-a75-entre-clermont-ferrand-et-le-crest-1633624488 |site=[[ici (radio)|francebleu.fr]] |éditeur=[[Ici Pays d'Auvergne|France Bleu Pays d'Auvergne]] |date=11 octobre 2021 |consulté le=11 octobre 2021}}.</ref>{{,}}<ref name="LM-20211011">{{Lien web |auteur=Nathan Marliac |titre=La portion de l'autoroute A75 entre Clermont-Ferrand et Le Crest passe (enfin) à {{unité|110 km/h}} ce lundi 11 octobre |url=https://www.lamontagne.fr/clermont-ferrand-63000/actualites/la-portion-de-l-autoroute-a75-entre-clermont-ferrand-et-le-crest-passe-enfin-a-110-km-h-ce-lundi-11-octobre_14025439/ |accès url=libre |périodique=[[La Montagne (journal)|La Montagne]] |date=11 octobre 2021 |consulté le=11 octobre 2021}}.</ref>.
+
+== Circulation ==
+=== Tracé ===
+[[Fichier:A75 Cl-Fd 0707.jpg|vignette|alt=L'autoroute A75 à proximité de Clermont-Ferrand|L'autoroute A75 au niveau de l'[[échangeur de Pérignat-lès-Sarliève]] à proximité de Clermont-Ferrand.]]
+[[Fichier:Massiac autoroute A75.JPG|vignette|alt=L'autoroute A75 à Massiac|L'autoroute A75 à Massiac.]]
+[[Fichier:A75 Chapelle Ste Madeleine.JPG|vignette|[[Chapelle Sainte-Madeleine de Chalet|Chapelle Sainte-Madeleine à Massiac]].]]
+Prolongement de l'[[Autoroute A71 (France)|A71]] et de la partie Est de la [[rocade de Clermont-Ferrand]].<br/>
+'''Section concédée à [[Autoroutes Paris-Rhin-Rhône|APRR]] depuis 2016 et gratuite.'''
+* '''{{échangeur autoroutier|[[Autoroute A71 (France)|A71]]|[[Autoroute A711 (France)|A711]]|A75}}''' à {{unité|0|km}} : 
+** A71 : [[Clermont-Ferrand]] - ''nord'', [[Riom]], [[Paris]], [[Bordeaux]] ([[Autoroute A89 (France)|A89 Ouest]]), ''[[Fichier:France road sign ID2.svg|15px|alt]] [[Aéroport de Clermont-Ferrand-Auvergne|Aulnat]]''
+** A711 : [[Lyon]] (A89 Est), [[Saint-Étienne]], [[Thiers (Puy-de-Dôme)|Thiers]]
+** [[Fichier:France road sign C207.svg|24x24px]] [[Fichier:Panneau-C24a.svg|22x22px]] [[Fichier:France road sign B14 (110).svg|22x22px]] Début de l'autoroute, début de {{dunité|2|3|voies}} et limitation à {{unité|110|km/h}}. ''(Début de portion en périphérie de Clermont-Ferrand.)''
+* {{Sortie|1 Clermont-Ferrand - ''La Pardieu''}} à {{unité|1,5|km}} : [[Billom]], [[Cournon-d'Auvergne]], Clermont-Ferrand, ''[[File:France road sign ID35.svg|15px|alt]] Z. I. Cournon''
+* {{Sortie|2 [[échangeur de Pérignat-lès-Sarliève|Pérignat-lès-Sarliève]]}} à {{unité|4|km}} : Bordeaux, Clermont-Ferrand, [[La Bourboule]], [[Mont-Dore (Puy-de-Dôme)|Mont-Dore]], [[Aubière]]
+Fin de la partie Est de la rocade
+* {{Sortie|3 Zénith}} à {{unité|5|km}} : Cournon-d'Auvergne, Pérignat-lès-Sarliève, ''[[Fichier:France road sign ID35.svg|15px|alt]] Z. I. Cournon'', ''Grande Halle'', ''[[Zénith d'Auvergne|Zénith]]''
+* {{Sortie|4 La Roche-Blanche / Orcet}} à {{unité|6|km}} : [[Vic-le-Comte]], [[Le Cendre]], [[Gergovie]], Pérignat-lès-Sarliève, [[La Roche-Blanche (Puy-de-Dôme)|La Roche-Blanche]], [[Orcet]]
+* {{Sortie|5 Jonchère}} à {{unité|10|km}} : [[Aydat]], [[Saint-Amant-Tallende]], [[Veyre-Monton]], Orcet
+'''Section non-concédée gérée par la [[Direction interdépartementale des Routes#Direction interdépartementale des Routes Massif central|DIR Massif-Central]] et gratuite.'''
+* [[Fichier:France road sign C28-2.svg|22x22px]] Réduction à {{dunité|2|2|voies}}.
+** [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à {{unité|130|km/h}}. ''(Fin de portion en périphérie de Clermont-Ferrand.)''
+** {{Aire de service|de Veyre|Clermont-Béziers}}
+* {{Sortie|6 Veyre-Monton}} à {{unité|15|km}} : [[Besse-et-Saint-Anastaise|Besse]], [[Saint-Nectaire]], [[Champeix]], Veyre-Monton
+** {{Aire de service|d'Authezat|Béziers-Clermont}}
+* {{Sortie|7 Montpeyroux}} à {{unité|19|km}} : [[Coudes]], [[Montpeyroux (Puy-de-Dôme)|Montpeyroux]]
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à {{unité|110|km/h}}.
+** [[Fichier:France road sign A1d.svg|22x22px]] [[Fichier:France road sign B14 (90).svg|22x22px]] Limitation à {{unité|90|km/h}}. ''(Succession de virages sur {{unité|11|km}}.)''
+* {{Sortie|8 Coudes}} à {{unité|21|km}} : Coudes, [[Vic-le-Comte]] ''(trois-quarts échangeurs)''
+* {{Sortie|9 Sauvagnat-Sainte-Marthe}} à {{unité|23|km}} : [[Sauvagnat-Sainte-Marthe]], [[Saint-Yvoine]]
+** {{Aire de repos|du Val d'Allier|Clermont-Béziers}}
+* {{Sortie|10 La Ribeyre}} à {{unité|27|km}} : ''La Ribeyre'' 
+* {{Sortie|11 Issoire - ''centre''}} à {{unité|30|km}} ''(demi-échangeur, depuis et vers Clermont-Ferrand)'' : [[Issoire]]
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à {{unité|110|km/h}}. ''(Début de portion en périphérie d'Issoire.)''
+* {{Sortie|12 Issoire - ''Les Prés''}} à {{unité|32|km}} : [[Orbeil (Puy-de-Dôme)|Orbeil]], Issoire
+* {{Sortie|13 Issoire - ''Couze''}} à {{unité|33|km}} : [[Ambert]], [[Sauxillanges]], [[Saint-Germain-l'Herm]], [[Parentignat]], Issoire
+* {{Sortie|14 Issoire - ''Aérodrome''}} à {{unité|35|km}} : Besse, Saint-Nectaire, Champeix, Issoire - ''centre'' 
+** [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à {{unité|130|km/h}}. ''(Fin de portion en périphérie d'Issoire.)''
+* {{Sortie|15 Le Broc}} à {{unité|37|km}} ''(demi-échangeur, depuis et vers Clermont-Ferrand)'' : [[Ardes]], [[Saint-Germain-Lembron]], [[Le Broc (Puy-de-Dôme)|Le Broc]], [[Le Breuil-sur-Couze]]
+* {{Sortie|16 Civerac}} à {{unité|38|km}} : Le Broc ''(trois-quarts échangeurs, non-accessible depuis Clermont-Ferrand)''
+** {{Aire de repos|du Cézallier|Clermont-Béziers|du Lembron|Béziers-Clermont}}
+* {{Sortie|17 Les Coustilles}} à {{unité|41|km}} : [[Jumeaux]], [[Auzat-la-Combelle]], Saint-Germain-Lembron, Le Breuil-sur-Couze
+* {{Sortie|18 Charbonnier-les-Mines}} à {{unité|46|km}} : [[Brassac-les-Mines]], [[Sainte-Florine]], [[Charbonnier-les-Mines]]
+''Passage du département du [[Puy-de-Dôme]] au département de la [[Haute-Loire]].''
+* {{Sortie|19 Lempdes-sur-Allagnon - ''nord''}} ''(demi-échangeur, depuis et vers Clermont-Ferrand)'' : [[Lempdes-sur-Allagnon]], [[Auzon (Haute-Loire)|Auzon]]
+* {{Sortie|20 Lempdes-sur-Allagnon - ''sud''}} à {{unité|52|km}} : [[Le Puy-en-Velay]], [[Brioude]], Sainte-Florine, [[Vergongheon]], Lempdes-sur-Allagnon
+* {{Sortie|21 La Fayette}} à {{unité|55|km}} : Ardes, [[Lorlanges]] + {{Aire de service|de La Fayette}}
+* {{Sortie|22 Espalem}} à {{unité|62|km}} : Le Puy-en-Velay, Brioude, [[Blesle]], [[Espalem]]
+''Passage du département de la Haute-Loire au département du [[Cantal (département)|Cantal]].''
+** {{Aire de repos|Chalet|Clermont-Béziers}}
+* {{Sortie|23 Massiac - ''nord''}} à {{unité|67|km}} ''(demi-échangeur, depuis et vers Clermont-Ferrand)'' : [[Aurillac]], [[Murat (Cantal)|Murat]], [[Massiac]], ''[[Fichier:France road sign ID21a.svg|15px|alt]] [[Fichier:France road sign ID21b.svg|15px|alt]] [[Le Lioran]]''
+* {{Sortie|24 Massiac - ''sud''}} à {{unité|70|km}} ''(demi-échangeur, depuis et vers Béziers)'' : Massiac
+* {{Sortie|25 Espezolles}} à {{unité|82|km}} : [[Saint-Poncy]] 
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à {{unité|110|km/h}}.
+* {{Sortie|26 La Fageolle}} à {{unité|86|km}} : [[Vieillespesse]] 
+** Col de La Fageolle (alt. {{unité|1107|m}})
+* {{Sortie|27 Salcrus}} à {{unité|88|km}} : [[Coren]], [[Montchamp (Cantal)|Montchamp]]
+** {{Aire de repos|Montchauvet|Béziers-Clermont}}
+** [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à {{unité|130|km/h}}.
+* {{Sortie|28 Saint-Flour - ''nord''}} à {{unité|94|km}} : [[Espalion]], [[Chaudes-Aigues]], Coren, [[Saint-Flour (Cantal)|Saint-Flour]] - ''centre, Bel-Air'', Aurillac, Murat, ''[[Fichier:France road sign ID21a.svg|15px|alt]] [[Fichier:France road sign ID21b.svg|15px|alt]] Le Lioran''
+* {{Sortie|29 Saint-Flour - ''sud''}} à {{unité|98|km}} : Saint-Flour - ''centre, Bellevue'', [[Saint-Georges (Cantal)|Saint-Georges]]
+* {{Sortie|30 Ruynes-en-Margeride}} à {{unité|103|km}} : [[Ruynes-en-Margeride]], ''[[Fichier:France road sign ID16a.svg|15px|alt]] [[Viaduc de Garabit|Gabarit - Viaduc Eiffel]]''
+** {{Aire de repos|de Garabit viaduc Eiffel}}
+** [[Fichier:AB-Brücke.svg]] [[Pont autoroutier de Garabit|Viaduc de Garabit]]
+* {{Sortie|31 Loubaresse}} à {{unité|112|km}} : [[Loubaresse (Cantal)|Loubaresse]], ''[[Fichier:France road sign ID16a.svg|15px|alt]] Gabarit - Viaduc Eiffel'' 
+''Passage de la région [[Auvergne-Rhône-Alpes]] à la région [[Occitanie (région administrative)|Occitanie]].<br /> Passage du département du Cantal au département de la [[Lozère (département)|Lozère]].''
+* {{Sortie|32 ''La Garde''}} à {{unité|118|km}} : [[Albaret-Sainte-Marie]], [[Les Monts-Verts]] - ''Le Bacon'' + {{Aire de service|de la Lozère}}
+* {{Sortie|33 Saint-Chély-d'Apcher - ''nord''}} à {{unité|123|km}} : [[Fournels]], [[Le Malzieu-Ville]], [[Saint-Chély-d'Apcher]]
+* {{Sortie|34 Saint-Chély-d'Apcher - ''sud''}} à {{unité|127 & 129|km}} ''(deux demi-échangeurs)'' : [[Saint-Alban-sur-Limagnole]], Saint-Chély-d'Apcher, [[Rimeize (Lozère)|Rimeize]], [[Chaudes-Aigues]], Fournels
+** {{Aire de repos|de l'Aubrac}}
+* {{Sortie|35 Aumont-Aubrac - ''nord''}} à {{unité|133|km}} ''(demi-échangeur, depuis et vers Clermont-Ferrand)''  : [[Peyre en Aubrac|Aumont-Aubrac (Peyre en Aubrac)]], [[Nasbinals]]
+* {{Sortie|36 Aumont-Aubrac - ''sud''}} à {{unité|138|km}} ''(demi-échangeur, depuis et vers Béziers)'' : Aumont-Aubrac (Peyre en Aubrac)
+** Col des Issartets (alt. {{unité|1121|m}})
+* {{Sortie|37 Le Buisson}} à {{unité|146|km}} : [[Le Buisson (Lozère)|Le Buisson]] 
+* {{Sortie|38 Antrenas}} à {{unité|152|km}} : [[Antrenas]], [[Marvejols]], Nasbinals
+** {{Aire de repos|de la Bête du Gévaudan|Clermont-Béziers|de Marvejols|Béziers-Clermont}}
+** [[Fichier:AB-Brücke.svg]] [[Pont du Truc de la Fare]]
+* {{Sortie|39 Le Monastier}} à {{unité|155|km}} : [[Bourgs-sur-Colagne|Le Monastier, Chirac (Bourgs-sur-Colagne)]]
+* {{Sortie|39.1 Romadies}} '''({{Échangeur autoroutier|[[Route nationale 88 (France)|RN 88]]|A75}})''' à {{unité|160|km}} : [[Nîmes]], [[Mende (Lozère)|Mende]], [[Florac]], [[Chanac]], ''[[Fichier:France road sign ID16b.svg|15px|alt]] [[Gorges du Tarn]]''
+** [[Fichier:France road sign C111.svg|22x22px]] Tunnel de Montjézieu ({{unité|614|m}})
+* {{Sortie|39.2 Saint-Germain-du-Teil}} à {{unité|162|km}} ''(quart-échangeur, depuis Clermont-Ferrand)'' : [[Saint-Germain-du-Teil]] 
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à {{unité|110|km/h}}. ''(Succession de virages sur {{unité|7|km}})''
+* {{Sortie|40 Banassac}} à {{unité|165|km}} : [[Banassac]], [[La Canourgue]], ''[[Fichier:France road sign ID16b.svg|15px|alt]] Gorges du Tarn'', Saint-Germain-du-Teil, [[Saint-Laurent-d'Olt]]
+** [[Fichier:France road sign C24a.svg|22x22px]] {{dunité|2|3|voies}} (voie de droite pour véhicules lents sur {{unité|8|km}})
+** [[Fichier:France road sign B14 (90).svg|22x22px]] Limitation à {{unité|90|km/h}}. (sens Béziers-Clermont)
+** [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à {{unité|130|km/h}}. (sens Clermont-Béziers)
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à {{unité|110|km/h}}. (sens Béziers-Clermont)
+** [[Fichier:France road sign C28-2.svg|22x22px]] Réduction à {{dunité|2|2|voies}}.
+** Col de La Fagette (alt. {{unité|882|m}})
+''Passage du département de la Lozère au département de l'[[Aveyron (département)|Aveyron]].''
+* {{Sortie|41 Campagnac}} à {{unité|175|km}} : [[Saint Geniez d'Olt et d'Aubrac]], [[Campagnac (Aveyron)|Campagnac]]
+* {{Sortie|42 Sévérac d'Aveyron}} à {{unité|183|km}} : [[Rodez]], [[Espalion]], [[Laissac-Sévérac l'Église]], [[Massegros Causses Gorges]], [[Sévérac d'Aveyron]] + {{Aire de service|de l'Aveyron}}
+* {{Sortie|43 Sermeillets}} à {{unité|186|km}} ''(demi-échangeur, depuis et vers Béziers)'' : Massegros Causses Gorges
+* {{Sortie|44 Verrières}} à {{unité|199|km}} : [[Verrières (Aveyron)|Verrières]], ''Engayresque''
+** Col d'Engayresque (alt. {{unité|888|m}})
+* {{Sortie|44.1 La Gamasse}} à {{unité|209|km}} : [[Cahors]], [[Meyrueis]], [[Pont-de-Salars]], [[Vézins-de-Lévézou]], [[Aguessac]], ''[[Fichier:France road sign ID16b.svg|15px|alt]] Gorges du Tarn''
+** {{Aire de repos|de la Garrigue}}
+** [[Fichier:AB-Brücke.svg]] Viaduc de la Garrigue ({{unité|340|m}})
+'''Section concédée à [[Eiffage|Compagnie Eiffage du viaduc de Millau (CEVM)]]<ref>[https://www.leviaducdemillau.com/accueil-viaduc-de-millau.html Site Concessionnaire du Viaduc de Millau]</ref> et payante (sauf les {{Nobr|sorties 45}} et 46).'''
+* {{Sortie|45 Millau - ''Saint-Germain''}} à {{unité|214|km}} : [[Millau]], [[Saint-Beauzély]], ''[[Fichier:France road sign ID16b.svg|15px|alt]] [[Castelnau-Pégayrols]]'' 
+* {{Péage|Péage de Saint-Germain (du Viaduc de Millau)}} ''(km 215)''
+** [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à {{unité|130|km/h}}.
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à {{unité|110|km/h}}. ''(Début de la zone du Traversée du Viaduc de Millau.)''
+** {{Aire de repos|du Viaduc de Millau}} ''(km 219)''
+** [[Fichier:AB-Brücke.svg]] [[Viaduc de Millau]] ({{unité|2500|m}}) sur [[Fichier:Panneau cours d'eau France.png|20px]] le [[Tarn (rivière)|Tarn]]
+** [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à {{unité|130|km/h}}. ''(Fin de la zone du Traversée du Viaduc de Millau.)''
+* {{Sortie|46 Beaumescure}} à {{unité|228|km}} : [[Albi]], [[Saint-Affrique]], [[Roquefort-sur-Soulzon|Roquefort]], [[Saint-Rome-de-Cernon]]
+'''Section non-concédée gérée par la [[Direction interdépartementale des Routes#Direction interdépartementale des Routes Massif central|DIR Massif-Central]] et gratuite.'''
+[[Fichier:A75 Traversée du Larzac.jpg|vignette|Traversée du [[Larzac]].]]
+[[Fichier:Tunnel du Pas de l'Escalette.jpg|vignette|[[Tunnel du Pas de l'Escalette]].]]
+[[Fichier:A75.JPG|vignette|L'autoroute A75 à proximité de la sortie 58.]]
+[[Fichier:France - 34 - Pézenas - Sortie 61 sur l'autoroute A75.JPG|alt=Vue de la sortie 61 de l'autoroute A75 à hauteur du sud de Pézenas.|vignette|La sortie 61 près de Pézenas.]]
+* {{Sortie|47 La Cavalerie}} à {{unité|235|km}} : Millau - ''centre'', [[Nant (Aveyron)|Nant]], [[La Cavalerie (Aveyron)|La Cavalerie]], ''[[Fichier:France road sign ID16b.svg|15px|alt]] [[Sainte-Eulalie-de-Cernon]]'', ''[[Fichier:France road sign ID16b.svg|15px|alt]] Gorges du Tarn''
+** {{Aire de service|du Larzac}}
+* {{Sortie|48 Larzac}} à {{unité|242|km}} : [[Alzon]], [[Cornus (Aveyron)|Cornus]], [[L'Hospitalet-du-Larzac]], [[Le Vigan (Gard)|Le Vigan]], ''[[Fichier:France road sign ID16b.svg|15px|alt]] [[La Couvertoirade]]''
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à {{unité|110|km/h}}.
+''Passage du département de l'Aveyron au département de l'[[Hérault (département)|Hérault]].''
+* {{Sortie|49 Le Caylar}} à {{unité|255|km}} : [[Le Caylar]], ''[[Fichier:France road sign ID16b.svg|15px|alt]] La Couvertoirade'', ''[[Fichier:France road sign ID16b.svg|15px|alt]] [[Cirque de Navacelles]]'' + {{Aire de service|du Caylar}}
+** [[Fichier:France road sign B14 (90).svg|22x22px]] Limitation à {{unité|90|km/h}}.
+** [[Fichier:France road sign B14 (70).svg|22x22px]][[Fichier:France road sign A1c.svg|22x22px]] Limitation à {{unité|70|km/h}}. ''(Descente à 7,5% sur {{Unité|6,5|km}} à partir du km 259.)''
+* {{Sortie|50 Saint-Félix-de-l'Héras}} à {{unité|259|km}} ''(demi-échangeur, depuis et vers Béziers)'' : [[Saint-Félix-de-l'Héras]], [[Les Rives]]
+** [[Fichier:France road sign C111.svg|22x22px]] Tunnel du Pas de l'Escalette ({{unité|725|m}})
+** {{Aire de repos|du Belvédère de la Lerque|Clermont-Béziers}}
+** [[Fichier:France road sign B14 (90).svg|22x22px]] Limitation à {{unité|90|km/h}}.
+* {{Sortie|51 Pégairolles-de-l'Escalette}} à {{unité|266|km}} : [[Pégairolles-de-l'Escalette]]
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à {{unité|110|km/h}}.
+* {{Sortie|52 Lodève - ''nord''}} à {{unité|271|km}} : [[Lodève]], [[Soubès]], Le Vigan, [[Ganges]], [[Bédarieux]], [[Lunas-les-Châteaux|Lunas]], ''[[Fichier:France road sign ID16b.svg|15px|alt]] Cirque de Navacelles''
+** [[Fichier:France road sign C111.svg|22x22px]] [[Tunnel de la Vierge|Tunnel du Rocher de la Vierge]] ({{unité|470|m}})
+** [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à {{unité|130|km/h}}.
+* {{Sortie|53 Lodève - ''sud''}} à {{unité|275|km}} ''(demi-échangeur, depuis et vers Béziers)'' : Lunas, Lodève
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à {{unité|110|km/h}}.
+* {{Sortie|54 Mas Lavayre}} à {{unité|280|km}} ''(trois-quarts échangeurs, non-accessible vers Béziers)'' : Lodève - ''sud'', [[Saint-Jean-de-la-Blaquière]], [[Le Bosc (Hérault)|Le Bosc]], ''[[Fichier:France road sign ID16b.svg|15px|alt]] [[Lac du Salagou]]''
+** [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à {{unité|130|km/h}}.
+* {{Sortie|55 Saint-Fréchoux}} à {{unité|282|km}} ''(demi-échangeur, depuis et vers Béziers)'' : ''[[Fichier:France road sign ID16b.svg|15px|alt]] Lac du Salagou''
+* {{Sortie|56 Salelles-du-Bosc}} à {{unité|284|km}} : [[Ceyras]], Saint-Jean-de-la-Blaquière, [[Saint-Félix-de-Lodez]], ''Salelles-du-Bosc''
+* '''{{échangeur autoroutier|[[Autoroute A750 (France)|A750]]|A75}} ''([[Bifurcation de Ceyras]])''''' à {{unité|290|km}} : [[Montpellier]], [[Saint-Guilhem-le-Désert]], [[Gignac (Hérault)|Gignac]], [[Saint-André-de-Sangonis]]
+* {{Sortie|57 Clermont-l'Hérault}} à {{unité|298|km}} : Bédarieux, [[Canet (Hérault)|Canet]], [[Nébian]], [[Clermont-l'Hérault]], ''[[Fichier:France road sign ID16b.svg|15px|alt]] Lac du Salagou''
+** {{Aire de repos|de Paulhan}} ''(km 298)''
+* {{Sortie|58 Paulhan}} à {{unité|299|km}} : [[Lézignan-la-Cèbe]], [[Paulhan (Hérault)|Paulhan]], [[Adissan]]
+* {{Sortie|59 Pézenas - ''nord''}} à {{unité|304|km}} : [[Sète]], [[Mèze]], [[Montagnac (Hérault)|Montagnac]], Lézignan-la-Cèbe, [[Pézenas]] - ''centre''
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à {{unité|110|km/h}}. ''(Début de portion en périphérie de Pézenas.)''
+* {{Sortie|59.1 Pézenas - ''est''}} à {{unité|307|km}} : Pézenas - ''centre'', [[Castelnau-de-Guers]]
+* {{Sortie|60 Agde}} à {{unité|309|km}} ''(demi-échangeur, depuis et vers Clermont-Ferrand)'' : [[Agde]], [[Bessan]], [[Florensac]] 
+* {{Sortie|61 Pézenas - ''sud''}} à {{unité|310|km}} : [[Roujan]], [[Tourbes]], [[Valros]], Pézenas
+** {{Aire de service|de Valros}}
+* {{Sortie|62 La Bégude de Jordy}} à {{unité|318|km}} : [[Servian]], [[Montblanc (Hérault)|Montblanc]], Florensac, Valros
+** [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à {{unité|130|km/h}}. ''(Fin de portion en périphérie de Pézenas.)''
+'''Section concédée à [[Autoroutes du Sud de la France|ASF]] et payante (sauf les sorties 63 et 64).'''
+* {{Sortie|63 Béziers - ''nord-est''}} à {{unité|324|km}} ''(demi-échangeur, depuis et vers Clermont-Ferrand)'' : [[Narbonne]], [[Béziers]] - ''centre'', [[Boujan-sur-Libron]]
+* {{Sortie|64 Béziers - ''sud-est''}} à {{unité|326|km}} : Béziers - ''centre'', [[Valras-Plage]], [[Sérignan]], ''[[Fichier:France road sign ID2.svg|15px|alt]] [[Aéroport de Béziers-Cap d'Agde|Béziers-Cap d'Agde]]''
+* {{Péage|Péage de Béziers-Cabrials (à système fermé)}} (''km 327'')
+** [[Fichier:France road sign C24a.svg|22x22px]] [[Fichier:France road sign B14 (90).svg|22x22px]] Passage à {{dunité|2|3|voies}} et limitation à {{unité|90|km/h}}. ''(voie de gauche vers Montpellier et deux voies de droite vers Narbonne)''
+** [[Fichier:France road sign B14 (70).svg|22x22px]] Limitation à {{unité|70|km/h}}.
+** [[Fichier:France road sign C208.svg|22x22px]] Fin de l'autoroute
+* '''{{échangeur autoroutier|[[Autoroute A9 (France)|A9]]|A75}}''' à {{unité|328|km}} : [[Lyon]] ([[Autoroute A7 (France)|A7]]), Montpellier, Sète ; [[Barcelone]], [[Toulouse]] ([[Autoroute A61 (France)|A61]]), Narbonne, Béziers - ''ouest''
+
+=== Lieux sensibles ===
+
+La liste ci-dessous répertorie les lieux à [[Embouteillage (route)|embouteillages]] fréquents et les pentes dangereuses :
+* km 0 à 7 : contournement de [[Clermont-Ferrand]] ({{unité|110|km/h}}) – bouchons fréquents en période de sortie de bureau dès la fin de l'A71 ({{unité|60000|à=80000|véhicules}} par jour, voire {{formatnum:100000}} les jours de grands départs, sur la section concédée à APRR).
+* km 24 à 35 : entre les {{Nobr|sorties 8}} et 11, virages sinueux de Coudes (Issoire) ({{unité|90|km/h}} avec un radar automatique)
+* km 90 : col de la Fageole — endroit à brouillard et à congères, absence de bande d'arrêt d'urgence alors que l'on roule à une altitude de {{unité|1100|m}}. Pente d'accès à Saint-Flour, souvent bloquée par de la neige en hiver.
+* km 175 : montée/descente du col de la Fagette à Banassac ({{unité|90|km/h}})
+* km 268 : montée/descente de l'Escalette, au sud du [[tunnel du Pas de l'Escalette]] réduction à ({{unité|110|km/h}}) puis à ({{unité|70|km/h}}) dans le sens Clermont/Béziers la traversée du [[tunnel du Pas de l'Escalette]] se fait à {{unité|80|km/h}} dans les deux sens – voies pour véhicules lents (dans les deux sens) et voies d'échappements pour les PL et VL en manque de freins (dans le sens Clermont Béziers).
+* km 330 : péage de Béziers-Cabrials (risque de bouchons éventuels).
+
+== Antennes ==
+=== Vraies antennes ===
+L'autoroute A75 ne comporte qu'une seule vraie antenne autoroutière, l'[[Autoroute A750 (France)|autoroute A750]] destinée à la prolonger vers la [[Montpellier Méditerranée Métropole|métropole]] et la ville de [[Montpellier]].
+
+==== A750 ====
+{{Article détaillé|Autoroute A750 (France)}}
+Le résumé du parcours inclut également les sorties situées sur la RN 109, prolongement de l'A750 également en {{dunité|2|2|voies}} en direction de Montpellier :
+
+* ''{{Échangeur autoroutier|A75|A750}}'' ([[Bifurcation de Ceyras]])
+* {{Sortie|12|Saint-Félix}} : [[Saint-Félix-de-Lodez]], [[Saint-Saturnin-de-Lucian]], [[Montpeyroux (Hérault)]], [[Ceyras]]
+* {{Sortie|11|Saint-André ''La Garrigue''}} : [[Saint-André-de-Sangonis]]-''(La Garrigue)'', [[Gignac (Hérault)]]''-Font d'Encauvi''
+* {{Sortie|10|Gignac-''Sud''}} : [[Gignac (Hérault)|Gignac-ouest]], [[Canet (Hérault)]], [[Saint-Martin-de-Londres]]
+* {{Sortie|9|Saint-Jean-d'Aumière}} : [[Gignac (Hérault)|Gignac-''est'']], [[La Boissière (Hérault)|La Boissière]], [[Aniane]], [[Saint-Guilhem-le-Désert]]
+* {{Sortie|8|Saint-Paul}} : [[Montarnaud]], [[Saint-Paul-et-Valmalle]], [[Cournonterral]], [[Murviel-lès-Montpellier]], [[Argelliers]] 
+* {{Sortie|7|Bel-Air}} : [[Grabels]], [[Saint-Georges-d'Orques]], [[Vailhauquès]], [[Pignan]]
+* [[Fichier:France_road_sign_C208.svg|20px]] [[Fichier:France_road_sign_C107.svg|20px|Symbole Début de route à accès réglementé]] Fin de l'autoroute et passage sur la {{Lnobr|Route nationale 109 (France)|RN 109}} ({{dunité|2|2|voies}}, limitation à {{unité|110|km/h}})
+* {{Sortie|6|Juvignac}} : [[Juvignac]]
+* {{Sortie|5|Juvignac-''La Plaine''}} : Juvignac
+* {{Sortie|4|[[Autoroute A709 (France)|A709]]}} : [[Autoroute A9 (France)|A9]] [[Nîmes]], [[Saint-Jean-de-Védas]], [[Lavérune]] 
+* Séparation en deux branches sur l'''Avenue de la Liberté'' (voie rapide dans Montpellier [[Intra-muros]]) : l'une vers [[Alès]]/Montpellier-''Mosson'' (donnant accès à la [[Liaison intercantonale d'évitement nord]] (LIEN), périphérique nord de Montpellier) et l'autre vers Montpellier-''Centre''/''Sud'' avec possibilité de rejoindre la sortie {{Numéro|30}} de l'[[Autoroute A709 (France)|A709]].
+
+=== Fausses antennes ===
+Il existe néanmoins des fausses antennes (des antennes sous des voies express)
+
+==== Voie express entre [[Pézenas]] et [[Marseillan (Hérault)|Marseillan-plage]] ====
+{{Article connexe|Route nationale 312|Route nationale 112 (France){{!}}Route nationale 112}}
+* Début de [[Fichier:Route départementale française 13.svg|50px]]
+* {{Sortie||A75}} [[Route européenne 11|A75]] vers [[Paris]] (Quart-échangeur)
+** [[Fichier:France road sign A18.svg|22x22px]] Mise à {{dunité|2|1voies}}, Vitesse limitée à {{unité|90|km/h}}
+* {{Sortie||Nézignan-l'Évêque Nord}} [[Nézignan-l'Évêque]]-Nord
+* {{Sortie||Nézignan-l'Évêque Sud}} [[Nézignan-l'Évêque]]-Sud, [[Saint-Thibéry]]-Nord (Demi-Échangeur)
+* {{Sortie||Saint-Thibéry}} [[Saint-Thibéry]]-Centre
+* {{Sortie||D13E15}} Future sortie vers [[Saint-Thibéry]]-Sud
+* {{Sortie||A9}} Future sortie vers [[Bessan]]-Nord, et [[Route européenne 15|A9]]
+** Devient [[Fichier:Route départementale française 612.svg|50px]]A
+** [[Fichier:France road sign C29a.svg|22px]][[Fichier:France road sign B14 (110).svg|22x22px]] Mise à {{dunité|2|2|voies}}, Limitation de vitesse à {{unité|110|km/h}}
+* {{Sortie||Bessan}} [[Bessan]]-Centre
+** [[Fichier:France road sign C28-3.svg|22px]][[Fichier:France road sign B14 (90).svg|22x22px]] Mise à {{dunité|2|1|voies}}, Limitation de vitesse à {{unité|90|km/h}}
+* {{Sortie||D137}} [[Bessan]]-Sud
+* {{Sortie||Entré D612A}} Bretelle d'entrée depuis [[Vias]]-Est
+* {{Sortie||D612}} [[Vias]], [[Béziers]]
+** Devient [[Fichier:Route départementale française 612.svg|50px]]
+* {{Sortie||La Tamarissière-plage}} [[Agde]]-Ouest
+* {{Sortie||Le grau d'Agde}} [[Agde]]-Sud
+** [[Fichier:Panneau-C24a-2.svg|22x22px]][[Fichier:France road sign B14 (110).svg|22x22px]] Mise à {{dunité|2|2|voies}}, Limitation de vitesse à {{unité|110|km/h}}
+* {{Sortie||Cap d'Agde}} [[Agde|Cap d'Agde]]
+* {{Sortie||D912}} [[Agde]]-Est
+* Fin de [[Fichier:Route départementale française 612.svg|50px]]
+
+== Ouvrages d'art ==
+[[Fichier:2008 Viaduc de la Violette.JPG|thumb|[[Viaduc de la Violette]]]]
+
+Nombre de ponts et de viaducs ont dû être construits de façon qu'ils soient intégrés dans un milieu paysager « remarquable »<ref name="Hadjou" />.
+* [[Viaduc de Millau]] (2004)
+* Péage du Viaduc de Millau (2004)
+* [[Viaduc de la Violette]]
+* [[Pont de l'Alagnonnette]] (1991)
+* [[Pont autoroutier de Garabit|Pont sur la Truyère à Garabit]] (1993)
+* Viaduc de la Crueize
+* Pont d'Antrenas (1994)
+* Viaduc de Piou (1995)
+* Viaduc de Rioulong (1995)
+* [[Pont du Truc de la Fare]] (1993)
+* Viaduc de la Planchette (1994)
+* Tunnel de Montjézieu (1996)
+* Pont sur l'A75 à La Mothe (pont à béquille) (1992)
+* Pont sur le Lot 
+* [[Viaduc de Verrières]] (2002)
+* Viaduc de la Garrigue (2001)
+* [[Tunnel du Pas de l'Escalette]] (1994)
+* Viaduc de Brèze
+* Viaduc de Fozières
+* [[Tunnel de la Vierge]] (2005)
+
+== Croisements autoroutiers ==
+L'autoroute A75 contient peu d'échangeurs autoroutiers (aucun après Clermont-Ferrand et avant Clermont-l'Hérault) :
+* vers l'[[Autoroute A71 (France)|A71]] ([[Paris]], [[Montluçon]], [[Vichy]]) et l'[[Autoroute A89 (France)|A89]] Ouest ([[Bordeaux]], [[Limoges]]) ;
+* vers [[Autoroute A711 (France)|A711]] : [[Autoroute A89 (France)|A89]] ([[Lyon]], [[Thiers (Puy-de-Dôme)|Thiers]]) ;
+* vers [[Autoroute A750 (France)|A750]] ([[Montpellier]]) à la [[bifurcation de Ceyras]] ;
+* vers [[Autoroute A9 (France)|A9]] ([[Béziers]], [[Narbonne]], [[Perpignan]], [[Toulouse]], [[Barcelone]]).
+
+== Sites remarquables ==
+La liste suivante répertorie les villes et sites remarquables aux abords de l'autoroute :
+* [[Clermont-Ferrand]]
+* [[Montpeyroux (Puy-de-Dôme)|Montpeyroux]], classé parmi [[Les Plus Beaux Villages de France]] ({{Nobr|sortie 7}})
+* [[Issoire]] (sorties 11 à 14)
+* [[Col de la Fageole]]
+* [[Saint-Flour (Cantal)|Saint-Flour]]
+* [[Pont autoroutier de Garabit]]
+* [[Saint-Chély-d'Apcher]]
+* [[Col des Issartets]], à {{unité|1121|m}} d'altitude, c'est le plus haut col autoroutier de France, et parmi les plus hauts d'Europe
+* [[Marvejols]]
+* [[Sévérac-le-Château]]
+*[[Gorges du Tarn]]
+*[[Micropolis, la cité des insectes]]
+*[[Millau]] (sorties 45 et 47)
+* [[Viaduc de Millau]]
+* Le [[Larzac]]
+* [[Pas de l'Escalette]] (sortie 50 : [[Saint-Félix-de-l'Héras]] et belvédère)
+* [[Lodève]] (sorties 52 et 53)
+* [[Pézenas]] (sorties 59 et 60)
+* [[Béziers]]
+
+== Notes et références ==
+=== Notes ===
+{{Références|groupe=Note}}
+
+=== Références ===
+{{Références|références=
+<ref name="dp-liaison">[http://www.languedoc-roussillon.developpement-durable.gouv.fr/IMG/pdf/dossier_de_presse_du_5_juillet_cle764544.pdf Dossier de presse : liaison entre les autoroutes A75 et A9] {{pdf}}, [[Direction régionale de l'environnement, de l'aménagement et du logement|DREAL Languedoc-Roussillon]], 5 juillet 2010.</ref>
+<ref name="Hadjou">{{Article|prénom1=Lamara|nom1=Hadjou|titre=Évaluation des politiques environnementales accompagnant les projets autoroutiers : cas de l’a75 et via egnatia|périodique=VertigO - la revue électronique en sciences de l'environnement|mois=septembre|année=2012|volume=12|numéro=2|lire en ligne=http://vertigo.revues.org/12311|consulté le=6 décembre 2014}}.</ref>
+<ref name="GVA">{{Lien web|format=pdf|url=http://www.cc-gergovie-val-allier.fr/sites/www.cc-gergovie-val-allier.fr/files/deliberation-13-12-12-n7.pdf|titre=EXTRAIT DU REGISTRE DES DELIBERATIONS - OBJET : Vœu en faveur du prolongement du projet d'élargissement de l'A71 jusqu'à l'échangeur {{numéro}}6 de l'A75|jour=13|mois=décembre|année=2012|site=cc-gergovie-val-allier.fr|éditeur=Gergovie Val d'Allier Communauté|consulté le=18 mars 2016}}.</ref>
+}}
+
+== Voir aussi ==
+{{Autres projets|commons=Category:A75 autoroute|commons titre=Autoroute A75 (France)}}
+=== Bibliographie ===
+* {{article|prénom1=C.|nom1=Girard|titre=A75 - La Méridienne - Le chaînon manquant|périodique=Travaux|numéro=798|mois=6|année=2003|pages=32-34}}
+* {{ouvrage|prénom1=Philippe|nom1=Mallaroni|prénom2=Sabine|nom2=Boisse de Black|prénom3=Jean-Émile|nom3=Sigaud|titre=Étude de l'influence de l'autoroute A75 A750 sur la création de richesse entre Clermont-Ferrand et Montpellier|éditeur=PREDIT|année=2006|pages totales=380}}
+* {{article|prénom1=M.|nom1=Piquant|prénom2=G.|nom2=Le Lorc'h|titre=L'autoroute A75 (section Clermont-Ferrand - Sévérac-le-Chateau), facteur d'aménagement du territoire et de développement économique ?|périodique=Revue générale des routes et des aérodromes|année=2008|numéro=867|pages=73 et suiv.}}
+* {{ouvrage|titre=A75, la Méridienne : Clermont-Ferrand à Montpellier et Béziers|éditeur=[[Michelin]]|collection=[[Guide vert]]|année=2007|isbn=978-2-06-713098-2|pages totales=128}}
+
+=== Articles connexes ===
+* [[Liste des autoroutes de France]]
+* [[Autoroute A750 (France)|Autoroute A750]]
+* [[Route européenne 11]]
+* [[Viaduc de Millau]]
+* [[Route nationale 9 (France métropolitaine)|Route nationale 9]]
+
+=== Liens externes ===
+{{Catégorie principale}}
+* [http://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A75 Autoroute A75 sur WikiSara]
+* [https://www.dir.massif-central.developpement-durable.gouv.fr/ Direction Interdépartementale des Routes Massif Central (qui exploite l'A75)]
+* [http://www.a75lameridienne.com/ Site de l'association la Méridienne]
+* [http://www.enroute.massif-central.developpement-durable.gouv.fr/les-perles-vertes-a405.html Les perles vertes de l'A75]
+* [http://saratlas.free.fr/index.php?page=autoroute&route=a75&lang=fr Autoroute A75 dans Saratlas]
+
+{{Palette|Autoroutes de France|Boulevards périphériques en France}}
+{{Portail|route|Auvergne-Rhône-Alpes|Région Occitanie|Puy-de-Dôme|Haute-Loire|Cantal|Lozère|Aveyron|Hérault}}
+
+[[Catégorie:Autoroute A75 (France)|*]]
+[[Catégorie:Transport à Clermont-Ferrand]]

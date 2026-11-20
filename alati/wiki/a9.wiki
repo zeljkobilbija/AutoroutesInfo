@@ -1,0 +1,203 @@
+{{voir homonymes|A9|Autoroute A9}}
+{{Lié à un événement en cours}}
+{{Infobox Route/France
+| statut = A
+|numéro=9
+| nom = 
+|image=Autoroute A9 (Aude).JPG
+|légende=L'autoroute A9 dans l'[[Aude (département)|Aude]]
+|carte=Autoroute A9 FR.svg
+|autres_noms=La Languedocienne <small>(d'Orange jusqu'à Narbonne)</small><br />La Catalane <small>(de Narbonne jusqu'au Perthus)</small>
+| ouverture             = De [[1967]] à [[1978]] 
+| fermeture             = 
+| déclassement          = 
+|longueur=280.5
+|direction=nord-est/sud
+|intersections={{Route européenne|80}} {{Autoroute française|A54}} à [[Nîmes]]<br />{{Autoroute française|A709}} à [[Montpellier]]<br />{{Route européenne|11}} {{Autoroute française|A75}} à [[Béziers]]<br />{{Route européenne|80}} {{Autoroute française|A61}} à [[Narbonne]]
+|réseau=Autoroute française, aussi {{Route européenne|15}}, {{Route européenne|80}}
+|régions=[[Provence-Alpes-Côte d'Azur]], [[Occitanie (région administrative)|Occitanie]]
+|départements=[[Vaucluse (département)|Vaucluse]], [[Gard]], [[Hérault (département)|Hérault]], [[Aude (département)|Aude]], [[Pyrénées-Orientales]]
+| nb_reg = 2
+| nb_dep=5
+| dir1 = nord-est
+| ville1= {{Route européenne|15}} {{Autoroute française|A7}} à [[Orange (Vaucluse)|Orange]]
+| dir2=sud     
+| ville2= {{Cartouche route|ES|E|15}} {{Autoroute espagnole|AP-7}} au [[Le Perthus|Perthus]]
+| villes_principales=[[Orange (Vaucluse)|Orange]], [[Nîmes]], [[Montpellier]], [[Béziers]], [[Narbonne]], [[Perpignan]]
+|concessionnaire   = [[Autoroutes du Sud de la France|ASF]]
+}}
+{{maplink|frame=yes|plain=yes|frame-width=290|frame-height=360|frame-align=right|type=line|stroke-width=2| |stroke-color=#0000C0| id= }}
+L''''autoroute A9''', dite '''''La Languedocienne''''' (entre la ville d'[[Orange (Vaucluse)|Orange]] et l'échangeur de l'[[Autoroute A61 (France)|A61]] au niveau de [[Narbonne]]) et '''''La Catalane''''' (de l'A61 à la frontière espagnole), est une [[autoroute]] [[France|française]] qui commence par la bifurcation de l'[[Autoroute A7 (France)|A7]] à Orange en direction de [[Marseille]] (sens Nord-Sud), ou en direction de [[Lyon]] (sens Sud-Nord) via l'[[échangeur d'Orange]] sur la commune d'Orange. Elle se termine à la frontière espagnole, au raccordement avec l'[[autoroute espagnole AP-7]], sur la commune du [[Le Perthus|Perthus]], dans les [[Pyrénées-Orientales]]. Elle fait partie des routes européennes [[Route européenne 15|E15]] et [[Route européenne 80|E80]].
+
+Elle traverse les départements du [[Vaucluse (département)|Vaucluse]] (région [[Provence-Alpes-Côte d'Azur]]), du [[Gard]], de l'[[Hérault (département)|Hérault]], de l'[[Aude (département)|Aude]] et des [[Pyrénées-Orientales]] (région [[Occitanie (région administrative)|Occitanie]]). Cette autoroute dessert, entre autres, [[Perpignan]] (Pyrénées-Orientales), [[Narbonne]] (Aude), [[Béziers]], [[Sète]], [[Montpellier]] (Hérault), [[Nîmes]] (Gard) et [[Orange (Vaucluse)|Orange]] (Vaucluse).
+
+L'A9 est concédée aux [[Autoroutes du Sud de la France]] (ASF). [[Radio Vinci Autoroutes]] (''107.7 FM'') fonctionne sur l'A9 secteur ASF. L'A9 fait partie sur le réseau ASF de la zone EST.
+
+C'est également la seule autoroute à avoir deux noms un après l'autre : la catalane vers le sud-ouest et La Languedocienne vers le sud-est.
+
+== Historique ==
+=== Le projet ===
+Pris en considération dans les années [[1960]], le projet d'autoroute du Languedoc sera construit sur près de vingt ans, en deux temps, d'abord entre [[Orange (Vaucluse)|Orange]] et [[Narbonne]] dès 1962 sous le nom de '''A9''', puis entre Narbonne et [[Le Perthus]], à la frontière [[Espagne|espagnole]] dès 1971 sous le nom de '''B9''', pour une livraison totale en 1978.
+
+=== La réalisation ===
+La première convention de concession avec la Société de l'Autoroute de la vallée du Rhône (SAVR) est signée le {{date|21|mars|1966}}.
+
+Déclaré d'utilité publique en 1962, le premier tronçon appelé déviation de Montpellier, la section [[Vendargues]] - [[Saint-Jean-de-Védas]], est mis en service le {{date-|18 décembre 1967}}<ref>[http://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000000297857 Arrêté du 14 novembre 1967 REGLEMENTATION PROVISOIRE DE LA CIRCULATION SUR LA SECTION DITE DEVIATION DE MONTPELLIER DE L'AUTOROUTE A9 ORANGE-NARBONNE]</ref>.
+
+Le dernier tronçon entre Narbonne et Perpignan est lui ouvert à la circulation le {{date-|28 mai 1978}}<ref>[http://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000000451288 Arrêté du 12 mai 1978 AUTORISATION DE MISE EN SERVICE DE LA SECTION NARBONNE-RIVESALTES (PERPIGNAN-NORD) DE L'AUTOROUTE NARBONNE - LE-PERTHUS (B9) A PARTIR DU 29-05-1978]</ref>. L'ensemble est renommé '''A9''' en 1982.
+
+=== Les aménagements ultérieurs ===
+Construite en 2 fois 2 voies, son élargissement total en 2 fois 3 voies est réalisé entre [[1987]] et [[2015]].
+
+À la suite du débat public tenu en 2006 sur la politique des transports dans la vallée du Rhône et l'arc languedocien<ref>[http://www.debatpublic-transports-vral.org/ Site du débat public de 2006]</ref>, les ministères concernés (Écologie, Énergie, Développement durable, Mer) concluent que {{citation|l'élargissement des autoroutes A7 et A9 n'est pas retenu. Un point de rendez-vous est fixé cinq ans plus tard<ref>[https://www.debatpublic-transports-vral.org/docs/pdf/decisions-cndp/20061204-vral.pdf Communiqué de synthèse des ministères en date du 4 décembre 2006]</ref>}}.
+
+En [[2010]], l'échangeur de Béziers-Est ({{numéro|35}}) est supprimé au profit d'un échangeur avec l'autoroute A75<ref name="dp-liaison">{{pdf}} [http://www.languedoc-roussillon.developpement-durable.gouv.fr/IMG/pdf/dossier_de_presse_du_5_juillet_cle764544.pdf Dossier de presse : liaison entre les autoroutes A75 et A9], [[Direction régionale de l'environnement, de l'aménagement et du logement|DREAL Languedoc-Roussillon]], 5 juillet 2010</ref>. De plus, cette sortie est devenue inutile avec la création de la sortie {{Numéro|64}} sur l'A75 qui fait office de nouvelle sortie Béziers-Est. Contrairement à la {{Numéro|35}} sur l'A9, celle sur l'A75 est gratuite (uniquement dans le sens Clermont-Ferrand-Béziers car dans l'autre sens les automobilistes viennent de payer leur sortie de l'A9).
+
+En [[2016]], des travaux de réaménagement de la bifurcation avec l'[[Autoroute A61 (France)|A61]] ont lieu afin de fluidifier cet important [[échangeur autoroutier]]. Ils doivent se poursuivre jusqu'en [[2019]]<ref>[http://www.bifurcation-a9-a61.fr/fr/article/les-objectifs Les objectifs du réaménagement de la bifurcation A9/A61]</ref>.
+
+==== Le doublement de l'autoroute au niveau de Montpellier ====
+{{article détaillé|Autoroute A709 (France)}}
+
+En [[2013]], les travaux de déplacement de l'autoroute au niveau de la ville de [[Montpellier]] sont lancés afin de séparer la circulation locale et celle de transit dans un but de réduction des [[Embouteillage (route)|embouteillages routiers]]. Une nouvelle section de {{unité|12|km}}, à 2 fois 3 voies, fut construite entre [[Saint-Jean-de-Védas]] et [[Baillargues]] et a ouvert dans son intégralité le {{date|31|mai|2017}}.
+Concédée à ASF et réservée au trafic de transit, c'est elle qui a repris le nom d'A9. Son tracé est couplé avec la [[Contournement ferroviaire de Nîmes et de Montpellier|ligne ferroviaire du contournement de Nîmes et Montpellier]] afin de minimiser l'impact environnemental.
+
+La section existante de 23 kilomètres a pris le nom d'[[Autoroute A709 (France)|A709]], demeure concédée à ASF tout en étant gratuite et assure un rôle de desserte locale de l'[[Montpellier Méditerranée Métropole|agglomération montpelliéraine]].<br>
+À cette occasion, le [[péage]] vétuste de [[Gallargues-le-Montueux]] dans le [[Gard (département)|Gard]] a été démoli pour laisser place à un nouveau plus proche de Montpellier (15 kilomètres en aval) construit à [[Baillargues]]. C'est avec ce péage et avec celui de [[Saint-Jean-de-Védas]] que l'autoroute A709 gratuite est délimitée, l'autoroute A9 ne comportant plus de barrière de péage à Montpellier, ce qui évite les embouteillages et l'arrêt pour le trafic de transit.
+
+=== Faits divers ===
+
+En marge du [[mouvement des gilets jaunes]], plusieurs péages de l'A9 ainsi que le district autoroutier Vinci Autoroutes de Narbonne ont été pris pour cibles par des gilets jaunes.
+
+=== Futur ===
+{{Projet de transport}}
+
+* Dans le cadre des travaux de la LEO ([[Liaison Est-Ouest au Sud d'Avignon]]), un prolongement vers l''''A9''' de cette route est prévu afin de desservir la ville d'[[Avignon]]. Il sera ainsi possible de rejoindre l'[[Autoroute A7 (France)|A7]] en direction de [[Marseille]] via cette voie express. Les travaux au niveau de l'[[échangeur d'Orange]] avec l'A7 en direction de [[Marseille]] ont déjà été réalisés. La fin de réalisation était annoncée après 2015<ref>[http://www.paca.equipement.gouv.fr/rubrique.php3?id_rubrique=198 LEO : liaison Est-Ouest au Sud d’Avignon et la déviation de Rognonas]</ref>.
+
+== Circulation ==
+=== Parcours ===
+L'autoroute emprunte le tracé exact de l'ancienne [[voie romaine]] ''[[Voie Domitienne|Via Domitia]]'', depuis le [[Le Perthus|Perthus]] jusqu'au niveau d'[[Avignon]].<br />
+'''La Languedocienne (sorties de 22 à 38)'''
+[[Fichier:A9 - la Languedocienne.JPG|vignette|alt=Panneau de l’autoroute A 9 La Languedocienne|A9 : ''La Languedocienne''.]]
+[[Fichier:AutorouteA9-pont sur le Rhône.JPG|vignette|Le viaduc sur le [[Rhône]] à [[Roquemaure (Gard)|Roquemaure]].]]
+[[Fichier:A9 6211.JPG|vignette|Croisement A9 x [[Autoroute A709 (France)|A709]] (km 86).]]
+* '''{{échangeur autoroutier|[[Autoroute A7 (France)|A7]]|A9}} ''([[Échangeur d'Orange]])''''' à {{unité|0|km}} ''(demi-échangeur, depuis et vers Lyon)'' : [[Lyon]], [[Valence (Drôme)|Valence]], [[Montélimar]] + {{Sortie|21 Orange - centre (sortie de l'A7)}} à {{unité|1|km}} : [[Marseille]] (A7), [[Orange (Vaucluse)|Orange]] 
+** [[Fichier:France road sign C207.svg|24x24px]] [[Fichier:Panneau-C24a-2.svg|22x22px]] [[Fichier:France road sign B14 (130).svg|22x22px]] Début de l'autoroute, début de {{dunité|2|2|voies}} et limitation à 130 km/h.
+** [[Fichier:AB-Brücke.svg]] ''Viaduc'' sur [[Fichier:Panneau cours d'eau France.png|20px]] le [[Rhône]] 
+''Passage du département de [[Vaucluse (département)|Vaucluse]] à celui du [[Gard]], Passage de la région [[Provence-Alpes-Côte d'Azur]] à la région [[Occitanie (région administrative)|Occitanie]].''
+* [[Fichier:Panneau-C24a.svg|20x20px]] Passage de {{dunité|2|2|voies}} à {{dunité|2|3|voies}} sur 500 mètres (sens Orange-Le Perthus)
+** {{Aire de repos|de [[Roquemaure (Gard)|Roquemaure]]}}
+**[[File:France road sign C28-2.svg|22px]] Réduction à {{dunité|2|2|voies}} (sens Orange-Le Perthus)
+* {{Sortie|22 Roquemaure}} à {{unité|14,1|km}} : [[Laudun-l'Ardoise]], [[Villeneuve-lès-Avignon]], [[Roquemaure (Gard)|Roquemaure]], [[Bagnols-sur-Cèze]], ''[[Site nucléaire de Marcoule|C.E.A. Marcoule]]''
+** [[Fichier:Panneau-C24a.svg|20x20px]] Passage de {{dunité|2|2|voies}} à {{dunité|2|3|voies}}
+** {{Aire de service|de Tavel}} (km 17,8)
+** [[Fichier:France road sign C28-2.svg|20x20px]] Réduction à {{dunité|2|2|voies}}
+** {{Aire de repos|d'Estezargues}} (km 24,5)
+** [[Fichier:Panneau-C24a.svg|20x20px]] Passage de {{dunité|2|2|voies}} à {{dunité|2|3|voies}} (km 26)
+* {{Sortie|23 Remoulins}} à {{unité|29|km}} : [[Uzès]], [[Remoulins]], [[Beaucaire (Gard)|Beaucaire]] - [[Tarascon (Bouches-du-Rhône)|Tarascon]], Avignon, ''[[File:France road sign ID16a.svg|15px|alt]] [[Pont du Gard]]''
+** {{Aire de repos|de Lédenon}} (km 35,7)
+** {{Aire de service|de Nîmes-[[Marguerittes]]}} (km 43)
+* {{Sortie|24 Nîmes - est}} à {{unité|46,3|km}} : [[Nîmes]] - ''centre, Courbessac'', [[Marguerittes]], Beaucaire - Tarascon
+* {{Sortie|25 Nîmes - ouest}} à {{unité|54,6|km}} : ''[[Fichier:France road sign C207.svg|22x22px]] A54'', Nîmes - [[Saint-Césaire-lès-Nîmes|Saint-Cézaire]], [[Alès]]
+* '''{{échangeur autoroutier|[[Autoroute A54 (France)|A54]]|A9}}''' à {{unité|55,7|km}} ''(demi-échangeur, depuis et vers Le Perthus)'' : Marseille ([[Autoroute A55 (France)|A55]]), [[Arles]], [[Aix-en-Provence]] ([[Autoroute A8 (France)|A8]]), ''[[File:France road sign ID2.svg|15px|alt]] [[Aéroport de Nîmes–Garons|Nîmes-Garons]]'' 
+** {{Aire de repos|de [[Milhaud (Gard)|Milhaud]]}} (km 59,3)
+** {{Aire de repos|de [[Vergèze]]}} (km 67,9)
+* {{Sortie|26 Gallargues}} à {{unité|71,5|km}} : [[Vauvert (Gard)|Vauvert]], [[Aigues-Mortes]], [[Le Grau-du-Roi]], [[Gallargues-le-Montueux]]
+''Passage du département du [[Gard]] à celui de l'[[Hérault (département)|Hérault]].''
+* {{Aire de service|d’Ambrussum}} (km 76,4)
+* {{Sortie|27 Lunel}} à {{unité|78,4|km}} : [[La Grande-Motte]], [[Lunel]], [[Sommières]] 
+** {{Aire de repos|de Nabrigas|Orange-Le Perthus}} 
+* '''{{Échangeur autoroutier|[[Autoroute A709 (France)|A709]]|A9}}''' à {{unité|86|km}} ''(demi-échangeur, depuis et vers Orange)'' : desserte de l'[[Montpellier Méditerranée Métropole|agglomération]] de [[Montpellier]]'', [[Clermont-Ferrand]] ([[Autoroute A75 (France)|A75]] - [[Autoroute A750 (France)|A750]]), ''[[File:France road sign ID2.svg|15px|alt]] [[Aéroport de Montpellier-Méditerranée|Méditerranée]]''
+* '''{{Échangeur autoroutier|A709|A9}}''' à {{unité|109|km}} ''(demi-échangeur, depuis et vers Perthus)'' : desserte de l'agglomération de Montpellier'', ''[[File:France road sign ID2.svg|15px|alt]] Méditerranée''
+** {{Aire de service|de Montpellier Fabrègues}}
+** {{Aire de repos|de Gigean}}
+* {{Sortie|33 Sète}} à {{unité|132|km}} : [[Sète]], [[Mèze]], [[Balaruc-le-Vieux]], [[Frontignan]]
+** {{Aire de repos|de Loupian-Georges Brassens|Le Perthus-Orange}}
+** {{Aire de repos|de Mèze|Orange-Le Perthus}}
+** {{Aire de repos|de Florensac}} 
+* {{Sortie|34 Agde - Pézenas}} à {{unité|155|km}} : [[Agde]], [[Pézenas]], [[Bessan]], [[Vias]]
+** {{Aire de service|de Béziers Montblanc}}
+* '''{{échangeur autoroutier|[[Autoroute A75 (France)|A75]]|A9}}''' à {{unité|166|km}} : Clermont-Ferrand, [[Millau]], [[Béziers]] - centre, [[Valras-Plage]], ''[[File:France road sign ID2.svg|15px|alt]] [[Aéroport de Béziers-Cap d'Agde|Béziers-Cap d'Agde]]'', [[Serignan]]
+* {{Sortie|36 Béziers - ouest}} à {{unité|173|km}} : Béziers, [[Vendres]], [[Castres]], [[Mazamet]]
+** {{Aire de repos|de Lespignan}}
+''Passage du département de l'[[Hérault (département)|Hérault]] à celui de l'[[Aude (département)|Aude]].''
+* {{Aire de service|de Narbonne Vinassan}}
+* {{Sortie|37 Narbonne - est}} à {{unité|194|km}} : [[Narbonne]] - ''centre'', [[Narbonne-Plage]], [[Gruissan]]
+* {{Sortie|38 Narbonne - sud}} à {{unité|198|km}} : Narbonne, ''[[File:France road sign ID1c.svg|15px|alt]] Centre Routier''
+* '''{{échangeur autoroutier|[[Autoroute A61 (France)|A61]]|A9}}''' à {{unité|200|km}} : [[Bordeaux]], [[Toulouse]], [[Carcassonne]]
+[[Fichier:A9 - la Catalane.JPG|vignette|alt=Panneau de l’autoroute A 9 La Catalane|A9 : ''La Catalane''.]]
+'''La Catalane (sorties de 39 à 43)'''
+** {{Aire de repos|de Prat-de-Cest|Orange-Le Perthus|de Bages|Le Perthus-Orange}}
+* {{Sortie|39 Sigean}} à {{unité|215|km}} : [[Sigean]], [[Port-la-Nouvelle]]
+** {{Aire de repos|de Gasparets|Orange-Le Perthus|de Sigean|Le Perthus-Orange}}
+** {{Aire de service|de La Palme}}
+* {{Sortie|40 Leucate}} à {{unité|226|km}} : [[Leucate]], [[Port Leucate]], [[La Palme]], [[Caves]], [[Salses-le-Château]]
+** {{Aire de repos|de Fitou}}
+''Passage du département de l'[[Aude (département)|Aude]] à celui des [[Pyrénées-Orientales]].''
+* {{Aire de repos|du Château de Salses}}
+* {{Sortie|41 Perpignan - nord}} à {{unité|248|km}} : [[Perpignan]] - centre, [[Rivesaltes]], [[Canet-en-Roussillon]], [[Le Barcarès]], ''[[File:France road sign ID2.svg|15px|alt]] [[Aéroport de Perpignan-Rivesaltes|Perpignan-Rivesaltes]]'', Salses-le-Château
+** {{Aire de repos|de Rivesaltes|Orange-Le Perthus|de Pia|Le Perthus-Orange}}
+* {{Sortie|42 Perpignan - sud}} à {{unité|256|km}} : Perpignan - ''centre, [[File:France road sign ID35.svg|15px|alt]] [[Saint-Charles International]]'', [[Prades (Pyrénées-Orientales)|Prades]], [[Thuir]], Canet-en-Roussillon, [[Bourg-Madame]], [[Andorre-la-Vieille]] ({{Andorre}})
+** {{Aire de repos|des Pavillons}}
+** {{Aire de service|du Village Catalan}}
+* {{Péage|Péage du Perthus}}
+* {{Sortie|43 Le Boulou}} à {{unité|275|km}} : [[Le Boulou]], [[Argelès-sur-Mer]], [[Céret]], [[Le Perthus]], [[Port-Vendres]]
+* [[Fichier:France road sign C208.svg|22x22px]] Fin de l'autoroute A9 ''([[Col du Perthus]])'' (km 280)
+'''{{France}} / {{Espagne}}''', [[Frontière entre l'Espagne et la France|Frontière franco-espagnole]]  
+* [[Fichier:Traffic sign of border with Spain.svg|25px]] Entrée sur le territoire [[Espagne|espagnol]] : [[File:Spain traffic signal s1.svg|20px]] L'[[Autoroute AP-7 (Espagne)|autoroute espagnole AP-7]] en direction de : [[Barcelone|Barcelone (Barcelona)]], [[Gérone|Gérone (Girona / Gerona)]], [[La Jonquera|La Jonquera (La Junquera)]]
+
+=== Échangeur A9-A7 ===
+[[Fichier:A7 (jonction A9).JPG|thumb|alt=Photographie de l’autoroute A 7 en direction de Lyon après la jonction avec l’autoroute A 9|L'[[Autoroute A7 (France)|A7]] au niveau de la jonction : 5 files dont les deux de droite proviennent de l'ex-A9.]]
+{{article détaillé|Échangeur d'Orange}}
+* Il est impossible de bifurquer directement vers l'[[Autoroute A7 (France)|A7]] en direction de [[Marseille]] à partir de l'[[Espagne]]. Il est nécessaire alors de prendre l'[[Autoroute A54 (France)|A54]] à Nîmes pour rejoindre Marseille, ou, autre solution, de sortir à la commune d'[[Orange (Vaucluse)|Orange]], coûtant finalement du temps en plus.
+* À noter qu'il est également impossible de rejoindre l'A9 à partir de l'[[Autoroute A7 (France)|A7]] dans le sens Sud-Nord. Comme dans le cas précédent, le passage par l'[[échangeur autoroutier]] de la commune d'Orange est obligatoire.
+
+=== Lieux sensibles ===
+
+* [[Montpellier Méditerranée Métropole|Agglomération montpelliéraine]] / Échangeurs avec l'[[Autoroute A709 (France)|A709]]
+* [[Col du Perthus]] (embouteillages incessants liés aux contrôles à la frontière).
+* [[Échangeur d'Orange]] : Jonction [[Autoroute A7 (France)|A7]] - A9
+L'autoroute A9 est plus largement une autoroute très dangereuse par son trafic important, notamment en termes de transport de camions sur le territoire européen.
+
+=== Particularité ===
+Sur deux tronçons, celui se situant sur les communes de [[Fabrègues]] et de [[Saint-Jean-de-Védas]] et celui sur les communes de [[Saint-Aunès]] et [[Saint-Brès (Hérault)|Saint-Brès]], l'A9 est prise en étau par l'[[Autoroute A709 (France)|autoroute A709]] (dont les deux sens se situent sur les deux côtés de l’aménagement routier). Cela est rendu possible car l'A9 au sud de Montpellier est destinée uniquement au trafic de transit, elle ne comporte donc pas de sorties<ref>[http://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A709 Parcours de l'autoroute française A709 sur le Wiki routier "Wiki Sara"], http://routes.wikia.com, 8 avril 2017</ref>.
+
+== Sites remarquables ==
+[[File:Viaduc de Rome sur A9.jpg|thumb|Le viaduc de Rome sur l'autoroute A9, Col du Perthus.]]
+* [[Orange (Vaucluse)|Orange]], [[Théâtre antique d'Orange|Théâtre Antique]]
+* [[Avignon]], [[Palais des papes d'Avignon|Palais des Papes]]
+* [[Tavel (Gard)|Tavel]]
+* [[Pont du Gard]]
+* [[Nîmes]], [[Arènes de Nîmes]], [[Maison Carrée]]
+* [[Montpellier]]
+* [[Béziers]], [[Écluses de Fonseranes]]
+* [[Narbonne]]
+* Les plages de la [[Mer Méditerranée|Méditerranée]]
+* [[Perpignan]], [[Forteresse de Salses]]
+* [[Pic du Canigou]], [[Ligne de Cerdagne]] (familièrement appelée ''le Train Jaune'')
+* [[Col du Perthus]] ([[frontière franco-espagnole]]), constitue aussi une limite entre les autoroutes A9 et AP7
+
+== Notes et références ==
+<references />
+
+== Voir aussi ==
+{{Autres projets|commons=Category:A9 autoroute|commons titre=l’autoroute A9}}
+=== Articles connexes ===
+* [[Liste des autoroutes de France]]
+* [[Route européenne 15]]
+* [[Route européenne 80]]
+* [[Autoroute A7 (France)]]
+* [[Autoroute espagnole AP-7]] ({{langue|es|''Autopista del Mediterráneo''}}) (prolonge l’'''A9''' en [[Espagne]])
+* [[Autoroute A709 (France)|Autoroute A709]]
+
+=== Liens externes ===
+* [http://www.asf.fr/ Site d'ASF]
+* [http://saratlas.free.fr/index.php?page=autoroute&route=a9&lang=fr Autoroute A9 dans Saratlas]
+* [http://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A9 L'autoroute A9 sur WikiSara]
+* {{pdf}} [http://autorout.free.fr/2_Pdf/1_France/A9.pdf Panneaux directionnels de l’autoroute A9]
+
+{{Palette Autoroutes de France}}
+{{Portail|route|Vaucluse|Gard|Hérault|Aude|Pyrénées-Orientales}}
+
+[[Catégorie:Autoroute en Provence-Alpes-Côte d'Azur|009]]
+[[Catégorie:Autoroute en région Occitanie|009]]
+[[Catégorie:Autoroute A9 (France)]]

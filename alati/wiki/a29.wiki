@@ -1,0 +1,155 @@
+{{Voir homonymes|A29}}
+{{Infobox Route/France|statut=A|numéro=29
+|autres_noms       = 
+|image             = Франция - panoramio (45).jpg
+|légende           = L'A29 empruntant le [[pont de Normandie]].
+|carte             = France_A29.svg
+|longueur          = 264
+|direction         = ouest / est
+|dir1              = ouest
+|dir2              = est
+|ville1            = {{route européenne|46}} {{Autoroute française|A13}} à [[Beuzeville]]
+|ville2            = {{Route européenne|17}} {{route européenne|44}} {{Autoroute française|A26}} à [[Francilly-Selency]]
+|villes_principales= ''[[Pont de Normandie]]'', [[Le Havre]], [[Yvetot]], [[Amiens]], [[Saint-Quentin]]
+|intersections     = {{route européenne|5}} {{Autoroute française|A131}} à [[Rogerville]]<br />{{Autoroute française|A150}} à [[Yvetot]]<br/>{{Autoroute française|A151}} à [[Beautot]] <br />{{route européenne|402}} {{Autoroute française|A28}} à [[Saint-Saëns (Seine-Maritime)|Saint-Saëns]] puis à [[Ménonval]] <br />{{route européenne|44}} {{Autoroute française|A16}} à [[Salouël]] puis à [[Vers-sur-Selles]] <br />{{route européenne|15}} {{route européenne|19}} {{Autoroute française|A1}} à [[Ablaincourt-Pressoir]]
+|ouverture         = 1994 à 2005
+|réseau            = [[Autoroute française]], également {{route européenne|44}} {{route européenne|402}}
+|régions           = [[Normandie (région administrative)|Normandie]], [[Hauts-de-France]]
+|départements      = [[Calvados (département)|Calvados]], [[Seine-Maritime]], [[Somme (département)|Somme]], [[Aisne (département)|Aisne]]
+|concessionnaire   = [[société des autoroutes Paris-Normandie|SANEF Paris Normandie]] (entre Beuzeville et Saint-Saëns)<br/>[[Chambre de commerce et d'industrie Seine Estuaire|CCI Seine Estuaire]] (Pont de Normandie)<br/>[[Société des autoroutes du Nord et de l'Est de la France|SANEF]] (entre Saint-Germain-sur-Eaulne et Saint-Quentin)
+|gestionnaire      = [[Direction interdépartementale des Routes#Direction interdépartementale des Routes Nord-Ouest|DIR Nord-Ouest]] (tronc commun A28)
+}}
+
+L{{'}}'''autoroute A29''' est une autoroute reliant l'[[Autoroute A13 (France)|autoroute A13]] à hauteur de [[Beuzeville]] (près de [[Deauville]]) à l'[[Autoroute A26 (France)|autoroute A26]] à hauteur de [[Saint-Quentin]]. Elle dessert successivement les villes du [[Le Havre|Havre]] et d'[[Amiens]].
+
+D'une longueur totale de {{unité|264|km}}, elle est composée de trois tronçons distincts :
+* [[Beuzeville]] - [[Saint-Saëns (Seine-Maritime)|Saint-Saëns]] : {{unité|91|km}} ;
+* [[Saint-Germain-sur-Eaulne]] - [[Amiens]] Ouest : {{unité|58|km}} ;
+* [[Amiens]] Sud - [[Saint-Quentin]] : {{unité|75|km}}.
+
+Les trois tronçons sont entrecoupés par l'[[Autoroute A28 (France)|autoroute A28]] entre [[Saint-Saëns (Seine-Maritime)|Saint-Saëns]] et [[Saint-Germain-sur-Eaulne]] (tronçon commun de {{unité|20|km}}) et l'[[Autoroute A16 (France)|autoroute A16]] au niveau d'[[Amiens]] (tronçon commun de {{unité|4|km}}).
+
+Le tracé de cette autoroute emprunte le [[pont de Normandie]] et une section de [[Route nationale de France|route nationale]] à 2×2 voies, la {{nobr|N 1029}}, pour [[Pont sur le Grand Canal du Havre|franchir le Grand Canal du Havre]] sur le territoire de la commune d'[[Oudalle]] en [[Seine-Maritime]].
+
+L'autoroute A29 fait partie du [[Grand contournement de Paris]]. La section Beuzeville - Saint-Saëns fait aussi partie de la [[route des Estuaires]], qui longe le littoral Nord et Ouest de la France.
+
+Appartenant au réseau des autoroutes du Nord-Est de la France, sa gestion est concédée à la [[Société des autoroutes Paris-Normandie|SANEF Paris Normandie]] pour la section Beuzeville - Saint-Saëns et à la [[Société des autoroutes du Nord et de l'Est de la France|SANEF]] pour la section Saint-Germain-sur-Eaulne - Saint-Quentin. L'autoroute est ainsi payante sur une grande partie de son parcours, à l'exception du passage sur le Grand Canal du Havre, des abords de l'A28 et du contournement sud d'Amiens. Le pont de Normandie est à péage en système ouvert concédé à la Chambre de commerce et d'industrie Seine Estuaire.
+
+En [[2010]], l'A29 fait l'objet d'une rénovation sur la partie [[Le Havre]] - [[Saint-Saëns (Seine-Maritime)|Saint-Saëns]].
+
+== Son parcours ==
+'''Section concédée à [[société des autoroutes Paris-Normandie|SANEF Paris Normandie]], payante et en flux libre.'''
+* '''{{Échangeur autoroutier|[[Autoroute A13 (France)|A13]]|A29}}''' : [[Paris]], [[Rouen]], [[Nantes]], [[Caen]], [[Lisieux]]
+* {{péage|Péage de Quetteville (à flux libre)}} ''(depuis et vers Caen)''
+** [[Fichier:France road sign C207.svg|24x24px]] [[Fichier:Panneau-C24a-2.svg|22x22px]] [[Fichier:France road sign B14 (130).svg|22x22px]] Début de l'autoroute A29, début de {{dunité|2|2|voies}} et limitation à {{unité|130|km/h}}.
+* {{Sortie|1 Gonneville-sur-Honfleur}} à {{unité|10|km}} ''(demi-échangeur, depuis et vers A13)'' : ''[[File:France road sign ID2.svg|15px|alt]] [[Aéroport de Deauville - Normandie|Deauville-Normandie]]''
+* {{Sortie|2 Deauville - Trouville}} à {{unité|13|km}} ''(demi-échangeur, depuis et vers Saint-Quentin)'' : [[Deauville]]-[[Trouville-sur-Mer|Trouville]], ''[[File:France road sign ID2.svg|15px|alt]] Deauville-Normandie'', ''Z. A. du Plateau''
+** [[Fichier:AB-Brücke.svg]] [[Viaduc de la Rivière-Saint-Sauveur]]
+* {{Sortie|3 Honfleur}} à {{unité|17|km}} : [[Le Mans]], [[Honfleur]], [[Pont-Audemer]]
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à {{unité|110|km/h}}.
+** [[Fichier:France_road_sign_C208.svg|22x22px]] [[Fichier:France_road_sign_C107.svg|22x22px]] [[Fichier:France road sign B14 (90).svg|22x22px]] Fin de l'autoroute A29, devient la route nationale RN 1029 et limitation à {{unité|90|km/h}}. 
+Traversée des ponts de Tancarville et de Normandie. (La vitesse peut être ajustée par des panneaux, à messages variables, selon la météo).<br>
+'''Section concédée à [[Chambre de commerce et d'industrie Seine Estuaire|CCI Seine Estuaire]] et payante (sauf entre les sorties 4 et 5).'''<br>
+''Passage du département du [[Calvados (département)|Calvados]] à celui du département de [[Seine-Maritime]].''
+* [[Fichier:AB-Brücke.svg]] [[Pont de Normandie]] ({{unité|2141m}}).
+* {{péage|Péage du Pont de Normandie (à système ouvert)}} 
+* {{Sortie|4 Port 1000-3000}} : [[Grand port maritime du Havre|''Port 1000-3000'']] + {{Aire de repos|de la Baie de Seine}}
+** [[Fichier:AB-Brücke.svg]] [[Pont sur le Grand Canal du Havre]] ({{unité|1410|m}}).
+** [[Fichier:France_road_sign_C108.svg|22x22px]] [[Fichier:France_road_sign_C207.svg|22x22px]] [[Fichier:France road sign B14 (110).svg|22x22px]] Fin de la route nationale RN 1029, redevient l'autoroute A29 et limitation à {{unité|110|km/h}}. 
+* {{Sortie|5 Port 4000-6000}} à {{unité|25|km}} : ''Port 4000-6000'', ''Centre Routier''
+'''Section concédée à SANEF Paris Normandie et payante.'''
+* [[Fichier:AB-Brücke.svg]] [[Pont basculant]] sur [[Fichier:Panneau cours d'eau France.png|20px]] le [[canal de Tancarville]]
+* '''{{Échangeur autoroutier|[[Autoroute A131 (France)|A131]]|A29}}''' à {{unité|27|km}} : ''[[Pont de Tancarville]]'', Paris, Rouen - ''sud'' (A13), [[Le Havre]] - ''centre'', ''[[File:France road sign ID13a.svg|15px|alt]] Car Ferries'', ''Port 3000-4000''
+** [[Fichier:Panneau-C24a.svg|22x22px]] Passage à {{dunité|2|3|voies}} sur {{unité|4|km}} (sens A13 - Saint-Quentin).
+** [[Fichier:AB-Brücke.svg]] Viaduc de [[Rogerville]]
+* {{Sortie|6 Saint-Romain-de-Colbosc}} à {{unité|35|km}} ''(à système ouvert sur sortie, depuis et vers A13)'' : [[Saint-Romain-de-Colbosc]], [[Étretat]], [[Montivilliers]], Le Havre - ''Ville-Haute '' 
+* {{péage|Péage de Saint-Romain-de-Colbosc (à système fermé)}}
+** [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à {{unité|130|km/h}}.
+* {{Sortie|7 Bolbec}} à {{unité|44|km}} : [[Fécamp]], [[Bolbec]], [[Lillebonne]], Étretat, ''Pont de Tancarville''
+** {{Aire de service|de [[Bolleville (Seine-Maritime)|Bolleville]]}}
+* {{Sortie|8 Fécamp}} à {{unité|61|km}} : Fécamp, [[Yvetot]], [[Cany-Barville]], ''[[Pont de Brotonne]]''
+** {{Aire de repos|d'[[Écretteville-lès-Baons]]}}
+* '''{{Échangeur autoroutier|[[Autoroute A150 (France)|A150]]|A29}} (Croix de Mare)''' à {{unité|75|km}} ''(demi-échangeur, depuis et vers A13)'' : Rouen - ''nord'', [[Barentin (Seine-Maritime)|Barentin]], [[Pavilly]], Yvetot
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à 110 km/h.
+** [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à 130 km/h.
+* {{Sortie|9 Yerville}} à {{unité|77|km}} : Yvetot, Cany-Barville, [[Saint-Valery-en-Caux]]
+** {{Aire de repos|de [[Saint-Martin-aux-Arbres]]}}
+* '''{{Échangeur autoroutier|[[Autoroute A151 (France)|A151]]|A29}}''' à {{unité|94|km}} : Rouen - ''nord'' (A150), [[Dieppe (Seine-Maritime)|Dieppe]]
+* {{péage|Péage de Cottévrard (à système fermé)}}
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à 110 km/h.
+* {{Sortie|10 Saint-Saëns}} à {{unité|109|km}} ''(demi-échangeur, depuis et vers A13)'' : [[Saint-Saëns (Seine-Maritime)|Saint-Saëns]] 
+* '''{{Échangeur autoroutier|[[Autoroute A28 (France)|A28]]|A29}}''' à {{unité|110|km}} : Rouen
+Début du tronc commun avec l'A28<br>
+'''Section non-concédée gérée par la [[Direction interdépartementale des Routes#Direction interdépartementale des Routes Nord-Ouest|DIR Nord-Ouest]] et gratuite.'''
+* {{Sortie|11 Saint-Saëns - Le Pucheuil (sortie de l'A28)}} à {{unité|66|km}} : Le Havre, Fécamp, [[Tôtes]], [[Saint-Saëns (Seine-Maritime)|Saint-Saëns]]
+** {{Aire de service|de [[Bosc-Mesnil]]|Le Havre-Saint Quentin|de [[Maucomble]]|Saint Quentin-Le Havre}}
+* {{Sortie|10 Les Hayons (sortie de l'A28)}} : Dieppe, [[Forges-les-Eaux]], Saint-Saëns
+* {{Sortie|9 Le Four Rouge (sortie de l'A28)}} : [[Neufchâtel-en-Bray]] - ''sud, centre''
+* {{Sortie|8 Portes du Pays de Bray (sortie de l'A28)}} ''(demi-échangeur, depuis et vers A13)'' : [[Amiens]] ''par RD'', Neufchâtel-en-Bray - ''nord''
+* '''{{Échangeur autoroutier|[[Autoroute A28 (France)|A28]]|A29}}''' : [[Calais]] (A16), [[Boulogne-sur-Mer]], [[Abbeville]]
+Fin du tronc commun
+* [[Fichier:Panneau-C24a-2.svg|22x22px]] [[Fichier:France road sign B14 (130).svg|22x22px]] Passage à {{dunité|2|2|voies}} et limitation à {{unité|130|km/h}}.
+'''Section concédée à [[Société des autoroutes du Nord et de l'Est de la France|SANEF]] et payante. (sauf les sorties 31 à 51)'''
+* {{Sortie|11 Neufchâtel - ''nord''}} à {{unité|134|km}} ''(demi-échangeur, depuis et vers Saint-Quentin)'' : Neufchâtel-en-Bray, [[Mortemer (Seine-Maritime)|Mortemer]]
+* {{Sortie|12 Aumale}} à {{unité|147|km}} ''(à système ouvert sur sortie, depuis et vers A13)'' : [[Eu (Seine-Maritime)|Eu]]-[[Le Tréport]], [[Aumale (Seine-Maritime)|Aumale]], [[Formerie]], [[Blangy-sur-Bresle]], [[Grandvilliers (Oise)|Grandvilliers]]
+** {{Aire de repos|du Moulin-de-Pierre|Le Havre-Saint Quentin|de la Mare-du-Bois|Saint Quentin-Le Havre}} 
+* {{péage|Péage d'Aumale (à système fermé)}}
+''Passage de la région de [[Normandie (région administrative)|Normandie]] à celui de la région des [[Hauts-de-France]].<br /> Passage du département de la Seine-Maritime à celui du département de la [[Somme (département)|Somme]].''
+* [[Fichier:AB-Brücke.svg]] Viaduc sur [[Fichier:Panneau cours d'eau France.png|20px]] la [[Viaduc de la Bresle|Bresle]].
+* {{Sortie|13 Poix-de-Picardie}} à {{unité|169|km}} : [[Poix-de-Picardie]], [[Grandvilliers (Oise)|Grandvilliers]], [[Airaines]] + {{Aire de service|de [[Croixrault]]}}
+* '''{{Échangeur autoroutier|[[Autoroute A16 (France)|A16 Nord]]|A29}}''' à {{unité|189|km}} : Calais, Abbeville, Amiens - ''centre, ouest, nord''
+Début du tronc commun avec l'A16
+* {{Sortie|18 Salouël ([[Route nationale 29 (France)|RD 1029]]) (sortie de l'A16)}} : [[Salouël]], ''[[File:France road sign ID3.svg|15px|alt]] [[Centre hospitalier universitaire Amiens-Picardie|C.H.U Amiens-Picardie]]''
+* '''{{Échangeur autoroutier|[[Autoroute A16 (France)|A16 Sud]]|A29}}''' : [[Beauvais]], [[Cergy-Pontoise]], Paris - ''ouest''
+Fin du tronc commun<br>
+Début de la rocade sud d'Amiens
+* [[Fichier:France road sign B14 (90).svg|22x22px]] Limitation à {{unité|90|km/h}}.
+* {{péage|Péage de Dury (à système fermé)}}
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à {{unité|110|km/h}}.
+* {{Sortie|31 Amiens - sud}} à {{unité|196|km}} : Amiens - ''centre'', [[Dury (Somme)|Dury]], ''Centre Commercial'', [[Route nationale 1 (France métropolitaine)|RD 1001]]
+* {{Sortie|32 Amiens - Henriville}} à {{unité|199|km}} : Amiens, [[Saint-Fuscien]], [[Ailly-sur-Noye]]
+* {{Sortie|33 Cagny}} à {{unité|202|km}} : [[Cagny (Somme)|Cagny]], [[Boves]]
+** [[Fichier:AB-Brücke.svg]] Viaduc sur [[Fichier:Panneau cours d'eau France.png|20px]] l'[[Viaduc de l'Avre|Avre]].
+* '''{{Échangeur autoroutier|[[Route nationale 25 (France)|RN 25]]|A29}}''' à {{unité|204|km}} ([[Rocade d'Amiens]]) : [[Longueau]], Amiens - ''nord'', [[Saint-Quentin]] ([[Route nationale 29 (France)|RD 1029]])
+Fin de la rocade sud d'Amiens
+* [[Fichier:France road sign B14 (90).svg|22x22px]] Limitation à 90 km/h.
+* {{Sortie|51 Pôle Jules Verne}} : [[Roye (Somme)|Roye]], Longueau, [[Boves]]
+* {{péage|Péage de Jules-Verne (à système fermé)}}
+** [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à 130 km/h.
+* {{Sortie|52 Villiers-Bretonneux}} : [[Corbie]], [[Villers-Bretonneux]], [[Moreuil]] + {{Aire de repos|de Villers-Bretonneux}}
+* '''{{Échangeur autoroutier|[[Autoroute A1 (France)|A1]]|A29}}''' : [[Lille]], Calais (A26), [[Bruxelles]] (A2), [[Péronne (Somme)|Péronne]], Paris - ''centre'' + {{Sortie|53 Gare T.G.V}} à {{unité|238|km}} : ''[[File:France road sign ID12a.svg|15px|alt]] [[gare de TGV Haute-Picardie|Gare T.G.V Haute-Picardie]]''
+* {{Sortie|54 Athies}} à {{unité|249|km}} : [[Athies (Somme)|Athies]], [[Ham (Somme)|Ham]], Péronne + {{Aire de repos|d'Athies}}
+''Passage du département de la Somme à celui du département de l'[[Aisne (département)|Aisne]].''
+* '''{{Échangeur autoroutier|[[Autoroute A26 (France)|A26]]|A29}}''' à {{unité|268|km}} : Calais, Lille (A1), [[Cambrai]], Saint-Quentin, [[Lyon]] (A5), [[Metz]]-[[Nancy]] (A4), [[Reims]]
+** [[Fichier:France road sign C208.svg|22x22px]] Fin de l'autoroute A29
+
+== Lieux sensibles ==
+(uniquement les lieux à bouchons et les pentes dangereuses)
+
+== Galerie ==
+<gallery mode="packed">
+W2384-Epretot A29 PeageStRomainDeColbosc 97159.JPG|Gare de péage de [[Saint-Romain-de-Colbosc]], sur la commune d'[[Épretot]].
+Viaduc de la Bresle - A29 - 755 m.JPG|Le viaduc de la [[Bresle]] à Aumale, long de {{unité|755|m}} et haut de {{unité|40|m}}, construit en [[2002]]-[[2004]] en [[Béton de ciment#Béton précontraint|béton précontraint]] et conçu par [[Michel Placidi]] et [[Charles Lavigne]]<ref>{{Lien web |url=http://fr.structurae.de/structures/data/index.cfm?id=s0011797 |titre=Viaduc de la Bresle |site=fr.structurae.de |consulté le=24 août 2008}}</ref>.
+Autorout29-1.png|
+Autorout29-2.png|
+A29-1.jpg|L'A29 dans le [[Pays de Caux]].
+</gallery>
+
+== Notes et références ==
+{{Références}}
+
+== Voir aussi ==
+=== Bibliographie ===
+* [[Marc Mimram]], ''Traversée de la rivière Saint-Sauveur'', {{p.|61-62}}, dans ''Formes et structures'', {{n°|127}}, 1998 {{ISSN|1140-5597}}
+
+=== Liens externes ===
+{{Autres projets|commons=Category:A29 autoroute|commons titre=L'autoroute A29}}
+* [http://saratlas.free.fr/index.php?page=autoroute&route=a29&lang=fr Autoroute A29 dans Saratlas]
+* [http://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A29 Fiche autoroutière de l'A29 sur WikiSara]
+
+{{Palette|Autoroutes de France}}
+{{Portail|Route|Normandie|Somme|Aisne|Picardie}}
+
+[[Catégorie:Autoroute dans les Hauts-de-France|029]]
+[[Catégorie:Autoroute en Normandie|029]]
+[[Catégorie:Autoroute A29 (France)|*]]

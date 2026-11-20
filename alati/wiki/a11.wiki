@@ -1,0 +1,180 @@
+{{Voir homonymes|A11}}
+{{Infobox Route/France
+ | statut               = A
+ | numéro               = 11
+ | nom                  = 
+ | image                = Autoroute a11.jpg
+ | légende              = L'autoroute A11 entre [[Brou]] et [[Le Mans]], à [[Authon-du-Perche]], en direction de l'ouest.
+ | carte                = Carte Autoroute A11.svg
+ | autres_noms          = L'Océane
+ | ouverture            = entre [[1966]] et [[2008]]
+ | longueur             = 323
+ | direction            = nord-est/sud-ouest
+ | intersections        =
+{{Autoroute française|A154}} à [[Chartres]] (en projet)<br>{{Route européenne|502}} {{Autoroute française|A28}} à [[Yvré-l'Évêque]] (vers  [[Tours]] ([[Autoroute A10 (France)|A10]]))<br>{{Route européenne|402}} {{Autoroute française|A28}} à [[Saint-Saturnin (Sarthe)|Saint-Saturnin]] (vers [[Rouen]] ([[Autoroute A13 (France)|A13]]))<br>{{Route européenne|50}} {{Autoroute française|A81}} à [[La Chapelle-Saint-Aubin]]<br>{{Route européenne|60}} {{Autoroute française|A85}} à [[Corzé]]<br>{{Autoroute française|A87}} à [[Écouflant]]<br>{{Autoroute française|A811}} à [[Carquefou]]
+| réseau                =[[Liste des autoroutes de France|Autoroute française]], également {{Route européenne|50}}, {{Route européenne|60}}, {{Route européenne|501}}
+| régions               = [[Île-de-France]], [[Centre-Val de Loire]] et [[Pays de la Loire]]
+| départements          = [[Yvelines]], [[Eure-et-Loir]], [[Sarthe (département)|Sarthe]], [[Maine-et-Loire]] et [[Loire-Atlantique]]
+| nb_reg                = 3
+| nb_dep                = 5
+| dir1                  = nord-est
+| ville1                = {{Route européenne|5}} {{Route européenne|50}} {{Autoroute française|A10}} à [[Ponthévrard]]
+| dir2                  = sud-ouest
+| ville2                = {{Route européenne|3}} {{Route européenne|60}} {{Autoroute française|A844}} à [[Nantes]]
+| villes_principales    = [[Chartres]], [[Le Mans]], [[Angers]], [[Nantes]]
+| nom_notes             = 
+|concessionnaire   = [[Cofiroute]] (entre Ponthévrard et Le Mans ; Angers et Nantes)<br>[[Autoroutes du Sud de la France|ASF]] (entre Le Mans et Angers)
+}}
+<!--{{maplink|frame=yes|plain=yes|frame-width=290|frame-height=300|frame-align=right|type=line|stroke-width=2| |stroke-color=#0000C0| id= Q788641}}-->
+
+En [[France]], l''''autoroute A11''', appelée '''L'Océane''', permet de relier [[Paris]] à [[Nantes]] depuis le [[péage de Saint-Arnoult]] jusqu'à Nantes via [[Le Mans]] et [[Angers]]. La première section a été achevée en 1966 entre l'échangeur avec l'[[Autoroute A10 (France)|A10]] et [[Chartres]] sous le nom de '''B10'''. Elle a été terminée complètement le {{Date|24 avril 2008}} lors de l'ouverture du [[Contournement Nord d'Angers|contournement d'Angers]].
+
+L'A11 fait partie du réseau [[Cofiroute]] hormis la section [[Angers]]-[[Le Mans]] concédée à [[Autoroutes du Sud de la France|ASF]] pour sa [[zone ouest]]. Cette autoroute est couverte par [[Radio Vinci Autoroutes]] (107.7FM).
+
+== Villes traversées ==
+La liste suivante répertorie les principaux lieux touristiques {{Pourquoi|sur une bande de {{unité|14|km}}|date=12 octobre 2018}} appartenant à une même route.
+* [[Chartres]]
+* [[Le Mans]]
+* [[Angers]]
+* [[Ancenis-Saint-Géréon]]
+* [[Nantes]]
+== Sorties ==
+'''Section concédée à [[Cofiroute]] et payante.'''
+* '''{{Échangeur autoroutier|[[Autoroute A10 (France)|A10]]|A11}}''' à {{unité|0|km}} ''(demi-échangeur, depuis et vers Paris)'' : [[Paris]], [[Versailles]], [[Évry-Courcouronnes]], [[Dourdan]]
+** [[Fichier:France road sign C207.svg|24x24px]] [[Fichier:Panneau-C24a.svg|24x24px]] [[Fichier:France road sign B14 (130).svg|22x22px]] Début de l'autoroute, début de {{dunité|2|3|voies}} et limitation à {{unité|130|km/h}}.
+* {{Sortie|1 Ablis}} à {{unité|5|km}} : [[Étampes]], [[Rambouillet]], [[Ablis]]
+** {{Aire de repos|de Gourville|Paris – Nantes|des Chaudonnes|Nantes – Paris}}
+''Passage du département des [[Yvelines]] à celui d'[[Eure-et-Loir]].<br /> Passage de la région [[Île-de-France]] celui du [[Centre-Val de Loire]].''
+* {{Aire de service|de Chartres-Gasville|Paris – Nantes|de Chartres-Bois Paris|Nantes – Paris}}
+* {{Sortie|2 Chartres - ''est''}} à {{unité|28|km}} : [[Chartres]], ''[[Fichier:France road sign ID16a.svg|15px|alt]] [[Cathédrale Notre-Dame de Chartres]]''
+(en projet) '''{{échangeur autoroutier|[[Autoroute A154 (France)|A154]]|A11}}''' : [[Rouen]] ([[Autoroute A13 (France)|A13]]), [[Dreux]], [[Orléans]] (A10), [[Dijon]] ([[Autoroute A19 (France)|A19]])
+** {{Aire de repos|de [[Ver-lès-Chartres]] - les Souchets|Paris – Nantes|de Ver-lès-Chartres - les Moineaux|Nantes – Paris}}
+* {{Sortie|3 Thivars}} à {{unité|41|km}} : [[Châteaudun]], Chartres - ''centre'', [[Thivars]], ''[[Fichier:France road sign ID16a.svg|15px|alt]] Cathédrale Notre-Dame de Chartres''
+** {{Aire de repos|de La Poêle Percée|Paris – Nantes|des Dix-Sept Setiers|Nantes – Paris}}
+* {{Sortie|3.1 Illiers-Combray}} à {{unité|56|km}} : [[Illiers-Combray]], [[Brou]]
+** {{Aire de repos|de La Charonnerie|Paris – Nantes|de La Leu|Nantes – Paris}}
+** {{Aire de service|des Manoirs du Perche ''(anc. Brou-Frazé)''|Paris – Nantes|de Brou-Dampierre|Nantes – Paris}}
+* {{Sortie|4 Brou}} à {{unité|76|km}} : Brou, Châteaudun, [[Nogent-le-Rotrou]]
+** {{Aire de repos|de Charmes|Paris – Nantes|de La Petite Jardinière|Nantes – Paris}}
+''Passage du département d'Eure-et-Loir à celui de la [[Sarthe (département)|Sarthe]].<br /> Passage de la région [[Centre-Val de Loire]] à la région [[Pays de la Loire]].''
+* {{Aire de repos|de Théligny|Paris – Nantes|de Montmirail|Nantes – Paris}}
+* {{Sortie|5 La Ferté-Bernard}} à {{unité|103|km}} : [[La Ferté-Bernard]], [[Mamers]], [[Saint-Calais]], Nogent-le-Rotrou
+** {{Aire de service|de La Ferté-Bernard|Paris – Nantes|de Villaines-la-Gonais|Nantes – Paris}}
+* {{Sortie|6 Connerré}} à {{unité|121|km}} : [[Connerré]], [[Bonnétable]]<ref>{{Lien web|url=https://france3-regions.francetvinfo.fr/image/3z5IN_YY55YiLLmdJD6Pc-OWURU/930x385//filters:format(webp)/regions/2021/04/26/6086da2162ae9_echanguer_de_lhuisne_sarthoise-5289778.jpg|description=Échangeur de l’Huisne sarthoise, situé sur les communes de La Chapelle-Saint-Rémy et de Beillé, à proximité de Connerré, inauguré le {{Date|26 avril 2021}}}}.</ref>
+** {{Aire de repos|de Parnouette|Paris – Nantes|de La Charpenterie|Nantes – Paris}}
+** {{Aire de repos|des Haras de Maulepaire|Paris – Nantes|de La Martinière|Nantes – Paris}}
+* '''{{Échangeur autoroutier|[[Autoroute A28 (France)|A28 (Sud)]]|A11}}''' à {{unité|135|km}} : Bordeaux (A10), [[Tours]], [[Blois]], Orléans, [[Le Mans]] - ''centre, Z. I. Sud''
+** {{Aire de service|de La Sarthe-Sargé-Le Mans}}
+** [[Fichier:AB-Brücke.svg]] Pont sur [[Fichier:Panneau cours d'eau France.png|20px]] la [[Sarthe (rivière)|Sarthe]]
+* {{Sortie|7 Le Mans - ''Z. I. Nord''}} à {{unité|144|km}} : Le Mans, [[Sillé-le-Guillaume]], [[Coulaines]], [[Brissac Loire Aubance]] + '''{{Échangeur autoroutier|A28 (Nord)|A11}}''' : [[Le Havre]], [[Rouen]] (A13), [[Caen]] ([[Autoroute A88 (France)|A88]]), [[Alençon]]
+** [[Fichier:Panneau-C24a-4.svg|22x22px]] Passage à {{dunité|2|4|voies}}.
+* '''{{Échangeur autoroutier|[[Autoroute A81 (France)|A81]]|A11}}''' à {{unité|148|km}} : [[Rennes]], [[Laval (Mayenne)|Laval]]
+** [[Fichier:Panneau-C24a-2.svg|22x22px]] Passage à {{dunité|2|2|voies}}.
+* {{Sortie|8 Le Mans - ''centre / Université''}} à {{unité|150|km}} : Le Mans, [[Loué]]
+'''Section concédée à [[Autoroutes du Sud de la France|ASF]] et payante (sauf la sortie 13).'''
+* {{Aire de repos|de [[Pruillé-le-Chétif]]}}
+* {{Sortie|9 Le Mans - ''sud''}} à {{unité|157|km}} : Tours, Le Mans - ''Z. I. Sud, Pontlieue'', [[Allonnes (Sarthe)|Allonnes]] ''(Sortie empruntant l'Autoroute A11.1)''.
+** {{Aire de repos|de [[Pirmil]]}}
+** [[Fichier:AB-Brücke.svg]] Pont sur [[Fichier:Panneau cours d'eau France.png|20px]] la Sarthe
+** {{Aire de service|de [[Parcé-sur-Sarthe]]}}
+* {{Sortie|10 Sablé - La Flèche}} à {{unité|188|km}} : [[Sablé-sur-Sarthe]], [[La Flèche]], ''[[Fichier:France road sign ID3.svg|15px|alt]] [[Pôle Santé Sarthe et Loir|Centre Hospitalier de Sarthe et Loir]]''
+''Passage du département de la Sarthe à celui de [[Maine-et-Loire]].''
+* {{Sortie|11 Durtal}} à {{unité|202|km}} : [[Durtal]], [[Le Lion-d'Angers]], La Flèche
+** [[Fichier:AB-Brücke.svg]] Pont sur [[Fichier:Panneau cours d'eau France.png|20px]] la [[Loir (rivière)|Loir]]
+** {{Aire de repos|de [[La Chapelle-Saint-Laud]]}}
+* {{Sortie|12 Seiches-sur-le-Loir}} à {{unité|215|km}} : [[Blois]], [[Baugé-en-Anjou|Baugé]], [[Seiches-sur-le-Loir]]
+* '''{{Échangeur autoroutier|[[Autoroute A85 (France)|A85]]|A11}}''' à {{unité|218|km}} : [[Lyon]] ([[Autoroute A71 (France)|A71]]), Tours, [[Saumur]]
+* {{péage|Péage de [[Corzé]] (à système fermé)}}
+** {{Aire de repos|de [[Bauné]]}}
+* {{Sortie|13 Pellouailles-les-Vignes}} à {{unité|226|km}} : Tours, Le Mans, [[Verrières-en-Anjou|Saint-Sylvain-d'Anjou]], [[Verrières-en-Anjou|Pellouailles-les-Vignes]]
+'''Section concédée à [[Cofiroute]] et payante (sauf le Contournement Nord d'Angers et le Périphérique de Nantes).'''<br/>
+''Début de périphérie d'Angers '''([[Rocade d'Angers]])'''''.
+* [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à {{unité|110|km/h}}.
+* {{Aire de service|des Portes d'Angers}}
+* {{Sortie|14 [[Échangeur de Gâtignolle|Gâtignolle]]}} à {{unité|232|km}} : [[Tiercé (Maine-et-Loire)|Tiercé]], [[Écouflant]] + '''{{Échangeur autoroutier|[[Autoroute A87 (France)|A87]]|A11}}''' : [[Angers]] - ''est'', [[Niort]], [[La Roche-sur-Yon]], [[Cholet]], [[Poitiers]], Saumur
+''Début de portion urbaine d'Angers '''([[Contournement Nord d'Angers]])'''''.
+* [[Fichier:Panneau-C24a.svg|22x22px]] [[Fichier:France road sign B14 (90).svg|22x22px]] Passage à {{dunité|2|3|voies}} et limitation à {{unité|90|km/h}}. 
+* {{Sortie|15 Angers - ''centre''}} à {{unité|235|km}} '''({{échangeur autoroutier|[[Route nationale 23 (France)|RD 323]] ([[Berges de Maine|Voies sur Berges d'Angers]])|A11}})''' ''(demi-échangeur, depuis et vers Paris)'' : Angers - ''[[Fichier:France road sign ID3.svg|15px|alt]] [[Centre hospitalier universitaire d'Angers|C.H.U]], ''M.I.N''
+** [[Fichier:France road sign C24b-2.svg|22x22px]] Passage à {{dunité|2|2|voies}}.
+** [[Fichier:AB-Brücke.svg]] [[Viaduc de la Maine]]
+* {{Sortie|16 Angers - ''nord''}} à {{unité|237|km}} : Angers, [[Avrillé (Maine-et-Loire)|Avrillé]] - ''centre'', [[Cantenay-Épinard]], ''[[Terra Botanica]]'', ''[[Fichier:France road sign ID3.svg|15px|alt]] C.H.U, [[Fichier:France road sign ID1b.svg|15px|alt]] Tramway''
+** [[Fichier:France road sign C111.svg|25x25px]] Tranchée couverte d'Angers-Avrillé ({{unité|1689|mètres}}).
+* {{Sortie|17 Angers - ''ouest''}} '''({{échangeur autoroutier|[[Fichier:SU4 - Rocade France.svg|22x22px]] [[Route départementale 775 (Maine-et-Loire)|RD 775]]|A11}})''' à {{unité|242|km}} : Rennes, Laval, [[Nantes]], [[Montreuil-Juigné]], Angers, Avrillé - ''Z. I.'', [[Beaucouzé]]
+''Fin de portion urbaine d'Angers (fin du contournement Nord d'Angers), retour à la périphérie d'Angers''.
+* [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à {{unité|110|km/h}}
+* {{Sortie|18 Saint-Jean-de-Linières}} à {{unité|248|km}} : [[Saint-Léger-de-Linières|Saint-Jean-de-Linières]], [[Châteaubriant]], [[Candé]], [[Bouchemaine]], Angers - ''centre, sud''
+''Fin de la périphérie d'Angers (fin de la Rocade d'Angers)''.
+* [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à {{unité|130|km/h}}.
+** {{Aire de repos|des Montilets|Paris – Nantes|de Réveillon|Nantes – Paris}}
+* {{Sortie|19 Saint-Germain-des-Près}} à {{unité|258|km}} : [[Chalonnes-sur-Loire]], [[Saint-Germain-des-Prés (Maine-et-Loire)|Saint-Germain-des-Prés]], [[Beaupréau-en-Mauges|Beaupréau]], [[Bécon-les-Granits]]
+''Passage du département de [[Maine-et-Loire]] à celui de la [[Loire-Atlantique]]''.
+* {{Aire de service|de [[Varades]] - Pays de la Loire|Paris – Nantes|de Varades - Pays d'Ancenis|Nantes – Paris}} à {{unité|302|km}}
+* {{Sortie|20 Ancenis}} à {{unité|288|km}} : Laval, [[Segré-en-Anjou Bleu|Segré]], Candé, [[Ancenis-Saint-Géréon]] + {{péage|Péage d'Ancenis (à système ouvert)}}
+** {{Aire de repos|du [[Le Cellier|Cellier]]|Paris – Nantes|du Launay|Nantes – Paris}} à {{unité|331|km}}
+* {{Sortie|22 [[Échangeur de Vieilleville|Vieilleville]]}} '''({{échangeur autoroutier|[[Autoroute A811 (France)|A811]]|A11}})''' à {{unité|314|km}} : ''[[Fichier:SU4 - Rocade France.svg|22x22px]] [[Boulevard périphérique de Nantes|Périphérique Sud]]'', Bordeaux ([[Autoroute A83 (France)|A83]]), Nantes - ''centre'', [[Sainte-Luce-sur-Loire]], [[Thouaré-sur-Loire]], [[Carquefou]] - ''centre''
+Début de la périphérie de Nantes.
+* [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à {{unité|110|km/h}} 
+* {{Sortie|23 Boisbonne}} à {{unité|316|km}} : Nantes - ''est, La Beaujoire'', Carquefou - ''centre''
+* {{Sortie|24 Gachet}} à {{unité|317|km}} ''(demi-échangeur, depuis et vers Nantes)'' : Nantes - ''est, La Beaujoire''
+** [[Fichier:AB-Brücke.svg]] Pont sur [[Fichier:Panneau cours d'eau France.png|20px]] la [[Erdre]]
+** [[Fichier:France road sign B14 (90).svg|22x22px]] Limitation à {{unité|90|km/h}}
+* {{Sortie|25 La Bérangerais}} à {{unité|320|km}} : [[La Chapelle-sur-Erdre]]
+** [[Fichier:France road sign M10c-3.svg|75x75px]] Début du [[Boulevard périphérique de Nantes|Périphérique de Nantes]]
+* '''{{échangeur autoroutier|[[Fichier:SU4 - Rocade France.svg|22x22px]] [[Boulevard périphérique de Nantes|Périphérique de Nantes (RN 844, A11)]]|A11}}''' (<small>{{Sortie|38 du Périphérique}}</small>) '''''(Porte de Gesvres)''''' à {{unité|321|km}} : Bordeaux (A83), Poitiers, Nantes - ''nord, centre''
+** [[Fichier:France road sign C24a.svg|22x22px]] Passage à {{dunité|2|3|voies}}
+** [[Fichier:France road sign C24b-2.svg|22x22px]] Passage à {{dunité|2|2|voies}}
+* '''{{échangeur autoroutier|Porte de Rennes|[[Fichier:SU4 - Rocade France.svg|22x22px]] [[Boulevard périphérique de Nantes|Périphérique de Nantes (A844 et A11)]]}}''' (<small>{{Sortie|37 du Périphérique}}</small>) à {{unité|323|km}} : Rennes, [[Châteaubriant]], [[Orvault]] - ''Grand Val'', Nantes - ''nord''
+** Fin de l'autoroute A11 et devient l'autoroute A844 en continuant sur le périphérique de Nantes vers : [[Vannes]] ([[Autoroute A82 (France)|A82]]), [[Île de Noirmoutier|Noirmoutier]], ''[[Fichier:France road sign ID2.svg|15px|alt]] [[Aéroport de Nantes-Atlantique|Nantes-Atlantique]]'', ''Porte d'Orvault''.
+
+== Historique ==
+
+* [[1966]] : ouverture de la première section, [[Chartres]] - [[Thivars]], section construite par l'État et intégrée ultérieurement à la concession de Cofiroute.
+* [[1972]] : ouverture de [[Saint-Arnoult-en-Yvelines]] - Chartres.
+* [[1975]] : ouverture de Thivars - [[La Ferté-Bernard]].
+* [[1978]] : ouverture de La Ferté Bernard - [[Rocade du Mans|Le Mans Ouest]].
+* [[1981]] : ouverture de [[Angers]] - [[Nantes]].
+* [[1987]] : ouverture de [[Durtal]] - Angers.
+* [[1988]] : ouverture de [[Sablé-sur-Sarthe|Sablé]]/[[La Flèche]] - Durtal.
+* [[1989]] : ouverture de Le Mans Ouest - Sablé/La Flèche.
+* [[1993]] : ouverture de [[Carquefou]]-[[Boulevard périphérique de Nantes|Périphérique de Nantes]].
+* [[2008]] : ouverture du [[contournement Nord d'Angers|contournement d'Angers]] ({{date|24 avril}}).
+* [[2014]] : refonte de l'[[échangeur de Gâtignolle]] (avec l'[[Autoroute A87 (France)|A87]]) au nord d'Angers.
+* {{date|9|juillet|2015}} : ouverture de l'échangeur d'[[Illiers-Combray]]<ref>{{Lien web |url=http://www.lechorepublicain.fr/eure-et-loir/actualite/2015/07/09/l-echangeur-autoroutier-d-illiers-combray-sur-l-a11-vient-d-ouvrir-a-la-circulation_11515630.html |titre=L'échangeur autoroutier d'Illiers-Combray, sur l'A11, vient d'ouvrir à la circulation |site=lechorepublicain.fr |date=article du 9 juillet 2015 |consulté le=11 juillet 2015}}.</ref>.
+* [[2021]] : ouverture de la sortie 6 à [[Connerré]]
+
+=== Dernier tronçon ===
+L'A11 a été achevée tardivement car le [[contournement Nord d'Angers|contournement d'Angers]], d'une longueur de quatorze kilomètres, prévu depuis trente ans, avait pris du retard. Initialement prévu le {{Date|31|août|2008|en France}}, son ouverture a été avancée au {{Date|24|avril|2008|en France}}<ref>[http://www.cofiroute.fr/communiques.nsf/cofiroute/7D1B6C803F14A0A9C125741D0047F06B?OpenDocument Site de Cofiroute]</ref>.
+
+Des travaux avaient été entrepris avec la construction d'une tranchée couverte d'environ deux kilomètres pour longer une zone urbaine, ainsi qu'un viaduc de {{unité|530|mètres}} surplombant la [[Maine (affluent de la Loire)|Maine]].
+
+== Lieux sensibles ==
+* [[Péage de Saint-Arnoult]]
+* [[Contournement Nord d'Angers|Contournement d'Angers]] (ouverture le {{date|24 avril 2008}})
+* [[Boulevard périphérique de Nantes]] entre les portes de Gesvres et de Rennes
+
+== Divers ==
+Le {{date|5 novembre 2010}}, sur l'A11 près de [[Chartres]], un motard a été [[Radar de contrôle routier|contrôlé]] à {{unité|243|km/h}}<ref>[http://www.lefigaro.fr/flash-actu/2010/11/08/97001-20101108FILWWW00505-un-motard-alcoolise-controle-a-243kmh.php Un motard alcoolisé contrôlé à 243 km/h]</ref>.
+
+[[Laurent Voulzy]] a fait une chanson sur cette autoroute intitulée ''L'Océane'' sur son album ''[[Bopper en larmes]]'' en 1983.
+
+== Notes et références ==
+{{Références}}
+
+== Voir aussi ==
+{{Autres projets|commons=Category:A11 autoroute|commons titre=L'autoroute A11}}
+=== Articles connexes ===
+* [[Liste des autoroutes de France]]
+* [[Route nationale 23 (France)|RN 23]]
+* [[Péage de Saint-Arnoult]]
+
+=== Liens externes ===
+* [http://saratlas.free.fr/index.php?page=autoroute&route=a11&lang=fr Autoroute A11 dans Saratlas]
+* [http://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A11 Article de l'A11 sur WikiSara]
+
+{{Palette|Autoroutes de France}}
+{{Portail|Route|Transports en Île-de-France|Centre|Pays de la Loire}}
+
+[[Catégorie:Autoroute en Île-de-France|011]]
+[[Catégorie:Autoroute en Centre-Val de Loire|011]]
+[[Catégorie:Autoroute dans les Pays de la Loire|011]]
+[[Catégorie:Autoroute A11 (France)|*]]

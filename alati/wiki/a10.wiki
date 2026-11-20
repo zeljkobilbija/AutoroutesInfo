@@ -1,0 +1,312 @@
+{{Guide pratique|date=avril 2025}}
+{{Voir homonymes|Autoroute A10|A10|L'Aquitaine}}
+{{Infobox Route/France
+| statut = A
+| numéro = 10
+| nom = 
+| image = Autoroute A10 Orléans Ouest.jpg
+| légende = L'autoroute au niveau d'[[Orléans]].
+| carte = Autoroute A10 FR 2.svg
+| autres_noms = L’Aquitaine
+| ouverture = de [[1960]] à [[1981]]
+| longueur = 557
+| direction = nord-est/sud-ouest
+| intersections = {{Route nationale|20|France}} à [[Massy (Essonne)|Massy]]<br>{{Autoroute française|A126}} à [[Champlan]]<br>{{route nationale|118}} à [[Marcoussis]]<br>{{Route nationale|104|France}} à [[Marcoussis]]<br> {{Route européenne|50}} {{Autoroute française|A11}} à [[Ponthévrard]]<br>{{Route européenne|60}} {{Autoroute française|A19}} à [[Artenay]]<br>{{Route européenne|9}} {{Autoroute française|A71}} à [[Orléans]]<br>{{Route européenne|502}} {{Autoroute française|A28}} à [[Tours]]<br>{{Route européenne|60}} {{route européenne|604}} {{Autoroute française|A85}} à [[Chambray-lès-Tours]]<br>{{Autoroute française|A83}} à [[Niort]]<br>{{Route européenne|602}} {{Autoroute française|A837}} à [[Saintes]]
+| réseau = [[Liste des autoroutes de France|Autoroute française]], également {{Route européenne|5}}, {{Route européenne|50}} {{Route européenne|60}} {{Route européenne|606}}
+| régions = [[Île-de-France]], [[Centre-Val de Loire]], [[Nouvelle-Aquitaine]]
+| départements = [[Hauts-de-Seine]], [[Essonne (département)|Essonne]], [[Yvelines]], [[Eure-et-Loir]], [[Loiret (département)|Loiret]], [[Loir-et-Cher]], [[Indre-et-Loire]], [[Vienne (département)|Vienne]], [[Deux-Sèvres]], [[Charente-Maritime]], [[Gironde (département)|Gironde]]
+| nb_reg = 3
+| nb_dep = 10
+| concessionnaire = [[Cofiroute]] (entre Les Ulis et Poitiers)<br>[[Autoroutes du Sud de la France|ASF]] (entre Poitiers et Bordeaux)
+| dir1 = nord-est
+| ville1 = {{Route européenne|5}} {{Autoroute française|A6a}}<br>{{Route européenne|15}} {{Route européenne|50}} {{Autoroute française|A6b}} à [[Wissous]] ([[Paris]])
+| dir2 = sud-ouest
+| ville2 = {{Route européenne|5}} {{Route européenne|606}} {{Autoroute française|A630}}<br>{{Route nationale|230|France}} à [[Lormont]] ([[Bordeaux]])
+| villes_principales = [[Orléans]], [[Blois]], [[Tours]], [[Poitiers]], [[Niort]], [[Saintes]], [[Bordeaux]]
+| nom_notes = 
+}}
+L''''autoroute A10''', aussi nommée « L'Aquitaine », relie la [[métropole du Grand Paris]] (depuis le sud de l'[[Autoroute A86 (France)|autoroute A86]]) à [[Bordeaux]] (au niveau de l'[[Rocade de Bordeaux|autoroute A630]]) via [[Orléans]], [[Blois]], [[Tours]], [[Poitiers]], [[Niort]] et [[Saintes]]. La portion entre [[Saintes]] et [[Bordeaux]] fait partie de la [[route des Estuaires]].
+
+Sa longueur, de {{Unité|557|km}}, en fait l'[[autoroute]] la plus longue de [[France]] sous un même numéro. Elle est une composante de la [[route européenne 5]] (E5).
+
+== Gestion ==
+Cette autoroute est concédée à deux sociétés d’autoroute : 
+* [[Cofiroute]] pour la partie nord de l'autoroute, du hameau de La Folie Bessin à [[Villejust]] jusqu'à [[Poitiers]].
+* [[Autoroutes du Sud de la France|ASF]] pour la section sud de [[Poitiers]] à [[Bordeaux]]. Sur le réseau ASF, l'A10 fait partie de la [[zone ouest]].
+
+Cette autoroute est couverte par [[Radio Vinci Autoroutes]] ([[107,7 MHz]]).
+
+== Caractéristiques ==
+
+Plusieurs sections de l'autoroute A10 sont gratuites :
+* entre l'[[Autoroute A6 (France)|A6]] et la [[Route nationale 104 (France)|RN 104]] (au sud de Paris) ({{unité|14|km}}) ;
+* entre les sorties 20 et 22 au niveau du contournement de Tours (traversée de la [[Loire]] et du [[Cher (rivière)|Cher]], {{unité|5,5|km}}) ;
+* entre la [[Route nationale 10 (France métropolitaine)|RN 10]] à Saint-André-de-Cubzac et l'échangeur avec la [[rocade de Bordeaux]] ({{unité|19|km}}).
+
+Tronçon commun : l'A10 est en tronçon commun durant 2 km avec l'[[Autoroute A126 (France)|autoroute A126]], entre [[Champlan]] et [[Palaiseau]].
+
+== Historique ==
+* [[Wissous]] - [[Massy (Essonne)|Massy]] : [[1960 en France|1960]] (sous le nom C6)
+* Massy - [[Longjumeau]] : [[1970 en France|1970]] (sous le nom C6)
+* Longjumeau - [[Palaiseau]] : [[1972 en France|1972]] (sous le nom [[Projet d'autoroute A87 (France)|A87]])
+* Palaiseau - [[Les Ulis]] : 1973
+* Les Ulis - [[Orléans]] (autoroute [[Autoroute A71 (France)|A71]]) : [[1973 en France|1973]]
+* [[Orléans]] - [[Parçay-Meslay]] : [[1974 en France|1974]]
+* Parçay-Meslay - [[Tours]] (centre) : 1972
+* Tours - contournement par le Nord - (Rives du Cher, échangeur supprimé depuis) : [[1968 en France|1968]]
+* Tours - [[Chambray-lès-Tours]] : 1970
+* Chambray-lès-Tours - [[Poitiers]] (nord) : [[1977 en France|1977]]
+* Poitiers (nord) - contournement par l'ouest - Poitiers (sud) : 1970
+* Poitiers - Saint-Maixent-l'Ecole - Saintes - [[Saint-André-de-Cubzac]] : [[1981 en France|1980-1981]]
+* Saint-André-de-Cubzac - [[Ambarès-et-Lagrave]] : 1974 (sous le nom A62<ref name="LM1969">{{Lien web|lang=|url=https://www.lemonde.fr/archives/article/1969/04/30/circulation_2438609_1819218.html?search-type=classic&ise_click_rank=1|titre=CIRCULATION|site=[[Le Monde]]|auteur=|date=30 avril 1969|consulté le=15 mars 2026}}.</ref>)
+* Ambarès-et-Lagrave - [[Lormont]] : [[1967 en France|1967]] (sous le nom A62<ref name="LM1969" />)
+
+Le tronçon au départ de la limite des communes de [[Massy (Essonne)|Massy]] et de [[Palaiseau]] en direction du sud, construit en 1972-1973, utilise la plateforme élargie de l'ancienne [[Ligne d'Ouest-Ceinture à Chartres|ligne de Paris-Chartres par Gallardon]] fermée en 1944 dont l'autoroute se sépare à [[Villebon-sur-Yvette]] après {{Unité|2,5 km}}. Cette construction a entraîné la destruction d'un viaduc qui enjambait la vallée de l'[[Yvette (rivière)|Yvette]] à Villebon. Au-delà, le nouveau parcours de la [[Route nationale 188 (France)|route nationale 188]] établi à la même époque emprunte cette ligne dans son gabarit d'origine sur une distance de {{Unité|5 km}}.
+
+À cette époque, le prolongement de l'autoroute jusqu'au [[quartier du Montparnasse]] sur les terrains de la partie inachevée de cette voie ferrée était projeté dans le cadre du [[plan autoroutier pour Paris#Radiale Vercingétorix|projet de « radiale Vercingétorix » du plan autoroutier pour Paris]]. Ce projet fortement contesté par les riverains fut abandonné après l'[[Élection présidentielle française de 1974|élection présidentielle de 1974]]. L'ancienne plateforme ferroviaire fut utilisée pour construire en souterrain la [[LGV Atlantique|ligne du TGV Atlantique]] et aménager en surface la [[Promenade départementale des Vallons-de-la-Bièvre|coulée verte du Sud parisien]]. Cet abandon explique le coude de l'autoroute à la limite de Massy et de Palaiseau. La ligne à grande vitesse est accolée à l'autoroute sur {{Unité|1,4 km}} de part et d'autre de la traversée de la vallée de l'Yvette à Villebon. La voie ferrée se sépare de l'autoroute dans un passage en tunnel de {{Unité|4800|mètres}} et la rejoint au lieu-dit « Bois des Carrés » à [[Marcoussis]] pour un parcours parallèle de {{Unité|23|kilomètres}} jusqu'à proximité du [[péage de Saint-Arnoult]].
+
+L’A10 a connu plusieurs accidents notables :
+* le {{Date|10|novembre|1993}}, un [[carambolage]] est survenu au niveau du pont de [[Mirambeau (Charente-Maritime)]] ;
+* le {{Date|5|novembre|2002}}, un autre carambolage, dû au brouillard, s'est produit à hauteur de [[Coulombiers (Vienne)]], à peu près au niveau des [[Aire de repos et de service autoroutière#Aire de repos|aires de repos]] de Coulombiers sud et nord ;
+* dans la nuit du mercredi [[27 avril|27]] au jeudi {{date|28|avril|2011}}, une collision entre un poids lourd et un minibus, en Gironde dans le sens Paris-Bordeaux, provoque sept morts dont un enfant de huit ans.
+
+{{Article détaillé|Accident de la route en France#Liste de catastrophes routières}}
+
+Le {{date|18 novembre 2017}}, sur {{Unité|3,3|km}} avant d’arriver à [[Massy (Essonne)|Massy]], une voie réservée aux autobus est inaugurée dans le sens province-Paris afin de leur éviter les [[Embouteillage (route)|embouteillage]]s<ref name="le parisien 7401900">{{Lien web |auteur=Jean-Gabriel Bontinck |url=https://www.leparisien.fr/essonne-91/sur-l-a10-la-file-de-gauche-c-est-pour-les-bus-19-11-2017-7401900.php |titre=Sur l’A10, la file de gauche, c’est pour les bus |date=article du {{Date|19 novembre 2017}} |site=leparisien.fr |consulté le=21 novembre 2017}}.</ref>.
+
+Lancé en 2023 par [[Vinci Autoroutes]] avec plusieurs partenaires, un projet visera à pouvoir recharger son véhicule électrique tout en roulant. L'A10 servira de test à partir de 2024, sur une zone de 2 kilomètres située dans les [[Yvelines]], près de Saint-Arnoult<ref>{{Lien web |langue=fr |titre=Que faut-il attendre des autoroutes électriques bientôt testées en France ? |url=https://www.20minutes.fr/planete/4046000-20230720-transport-vinci-va-tester-autoroutes-electriques-recharge-roulant |site=20minutes.fr |date=2023-07-20 |consulté le=2023-08-01}}.</ref>.
+
+== Sorties ==
+'''Section non-concédée gérée par la [[Direction interdépartementale des Routes#Direction des routes d'Île-de-France (DIRIF)|DIR Île-de-France]] et gratuite.'''
+* '''{{Échangeur autoroutier|[[Autoroute A6 (France)|A6a-A6b]]|A10}}''' ''(demi-échangeur, depuis et vers Paris)'' à {{unité|0|km}} : ''[[Fichier:SU4 - Rocade France.svg|22x22px]] [[Autoroute A86 (France)|A86]]'', [[Paris]], [[Villejuif]], [[Arcueil]], [[Lille]] ([[Autoroute A1 (France métropolitaine)|A1]]), [[Rungis]], ''[[Fichier:France road sign ID2.svg|15px|alt]] [[Aéroport de Paris-Orly|Orly]]''
+** [[Fichier:France road sign C207.svg|24x24px]] [[Fichier:Panneau-C24a.svg|22x22px]] [[Fichier:France road sign B14 (90).svg|22x22px]] Début de l'autoroute, début de {{dunité|2|3|voies}} et limitation à {{unité|90|km/h}}.
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à {{unité|110|km/h}}
+''Passage du département des [[Hauts-de-Seine]] à celui de l'[[Essonne (département)|Essonne]].''
+* {{Sortie|4 Massy ([[Route nationale 20 (France)|RN 20]])}} à {{unité|2|km}} ''(trois-quarts échangeur, pas accessible depuis Bordeaux)'' : [[Longjumeau]], [[Massy (Essonne)|Massy]], ''[[Fichier:France road sign ID35.svg|15px|alt]] [[Antony]]''
+* {{Sortie|5 Les Champarts (RN 20)}} à {{unité|4|km}} ''(trois-quarts échangeur, pas accessible vers Bordeaux ; entrée/sortie par la gauche depuis et vers Paris)'' : [[Orléans]], [[Étampes]], [[La Ville-du-Bois]], [[Saulx-les-Chartreux]], Longjumeau
+** [[Fichier:Panneau-C24a-2.svg|22x22px]] Passage à {{dunité|2|2|voies}}.
+* '''{{Échangeur autoroutier|[[Autoroute A126 (France)|A126]] ([[Autoroute A6 (France)|A6]])|A10}}''' à {{unité|4|km}} ''(demi-échangeur, depuis et vers Bordeaux ; entrée/sortie par la gauche)'' : [[Lyon]], [[Évry-Courcouronnes]], [[Chilly-Mazarin]]
+** [[Fichier:Panneau-C24a.svg|22x22px]] Passage à {{dunité|2|3|voies}}.
+''Début du tronc commun avec l'A126.''
+* {{Sortie|6 Palaiseau ([[Route départementale 188 (Essonne)|RD 188]])}} à {{unité|5|km}} : Antony, [[Palaiseau]], Massy, [[Villebon-sur-Yvette]]
+* {{Sortie|7 Igny ([[Route départementale 444 (Essonne)|RD 444]])}} à {{unité|6|km}} ''(demi-échangeur, depuis et vers Paris ; entrée/sortie par la gauche)'' : [[Saint-Quentin-en-Yvelines]], [[Versailles]], [[Saclay]], [[Igny (Essonne)|Igny]], ''[[Campus de l'Institut polytechnique de Paris|Cité Scientifique]]''
+''Fin du tronc commun avec l'A126.''
+* [[Fichier:Panneau-C24a-2.svg|22x22px]] [[Fichier:France road sign B14 (70).svg|22x22px]] Passage à {{dunité|2|2|voies}} et limitation à {{unité|70|km/h}}.
+* {{Sortie|Gare de Massy TGV}} à {{unité|7|km}} ''(demi-échangeur, depuis et vers Bordeaux, entrée/sortie par la gauche)'' : ''[[Fichier:France road sign ID12a.svg|15px|alt]] [[Gare de Massy TGV|Massy T.G.V]]'' '''(interdit aux poids lourds + {{unité|3.5|t}})''' 
+** [[Fichier:France road sign B14 (90).svg|22x22px]] Limitation {{unité|90|km/h}}.
+** [[Fichier:France road sign B27a.svg|22x22px]] Couloir de bus sur {{unité|3|km}}. ''(sens Bordeaux – Paris)'' 
+* {{sortie|8 Bretelle de Chevreuse ([[Route départementale 188 (Essonne)|RD 188]])}} à {{unité|8|km}} ''(demi-échangeur, depuis et vers Paris)'' : [[Orsay]], [[Bures-sur-Yvette]] '''(interdit aux poids lourds + {{unité|3.5|t}})'''
+** [[Fichier:Panneau-C24a.svg|22x22px]] Passage à {{dunité|2|3|voies}}. ''(sens Paris – Bordeaux)''
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à {{unité|110|km/h}}.
+* {{Sortie|9 ''Courtabœuf'' (RC 31 - RD 118)}} à {{unité|11|km}} ''(deux demi-échangeurs)'' : ''[[Fichier:France road sign ID35.svg|15px|alt]] [[Parc d'activités de Courtabœuf|Courtabœuf]]'', [[Chartres]], [[Les Ulis]], [[Villejust]], Villebon-sur-Yvette
+** [[Fichier:France road sign C28-2.svg|22x22px]] Passage à {{dunité|2|2|voies}}. ''(sens Paris – Bordeaux)''
+* '''{{Échangeur autoroutier|[[Route nationale 118|RN 118]]|A10}} ''(La Folie-Bessin)''''' à {{unité|13 / 0|km}} ''(demi-échangeur, depuis et vers Bordeaux)'' : [[Rouen]] ([[Autoroute A13 (France)|A13]]), Versailles, Paris - ''[[Porte de Saint-Cloud]]'', [[Boulogne-Billancourt]], Orsay, Les Ulis, [[Fichier:France road sign ID35.svg|15px|alt]] Courtabœuf - ''Autres Secteurs'', [[Fichier:France road sign ID36.svg|15px|alt]] ''[[Ulis 2]]''
+* '''{{Échangeur autoroutier|''[[Fichier:SU4 - Rocade France.svg|22x22px]] [[Francilienne]]'' ([[Route nationale 104 (France)|RN 104]])|A10}}''' à {{unité|2|km}} : Lyon (A6), [[Metz]]-[[Nancy]] ([[Autoroute A4 (France)|A4]]), Évry-Courcouronnes, Orléans, [[Arpajon]], [[Linas]]-[[Montlhéry]]
+'''Section concédée à [[Cofiroute]] et payante (sauf entre les sorties 20 à 22).'''
+* [[Fichier:Panneau-C24a-4.svg|22x22px]] Passage à {{dunité|2|4|voies}}.
+** {{Aire de service|de Limours-Janvry|Paris – Bordeaux|de Limours-Briis-sous-Forges|Bordeaux – Paris}}
+** [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à {{unité|130|km/h}}.
+** ''[[Gare routière|Gare autoroutière]] de [[Briis-sous-Forges]]''
+''Passage du département de l'Essonne à celui des [[Yvelines]].''
+* {{Sortie|10 Dourdan}} à {{unité|20|km}} : [[Dourdan]], [[Saint-Arnoult-en-Yvelines]], [[Limours]]
+* {{Péage|[[Péage de Saint-Arnoult]] (à système fermé)}}
+* '''{{Échangeur autoroutier|[[Autoroute A11 (France)|A11]]|A10}}''' ''(demi-échangeur, depuis et vers Paris)'' : [[Nantes]], [[Rennes]] ([[Autoroute A81 (France)|A81]]), [[Le Mans]], Chartres
+** [[Fichier:Panneau-C24a.svg|22x22px]] Passage à {{dunité|2|3|voies}}.
+* {{Sortie|11 Allainville}} à {{unité|37|km}} : [[Rambouillet]], [[Étampes]], [[Allainville (Yvelines)|Allainville]]
+''Passage du département des Yvelines à celui d'[[Eure-et-Loir]].<br /> Passage de la région [[Île-de-France]] à la région [[Centre-Val de Loire]].''
+* {{Aire de repos|de Boutroux|Paris – Bordeaux|de Marnières|Bordeaux – Paris}}
+** {{Aire de service|des Plaines de Beauce ''(anc. Francheville)''|Paris – Bordeaux|de Val Neuvy|Bordeaux – Paris}}
+[[Fichier:A10 Mérouville Lesvesville-la-Chenard D142.2 Eure-et-Loir France.jpg|vignette|Aire de service des Plaines de Beauce à {{Unité|2000|m}}, [[Mérouville]] et [[Levesville-la-Chenard|Lesvesville-la-Chenard]] ([[Eure-et-Loir]]).]]
+(en projet) '''{{Échangeur autoroutier|[[Autoroute A154 (France)|A154]]|A10}}''' ''(demi-échangeur, depuis et vers Bordeaux)'' : Rouen (A13), Le Mans (A11), Chartres
+* {{Sortie|12 Janville-en-Beauce}} à {{unité|66|km}} : Chartres, [[Châteaudun]], [[Janville-en-Beauce]]
+** {{Aire de repos|du Héron Cendré|Paris – Bordeaux|de La Dauneuse|Bordeaux – Paris}} 
+''Passage du département d'Eure-et-Loir à celui du [[Loiret (département)|Loiret]].''
+* {{Sortie|13 Artenay}} {{Unité|79|km}} : [[Artenay]]
+* '''{{Échangeur autoroutier|[[Autoroute A19 (France)|A19]]|A10}}''' : Metz-Nancy ([[Autoroute A5 (France)|A5]]), [[Dijon]] (A6), [[Fontainebleau]], [[Montargis]]
+** [[Fichier:Panneau-C24a-4.svg|22x22px]] Passage à {{dunité|2|4|voies}}.
+** {{Aire de service|d'Orléans-Saran|Paris – Bordeaux}}
+* {{Sortie|13.1 Gidy}} à {{Unité|91|km}} : [[Gidy]], ''[[Fichier:France road sign ID35.svg|15px|alt]] Pôle 45'' + {{Aire de service|d'Orléans-Gidy|Bordeaux – Paris}}
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à {{unité|110|km/h}}.
+* {{Sortie|14 Orléans - ''nord''}} à {{Unité|94|km}} : Le Mans, [[Fleury-les-Aubrais]], [[Saran]], Orléans
+** Passage à {{dunité|2|5|voies}}.
+* '''{{Échangeur autoroutier|[[Autoroute A71 (France)|A71]]|A10}}''' à {{Unité|98|km}} : [[Toulouse]] ([[Autoroute A20 (France)|A20]]), [[Clermont-Ferrand]], [[Vierzon]], Orléans - ''[[Quartiers Centre (Orléans)|centre]], [[Orléans-la-Source|La Source]]''
+** [[Fichier:Panneau-C24a.svg|22x22px]] [[Fichier:France road sign B14 (130).svg|22x22px]] Passage à {{dunité|2|3|voies}} et limitation à {{unité|130|km/h}}.
+** {{Aire de repos|de Bellevue|Paris – Bordeaux|de Chauvry|Bordeaux – Paris}}
+* {{Sortie|15 Meung-sur-Loire}} à {{Unité|116|km}} : [[Meung-sur-Loire]], [[Beaugency]]
+** {{Aire de service|de Meung-sur-Loire|Paris – Bordeaux|de Beaugency-Messas|Bordeaux – Paris}}
+''Passage du département du Loiret à celui du [[Loir-et-Cher]].''
+* {{Aire de repos|des Fougères|Paris – Bordeaux|de Brusolle|Bordeaux – Paris}}
+* {{Sortie|16 Mer}} à {{Unité|132|km}} : ''[[Fichier:France road sign ID16a.svg|15px|alt]] [[Château de Chambord|Chambord]]'', [[Mer (Loir-et-Cher)|Mer]], Beaugency
+** {{Aire de service|de Blois-Villerbon|Paris – Bordeaux|de Blois-Ménars|Bordeaux – Paris}}
+* {{Sortie|17 Blois}} à {{Unité|149|km}} : [[Blois]], [[Vendôme]], [[La Chaussée-Saint-Victor]]
+(en projet) {{Sortie|17.1 Blois - ''ouest''}} : Blois - ''centre'', Vendôme
+* {{Aire de repos|de La Chatière|Paris – Bordeaux|des Bruères|Bordeaux – Paris}}
+''Passage du département du Loir-et-Cher à celui d'[[Indre-et-Loire]].''
+* {{Sortie|18 Château-Renault}} à {{Unité|179|km}} : Chartres, [[Château-Renault]], [[Amboise]]
+** {{Aire de repos|de La Courte Épée|Paris – Bordeaux|de La Picardière|Bordeaux – Paris}}
+* {{Péage|Péage de Monnaie (à système fermé)}}
+** {{Aire de service|de Tours-La Longue Vue|Paris – Bordeaux|de Tours-Val de Loire|Bordeaux – Paris}}
+* '''{{Échangeur autoroutier|[[Autoroute A28 (France)|A28]]|A10}}''' : Rouen (A13), Le Mans
+* {{Sortie|19 Tours - ''nord''}} à {{Unité|200|km}} : [[Monnaie (Indre-et-Loire)|Monnaie]], [[Tours]], [[Parçay-Meslay]], ''[[Fichier:France road sign ID35.svg|15px|alt]] Parçay-Meslay - Tours-Nord''
+* {{Sortie|20 Vouvray}} à {{Unité|205|km}} : Le Mans, Blois, [[Laval (Mayenne)|Laval]], Tours - ''nord, [[Sainte-Radegonde-en-Touraine|Sainte-Radegonde]]'', [[Vouvray (Indre-et-Loire)|Vouvray]], [[Montlouis-sur-Loire]], ''[[Fichier:France road sign ID2.svg|15px|alt]] [[Aéroport de Tours-Val de Loire|Tours-Val-de-Loire]]''
+** [[Fichier:France road sign B14 (90).svg|22x22px]] Limitation à {{unité|90|km/h}}.
+* {{Sortie|21 Tours - ''centre''}} à {{Unité|207|km}} : Tours, [[Saint-Pierre-des-Corps]], Amboise, Montlouis-sur-Loire
+* {{Sortie|22 Saint-Avertin}} à {{Unité|211|km}} ''(demi-échangeur, depuis et vers Paris)'' : Vierzon, Tours - ''sud'', [[Saint-Avertin]]
+* {{Sortie|23 Chambray-lès-Tours}} à {{Unité|213|km}} : [[Chambray-lès-Tours]], [[Montbazon]], Tours - ''sud'', Saint-Avertin
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à {{unité|110|km/h}}.
+* {{Sortie|24 Joué-lès-Tours}} à {{Unité|215|km}} : Chambray-lès-Tours, [[Joué-lès-Tours]], [[Chinon]], [[Loches]]
+* '''{{Échangeur autoroutier|[[Autoroute A85 (France)|A85]]|A10}}''' : Lyon, [[Bourges]] (A71), Vierzon, [[Châteauroux]] ; Nantes (A11), [[Angers]], [[Saumur]] + {{Aire de repos|du Village Brûlé|Paris – Bordeaux}}
+** {{Aire de repos|du Moulin Rouge|Bordeaux – Paris}}
+** [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à {{unité|130|km/h}}.
+* {{Sortie|24.1 Monts / Sorigny}} à {{Unité|224|km}} : [[Monts (Indre-et-Loire)|Monts]], [[Sorigny]], Montbazon, ''[[Fichier:France road sign ID35.svg|15px|alt]] Isoparc''
+* {{Péage|Péage de Sorigny (à système fermé)}}
+** {{Aire de service|de Sainte-Maure-de-Touraine|Paris – Bordeaux|de La Fontaine Colette|Bordeaux – Paris}}
+* {{Sortie|25 Sainte-Maure}} à {{Unité|242|km}} : [[Sainte-Maure-de-Touraine]], Chinon, Loches
+** [[Fichier:Signal C28-2.svg|22x22px]] Réduction à {{dunité|2|2|voies}}.
+** {{Aire de repos|de Maillé|Paris – Bordeaux|de Nouâtre|Bordeaux – Paris}}
+''Passage du département d'Indre-et-Loire à celui de la [[Vienne (département)|Vienne]].<br /> Passage de la région Centre-Val de Loire à la région [[Nouvelle-Aquitaine]].''
+* {{Aire de service|de Châtellerault-Antran|Paris – Bordeaux|de Châtellerault-Usseau|Bordeaux – Paris}}
+* {{Sortie|26 Châtellerault - ''nord''}} à {{Unité|273|km}} : [[Châtellerault]] - ''centre'', [[La Roche-Posay]]
+** {{Aire de repos|des Meuniers|Paris – Bordeaux|des Chagnats|Bordeaux – Paris}}
+* {{Sortie|27 Châtellerault - ''sud''}} à {{Unité|279|km}} : Châtellerault - ''centre'', [[Naintré]]
+** {{Aire de service|de Poitiers-Jaunay-Clan|Paris – Bordeaux|de Poitiers-Chincé|Bordeaux – Paris}}
+* {{Sortie|28 Futuroscope}} à {{Unité|296|km}} : [[Chasseneuil-du-Poitou]], [[Jaunay-Marigny]], ''[[Futuroscope]]''
+* {{Sortie|29 Poitiers - ''nord''}} à {{Unité|302|km}} : [[Limoges]], Angers, Saumur, Nantes, [[Parthenay]], [[Poitiers]] - ''centre''
+** {{Aire de repos|des Cent Septiers|Paris – Bordeaux}}
+** {{Aire de repos|des Quatre Vents|Bordeaux – Paris}}
+* {{Sortie|30 Poitiers - ''sud''}} à {{Unité|311|km}} : Poitiers - ''centre'', [[Lusignan (Vienne)|Lusignan]], [[Vivonne]], [[Angoulême]]
+'''Section concédée à [[Autoroutes du Sud de la France|ASF]] et payante (sauf entre la sortie 39a et Bordeaux).'''
+[[Fichier:Bifurcation A10 -- A83.JPG|vignette|Bifurcation avec l'[[Autoroute A83 (France)|A83]] en direction de [[Nantes]].]]
+* {{Aire de repos|de Coulombiers - Nord|Paris – Bordeaux|de Coulombiers - Sud|Bordeaux – Paris}}
+** {{Aire de service|de Rouillé-Pamproux}}
+''Passage du département de la Vienne à celui des [[Deux-Sèvres]].''
+* {{Sortie|31 Saint-Maixent / Soudan}} à {{Unité|344|km}} : Lusignan, [[Saint-Maixent-l'École]], [[Soudan (Deux-Sèvres)|Soudan]]
+** {{Aire de repos|de Sainte-Eanne - Nord|Paris – Bordeaux|de Sainte-Eanne - Sud|Bordeaux – Paris}}
+** {{Aire de repos|de Sainte-Néomaye - Nord|Paris – Bordeaux|de Sainte-Néomaye - Sud|Bordeaux – Paris}}
+* '''{{Échangeur autoroutier|[[Autoroute A83 (France)|A83]]|A10}}''' : Angers ([[Autoroute A87 (France)|A87]]), Nantes, [[La Roche-sur-Yon]], [[Niort]] - ''centre, nord'', Saint-Maixent-l'École
+* {{Sortie|32 Vouillé}} à {{Unité|371|km}} : Limoges, Angoulême, Niort - ''est, centre'', [[Melle (Deux-Sèvres)|Melle]], ''[[Marais poitevin|Marais Poitevin]]''
+** {{Aire de service|de Poitou-Charentes}}
+* {{Sortie|33 La Rochelle}} à {{Unité|379|km}} : Niort - ''sud'', [[La Rochelle]], [[Rochefort (Charente-Maritime)|Rochefort]], [[Surgères]], Marais Poitevin
+** {{Aire de repos|de Dœuil-sur-le-Mignon}}
+''Passage du département des Deux-Sèvres à celui de la [[Charente-Maritime]].''
+* {{Aire de repos|de Lozay|Paris – Bordeaux|de La Benâte|Bordeaux – Paris}}
+* {{Sortie|34 Saint-Jean-d'Angély}} à {{Unité|412|km}} : [[Cognac (Charente)|Cognac]], [[Saint-Jean-d'Angély]], Surgères, [[Aulnay (Charente-Maritime)|Aulnay]]
+** {{Aire de service|de Fenioux}}
+** {{Aire de repos|de Port-d'Envaux}}
+* '''{{Échangeur autoroutier|[[Autoroute A837 (France)|A837]]|A10}}''' à {{Unité|436|km}} ''(demi-échangeur, depuis et vers Bordeaux)'' : La Rochelle, Rochefort
+* {{Sortie|35 Saintes}} à {{Unité|440|km}} : Angoulême, ''[[Île d'Oléron]]'', [[Royan]], [[Saintes]]
+** {{Aire de repos|de Chermignac}}
+** {{Aire de service|de Saint-Léger}}
+* {{Sortie|36 Pons}} à {{Unité|461|km}} : Cognac, [[Jonzac]], [[Pons (Charente-Maritime)|Pons]]
+** {{Aire de repos|de Saint-Palais}}
+** {{Aire de repos|de Saint-Ciers}}
+* {{Sortie|37 Mirambeau}} à {{Unité|481|km}} : [[Montendre]], Royan, Jonzac, [[Mirambeau (Charente-Maritime)|Mirambeau]]
+** {{Aire de repos|de Saint-Caprais|Paris – Bordeaux|de Boisredon|Bordeaux – Paris}}
+''Passage du département de la Charente-Maritime à celui de la [[Gironde (département)|Gironde]].''
+* {{Sortie|38 Saint-Aubin-de-Blaye}} à {{unité|498|km}} : Montendre, [[Saint-Aubin-de-Blaye]], [[Saint-Ciers-sur-Gironde]]
+** {{Aire de service|de Saugon|Paris – Bordeaux|des Terres de l'Estuaire|Bordeaux – Paris}}
+** {{Aire de repos|de Saint-Christoly|Paris – Bordeaux|de Cézac|Bordeaux – Paris}}
+* {{Péage|Péage de Virsac (à système fermé)}} à {{unité|525|km}}
+* {{Sortie|39a Libourne / Saint-Antoine}} à {{unité|527|km}} : [[Libourne]], [[Saint-André-de-Cubzac]], ''[[Saint-Antoine (Gironde)|Saint-Antoine]]''
+* {{Sortie|39b Barbezieux}} à {{unité|527|km}} '''({{Échangeur autoroutier|[[Route nationale 10 (France métropolitaine)|RN 10]]|A10}})''' ''(demi-échangeur, depuis et vers Bordeaux)'' : Angoulême, [[Barbezieux-Saint-Hilaire]]
+** [[Fichier:Panneau-C24a.svg|22x22px]] Passage à {{dunité|2|3|voies}}.
+* {{Sortie|40a Blaye}} à {{unité|529|km}} ''(demi-échangeur, depuis et vers Bordeaux)'' : Saintes, Royan, [[Blaye]]
+* {{Sortie|40b Saint-André-de-Cubzac}} à {{unité|529|km}} ''(demi-échangeur, depuis et vers Bordeaux)'' : Libourne, [[Saint-André-de-Cubzac]], [[Bourg (Gironde)|Bourg]]
+** {{Aire de service|de L'Estalot|Paris – Bordeaux|de Meillac|Bordeaux – Paris}}
+* {{Sortie|41 Ambès}} à {{unité|535|km}} : [[Ambès]], [[Saint-Vincent-de-Paul (Gironde)|Saint-Vincent-de-Paul]], ''[[Fichier:France road sign ID35.svg|15px|alt]] [[Bassens (Gironde)|Z. I. Bassens]], [[Fichier:France road sign ID13b.svg|15px|alt]] [[Grand port maritime de Bordeaux|Zone portuaire]]''
+* {{Sortie|42 Ambarès / Saint-Loubès}} à {{unité|538|km}} : [[Ambarès-et-Lagrave]], [[Saint-Loubès]]
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à {{unité|110|km/h}}.
+* {{Sortie|43 Sainte-Eulalie}} à {{unité|539|km}} : [[Sainte-Eulalie (Gironde)|Sainte-Eulalie]], Ambarès-et-Lagrave
+* {{Sortie|44 Carbon-Blanc}} à {{unité|541|km}} ''(quart-échangeur, depuis Paris)'' : [[Carbon-Blanc]], Bassens
+* {{Sortie|45 Lormont}} à {{unité|542|km}} ''(demi-échangeur, depuis et vers Paris)'' : [[Lormont]]
+*  '''{{Échangeur autoroutier|[[Fichier:SU4 - Rocade France.svg|22x22px]] [[Rocade de Bordeaux|Rocade de Bordeaux (A630, RN 230)]]|A10}}''' ({{Sortie|1 (de la rocade)}}) à {{unité|557|km}} : 
+** ''Rocade Intérieure'' (RN 230) : [[Bordeaux]] - ''centre'', [[Toulouse]] ([[Autoroute A62 (France)|A62]]), [[Bayonne]], [[Bassin d'Arcachon]] ([[Autoroute A63 (France)|A63]]), [[Périgueux]] ([[Autoroute A89 (France)|A89]])
+** ''Rocade Extérieure'' (A630) : ''[[Fichier:France road sign ID2.svg|15px|alt]] [[Aéroport de Bordeaux-Mérignac|Mérignac]]'', Bordeaux - ''[[Bordeaux Lac|Lac]]''
+* [[Fichier:France road sign C208.svg|22x22px]] Fin de l'autoroute A10. 
+
+=== Gare autoroutière de Briis-sous-Forges ===
+Une [[gare routière]] est ouverte le {{Date|29|mai|2006}} sur l'autoroute, à la hauteur de [[Briis-sous-Forges]] ; c'est la première infrastructure de ce type en Europe. Les autobus y disposent, dans chaque sens, d'une voie d'accès réservée fermée par une barrière.
+
+L'infrastructure autoroutière est desservie par deux lignes express du réseau [[Île-de-France Mobilités]] :
+* la ligne 9102 : au départ de la [[gare de Dourdan]], elle relie la gare autoroutière au [[parc d'activités de Courtabœuf]], à la [[gare d'Orsay-Ville]] et à la [[gare du Guichet]] ([[Ligne B du RER d'Île-de-France|RER B]]) ;
+* la ligne 9103 : au départ de Dourdan, elle emprunte l'A10 depuis Briis-sous-Forges pour rejoindre directement le pôle multimodal de la [[gare de Massy - Palaiseau]] (RER B, [[Ligne C du RER d'Île-de-France|RER C]], [[Ligne 12 du tramway d'Île-de-France|tramway T12]]) et de la [[gare de Massy TGV]].
+
+Ces liaisons directes permettent de relier la [[communauté de communes du Pays de Limours]] aux pôles d'échanges et d'emplois en trente à quarante minutes, et appliquent la tarification d'[[Île-de-France Mobilités|IDFM]] (commune à celle des réseaux ferrés).
+
+Début [[2007 en France|2007]], ce sont plus de 400 voyageurs qui empruntent un des autobus le matin. Le {{nombre|100000{{e}}}} voyageur est comptabilisé le {{Date|6|février|2007}}<ref>{{article |auteur1=Grégory Plouviez |titre= Énorme succès du bus sur autoroute |périodique=Le Parisien |lien périodique=Le Parisien |date=7 février 2007}}</ref>.
+
+<gallery mode="packed">
+Accueil Gare A10.jpg|Accueil de la gare routière.
+Gare autoroutière A10.JPG|Accès A10 pour les usagers (direction Province).
+</gallery>
+
+== Sites remarquables ==
+
+* [[Paris]] (75000) (Capitale) : [[Tour Eiffel]], [[Musée du Louvre]], …
+* [[Rambouillet]] (78120) : [[Château de Rambouillet|Château]], [[Bergerie nationale de Rambouillet|Bergerie]], …
+* [[Dourdan]] (91410) : [[Château de Dourdan|Château]], …
+* [[Auneau]] (28700) : [[Jardin de la Préhistoire d'Auneau]], [[Tour d'Auneau|Château d'Auneau]], …
+* [[Artenay]] (45410) : [[Beauce (France)|Beauce]], [[Moulin d'Artenay]], [[musée du théâtre forain]], …
+* [[Orléans]] (45000) : [[Val de Loire]], [[Cathédrale Sainte-Croix d'Orléans|Cathédrale Sainte-Croix]], [[Sologne]], [[Parc floral de la Source]], …
+* [[Beaugency]] (45190) : [[Pont de Beaugency|pont sur La Loire]], ville médiévale, …
+* [[Blois]]  (41000) : [[Château de Blois]], …
+* [[Amboise]] (37400) : [[Château d'Amboise|Château]], [[Château du Clos Lucé|Clos-Lucé]], Maisons troglodytes, Aquarium du Val de Loire, …
+* [[Tours]] (37000) : [[Château de Tours|Château]], [[Cathédrale Saint-Gatien de Tours|Cathédrale Saint-Gatien]], [[Quartier du Vieux-Tours|Vieux Tours]], …
+* [[Sainte-Maure-de-Touraine]] (37800) : cité du [[fromage au lait de chèvre|fromage de chèvre]], [[Massacre de Maillé|village martyr de Maillé]]
+* [[Châtellerault]] (86100) : [[Pont Henri-IV (Châtellerault)|Pont Henri-IV]]
+* [[Futuroscope]] : Parc d'attractions
+* [[Poitiers]] (86000) : [[Parc de Blossac]], [[Collégiale Notre-Dame-la-Grande de Poitiers|Église Notre-Dame la Grande]], [[Cathédrale Saint-Pierre de Poitiers|Cathédrale Saint-Pierre]], [[Église Saint-Hilaire-le-Grand de Poitiers|Église Saint-Hilaire le Grand]], [[Palais des comtes de Poitiers-ducs d'Aquitaine|Palais des Comtes]], [[Hôtel Fumé]], [[Hôtel Jean Beaucé|Hôtel de Beaucé]], [[Abbaye Saint-Jean de Montierneuf de Poitiers|Abbaye Saint-Jean de Montierneuf]], [[Baptistère Saint-Jean de Poitiers|Baptistère Saint-Jean]], [[Musée Sainte-Croix]]…
+* [[Lusignan (Vienne)|Lusignan]] (86600) : [[château de Lusignan]], [[Macaron]]s, [[Raymondin (confiserie)|Raymondins]]
+* [[Niort]] (79000) : [[Donjon]], Pilori, Halles, Église Saint-André, Église Notre-Dame…
+* [[Saint-Jean-d'Angély]] (17400) : Abbaye, vieilles maisons à pans de bois, rues, hôtel de ville, plan d'eau de Bernouët sur ''La Boutonne'', musées.
+* [[Saintes]] (17100) : Vestiges gallo-romains <small>([[amphithéâtre de Saintes|Amphithéâtre]], [[Arc de Germanicus]]), …</small>, Centre Historique ([[Cathédrale Saint-Pierre de Saintes|Cathédrale Saint-Pierre]], [[Basilique Saint-Eutrope de Saintes|Basilique Saint-Eutrope]], [[Abbaye aux Dames de Saintes|Abbaye aux Dames]]…)
+* [[Bordeaux]] (33000) : [[vignoble de Bordeaux|vignobles]], [[Monuments et lieux touristiques de Bordeaux|monuments]] <small>([[cathédrale Saint-André de Bordeaux|cathédrale Saint-André]], [[Basilique Saint-Michel de Bordeaux|Basilique Saint-Michel]], [[place des Quinconces]], [[Place de la Bourse (Bordeaux)|place de la Bourse]], [[Place de la Victoire (Bordeaux)|place de la Victoire]], [[Place de la Victoire (Bordeaux)|Grand Théâtre]], [[Palais Rohan (Bordeaux)|hôtel de ville]], [[Grosse cloche de Bordeaux|Grosse cloche]], [[Amphitheatre de Bordeaux|Palais Gallien]], [[Porte Cailhau]]…)</small>, [[rue Sainte-Catherine (Bordeaux)|rue Sainte-Catherine]], [[Liste des musées de Bordeaux|musées]] <small>([[Musée des beaux-arts de Bordeaux|Beaux-Arts]], [[musée d'Aquitaine]]…)</small>, [[Parcs et jardins de Bordeaux|espaces verts]] <small>([[jardin public de Bordeaux|jardin public]], [[jardin botanique de Bordeaux|jardin botanique]], [[parc bordelais]]…)</small>…
+
+== Lieux sensibles ==
+* [[Autoroute A630 (France)|Rocade bordelaise]] (direction [[Bordeaux]]) PK {{numéro|543}} : {{unité|12|km}} de bouchons chaque jour.
+* Entre Massy et Wissous : bouchons dans le sens province - Paris.
+
+== Divers ==
+Le chantier de l'autoroute A10 constitue le décor de l'album de bandes dessinées ''[[Km. 357]]'' de la série [[Michel Vaillant]] dessiné par [[Jean Graton]] en [[1967]].
+
+== Travaux de l’autoroute A10 ==
+=== Entre Les Ulis et Massy, création d'une voie réservée aux transports en commun (autobus et taxi) ===
+Le {{date|18 novembre 2017}}, sur {{Unité|3,3|km}} avant d’arriver à [[Massy (Essonne)|Massy]], une voie réservée aux autobus est inaugurée dans le sens province-Paris afin de contourner les [[Embouteillage (route)|embouteillage]]s<ref name="le parisien 7401900" />.
+
+=== Au nord d'Orléans ===
+À l’approche de la bifurcation A10/A71 d'Orléans, sortie Orléans-Centre, au nord d'Orléans, plus précisément entre [[Sougy]] et [[La Chapelle-Saint-Mesmin]] sur {{Unité|16 kilomètres}}, depuis le {{date|14 novembre 2023}}<ref>{{lien web |titre=A10 : inauguration du diffuseur de Saran-Gidy et de l'élargissement à 2X4 voies au nord d'Orléans |url=https://corporate.vinci-autoroutes.com/fr/actualites/a10-inauguration-diffuseur-saran-gidy-lelargissement-2x4-voies-au-nord-dorleans#:~:text=Mardi%2014%20novembre%202023%2C%20deux,de%20circulation%20sur%2016%20km |site=vinci-autoroutes.com |consulté le=20-05-2024}}.</ref>, l’autoroute A10 est élargie à {{Dunité|2|4|voies}} pour faire sauter les bouchons de cette portion qui est empruntée chaque jour par {{Unité|60000 véhicules}}, nombre s'élevant, pendant les vacances estivales, à {{Unité|100000 véhicules}}. L’investissement s'élève à {{Unité|222 millions}} d’euros en échange de la prolongation de la concession [[Cofiroute]] jusqu’en 2034. Inscrit au plan de relance autoroutier signé par l'État le {{Date|9 avril 2015}}<ref>{{Lien web |auteur=François Guéroult |titre=Élargissement de l'autoroute A10 au Nord d'Orléans : c'est parti ! |url=https://www.francebleu.fr/infos/transports/elargissement-de-l-autoroute-a10-au-nord-d-orleans-c-est-parti-1541780631 |site=France Bleu |date=2018-11-09 |consulté le=2020-07-07}}.</ref>.
+
+==== Entre Tours et Poitiers ====
+Entre 2019 et 2023, l’autoroute A10 est élargie à {{Dunité|2|3|voies}} entre [[Tours]] et [[Sainte-Maure-de-Touraine]] pour diminuer les embouteillages qui ont lieu essentiellement pendant les vacances estivales<ref>{{Lien web |titre=L'autoroute A10 entre Poitiers et Tours élargie sur 93 km en 2023 |url=https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/vienne/autoroute-a10-entre-poitiers-tours-elargie-93-km-2023-994313.html |site=France 3 Nouvelle-Aquitaine |date=11 juin 2020 |consulté le=2020-07-07}}.</ref>. Le coût du chantier est de {{Unité|244 millions}} d’euros<ref>{{Lien web |titre=Feu vert pour l'élargissement de l'A10 entre Tours et Poitiers |url=https://www.lanouvellerepublique.fr/poitiers/feu-vert-pour-l-elargissement-de-l-a10-entre-tours-et-poitiers |site=lanouvellerepublique.fr |date=22 juin 2018 |consulté le=2020-07-07}}.</ref>. Celui-ci fait l'objet de critiques de la part des riverains et d’associations de défense de l’environnement qui constatent les nuisances sonores, sachant que les mesures acoustiques, décidées par Vinci Autoroutes, ne suffiront pas à atténuer les nuisances sonores. [[Corinne Lepage]], ex-ministre de l'Environnement, dépose par ailleurs un recours à l'encontre de la rénovation-élargissement des {{Unité|93 km}} de l'A10 entre Tours et Poitiers au [[tribunal administratif]] d'[[Orléans]]<ref>{{Lien web |titre=Corinne Lepage attaque le projet d'élargissement de l'A10 entre Veigné et Poitiers |url=https://www.lanouvellerepublique.fr/poitiers/corinne-lepage-attaque-le-projet-d-elargissement-de-l-a10-entre-veigne-et-poitiers |site=lanouvellerepublique.fr |date=31 janvier 2019 |consulté le=2020-07-07}}.</ref>.
+
+== Notes et références ==
+=== Notes ===
+{{Références|groupe=Note}}
+
+=== Références ===
+{{Références}}
+
+== Voir aussi ==
+{{Autres projets|commons=Category:A10 autoroute|commons titre=l’autoroute A10}}
+=== Articles connexes ===
+* [[Liste des autoroutes de France]]
+* [[Route européenne 5]]
+* [[Route européenne 50]]
+* [[Route européenne 60]]
+* [[Route européenne 601]]
+* [[Route nationale 10 (France métropolitaine)|Route nationale 10]]
+* [[Meurtre d'Inass Touloub]]
+
+=== Liens externes ===
+{{Liens}}
+* [http://saratlas.free.fr/index.php?page=autoroute&route=a10&lang=fr Autoroute A10 dans Saratlas]
+* [http://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A10 Fiche autoroutière de l'A10 sur WikiSara]
+
+{{Palette Autoroutes de France}}
+{{Portail|route|Transports en Île-de-France|Paris|Bordeaux|Centre-Val de Loire|Nouvelle-Aquitaine}}
+
+[[Catégorie:Autoroute en Île-de-France|010]]
+[[Catégorie:Autoroute en Centre-Val de Loire|010]]
+[[Catégorie:Autoroute en Nouvelle-Aquitaine|010]]
+[[Catégorie:Transport à Bordeaux]]
+[[Catégorie:Autoroute A10 (France)]]

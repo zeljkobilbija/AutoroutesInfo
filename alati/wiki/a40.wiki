@@ -1,0 +1,306 @@
+{{Voir homonymes|A40}}
+{{Infobox Route/France
+| statut = A
+| numéro = 40
+| nom = 
+| image = autoroute A40 02.jpg
+| légende = L'autoroute A40 au niveau du [[viaduc de Nantua]].
+| carte = France A40.svg
+| autres_noms = Autoroute des Titans et Autoroute Blanche
+| ouverture = de [[1973]] à [[1990]]
+| longueur = 208
+| direction = nord-ouest / sud-est
+| intersections = {{Route européenne|62}} {{Autoroute française|A406}} à [[Saint-André-de-Bâgé]]<br />{{Autoroute française|A39}} à [[Viriat]]<br />{{Route européenne|611}} {{Autoroute française|A42}} à [[Druillat]]<br />{{Autoroute française|A404}} à [[Saint-Martin-du-Frêne]]<br />{{Route européenne|21}} {{Route européenne|62}} {{Route européenne|712}} {{Autoroute française|A41}} à [[Saint-Julien-en-Genevois]]<br />{{Autoroute française|A411}} à [[Étrembières]]<br /> {{Autoroute française|A410}} à [[Scientrier]]
+| réseau = Autoroute française, également {{Route européenne|21}}, {{Route européenne|25}}, {{Route européenne|62}}
+| régions = [[Bourgogne-Franche-Comté]], [[Auvergne-Rhône-Alpes]]
+| départements = [[Saône-et-Loire]], [[Ain (département)|Ain]], [[Haute-Savoie]]
+| nb_reg = 2
+| nb_dep = 3
+| dir1 = nord-ouest
+| dir2 = sud-est
+| ville1 = {{Route européenne|15}} {{Route européenne|21}} {{Autoroute française|A6}} à [[Mâcon]]
+| ville2 = {{Route européenne|25}} {{Route nationale|205}} à [[Passy (Haute-Savoie)|Passy]]
+| villes_principales = [[Mâcon]], [[Bourg-en-Bresse]], [[Valserhône]], [[Saint-Julien-en-Genevois]], [[Genève]], [[Annemasse]], [[Bonneville (Haute-Savoie)|Bonneville]], [[Cluses]], [[Sallanches]], [[Passy (Haute-Savoie)|Passy]]
+| concessionnaire = [[Autoroutes Paris-Rhin-Rhône|APRR]] (entre Mâcon et Bellegarde-sur-Valserine)<br/>[[Autoroutes et tunnel du Mont-Blanc|ATMB]] (entre Bellegarde-sur-Valserine et Passy)
+}}
+
+En [[France]], l’'''autoroute A40''' relie [[Mâcon]] à [[Passy (Haute-Savoie)]] par [[Annemasse]], près de [[Genève]]. Elle a été définitivement mise en service en [[1990]].
+
+Après Passy, elle se prolonge jusqu'à [[Chamonix-Mont-Blanc|Chamonix]] et au [[tunnel du Mont-Blanc]] sous la forme de la voie express [[Route nationale 205|RN 205]]. Elle compte douze [[viaduc]]s et quatre [[tunnel]]s bitubes. Elle est concédée aux entreprises [[Autoroutes Paris-Rhin-Rhône]] (APRR) depuis l’autoroute A6 à [[Valserhône]] et [[Autoroutes et tunnel du Mont-Blanc]] (ATMB) entre Valserhône et Passy (L'Abbaye).
+
+Cette autoroute est surnommée ''autoroute Blanche'' entre Valserhône et Passy et ''autoroute des Titans'' entre [[Bourg-en-Bresse]] et Valserhône.
+
+== Caractéristiques ==
+
+* {{dunité|2|2|voies}}.
+* {{dunité|2|3|voies}} entre les autoroutes [[Autoroute A42 (France)|A42]] et [[Autoroute A39 (France)|A39]] (sur {{unité|21|km}}).
+* {{unité|356|kilomètres}} de longueur.
+* Section gratuite de {{unité|12|km}} entre l'[[Autoroute A41 (France)|A41]] ([[Saint-Julien-en-Genevois]]) et l'[[Autoroute A411 (France)|A411]] ([[Annemasse]]).
+* Section gratuite de {{unité|6|km}} entre les gares de [[Mâcon|Mâcon-centre]] et de [[Replonges]].
+* Section gratuite de {{unité|10|km}} entre [[Passy (Haute-Savoie)|Passy]] et [[Sallanches]].
+* Le reste de l'autoroute est payant.
+
+== Historique ==
+[[Fichier:Medaile A40 1989 - recto - IMG 0002.JPG|thumb|left|upright=0.5|Médaille commémorative de l'inauguration de l'autoroute des Titans, décembre 1989.]]
+[[Fichier:Medaile A40 1989 - verso - IMG 0001.JPG|thumb|left|upright=0.5|Médaille commémorative de l'inauguration de l'autoroute des Titans, décembre 1989.]]
+
+=== Autoroutes et tunnel du Mont-Blanc ===
+La partie de l'autoroute depuis la [[Frontière entre la France et la Suisse|frontière suisse]] dans la banlieue française de [[Genève]] en direction de [[Chamonix-Mont-Blanc]] est construite afin de désenclaver les vallées alpines de l'[[Vallée de l'Arve|Arve]], de [[Vallée de Chamonix|Chamonix]], du [[val Montjoie]], du [[val d'Arly]], du [[Vallée du Giffre|Giffre]], etc., et de leurs villes et [[Station de sports d'hiver|stations de sports d'hiver]] respectives mais également un meilleur accès au [[tunnel du Mont-Blanc]] ouvert à la circulation en 1965. Ainsi, la section entre Genève-Vallard et [[Bonneville (Haute-Savoie)|Bonneville]] est ouverte en 1973, prolongée jusqu'à [[Cluses]] en 1974, à [[Sallanches]] en 1975 puis à Passy en 1976. Cette dernière section est inaugurée par le Premier ministre [[Jacques Chirac]]. Enfin, en 1982, la section de {{unité|50|kilomètres}} entre [[Bellegarde-sur-Valserine]] et [[Annemasse]] est ouverte. Toutes ces sections portaient à l'époque le numéro B41. Empruntant le fond plat de la vallée de l'Arve et s'arrêtant avant les premiers reliefs au pied des [[gorges de l'Arve]], cette portion d'autoroute ne nécessite aucuns travaux d'ampleur si ce n'est la construction de deux grands ponts au-dessus de l'Arve et la réalisation d'une [[Tranchée (génie civil)|tranchée]] à l'entrée de la [[cluse de l'Arve]] à Cluses ; la [[route nationale 205]] qui prolonge l'autoroute A40 jusqu'à Chamonix-Mont-Blanc comporte en revanche un certain nombre d'ouvrages (tunnels, viaducs, etc.).
+
+À la fin des années 2000, [[Autoroutes et tunnel du Mont-Blanc|ATMB]] a mené plusieurs travaux destinés à améliorer la desserte des villes de la [[vallée de l'Arve]] par l'autoroute, entre Bonneville et Passy. L'échangeur 21 de Passy, complété, est inauguré le {{date|21|octobre|2008}}. Il a inclus la création de deux carrefours giratoires sur la route {{nobr|départementale 339}} sur la commune de Passy. Ces travaux ont coûté trois millions d'euros<ref name="ech21cp" />{{,}}<ref name="ech21i" />. Plus au nord, l'échangeur 20 l'est à son tour le {{date|11|septembre|2009}} afin de réduire le trafic dans le centre-ville de Sallanches ; deux giratoires ont été créés sur la {{nobr|[[Route nationale 205|RD 1205]]}}, en {{date|décembre 2008}} pour la direction de Genève et, en {{date|janvier 2009}}, pour la direction de Chamonix-Mont-Blanc. La réalisation a coûté {{unité|8.8|millions}} d'euros<ref name="ech20cp" />{{,}}<ref name="ech20i" />. Enfin, depuis le {{date|11|décembre|2009}}, l'échangeur 17 dit de Bonneville-Est est accessible dans les deux sens ; ces travaux ont coûté {{unité|14.2|millions}} d'euros<ref name="ech17i" />{{,}}<ref name="123savoie-ech17" />.
+
+=== Autoroutes Paris-Rhin-Rhône ===
+
+La première section ouverte et concédée par APRR, entre les échangeurs 5 d'[[Attignat]] et 7 de [[la Vavrette]], sur {{unité|20|km}}, ouvre au milieu de l'année 1985. Elle est prolongée vers l'échangeur 9 de [[Sylans]] (soit {{unité|61|km}} supplémentaires) à la fin de l'année 1986<ref name="HistoriqueWS"/>.
+
+La section de [[Replonges]] (échangeur 3) à Attignat (échangeur 5) ouvre en 1987, sur {{unité|27|km}}<ref name="HistoriqueWS"/>. Fin 1989, est mise en service la section Sylans – [[Châtillon-en-Michaille]] ([[Valserhône]]) de {{unité|13|km}}. Lors de son inauguration, le Président français [[François Mitterrand]] la surnomme « l'Autoroute des Titans ». La jonction avec l'[[autoroute A6 (France)|autoroute A6]] ({{unité|3|km}}) est achevée en {{date|octobre 1990}}<ref name="HistoriqueWS"/>.
+
+Enfin, en 1995, sont doublés le [[tunnel de Chamoise]] et les viaducs [[viaduc de Nantua|de Nantua]] et [[viaduc des Neyrolles|des Neyrolles]].
+
+La section ouest, de l'A6 à l'A42 a porté le numéro F42. La section est, avant unification sous le numéro A40, était également une section de l'A42.
+
+== Sorties ==
+[[Fichier:Carte Autoroute A40 (OSM).png|vignette|center|upright=2|alt=Carte de l'autoroute|Carte de l'autoroute.]]
+
+''Kilométrage à partir de l’autoroute A6. Points repères à partir de Passy. « Chamonix » est sous-entendu « [[Chamonix-Mont-Blanc]] ».''
+=== A40 ===
+'''Section concédée à [[Autoroutes Paris-Rhin-Rhône|APRR]] et payante. (Autoroute des Titans)'''
+[[Fichier:Aires Planons & Musée Bresse - Saint-Cyr-sur-Menthon (FR01) - 2025-05-31 - 4.jpg|thumb|À [[Saint-Cyr-sur-Menthon]] avec les aires des Planons et du Musée de la Bresse.]]
+* '''{{échangeur autoroutier|[[Autoroute A6 (France)|A6]]|A40}}''' à {{unité|0|km}} ''(demi-échangeur, depuis et vers Paris)'' : [[Paris]], [[Dijon]], [[Chalon-sur-Saône]]
+** [[Fichier:France road sign C207.svg|24x24px]] [[Fichier:Panneau-C24a-2.svg|22x22px]] [[Fichier:France road sign B14 (130).svg|22x22px]] Début de l'autoroute, début de {{dunité|2|2|voies}} et limitation à {{unité|130|km/h}}.
+* {{Sortie|1 Mâcon - ''centre''}} à {{unité|2|km}} ''(demi-échangeur, depuis et vers Mont-Blanc)'' : [[Mâcon]] ''(PR 204)''
+** [[Fichier:AB-Brücke.svg]] Pont sur [[Fichier:Panneau cours d'eau France.png|20px]] la [[Saône]].
+''Passage de la région [[Bourgogne-Franche-Comté]] à la région [[Auvergne-Rhône-Alpes]].<br /> Passage du département de [[Saône-et-Loire]] à celui de l'[[Ain (département)|Ain]].''
+* {{Sortie|2 Feillens}} à {{unité|5|km}} : [[Saint-Laurent-sur-Saône]], [[Pont-de-Vaux]], [[Feillens]], [[Replonges]]
+* {{Sortie|3 Replonges}} à {{unité|8|km}} : [[Bourg-en-Bresse]], [[Pont-de-Veyle]], [[Bâgé-Dommartin]], [[Vonnas]], Replonges, Saint-Laurent-sur-Saône
+* '''{{échangeur autoroutier|[[Autoroute A406 (France)|A406]]|A40}}''' à {{unité|10|km}} ''(demi-échangeur, depuis et vers Mont-Blanc)'' : [[Lyon]] (A6), [[Moulins (Allier)|Moulins]], [[Montceau-les-Mines]], Mâcon - ''sud''
+** {{Aire de repos|des Planons|Mâcon – Mont-Blanc|du [[musée départemental de la Bresse]]|Mont-Blanc – Mâcon}} à {{unité|15|km}}
+[[Fichier:Lac de Sylans.jpg|thumb|alt=Viaduc de Sylans longeant le lac|[[Viaduc de Sylans]] longeant le [[lac de Sylans]].]]
+* {{Sortie|4 Saint-Genis-sur-Menthon}} à {{unité|18|km}} ''(demi-échangeur, depuis et vers Mont-Blanc)'' : [[Vonnas]], [[Saint-Genis-sur-Menthon]]
+* {{Sortie|5 Bourg-en-Bresse - ''nord''}} à {{unité|30|km}} : [[Montrevel-en-Bresse]], [[Viriat]], [[Attignat]], Bourg-en-Bresse - ''centre''
+* '''{{échangeur autoroutier|[[Autoroute A39 (France)|A39]]|A40}}''' à {{unité|37|km}} : [[Metz]]-[[Nancy]] ([[Autoroute A31 (France)|A31]]), [[Strasbourg]] ([[Autoroute A36 (France)|A36]]), [[Lons-le-Saunier]], Dijon
+** [[Fichier:Panneau-C24a.svg|22x22px]] Passage à {{dunité|2|3|voies}}.
+* {{Sortie|6 Viriat}} à {{unité|40|km}} : Bourg-en-Bresse - ''centre, est'', [[Saint-Étienne-du-Bois (Ain)|Saint-Étienne-du-Bois]], [[Val-Revermont]], Viriat
+** {{Aire de service|de Bourg Teyssonge|Mâcon – Mont-Blanc|de Bourg Jasseron|Mont-Blanc – Mâcon}} à {{unité|43|km}}
+* {{Sortie|7 Bourg-en-Bresse - ''sud''}} à {{unité|50|km}} : Bourg-en-Bresse - ''centre'', [[Ceyzériat]], [[Péronnas]], ''Ainterexpo Ekinox''
+** {{Aire de repos|de Certines|Mâcon – Mont-Blanc|de Tossiat|Mont-Blanc – Mâcon}} à {{unité|54|km}} 
+* '''{{échangeur autoroutier|[[Autoroute A42 (France)|A42]]|A40}}''' à {{unité|60|km}} : Lyon, [[Grenoble]] ([[Autoroute A48 (France)|A48]]), [[Chambéry]] ([[Autoroute A43 (France)|A43]]), ''[[Fichier:France road sign ID2.svg|15px|alt]] [[Aéroport de Lyon-Saint Exupéry|Saint Exupéry]]'', [[Pont d'Ain]]
+** [[Fichier:Panneau-C24a-2.svg|22x22px]] Passage à {{dunité|2|2|voies}}.
+** [[Fichier:AB-Brücke.svg]] Passage sur [[Fichier:Panneau cours d'eau France.png|20px]] le [[Suran (rivière)|Suran]].
+** {{Aire de repos|de Neuville-sur-Ain|Mont-Blanc – Mâcon}} à {{unité|66|km}}
+** [[Fichier:France road sign B14 (130).svg|22x22px]] ou [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à 130 ou 110 km/h (en fonction des zones dangereuses).
+** [[Fichier:AB-Brücke.svg]] [[Viaduc de Poncin]] sur [[Fichier:Panneau cours d'eau France.png|20px]] l'[[Ain (rivière)|Ain]]. ''(566 m)''
+** {{Aire de service|de Ceignes Cerdon|Mâcon – Mont-Blanc|de Ceignes Haut-Bugey|Mont-Blanc – Mâcon}} à {{unité|76|km}}
+** ''[[Col de Ceignes]]'' (altitude {{unité|646|m}})
+[[Fichier:A40_Motorway_between_Nantua_and_Geneve.jpg|thumb|À Nantua.]]
+* {{Sortie|8 Saint-Martin-du-Fresne}} à {{unité|81|km}} : [[Plateau d'Hauteville]], [[Saint-Martin-du-Frêne|Saint-Martin-du-Fresne]] + '''{{échangeur autoroutier|[[Autoroute A404 (France)|A404]]|A40}}''' : [[Oyonnax]], [[Nantua]]
+** [[Fichier:France road sign C111.svg|22x22px]] [[Tunnel de Chamoise]] ''(3 500 m)''
+** [[Fichier:AB-Brücke.svg]] [[Viaduc de Nantua]] ''(1 003 m)''
+** [[Fichier:AB-Brücke.svg]] [[Viaduc des Neyrolles]] ''(782 m)''
+** [[Fichier:AB-Brücke.svg]] [[Viaduc des Glacières]] ''(214 m)''
+* {{Sortie|9 Sylans}} à {{unité|90|km}} : [[Saint-Germain-de-Joux]], [[Nantua]], [[Les Neyrolles]], ''[[Lac de Sylans]]'' + {{Aire de repos|du Lac|Mâcon – Mont-Blanc|des Neyrolles|Mont-Blanc – Mâcon}}
+** [[Fichier:AB-Brücke.svg]] [[Viaduc de Sylans]] ''(1 266 m)''
+** [[Fichier:AB-Brücke.svg]] [[Viaduc de Charix]] ''(542 m)''
+** [[Fichier:AB-Brücke.svg]] [[Viaduc de Lalleyriat]] ''(194 m) / (130 m)''
+** [[Fichier:AB-Brücke.svg]] [[Viaduc de Frébuge]] ''(439 m)''
+** [[Fichier:France road sign C111.svg|22x22px]] [[Tunnel de Saint-Germain-de-Joux]] ''(1 196 m / 1 161 m)''
+** [[Fichier:AB-Brücke.svg]] [[Viaduc du Tacon]] ''(322 m)''
+** [[Fichier:France road sign C111.svg|22x22px]] [[Tunnel de Châtillon]] ''(720 m)''
+** [[Fichier:AB-Brücke.svg]] [[Viaduc de Châtillon]] ''(222 m / 195 m)''
+** {{Aire de repos|de la Michaille|Mâcon – Mont-Blanc|de la Semine|Chamonix-Mâcon}} à {{unité|103|km}}
+
+'''Section concédée à [[Autoroutes et tunnel du Mont-Blanc|ATMB]] et payante (sauf entre les sorties 13 à 14, 15 et 20 à 22). (Autoroute Blanche)'''
+* {{Sortie|10 ''Bellegarde-sur-Valserine''}} à {{unité|108|km}} : [[Valserhône]] ''(Bellegarde-sur-Valserine, Châtillon-en-Michaille)''
+** [[Fichier:AB-Brücke.svg]] [[Viaduc de Bellegarde-sur-Valserine (autoroutier)|Viaduc de Bellegarde-sur-Valserine]] sur [[Fichier:Panneau cours d'eau France.png|20px]] le [[Rhône]]. ''(1 040 m)''
+''Passage du département de l'Ain à celui de la [[Haute-Savoie]].''
+* {{Sortie|11 Frangy}} à {{unité|117|km}} : [[Annecy]], [[Rumilly (Haute-Savoie)|Rumilly]], [[Seyssel (Haute-Savoie)|Seyssel]], [[Frangy]] 
+** [[Fichier:France road sign C111.svg|22x22px]] [[Tunnel du Vuache]] ''(1 400 m)''
+** {{Aire de service|de [[Valleiry]]}}
+* ''Pas de sortie 12 – Échangeur de [[Viry (Haute-Savoie)|Viry]] en projet''
+* {{Péage|Péage de Viry}} 
+* {{Sortie|13 Saint-Julien-en-Genevois}} à {{unité|139|km}} : Annecy, [[Cruseilles]], [[Saint-Julien-en-Genevois]]  ''(PR 68)'' + '''{{échangeur autoroutier|[[Autoroute A41 (France)|A41]]|A40}}''' à {{unité|141|km}} : [[Lausanne]], ''[[File:France road sign ID2.svg|15px|alt]] [[Aéroport international de Genève|Genève]]'', [[Genève]] - ''centre'', Grenoble, Annecy ''(PR 67)''
+** [[Fichier:Panneau-C24a.svg|22x22px]] Passage à {{dunité|2|3|voies}}.
+** [[Fichier:France road sign C28-2.svg|22x22px]] Réduction à {{dunité|2|2|voies}}.
+* {{Sortie|13.1 Archamps}} à {{unité|143|km}} : [[Collonges-sous-Salève]], [[Archamps]] - ''Technopôle'' ''(PR 65)''
+** {{Aire de repos|du [[téléphérique du Salève]]|Mont-Blanc – Mâcon}} à {{unité|148|km}} 
+* '''{{échangeur autoroutier|[[Autoroute A411 (France)|A411]]|A40}} (''[[Échangeur d'Étrembières]]'')''' à {{unité|151|km}} : Genève - ''Vallard'', [[Gaillard (Haute-Savoie)|Gaillard]] + {{Sortie|14 Annemasse}} à {{unité|152|km}} : [[Annemasse]], [[Reignier-Ésery]] ''(PR 56)''
+** [[Fichier:Panneau-C24a.svg|22x22px]] Passage à {{dunité|2|3|voies}}. (sens Mâcon – Mont-Blanc)
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à 110 km/h. (entre le 1er novembre et le 31 mars, baisse hivernal).
+** [[Fichier:AB-Brücke.svg]] Pont sur [[Fichier:Panneau cours d'eau France.png|20px]] l'[[Arve]].
+** [[Fichier:France road sign C28-2.svg|22x22px]] Réduction à {{dunité|2|2|voies}}. (sens Mâcon – Mont-Blanc)
+* {{Péage|Péage de Nangy (à système ouvert)}} + {{Aire de repos|de Nangy Sud|Mâcon – Mont-Blanc|de Nangy Nord|Mont-Blanc – Mâcon}} à {{unité|159|km}} 
+[[Fichier:Péage de Nangy sur l'A40 face au Mole.jpeg|vignette|alt=Le péage de Nangy|Le péage de [[Nangy]], face [[Le Môle|au Môle]].]]
+* {{Sortie|15 La Vallée Verte}} à {{unité|161|km}} : [[Thonon-les-Bains]], [[Évian-les-Bains]], [[Saint-Jeoire]], ''[[Vallée Verte]]'', Reignier-Esery, ''[[File:France road sign ID3.svg|15px|alt]] [[Centre hospitalier Alpes Léman|Alpes Léman]]''
+** [[Fichier:AB-Brücke.svg]] Pont sur [[Fichier:Panneau cours d'eau France.png|20px]] l'Arve.
+* '''{{échangeur autoroutier|[[Autoroute A410 (France)|A410]]|A40}}''' à {{unité|163|km}} : Lyon (A43), Grenoble (A41), Annecy, [[La Roche-sur-Foron]]
+* {{Sortie|16 Bonneville - ''centre''}} à {{unité|170|km}} : La Roche-sur-Foron, [[Saint-Pierre-en-Faucigny]], [[Bonneville (Haute-Savoie)|Bonneville]] - ''ouest'' ''(PR 37)''
+** [[Fichier:AB-Brücke.svg]] Pont sur [[Fichier:Panneau cours d'eau France.png|20px]] la [[Borne (rivière de Haute-Savoie)|Borne]].
+** {{Aire de service|de Bonneville}} à {{unité|172|km}} 
+* {{Sortie|17 Bonneville - ''Z. I.''}} à {{unité|174|km}} et {{unité|175|km}} ''(deux demi-échangeurs)'' : [[Thyez]], [[Marignier]], Bonneville - ''est'' ''(PR 34)''
+* {{Sortie|18 Scionzier}} à {{unité|183|km}} ''(demi-échangeur, depuis et vers Mâcon)'' : [[Marnaz]], [[Scionzier]], [[Cluses]] - ''ouest'' ''(PR 25)''
+** [[Fichier:AB-Brücke.svg]] Pont sur [[Fichier:Panneau cours d'eau France.png|20px]] l'Arve.
+* {{Péage|Péage de Cluses (à système ouvert)}} + {{Sortie|19 Cluses}} à {{unité|188|km}} : [[Magland]], Cluses - ''centre'' ''(PR 20)''
+* {{Sortie|20 Sallanches}} à {{unité|198|km}} ''(deux demi-échangeurs)'' : [[Albertville]], Annecy, Genève, [[Megève]], Magland, [[Sallanches]], ''[[Fichier:France road sign ID3.svg|15px|alt]] Hôpitaux du Pays de Mont-Blanc'' ''(PR 10)''
+** {{Aire de repos|de Passy|Mâcon – Mont-Blanc}}
+* {{Sortie|21 Passy}} à {{unité|206|km}} : [[Saint-Gervais-les-Bains]], [[Passy (Haute-Savoie)|Passy]] - ''centre'' ''(PR 2)''
+** [[Fichier:AB-Brücke.svg]] Viaduc de Fayet
+* {{Sortie|22 ''Le Fayet''}} à {{unité|207|km}} ''(demi-échangeur, depuis et vers Mont-Blanc)'' : Albertville, Megève, Saint-Gervais-les-Bains, Passy - ''Z. I.''
+** [[Fichier:France road sign C208.svg|22x22px]] Fin d'autoroute A40 au lieu-dit de ''l'Abbaye'' sur la commune de Passy à {{unité|207|km}}.
+
+=== [[Route nationale 205|RN 205]] ===
+'''Section concédée à [[Autoroutes et tunnel du Mont-Blanc|ATMB]] et gratuite (sauf le Tunnel du Mont-Blanc). (Route Blanche)'''
+[[Fichier:Viaduc des Egrats.jpg|thumb|L'A40 est poursuivie par la [[route nationale 205]], qui emprunte le [[viaduc des Égratz]] en direction du [[tunnel du Mont-Blanc]].]]
+* [[Fichier:France road sign C107.svg|24x24px]] [[Fichier:France road sign B14 (70).svg|22x22px]] Début de la route nationale 205 et limitation à {{unité|70|km/h}}.
+** [[Fichier:France road sign B14 (90).svg|22x22px]] Limitation à 90 km/h. (sens Mâcon – Mont-Blanc)
+** [[Fichier:AB-Brücke.svg]] [[Viaduc des Égratz]] (sens Mâcon – Mont-Blanc) ou [[Fichier:France road sign A1d.svg|22x22px]] [[Fichier:France road sign B14 (50).svg|22x22px]] Section en descente rapide à virages (sens Mont-Blanc – Mâcon).
+** {{aire de service|de Passy - Le Fayet|Mâcon – Mont-Blanc}} ''(aire de régulation pour les poids lourds)''
+** [[Fichier:France road sign B14 (70).svg|22x22px]] Limitation à 70 km/h. (sens Mont-Blanc – Mâcon)
+* {{sortie|23 ''Le Châtelard''}} à {{unité|212|km}} : ''Le Châtelard''
+** [[Fichier:France road sign B14 (70).svg|22x22px]] Limitation à 70 km/h. (sens Mâcon – Mont-Blanc)
+** [[Fichier:France road sign C111.svg|22x22px]] [[Tunnel du Châtelard]] ''(420 m)'' (sens Mâcon – Mont-Blanc)
+** [[Fichier:France road sign B14 (90).svg|22x22px]] Limitation à 90 km/h.
+* {{sortie|24 Servoz}} à {{unité|213|km}} : [[Servoz]], [[Les Houches]] - ''Le Lac'', ''[[Gorges de la Diosaz]]''
+* {{sortie|25 ''Vaudagne''}} à {{unité|215|km}} : Servoz, ''Gorges de la Diosaz''
+** [[Fichier:France road sign C111.svg|22x22px]] [[Tunnel des Chavants]] (1 015 m) (sens Mâcon – Mont-Blanc) 
+** [[Fichier:France road sign A1d.svg|22x22px]] [[Fichier:France road sign B14 (70).svg|22x22px]] Limitation à 70 km/h. ''(Section à virage dans le sens Mont-Blanc – Mâcon)''
+* {{sortie|26 Les Houches - ''Les Trabets''}} à {{unité|218|km}} : Les Houches, ''[[Fichier:France road sign ID21a.svg|15px|alt]] [[Fichier:France road sign ID21b.svg|15px|alt]] Bellevue - Prarion''
+* {{sortie|27 Les Houches - ''centre''}} à {{unité|219|km}} : Les Houches
+* {{sortie|28 Les Gravières}} à {{unité|220|km}} : Les Gravières + {{Aire de service|des Gravières}}
+** [[Fichier:France road sign C111.svg|22x22px]] [[Tranchée couverte]] des Houches
+* {{sortie|29 Taconnaz}} à {{unité|220|km}} : Les Houches
+* {{sortie|30 Les Bossons}} à {{unité|222|km}} : [[Les Bossons]] ''(de Passy et de Chamonix)''
+** [[Fichier:France road sign C111.svg|22x22px]] [[Tranchée couverte]] des Montquarts
+* [[Fichier:France road sign C24b.svg|22x22px]] ''(sortie par la gauche)'' {{sortie|31 Chamonix-Mont-Blanc}} '''({{Carrefour giratoire|[[Route nationale 506|RD 1506]]|RN 205}})''' à {{unité|224|km}} : [[Chamonix-Mont-Blanc]], [[Martigny]]
+** [[Fichier:France road sign A18.svg|22x22px]] [[Fichier:France road sign B14 (70).svg|22x22px]] Section en 2x1 voies en montée à 7%
+** [[Fichier:France road sign A1d.svg|24x24px]]  Section à virage, limitée à {{unité|25|km/h}}.
+** [[Fichier:France road sign B14 (70).svg|22x22px]] Limitation à 70 km/h.
+** [[File:France road sign C29b.svg|22x22px]] Passage à {{dunité|2|2|voies}}. (850 m) ''(sens Mâcon – Mont-Blanc)''
+** [[Fichier:France road sign C30.svg|22x22px]] Réduction à {{dunité|2|1|voies}}. (sens Mâcon – Mont-Blanc)
+** [[Fichier:France road sign A1d.svg|24x24px]]  Section à virage, limitée à {{unité|25|km/h}}.
+** [[Fichier:France road sign B14 (70).svg|22x22px]] Limitation à 70 km/h.
+** [[Fichier:France road sign A1d.svg|24x24px]] Section à virage, limitée à {{unité|25|km/h}}.
+** [[File:France road sign C29b.svg|22x22px]] Passage à {{dunité|2|2|voies}}. ''(sens Mâcon – Mont-Blanc)'' (voie de gauche V.L et voie de droite P.L)
+** [[Fichier:France road sign B14 (50).svg|22x22px]] Limitation à 50 km/h.
+* {{Péage|Péage du Tunnel du Mont-Blanc (à système ouvert)}} à {{unité|227|km}}
+** [[Fichier:France road sign B14 (70).svg|22x22px]] Limitation à 70 km/h.
+** [[Fichier:France road sign C111.svg|22x22px]] [[Tunnel du Mont-Blanc]] ({{unité|11,6|km}})
+'''{{France}} / {{Italie}}''', [[Frontière entre la France et l'Italie|Frontière franco-italienne]] à l'intérieur du tunnel + [[Fichier:France road sign C108.svg|24x24px]] Fin de la route nationale 205
+* [[Fichier:Italian traffic signs - confine di Stato tra paesi della Comunità Europea (figura II 97-a).svg|22x22px]] Entrée sur le territoire italien : Tunnel T1 jusqu'à l'intersection à [[Entrèves]] ensuite [[Route nationale 26 (Italie)#Route_nationale_26dir|SS26 dir]] puis [[Fichier:Italian traffic signs - inizio autostrada (figura II 345).svg|18px]] l'[[Autoroute A5 (Italie)]] en direction de : [[Turin]], [[Milan]], [[Aoste]], [[Courmayeur]]
+
+== Ouvrages d’art ==
+
+Ouvrages d’art rencontrés dans le sens Macon - Genève :
+* km 139 : [[Viaduc de Poncin]] ({{unité|566|m}})
+* km 112 : [[Tunnel de Chamoise]] ({{unité|3300|m}})
+* km 118 : [[Viaduc de Nantua]] ({{unité|1003|m}})
+* km 117 : [[Viaduc des Neyrolles]] ({{unité|782|m}})
+* km 114 : [[Viaduc des Glacières]] ({{unité|214|m}})
+* km 112 : [[Viaduc de Sylans]] ({{unité|1266|m}})
+* km 111 : [[Viaduc de Charix]] ({{unité|542|m}})
+* km 110 : [[Viaduc de Lalleyriat]] ({{unité|194|m}}) / ({{unité|130|m}})
+* km 109 : [[Viaduc de Frébuge]] ({{unité|439|m}})
+* km 108 : [[Tunnel de Saint-Germain-de-Joux]] ({{unité|1196|m}} / {{unité|1161|m}})
+* km 107 : [[Viaduc du Tacon]] ({{unité|322|m}})
+* km 105 : [[Tunnel de Châtillon]] ({{unité|720|m}}) 
+* km 104 : [[Viaduc de Châtillon]] ({{unité|222|m}} / {{unité|195|m}})
+* km 97 : [[Viaduc de Bellegarde-sur-Valserine (autoroutier)|Viaduc de Bellegarde-sur-Valserine]] ({{unité|1040|m}}) 
+* km 84 : [[Tunnel du Vuache]] ({{unité|1400|m}})
+
+<gallery mode="packed" caption="Sélection de photos des tunnels de l'A40.">
+A40 - 2014-08-25 - MG 9451.jpg|Le tunnel de Chamoise.
+A40 - 2014-08-25 - MG 9522.jpg|Le tunnel de Saint-Germain-de-Joux.
+A40 - 2014-08-25 - MG 9535.jpg|Le tunnel de Châtillon.
+A40 - 2014-08-25 - MG 9574.jpg|Le tunnel du Vuache.
+</gallery>
+<gallery mode="packed" caption="Sélection de photos des viaducs de l'A40.">
+Autoroute A40 01.jpg|Le [[Viaduc de Sylans|viaduc]] et le [[lac de Sylans]].
+Viaducneyrolles 002.JPG|Le viaduc des Neyrolles.
+Viaduc des Glacières01 2015-05-10.jpg|Le viaduc des Glacières.
+Pont de Savoie et viaduc de Bellegarde.JPG|Le viaduc de Bellegarde-sur-Valserine.
+</gallery>
+
+== Croisements autoroutiers ==
+* vers [[Autoroute A406 (France)|A406]] (contournement sud de [[Mâcon]])
+* vers [[Autoroute A39 (France)|A39]] ([[Dole (Jura)|Dole]])
+* vers [[Autoroute A42 (France)|A42]]  ([[Lyon]])
+* vers [[Autoroute A404 (France)|A404]] ([[Oyonnax]])
+* vers [[Autoroute A41 (France)|A41]], puis [[autoroute suisse A1|A1]] ([[Genève]], [[Lausanne]])
+* vers A41 ([[Annecy]])
+* vers [[Autoroute A411 (France)|A411]] (''[[échangeur d'Étrembières]]'') ([[Genève]]-Vallard)
+* vers A410 (Annecy)
+
+<gallery mode="packed" caption="Échangeurs et croisements entre l'A40 et d'autres autoroutes.">
+A40 St André Bâgé 7.jpg|Branchement de l'A406 sur l’A40
+170611-Autoroute-A39-01.jpg|Échangeur entre l’A40 et l’A39
+A40 - 2014-08-25 - MG 9444.jpg|Échangeur entre l’A40 et l’A404
+A40 - 2014-08-25 - MG 9425.jpg|Échangeur entre l’A40 et l’A42
+A40 - 2014-08-25 - MG 9603.jpg|Échangeur entre l’A40 et l’A41
+Échangeur A40-A411 devant radar d'Étrembières.jpg|Échangeur entre l’A40 et l’A411
+
+</gallery>
+
+<gallery mode="packed">
+|Croisement A39/A40 en provenance de Chamonix
+|Croisement A40/A410
+|vignette|Croisement A40/A406
+|vignette|Croisement A40/A404
+</gallery>
+
+== Départements traversés ==
+
+L'autoroute '''A40''' traverse 3 départements.
+
+La liste suivante répertorie les villes desservies et les sites remarquables à proximité de l'autoroute.
+
+;[[Saône-et-Loire]]
+* [[Mâcon]]
+;[[Ain (département)|Ain]]
+* La [[Bresse]]
+* [[Bourg-en-Bresse]]
+* [[Pont-d'Ain]]
+* [[Ain (rivière)|La rivière d'Ain]]
+* le [[Bugey]]
+* [[lac de Nantua]]
+* [[lac de Sylans]]
+* [[Valserhône]]
+;[[Haute-Savoie]]
+* [[Saint-Julien-en-Genevois]] ; l'A40 longe la frontière sud de [[canton de Genève|Genève]] ([[Suisse]])
+* [[Salève]]
+* [[Annemasse]]
+* [[Bonneville (Haute-Savoie)|Bonneville]]
+* [[Cluses]]
+* [[Sallanches]]
+* [[Saint-Gervais-les-Bains]]
+* [[Passy (Haute-Savoie)|Passy]]
+
+== Notes et références ==
+{{Références|références=
+<ref name="HistoriqueWS">{{Lien web|url=http://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A40_%28Historique%29|titre=Autoroute française A40 (Historique)|site=routes.wikia.com|consulté le=30 septembre 2015}}.</ref>
+<ref name="ech21cp">{{Lien web|format=pdf|url=http://www.atmb.net/IMG/pdf/Passy_CP_VDEF.pdf|titre=Communiqué de presse – Demi-échangeur de Passy|éditeur=ATMB|jour=4|mois=décembre|année=2007|consulté le=4 septembre 2010}}.</ref>
+<ref name="ech21i">{{Lien web|format=pdf|url=http://www.atmb.net/IMG/pdf_10_21_08__20inaug_20PASSY-2.pdf|titre=Communiqué de presse – Inauguration de l’échangeur de Passy|éditeur=ATMB|jour=21|mois=octobre|année=2008|consulté le=17 août 2011}}.</ref>
+<ref name="ech20cp">{{Lien web|format=pdf|url=http://www.atmb.net/IMG/pdf_06_22_09_demi_echangeur_Sallanches_PDI_CCO_CAll_ES-DEF.pdf|titre=Communiqué de presse – Demi-échangeur de Sallanches|éditeur=ATMB|jour=23|mois=juin|année=2009|consulté le=4 septembre 2010}}.</ref>
+<ref name="ech20i">{{Lien web|format=pdf|url=http://www.atmb.net/IMG/pdf_09_11_09__inaug_SALLANCHES.pdf|titre=Communiqué de presse – Inauguration de l’échangeur de Sallanches|éditeur=ATMB|jour=11|mois=septembre|année=2009|consulté le=17 août 2011}}.</ref>
+<ref name="ech17i">{{Lien web|format=pdf|url=http://www.atmb.net/IMG/pdf_CP_inauguration_Bonneville.pdf|titre=Communiqué de presse – Inauguration de l’échangeur de Bonneville|éditeur=ATMB|jour=11|mois=décembre|année=2009|consulté le=17 août 2011}}.</ref>
+<ref name="123savoie-ech17">{{Lien web |titre=Demi échangeur de Bonneville Est |url=http://www.123savoie.com/article-66733-1-demi-echangeur-de-bonneville-est.html |site=123 Savoie |jour=14 |mois=décembre |année=2009 |consulté le=4 septembre 2010 |brisé le=30 octobre 2026 |archive-url=https://web.archive.org/web/20120605142919/http://www.123savoie.com/article-66733-1-demi-echangeur-de-bonneville-est.html |archive-date=5 juin 2012}}.</ref>
+}}
+
+=== Articles connexes ===
+* [[Liste des autoroutes de la France]]
+* [[Route européenne 21]]
+* [[Route européenne 25]]
+* [[Route européenne 62]]
+
+=== Liens externes ===
+{{autres projets|commons=Category:A40 autoroute|commons titre=Autoroute A40}}
+* [http://saratlas.free.fr/index.php?page=autoroute&route=a40&lang=fr A40 sur Saratlas]
+* [http://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A40 A40 sur WikiSara]
+* {{pdf}} [http://autorout.free.fr/2_Pdf/4_Alpes/A40.pdf Panneaux directionnels de l’autoroute A 40]
+
+{{Palette|Autoroutes de France}}
+{{Portail|route|Rhône-Alpes}}
+
+{{DEFAULTSORT:040}}
+[[Catégorie:Autoroute A40 (France)|*]]
+[[Catégorie:Autoroute en Auvergne-Rhône-Alpes|040]]
+[[Catégorie:Autoroute en Bourgogne-Franche-Comté|040]]
+[[Catégorie:Route Centre-Europe Atlantique|A 040]]

@@ -1,0 +1,143 @@
+{{voir homonymes|A19}}
+{{autre|la section la plus récente|Autoroute française A19 (section Artenay-Courtenay)}}
+{{Infobox Route/France|statut=A|numéro=19
+|autres_noms       = 
+|image             =
+|légende           = 
+|carte             = Autoroute 19.png
+|longueur          = 131,2
+|direction         = nord-est / sud-ouest
+|dir1              = nord-est
+|dir2              = sud-ouest
+|ville1            = {{route européenne|60}} {{Route européenne|511}} {{Autoroute française|A5}} à [[La Chapelle-sur-Oreuse]] ([[Sens (Yonne)|Sens]])
+|ville2            = {{Route européenne|5}} {{route européenne|60}} {{Autoroute française|A10}} à [[Chevilly (Loiret)|Chevilly]] ([[Artenay]])
+|villes_principales= [[Sens (Yonne)|Sens]], [[Courtenay (Loiret)|Courtenay]], [[Montargis]], [[Pithiviers]], [[Artenay]]
+|intersections     = {{Route européenne|15}} {{Route européenne|60}} {{Autoroute française|A6}} à [[Savigny-sur-Clairis]] ([[Courtenay (Loiret)|Courtenay]])<br />{{Autoroute française|A77}} à [[Treilles-en-Gâtinais]] ([[Montargis]])
+|ouverture         = [[1993]], [[1997]] et [[2009]]
+|réseau            = Autoroute française, également {{route européenne|60}} {{Route européenne|511}}
+|régions           = [[Bourgogne-Franche-Comté]], [[Centre-Val de Loire]]
+|départements      = [[Yonne (département)|Yonne]], [[Loiret (département)|Loiret]]
+|nb_reg=2|nb_dep=2
+|concessionnaire   = [[Autoroutes Paris-Rhin-Rhône|APRR]] (entre A5 et A6)<br/>[[Arcour]] (entre A6 et A10)
+|nom_notes         =
+}}
+L’'''autoroute A19''' est une autoroute française reliant l’[[Autoroute A5 (France)|A5]] à l’[[Autoroute A10 (France)|A10]] entre [[Sens (Yonne)|Sens]] dans le département de l’[[Yonne (département)|Yonne]] et [[Artenay]] dans le département du [[Loiret (département)|Loiret]]. Elle s'inscrit dans le plan du [[grand contournement de Paris]]. A19 est couvert par [[Autoroute Info]] (avant Courtenay) et [[Radio Vinci Autoroutes]] (après Courtenay) en 107.7FM.
+
+== Présentation ==
+Une première section de l'autoroute a été ouverte en 1993 et a servi de fin d'autoroute pour l'A5 en attendant l'ouverture de la section Sens-[[Troyes]]. Elle a servi, après l'ouverture de la section Sens-Troyes de l'A5, de voie d'accès à la ville de Sens. Dans la foulée, la construction de l'autoroute entre Sens et [[Courtenay (Loiret)|Courtenay]] (plus précisément [[Piffonds]] dans l’Yonne) a été réalisée avec ouverture du tronçon en 1997.
+
+Au terme de la réalisation, le trafic entre [[Orléans]] et Courtenay sur l'[[route nationale 60 (France)|ancienne RN 60]] avait augmenté, notamment concernant les camions. C'est pourquoi il a été décidé, au cours des années 2000, de réaliser une liaison entre l'autoroute A6 à Courtenay et l'autoroute A10 à Artenay. Construite par [[Arcour]] ([[Vinci (entreprise)|Vinci]]), exploitée par [[Cofiroute]], l'ouverture de cette liaison de {{unité|101|km}}<ref name="moniteur" /> est réalisée le {{date|16|juin|2009}}.
+
+L'exploitation de l'autoroute est partagée entre [[Autoroutes Paris-Rhin-Rhône|APRR]] sur la section Sens-Courtenay et [[Cofiroute]] sur la section Courtenay-Artenay. Pour un coût estimé à 595 millions d'euros lors du lancement des travaux, l'autoroute fut finalisée pour 840 millions d'euros. Sur ce montant, 80 millions d'euros ont été apportés sur fonds publics (40 millions d'euros de l'État via l'[[Agence de financement des infrastructures de transport de France]], 18,4 millions d'euros de la [[Centre-Val de Loire|Région Centre]], 16,6 millions d'euros du [[Conseil général du Loiret]] en particulier)<ref name="moniteur">{{Article|titre=Loiret, l'A19 nouvel atout du département |auteur=Jean-Jacques Talpin |périodique=Le Moniteur |numéro=5510 |date=3-7-2009 |page=29}}.</ref>{{,}}<ref>{{Lien web |titre=Autoroute A19 : première concession autoroutière conclue |url=https://web.archive.org/web/20071118174209/http://prefecture.centre.newstoo.net:80/article.php?id=237 |site=newstoo.net via [[Internet Archive]] |consulté le= |archive-date=18 novembre 2007}}.</ref>.
+
+== Historique ==
+
+=== De Sens à Courtenay ===
+* L'autoroute est gérée par la société [[Autoroutes Paris-Rhin-Rhône]] (APRR). C'est une autoroute payante à {{dunité|2|2|voies}}. Elle est longue de {{unité|30|km}}.
+
+* [[1993]] : mise en service de la section A160-A5 (Sens)-RN 6 de {{unité|5|km}} (future A19) ;
+* [[1997]] : mise en service de la section Sens-Courtenay de {{unité|25|km}}.
+
+=== De Courtenay à Artenay ===
+
+{{Article détaillé|Autoroute française A19 (section Artenay-Courtenay)}}
+
+La maîtrise d'ouvrage Vinci Concessions est pilotée par Hervé Tricot, directeur général, et Gérard Khodja, directeur technique.
+
+Les travaux sont réalisés par le groupement SOCALY dont le directeur est Claude Moulin.
+
+[[Fichier:France, A19, aout 2007-0.jpg|thumb|right|En construction, en août 2007, entre [[Bouzonville-aux-Bois]] et [[Ascoux]], vers l'ouest.]]
+[[Fichier:Autoroute française A19.jpg|thumb|right|En construction, en novembre 2008, à [[Boynes]] dans le sens Artenay-Courtenay.]]
+De {{date|mars 2006}} à {{date|juin 2007}}, des fouilles d'[[archéologie préventive]] de l'[[Institut national de recherches archéologiques préventives|Inrap]] sont réalisées. Elles permettent de retrouver des traces d'homme remontant au [[paléolithique]] et allant jusqu'à la fin du [[Moyen Âge]]. Un documentaire décrivant ces découvertes a été réalisé<ref>{{Lien web |titre=L'A19 ou l'autoroute à remonter le temps |url=https://www.inrap.fr/l-a19-ou-l-autoroute-remonter-le-temps-4946 |site=Inrap.fr |date=24-1-2008}}.</ref>.
+
+Le {{date|29|septembre|2006}}, les travaux de construction du tronçon sont officiellement lancés.
+
+Le {{date|8|juin|2009}}, [[Dominique Bussereau]], alors secrétaire d'état chargé des transports du [[gouvernement Fillon II|gouvernement de François Fillon]] inaugure le nouveau tronçon à [[Fontenay-sur-Loing]] en présence de Pierre Coppey, PDG de Cofiroute et d'[[Arcour]], filiale de la société [[Vinci (entreprise)|VINCI]] concessionnaire de l'A19 pour {{nombre|65|ans}}<ref>{{Article|titre=Inauguration de l'A19 |périodique=La République du Centre |date=9 juin 2009 |page=4}}.</ref>.
+
+L'autoroute est mise en service le {{date|16|juin|2009}} à midi. En reliant [[Courtenay (Loiret)|Courtenay]] à [[Sougy]], elle permet de relier les autoroutes [[Autoroute A5 (France)|A5]], [[Autoroute A6 (France)|A6]], [[Autoroute A77 (France)|A77]] et [[Autoroute A10 (France)|A10]]. Quatre années de travaux ({{nombre|4|mois}} en avance sur le calendrier prévisionnel) et 847 millions d'euros auront été nécessaires pour achever les {{unité|101|km}} du tronçon. L'exploitation est confiée à [[Cofiroute]]<ref>{{Lien web |titre=Nouvelle autoroute A6-A10 dans le Loiret |url=https://web.archive.org/web/20090619063334/http://info.france2.fr:80/france/55359770-fr.php |site=france2.fr via [[Internet Archive]] |date=16-6-2009 |consulté le= |archive-date=19 juin 2009}}.</ref>.
+La section traverse 45 communes, 43 dans le Loiret et 2 dans l'Yonne. Elle traverse la [[Beauce (France)|Beauce]] au nord de la [[forêt d'Orléans]].
+
+== Parcours ==
+'''Section concédée à [[Autoroutes Paris-Rhin-Rhône|APRR]] et payante.'''
+* '''{{échangeur autoroutier|[[Autoroute A5 (France)|A5]]|A19}}''' : [[Montereau-Fault-Yonne]], [[Fontainebleau]], [[Paris]] - est, [[Troyes]], [[Metz]]- [[Nancy]] ([[Autoroute A4 (France)|A4]])
+** [[Fichier:France road sign C207.svg|22x22px]] Début de l'autoroute A19.
+** [[Fichier:Panneau-C24a-2.svg|22x22px]] [[Fichier:France road sign B14 (130).svg|22x22px]] Début de {{dunité|2|2|voies}} et limitation à 130 km/h.
+* {{Sortie|1 Saint-Denis-lès-Sens}} à {{unité|4|km}} : [[Sens (Yonne)|Sens]] - centre, [[Provins]], [[Pont-sur-Yonne]], [[Nogent-sur-Seine]]
+** [[Fichier:AB-Brücke.svg]] [[Viaduc sur l'Yonne|Viaduc]] sur [[Fichier:Panneau cours d'eau France.png|20px]] l'[[Yonne (rivière)|Yonne]] .
+** {{Aire de service|de [[Villeroy (Yonne)|Villeroy]]}}
+* {{Sortie|2 Villeneuve-la-Dondagre}} à {{unité|18|km}} : [[Subligny (Yonne)|Subligny]], [[Paron (Yonne)|Paron]], [[Saint-Valérien (Yonne)|Saint-Valérien]], Sens - Rive-Gauche
+'''Section concédée à APRR et [[Arcour]] et payante'''.
+* '''{{échangeur autoroutier|[[Autoroute A6 (France)|A6]]|A19}} (''[[Échangeur de Courtenay]]'')''' à {{unité|30|km}} : [[Auxerre]], [[Lyon]], [[Dijon]], [[Courtenay (Loiret)|Courtenay]] - est, Paris - sud
+** [[Fichier:Panneau-C24a-2.svg|22x22px]] [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à 110 km/h sur l'échangeur.
+** [[Fichier:France road sign C28-3.svg|22x22px]] [[Fichier:France road sign B14 (90).svg|22x22px]] Limitation à 90 km/h. Réduction à 1 voie.
+** [[Fichier:Panneau-C24a-2.svg|22x22px]] [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à 130 km/h après l'échangeur.
+'''Section concédée à Arcour et payante. (L'Éco Autoroute)'''<br />
+''Passage du département de l'[[Yonne (département)|Yonne]] à celui du [[Loiret (département)|Loiret]]. Passage de la région de [[Bourgogne-Franche-Comté]] à la région [[Centre-Val de Loire]].''
+* {{Sortie|3 Savigny-sur-Clairis}} à {{unité|31|km}} ''(demi-échangeur, depuis et vers Artenay)'' : Sens, [[Savigny-sur-Clairis]], [[Villeneuve-sur-Yonne]]
+* {{Sortie|4 Saint-Hilaire}} à {{unité|36|km}} : [[Montargis]], [[Saint-Hilaire-les-Andrésis|Saint-Hilaire]], Courtenay - ouest 
+** {{Aire de repos|de Chantecoq|Sens-Artenay|de Philippe Rossi|Artenay-Sens}}
+* {{Sortie|5 Fontenay-sur-Loing}} à {{unité|56|km}} : Montargis - nord, [[Châlette-sur-Loing]], [[Ferrières-en-Gâtinais]], [[Fontenay-sur-Loing]]
+** [[Fichier:AB-Brücke.svg]] [[Viaduc du Loing|Viaduc]] sur [[Fichier:Panneau cours d'eau France.png|20px]] le [[Loing]].
+** {{Aire de repos|de la Vallée du Loing|Sens-Artenay|de Cepoy|Artenay-Sens}}
+* '''{{échangeur autoroutier|[[Autoroute A77 (France)|A77]]|A19}}''' à {{unité|64|km}} : Paris (A6), [[Fontainebleau]], [[Nevers]], Montargis - centre
+* {{Sortie|6 Auxy}} à {{unité|80|km}} : [[Le Malesherbois|Malesherbes]], [[Bellegarde (Loiret)|Bellegarde]], [[Beaune-la-Rolande]], [[Beaumont-du-Gâtinais]], [[Auxy (Loiret)|Auxy]] + {{aire de service|de Loiret}}
+* {{Sortie|7 Escrennes}} à {{unité|101|km}} : Fontainebleau, [[Pithiviers]], [[Neuville-aux-Bois (Loiret)|Neuville-aux-Bois]], [[Escrennes]]
+** {{Aire de repos|de Teillay|Sens-Artenay|de Mauregard|Artenay-Sens}}
+** [[Fichier:France road sign B14 (110).svg|22x22px]] 110 km/h avant l'échangeur.
+* '''{{échangeur autoroutier|[[Autoroute A10 (France)|A10]]|A19}}''' à {{unité|129|km}} : [[Bordeaux]], [[Orléans]], [[Chartres]], [[Artenay]], Paris (A6)
+
+== Équipements ==
+[[Fichier:A19 - Viaduc sur le Loing (5).JPG|thumb|Le viaduc sur le Loing en construction, le 11 mai 2008.]]
+Le tronçon a été équipé de 108 bassins destinés à filtrer les eaux polluantes, de {{unité|9|km}} de mur-antibruit, d'une bande d'arrêt d'urgence continue, de plus de 100 passages pour animaux et de 103 ponts, dont un [[Viaduc du Loing (A19)|viaduc]] à tablier double en ossature mixte de type bipoutre d'un kilomètre de long franchissant le [[Loing]]<ref>{{lien brisé|url=http://www.loiret.com/cgloiret/index.php?page=display&class=actualite&object=inauguration.a19&method=i_display_full&evenement=1 |titre=L'A19 inaugurée ! |date=10-6-2009}}.</ref>{{,}}<ref>{{lien brisé|url=http://www.lejournaldegien.fr//actualite/A19-Artenay-Courtenay-:-Inauguree-lundi,-elle-sera-ouverte-a-la-circulation-mardi-16-juin-153-dossier.html |titre=A19 Artenay-Courtenay : Inaugurée lundi 8 juin, elle sera ouverte à la circulation mardi 16 juin |date=11-6-2009 |éditeur=Le Journal de Gien}}.</ref>.
+
+Le centre d'exploitation est situé à Fontenay-sur-Loing.
+
+== Expérimentation ==
+De 2009 à 2011, sur le nouveau tronçon dans le sens [[Courtenay (Loiret)|Courtenay]]-[[Artenay]], la ligne séparant la [[bande d'arrêt d'urgence]] des voies de circulation est continue<ref>{{Lien web |titre=Sécurité de l'A19 |url=https://web.archive.org/web/20120625050352/http://www.cofiroute.fr/cofiroute.nsf/fr/autoroute-a19-securite.htm |site=cofiroute.fr via [[Internet Archive]] |consulté le= |archive-date=25 juin 2012}}.</ref>. Dans l'autre sens, la ligne reste discontinue afin de permettre des comparaisons. Un système de lasers et de radars recueille les données de franchissement et servira de base pour améliorer la sécurité routière.
+
+== Vecteur de développement économique ==
+L'A19 va permettre l'aménagement de près de {{unité|500|hectares}} de parcs d'activités (logistique et autre) à proximité des échangeurs d'Artenay, de Pithiviers, de Montargis et de Courtenay<ref name="moniteur" />.
+
+== Ouvrages d'art ==
+* Viaduc de l'Yonne
+* Passage supérieur de l'aire de services de [[Villeroy (Yonne)|Villeroy]]
+* [[Viaduc du Loing (A19)|Viaduc du Loing]]
+
+== Lieux sensibles ==
+
+Les zones sensibles ne concernent que les échangeurs autoroutiers avec les autoroutes françaises [[Autoroute A10 (France)|A10]], [[Autoroute A77 (France)|A77]] et [[Autoroute A6 (France)|A6]] lors des départs ou retours de vacances.
+
+== Divers ==
+
+[[Fichier:Viaduc de l'aérotrain 03798.JPG|vignette|Le rail de l'aérotrain sur le chantier de l'A19.]]
+En {{date|février 2007}}, la construction de l'autoroute A19 a nécessité la destruction de {{unité|120|mètres}} de voie de l'[[aérotrain]]<ref>{{Lien web |titre=Accueil |description=Site sur l'aérotrain |url=http://www.aerotrain.fr/viewphoto.php5?numero=530&lang=fr |site=Aerotrain.fr |consulté le=décembre 2008}}.</ref>. Cette section de la [[voie d'essai de l'aérotrain d'Orléans]] supprimée est située au niveau de la commune de [[Chevilly (Loiret)|Chevilly]], entre le point géographique <small>{{coord|48.045975|1.88416|type:landmark_region:FR|format=dms}}</small> (côté nord) et <small>{{coord|48.044919|1.884155|type:landmark_region:FR|format=dms}}</small> (côté sud).
+
+Les 16 et {{date|17 mai 2009}}, l'A19 a été ouverte au public qui pouvait l'emprunter à pied, roller ou vélo<ref>{{lien brisé|url=http://www.loiret.com/cgloiret/index.php?page=display&class=actualite&object=fete_a19&method=i_display_full&evenement=1 |titre=La nouvelle A19 fêtée avant son inauguration |date=18-5-2009}}.</ref>.
+
+Il s'agit d'une des autoroutes les plus chères et les moins fréquentées de France<ref>{{Lien web |auteur=François Feuilleux |titre=L’A 19 loin de l’excès d’usagers |url=https://web.archive.org/web/20220104052250/https://www.larep.fr/loiret/actualite/2012/08/30/la19-loin-de-lexces-dusagers_1253837.html |site=[[La République du Centre]] via [[Internet Archive]] |date=30-8-2012 |consulté le=11 novembre 2014 |archive-date=4 janvier 2022}}.</ref>.
+
+== Notes et références ==
+{{Références|taille=30}}
+
+== Voir aussi ==
+{{catégorie détaillée|Autoroute A19 (France)}}
+
+=== Articles connexes ===
+* [[Réseau routier du Loiret]]
+* [[Réseau routier de l'Yonne]]
+* [[Aire urbaine de Montargis]]
+* [[Aire urbaine de Pithiviers]]
+* [[Liste des autoroutes de France]]
+
+=== Liens externes ===
+{{autres projets|commons=Category:A19 autoroute|commons titre=l’A19}}
+* [http://www.arcour-a19.com Site du concessionnaire de l'autoroute Arcour]
+* {{PDF}} [http://www.developpement-durable.gouv.fr/IMG/pdf/Autoroute_A19_Sens-Courtenay.pdf Avis du Conseil Général des Ponts et Chaussées sur le bilan LOTI de l'autoroute A 19 (section Sens - Courtenay)]
+* [http://saratlas.free.fr/index.php?page=autoroute&route=a19&lang=fr Autoroute A19 dans Saratlas]
+* [http://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A19 Article de l'A19 sur WikiSara]
+
+{{Palette Autoroutes de France}}
+
+{{Portail|route|Yonne|Loiret}}
+
+[[Catégorie:Autoroute A19 (France)|*]]

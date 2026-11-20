@@ -1,0 +1,123 @@
+{{Voir homonymes|A50}}
+{{Infobox Route/France|statut=A|numéro=50
+|autres_noms       = Autoroute Est de Marseille
+|image             = A50-Bellefille.JPG
+|légende           = L'autoroute A50 aux environs de Cassis.
+|carte             = France_A5X_A50.svg
+|longueur          = 70
+|direction         = ouest-est
+|dir1              = ouest
+|dir2              = est
+|ville1            = [[Marseille]]
+|ville2            = {{Autoroute française|A57}} à [[Toulon]]
+|villes_principales= [[Marseille]], [[Aubagne]], [[La Ciotat]], [[Bandol]], [[La Seyne-sur-Mer]], [[Toulon]]
+|intersections     =
+{{Autoroute française|A507}} à [[Marseille]]
+{{Autoroute française|A52}}, {{Autoroute française|A502}} et {{Autoroute française|A501}} à [[Aubagne]]
+|ouverture         = à partir de [[1962]]
+|réseau            = Autoroute française
+ | régions        = [[Provence-Alpes-Côte d'Azur]]
+ | départements   = [[Bouches-du-Rhône]], [[Var (département)|Var]]
+ | nb_reg         = 1
+ | nb_dep         = 2
+|concessionnaire  = [[Autoroutes Esterel-Côte d'Azur|ESCOTA]] (entre Aubagne et Toulon)
+|gestionnaire     = [[Bouches-du-Rhône|Département des Bouches-du-Rhône]] (entre Marseille et Aubagne)
+| nom_notes      =  
+}}
+En [[France]], l’'''autoroute A50''' est une [[autoroute]] située en [[Région française|région]] [[Provence-Alpes-Côte d'Azur]] et reliant [[Marseille]] dans les [[Bouches-du-Rhône]], à [[Toulon]] dans le [[Var (département)|Var]].
+
+== Caractéristiques ==
+
+D'une longueur de {{unité|70|km}}, l'A50 appartient pour partie au réseau public autoroutier (sur les secteurs Marseille-Prado/Aubagne) et pour autre partie au réseau concédé à [[Autoroutes Esterel-Côte-d'Azur|Escota]] (tronçon Aubagne-Sud/A57 Toulon). Elle est payante de [[Roquefort-la-Bédoule]] à Ollioules sur la partie gérée par [[Autoroutes Esterel-Côte-d'Azur|Escota]]. C'est sur cette section qu'a été mis en service pour la première fois le [[Télépéage]] ou Télébadge en 1992.
+
+Cette autoroute est couverte par [[Radio Vinci Autoroutes]] (107.7FM) dans le secteur Escota.
+
+== Histoire ==
+{{Section vide ou incomplète}}
+Son premier tronçon a été ouvert à la circulation en [[1962]] entre Marseille et [[Aubagne]]. Ce tronçon est encore nommé '''autoroute Est''' par les Marseillais.
+
+La liaison Aubagne-Toulon, lancée dans les années 1970, est contestée par les défenseurs d'une « nature encore vierge » dans le [[Var (département)|Var]]. Le tracé impliquait notamment la destruction des vignes et des expropriations. Le réseau autoroutier commence à être perçu comme une nuisance, et le ministère de l'Environnement s'oppose à celui de l'Équipement<ref>{{Lien web |langue=fr |titre=En 1973, l'autoroute Aubagne-Toulon est, elle aussi, violemment contestée |url=https://www.lefigaro.fr/histoire/archives/en-1973-l-autoroute-aubagne-toulon-est-elle-aussi-violemment-contestee-20231024 |site=Le Figaro |date=2023-10-24 |consulté le=2025-06-05}}</ref>.
+
+Cette autoroute est en {{dunité|2|3|voies}} depuis fin {{date|décembre 2012}} sur les {{unité|21|km}} du tronçon entre les deux péages (La Ciotat et Bandol), après {{unité|23|mois}} de travaux<ref>{{lien web|url=http://www.laprovence.com/article/la-ciotat/entre-bandol-et-la-ciotat-la50-a-pris-de-la-largeur|titre=Entre Bandol et La Ciotat, l’A50 a pris de la largeur|site=La Provence|consulté le=24 janvier 2013}}.</ref> qui ont coûté 90 millions d’euros<ref>{{lien web|url=http://www.vinci-autoroutes.com/fr/article/a50-une-voie-supplementaire-entre-bandol-et-la-ciotat|titre=A50 : une voie supplémentaire entre Bandol et La Ciotat|site=Vinci Autoroutes|jour=26|mois=décembre|année=2012|consulté le=26 juillet 2013}}.</ref>.
+
+== Sorties ==
+* '''{{Échangeur autoroutier|[[Tunnel Prado-Carénage]] (A50)|[[Tunnel du Vieux-Port de Marseille]] ([[Autoroute A55 (France)|A55]])}}'''
+** [[Fichier:France_road_sign_C111.svg|22x22px]] [[Tunnel Prado-Carénage]] ({{unité|2450|m}})
+** {{Péage|Péage du Tunnel Prado-Carénage (à système ouvert)}}
+'''Section non-concédée gérée par le département des [[Bouches-du-Rhône]] et gratuite.'''
+* {{Sortie|1 [[Tunnel Prado-Carénage#Le tunnel Prado Sud|Tunnel Prado Sud]]}} à {{unité|- 0,4|km}} : Marseille - ''Centre-Ville, Mazargues, Sainte-Marguerite, Menpeti, La Plage, Vieux-Port''
+** [[Fichier:France road sign C107.svg|24x24px]] [[Fichier:Panneau-C24a-2.svg|22x22px]] [[Fichier:France road sign B14 (50).svg|22x22px]] Début de la voie express A50, début de {{dunité|2|2|voies}} et limitation à {{unité|50|km/h}}.
+* {{Sortie|2/2a/2b Place de Pologne}} à {{unité|0|km}} : Marseille -'' Baille, La Timone, La Capelette, Menpenti''
+** [[Fichier:France road sign C108.svg|24x24px]] [[Fichier:France road sign C207.svg|24x24px]] [[Fichier:France road sign B14 (70).svg|22x22px]] Fin de la voie express A50, début de l'autoroute A50 et limitation à {{unité|70|km/h}}.
+* {{Sortie|3 [[échangeur Florian|Florian]]}} à {{unité|2,5|km}} : Marseille - ''La Pomme, Saint-Loup, Pont-de-Vivaux, Saint-Pierre, La Rose'' ([[Autoroute A507 (France)|A507]])
+* '''{{échangeur autoroutier|[[Autoroute A507 (France)|A507]]|A50}}''' à {{unité|3,2|km}} ''(demi-échangeur, depuis et vers Toulon)'' : [[Fos-sur-Mer|Fos]]-[[Martigues]] ([[Autoroute A55 (France)|A55]]), [[Aix-en-Provence]] ([[Autoroute A51 (France)|A51]]), ''[[Fichier:France road sign ID2.svg|15px|alt]] [[aéroport Marseille-Provence|Marignane]]'' ([[Autoroute A7 (France)|A7]]), Marseille - ''La Rose''
+** [[Fichier:Panneau-C24a.svg|22x22px]] Passage à {{dunité|2|3|voies}}. 
+** [[Fichier:France road sign B14 (90).svg|22x22px]] Limitation à {{unité|90|km/h}}.
+** {{Aire de service|de la Pomme|Marseille-Toulon}}
+* {{Sortie|4a Saint-Marcel}} à {{unité|7|km}} ''(demi-échangeur, depuis et vers Marseille)'' : Marseille
+* {{Sortie|4b La Valentine}} à {{unité|7|km}} ''(trois-quart-échangeur, pas accessible depuis Toulon)'' : Marseille - ''Saint-Menet, La Barasse''
+* {{Sortie|5 La Penne-sur-Huveaune}} à {{unité|10|km}} : [[Allauch]], [[La Penne-sur-Huveaune]], Marseille - ''Saint-Menet, La Valentine''
+* '''{{Échangeur autoroutier|[[Autoroute A501 (France)|A501]]|A50}}''' à {{unité|13|km}} ''(demi-échangeur, depuis et vers Marseille)'' : A52, [[Nice]] ([[Autoroute A8 (France)|A8]]), [[Fréjus]] - [[Saint-Raphaël (Var)|Saint-Raphaël]], [[Aubagne]] - ''centre''
+* '''{{Échangeur autoroutier|[[Autoroute A502 (France)|A502]]|A50}}''' à {{unité|15,2|km}} ''(demi-échangeur, depuis et vers Marseille)'' : [[Toulon]], Aubagne - ''Les Paluds'', [[Gémenos]]
+** [[Fichier:Panneau-C24a-2.svg|22x22px]] Passage à {{dunité|2|2|voies}}. 
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à {{unité|110|km/h}}.
+'''Section concédée à [[Autoroutes Esterel-Côte d'Azur|Escota]] et gratuite (sauf entre les échangeurs 7 à 10 et 11 à 13).'''
+* '''{{Échangeur autoroutier|[[Autoroute A52 (France)|A52]]|A50}}''' à {{unité|16|km}} ''(demi-échangeur, depuis et vers Toulon)'' : [[Lyon]] ([[Autoroute A7 (France)|A7]]), Nice, Aix-en-Provence (A8), Aubagne
+** [[Fichier:Panneau-C24a-4.svg|22x22px]] Passage à {{dunité|2|4|voies}}.
+* {{Sortie|6 Carnoux}} à {{unité|17|km}} ''(demi-échangeur, depuis et vers Marseille)'' : [[Cassis (Bouches-du-Rhône)|Cassis]], [[Carnoux-en-Provence]]
+** [[Fichier:France road sign C28.svg|22x22px]] Réduction à {{dunité|2|3|voies}}.
+* {{Sortie|7 Roquefort-la-Bédoule}} à {{unité|20|km}} : [[La Ciotat]], Carnoux-en-Provence, [[Roquefort-la-Bédoule]]
+** {{Aire de repos|du Pas d'Ouillier|Marseille-Toulon}}
+* {{Sortie|8 Cassis}} à {{unité|23|km}} : Cassis
+* {{Péage|Péage de La Ciotat (à système ouvert)}} + {{Sortie|9 La Ciotat}} à {{unité|34|km}} : La Ciotat
+** [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à {{unité|130|km/h}}.
+** {{Aire de service|des Frères Lumière|Marseille-Toulon|de la Baie de La Ciotat|Toulon-Marseille}}
+''Passage du département des [[Bouches-du-Rhône]] à celui du [[Var (département)|Var]]''
+* {{Sortie|10 Saint-Cyr-sur-Mer}} à {{unité|44|km}} : [[Saint-Cyr-sur-Mer]]
+* {{Sortie|11 La Cadière-d'Azur}} à {{unité|50|km}} : [[Signes (Var)|Signes]], [[Le Castellet (Var)|Le Castellet]], [[Le Beausset]], [[La Cadière-d'Azur]], ''Circuit du Castellet''
+* {{Péage|Péage de Bandol (à système ouvert)}} + {{Sortie|12 Bandol}} à {{unité|56|km}} : [[Bandol]], [[Sanary-sur-Mer]] - ''Plages''
+** {{Aire de repos|de Sanary}}
+* {{Sortie|12.1 Ollioules}} à {{unité|61|km}} : Sanary-sur-Mer - ''centre'', [[Ollioules]] - ''centre, La Gare'' (inauguré le {{Date|14 décembre 2020}}<ref>{{Lien web|titre=L'échangeur "Ollioules-Sanary" sur l'A50 devrait être mis en service dans les prochains jours |url=https://www.francebleu.fr/infos/transports/l-echangeur-ollioules-sanary-sur-l-a50-devrait-etre-mis-en-service-dans-les-prochains-jours-1607956926 |auteur=Sophie Glotin (France Bleu Provence) |site=francebleu.fr |éditeur=France Bleu |date=14 décembre 2020 |consulté le=23 février 2022}}.</ref>, ouvert depuis le {{Date|21 décembre 2020-}}<ref>{{Lien web|titre=Ouverture du nouvel échangeur Ollioules/Sanary-sur-Mer, lundi 21 décembre à 10h |url=https://www.ollioules.fr/2020/12/19/ouverture-du-nouvel-echangeur-ollioules-sanary-sur-mer-lundi-21-decembre-a-10h/ |site=ollioules.fr |éditeur=Mairie d'Ollioules |date=19 décembre 2020 |consulté le=23 février 2022}}.</ref>{{,}}<ref>{{Lien web|titre=Ollioules/Sanary-sur-Mer : mise en service |url=https://radio.vinci-autoroutes.com/article/ollioules-sanary-sur-mer-mise-en-service-4475 |site=radio.vinci-autoroutes.com |éditeur=Vinci Autoroutes |date=24 décembre 2020 |consulté le=23 février 2022}}.</ref>) 
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à {{unité|110|km/h}}.
+* {{Sortie|13 Six-Fours-les-Plages}} à {{unité|64|km}} : [[La Seyne-sur-Mer]] - ''centre, Plages'', [[Six-Fours-les-Plages]], Ollioules - ''Piedardan''
+** [[Fichier:France road sign B14 (90).svg|22x22px]] Limitation à {{unité|90|km/h}}.
+* {{Sortie|14 Châteauvallon}} à {{unité|65|km}} : Aubagne, La Seyne-sur-Mer - ''La Gare'', Ollioules - ''Châteauvallon''
+* {{Sortie|15/15a/15b Toulon - ''ouest''}} à {{unité|67|km}} : [[Le Revest-les-Eaux]], Toulon, ''[[Port militaire de Toulon|Base Navale]]'', La Seyne-sur-Mer - ''centre'', ''[[File:France road sign ID13b.svg|15px|alt]] Hôpital, ''[[File:France road sign ID13b.svg|15px|alt]] La Seyne : Portes LS
+* {{Sortie|16 Toulon - ''Port''}} à {{unité|67|km}} ''(demi-échangeur, depuis et vers Marseille)'' : Toulon, ''[[File:France road sign ID13b.svg|15px|alt]] Toulon : Portes TL''
+** [[Fichier:Panneau-C24a.svg|22x22px]] Passage à {{dunité|2|3|voies}}. 
+** [[Fichier:France road sign B14 (70).svg|22x22px]] Limitation à {{unité|70|km/h}}.
+** [[Fichier:France_road_sign_C111.svg|22x22px]] [[Tunnel de Toulon]] ({{unité|3|km}})
+* {{Sortie|17 Toulon - ''centre''}} à {{unité|70|km}} ''(demi-échangeur, depuis et vers Toulon - est)'' : Toulon, ''[[File:France road sign ID13b.svg|15px|alt]] Toulon : Portes TL''
+* Fin de l'A50 et début de l'[[Autoroute A57 (France)|A57]] en direction de [[Nice]], [[Hyères]] ([[Autoroute A570 (France)|A570]]) et Toulon - ''est''
+
+== Lieux sensibles ==
+La circulation sur cette autoroute est très dense.
+* La section de Marseille à Aubagne est embouteillée quotidiennement aux heures de pointe du matin et du soir, notamment aux alentours des [[Échangeur Florian|échangeurs Florian]] et la Valentine. La vitesse y est limitée à {{unité|90|km/h}}.
+* La descente sinueuse de Roquefort-la-Bédoule vers Aubagne est accidentogène ; de plus elle comporte une entrée depuis Carnoux juste avant l'embranchement vers Aix, créant un cisaillement.
+* La forte descente située avant la gare de péage de La Ciotat dans le sens Marseille → Toulon a valu à ce tronçon un classement en zone dangereuse lors du recensement des routes à risques, à la suite de l'accident d'autocar survenu sur la [[Route nationale 85 (France)|RN 85]] le {{date|22 juillet 2007}}. La vitesse y est limitée à 110 km/h et de {{unité|90|km/h}} à 50 km/h selon le type de vehicule pour la voie de droite qui est réservée aux véhicules lents ; 4 refuges d'urgence pour poids lourds sont aménagés.
+* La sortie 13 (La Seyne quartiers ouest) est très difficile aux heures de pointe dans le sens Toulon-Marseille.
+* À l'arrivée à Toulon la vitesse autorisée passe successivement de {{unité|130|km/h}} à {{unité|110|km/h}}, puis {{unité|90|km/h}}, {{unité|70|km/h}} et enfin {{unité|50|km/h}} avant que l'autoroute débouche sur un feu en centre-ville, créant parfois des bouchons. La section finale de l'autoroute est cependant soulagée depuis 2014 grâce à l'ouverture du deuxième tunnel de Toulon dans le sens ouest - est.
+
+== Notes et références ==
+{{Références}}
+
+== Voir aussi ==
+=== Émission télévisée ===
+* {{Ina|CAF93027867|Autoroute B52 : Aubagne / Toulon|date=22 juillet 1973|éditeur=La France défigurée - [[Office de radiodiffusion-télévision française]]|consulté le=25 juillet 2015}}{{commentaire biblio|Reportage sur l'histoire du tracé de l'autoroute B52 reliant Aubagne à Toulon, contribuant au désenclavement de La Ciotat et La Seyne-sur-Mer. Ce projet a connu deux tracés mais l'un, retenu, a suscité la polémique d'exploitants locaux.}}
+
+=== Articles connexes ===
+* [[Liste des autoroutes de France]]
+* Réseaux routiers [[Réseau routier des Bouches-du-Rhône|des Bouches-du-Rhône]] et [[Réseau routier du Var|du Var]]
+
+=== Liens externes ===
+{{Autres projets|commons=Category:A50 autoroute|commons titre=Images de l'autoroute A50}}
+* {{Autorité}}
+* {{Bases}}
+* {{Dictionnaires}}
+* [http://saratlas.free.fr/index.php?page=autoroute&route=a50&lang=fr Autoroute A50 dans Saratlas]
+* [http://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A50 Article de l'A50 sur WikiSara]
+
+{{Palette Autoroutes de France}}
+{{Portail|route|Provence-Alpes-Côte d'Azur}}
+
+[[Catégorie:Autoroute en Provence-Alpes-Côte d'Azur|050]]

@@ -1,0 +1,154 @@
+{{Voir homonymes|A5|Autoroute A5}}
+{{Infobox Route/France|statut=A|numéro=5
+|autres_noms       = 
+|image             = Autoroute A5 à Semoutiers (52).jpg
+|légende           = Sortie 24 de l'autoroute A5 à Semoutiers (Haute-Marne) près de Chaumont.
+|carte             = Carte Autoroute A5.svg
+|longueur          = 238
+|direction         = nord-ouest / sud-est
+|dir1              = nord-ouest
+|dir2              = sud-est
+|ville1            = {{Route nationale|104|France}} à [[Tigery]]
+|ville2            = {{Route européenne|17}} {{Route européenne|21}} {{Route européenne|54}} {{Autoroute française|A31}} à [[Ormancey]]
+|villes_principales= [[Melun]], [[Montereau-Fault-Yonne]], [[Sens (Yonne)|Sens]], [[Troyes]], [[Chaumont (Haute-Marne)|Chaumont]]
+|intersections     = {{Route européenne|54}} {{Autoroute française|A105}} à [[Vert-Saint-Denis]] <br /> {{Route européenne|511}} {{Autoroute française|A19}} à [[Cuy (Yonne)|Cuy]] <br /> {{Route européenne|17}} {{Autoroute française|A26}} à [[Verrières (Aube)|Verrières]]
+ | régions               = [[Île-de-France]], [[Bourgogne-Franche-Comté]], [[Grand Est]]
+ | départements= [[Essonne (département)|Essonne]], [[Seine-et-Marne]], [[Yonne (département)|Yonne]], [[Aube (département)|Aube]] et [[Haute-Marne]]
+ | nb_reg                = 3
+ | nb_dep                = 5
+ | nom_notes             = 
+|ouverture         = 1983 à 1994
+|réseau            = Autoroute française, également {{Route européenne|17}}, {{Route européenne|54}}, {{Route européenne|511}}
+| concessionnaire= [[Autoroutes Paris-Rhin-Rhône|APRR]]
+}}
+{{maplink|frame=yes|plain=yes|frame-width=290|frame-height=360|frame-align=right|type=line|stroke-width=2| |stroke-color=#0000C0| id= }}
+L''''autoroute A5''' est une [[autoroute]] [[France|française]] qui relie le sud-est de la région [[Île-de-France]], près de [[Tigery]] ([[Essonne (département)|Essonne]]) au plateau de [[Langres]], en {{unité|238|km}}. Elle a été construite à partir de [[1990]] pour désengorger l'[[Autoroute A6 (France)|A6]].
+
+[[Autoroute]] à péage, elle est concédée aux Autoroutes Paris-Rhin-Rhône ([[Autoroutes Paris-Rhin-Rhône|APRR]]).
+
+Les routes européennes [[Route européenne 54|E54]], [[Route européenne 511|E511]] et [[Route européenne 17|E17]] passent par l'A5. Avant que l'A5 ne rejoigne [[Troyes]], la section entre [[Troyes]] et [[Langres]] s'appelait [[Autoroute A26 (France)|A26]].
+
+La section [[Sens (Yonne)|Sens]]-[[Troyes]] fait partie du [[grand contournement de Paris]].
+
+== Historique ==
+
+* [[1983]] : jonction Beauchemin - Semoutiers de {{unité|21|km}} (sous le nom de A 26) ;
+* [[1990]] : mise en service de la section Troyes-Semoutiers de {{unité|77|km}}  (sous le nom de A 26) ;
+* {{date|22 octobre 1993}} : mise en service de la section Melun-Sens de {{unité|56.6|km}} ;
+* {{date|22 octobre 1993}} : mise en service de la section A160-A5 (Sens)-[[Route nationale 6 (France métropolitaine)|RN6]] de {{unité|4.4|km}} (future [[Autoroute A19 (France)|A19]]) ;
+* {{date|24 novembre 1994}} : mise en service de la section Sens-Troyes de {{unité|67.8|km}} ;
+* {{date|24 novembre 1994}} : mise en service du raccordement Nord à la Francilienne/A5b de {{unité|14.4|km}} (future A105) ;
+* {{date|30 juin 1995}} : mise en service du raccordement Ouest à la Francilienne/A5a de {{unité|10.9|km}}<ref>{{PDF}} [http://www.developpement-durable.gouv.fr/IMG/pdf/Autoroute_A5_La_Francilienne_-_Troyes.pdf Avis du Conseil Général des Ponts et Chaussées sur le bilan LOTI de l'autoroute A 5 (section La Francilienne - Troyes)]</ref>.
+
+Les numérotations '''A5a''' et '''A5b''' sont encore utilisées de nos jours sur tous les panneaux de signalisation.
+
+== Projet de prolongement jusqu'à la Suisse ==
+{{section à actualiser|date=janvier 2026}}
+Le projet de la réalisation de la continuation naturelle de l'A5 au-delà de Langres en direction de la [[Suisse]] et de [[Mulhouse]] en concédant un tronçon à péage appelé pour l'instant [[Autoroute A319 (France)|A319]] et aboutissant à [[Vesoul]] est pour l'instant en suspens et n'aura que peu de chance d'avoir lieu dans un futur proche. "'''A319 Langres-Vesoul :''' Dans les cartons depuis plusieurs décennies, jugée non prioritaire par la Commission mobilité 21 et le COI, et écartée par la ministre des transports d’alors, Elisabeth Borne, l’A319 n’a plus beaucoup de chances d’aboutir."<ref>{{Article|langue=fr|titre=Où en sont les différents projets autoroutiers en France ?|périodique=Le Monde|date=2023-10-16|lire en ligne=https://www.lemonde.fr/les-decodeurs/article/2023/10/16/ou-en-sont-les-differents-projets-autoroutiers-en-france_6194829_4355770.html|consulté le=2026-01-04}}</ref>.
+
+== Parcours ==
+=== A5a ===
+'''Section concédée à [[Autoroutes Paris-Rhin-Rhône|APRR]] et gratuite.'''
+* '''{{Échangeur autoroutier|[[Fichier:SU4 - Rocade France.svg|22x22px]] [[Francilienne]] ([[Route nationale 104 (France)|RN 104]])|A5a}}''' à {{unité|0|km}} : ''[[Fichier:France road sign C207.svg|22x22px]] [[Autoroute A13 (France)|A13]]'', [[Paris]] - ''sud'' ([[Autoroute A6 (France)|A6]]), [[Évry-Courcouronnes]], [[Corbeil-Essonnes]], [[Saint-Pierre-du-Perray]], [[Tigery]] ; ''[[Fichier:France road sign C207.svg|22x22px]] [[Autoroute A1 (France)|A1]] - [[Autoroute A4 (France)|A4]]'', ''[[Marne-la-Vallée]]'', [[Créteil]], [[Combs-la-Ville]], ''[[File:France road sign ID35.svg|15px|alt]] Parc de PariSud''
+** [[Fichier:France road sign C207.svg|24x24px]] [[Fichier:Panneau-C24a.svg|22x22px]] [[Fichier:France road sign B14 (110).svg|22x22px]] Début de l'autoroute A5a, début de {{dunité|2|3|voies}} et limitation à {{unité|110|km/h}}.
+''Passage du département de l'[[Essonne (département)|Essonne]] à celui de [[Seine-et-Marne]].''
+* {{Sortie|10a Centre Commercial}} à {{unité|2|km}} ''(demi-échangeur, depuis et vers Paris)'' : ''[[File:France road sign ID36.svg|15px|alt]] [[Centre commercial Carré Sénart|Carré Sénart]]''
+* {{Sortie|10b Sénart}} à {{unité|2,5|km}} : ''[[Carré Sénart]]'', [[Savigny-le-Temple]] - ''Plessis-le-Roi''
+* {{Sortie|10c Lieusaint}} à {{unité|2,5|km}} : [[Moissy-Cramayel]], [[Lieusaint (Seine-et-Marne)|Lieusaint]]
+* {{Sortie|11 Savigny-le-Temple}} à {{unité|4|km}} ''(demi-échangeur, depuis et vers Paris)'' : Savigny-le-Temple - ''centre''
+* {{Sortie|12 Arvigny}} à {{unité|5|km}} ''(demi-échangeur, depuis et vers Paris)'' : Savigny-le-Temple - ''Parc d'Activités'', [[Cesson]], [[Vert-Saint-Denis]] - ''centre''
+* {{Sortie|13 Plessis-Picard}} à {{unité|9|km}} ''(demi-échangeur, depuis et vers Langres)'' : Cesson, Vert-Saint-Denis, Savigny-le-Temple, [[Réau]]  + {{Aire de service|du Plessis-Picard - Ourdy|Langres – Paris}} ''(sortie de l'autoroute impossible depuis l'aire de service)''
+''La sortie {{Sortie|14}} se situe sur l'autoroute A105.''
+* '''{{Échangeur autoroutier|A105 (RN 105)|A5a}}''' ''(demi-échangeur, depuis et vers Paris)'' : [[Melun]], [[Montereau-Fault-Yonne]], ''[[File:France road sign ID35.svg|15px|alt]] Vert-Saint-Denis''
+''Fin de l'autoroute A5a. Début de l'autoroute A5.''
+
+=== A5 ===
+'''Section concédée à [[Autoroutes Paris-Rhin-Rhône|APRR]] et payante.'''
+* '''{{Échangeur autoroutier|A105|A5}}''' ''(demi-échangeur, depuis et vers Langres)'' : Lille (A1), Paris (A4), ''Marne-la-Vallée'', Combs-la-Ville, Moissy-Cramayel, Réau
+* {{Péage|Péage des Eprunes (à système fermé)}}
+** [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à {{unité|130|km/h}}.
+''Début de la section parallèle avec la [[LGV Sud-Est]] (LGV Paris – Lyon).''
+* {{Sortie|15 Saint-Germain-Laxis}} à {{unité|18|km}} : [[Meaux]], [[Fontenay-Trésigny]], ''[[File:France road sign ID16a.svg|15px|alt]] [[Château de Vaux-le-Vicomte|Vaux-le-Vicomte]]'', [[Saint-Germain-Laxis]]
+* {{Sortie|16 Châtillon-la-Borde}} à {{unité|26|km}} : Melun, [[Provins]], [[Nangis]], [[Le Châtelet-en-Brie]], [[Châtillon-la-Borde]]
+** {{Aire de repos|des Jonchets - La Grande Paroisse|Paris – Langres|Jonchets - Les Récompenses|Langres – Paris}}
+* {{Sortie|17 Forges}} à {{unité|43|km}} : Montereau-Fault-Yonne - ''centre'', [[Nangis]], [[Champagne-sur-Seine]], [[Forges (Seine-et-Marne)|Forges]]
+* {{Sortie|18 Marolles-sur-Seine}} à {{unité|51|km}} : [[Fontainebleau]], Montereau-Fault-Yonne - ''centre, Z. I.'', [[Nogent-sur-Seine]], [[Bray-sur-Seine]], [[Marolles-sur-Seine]]
+** [[Fichier:France road sign C28-2.svg|20x20px]] Réduction à {{dunité|2|2|voies}}.
+** {{Aire de repos|des Rasets|Paris – Langres|de Gravon|Langres – Paris}}
+''Passage du département de [[Seine-et-Marne]] à celui de l'[[Yonne (département)|Yonne]].<br /> Passage de la région [[Île-de-France]] à celui de la [[Bourgogne-Franche-Comté]].''
+* [[Fichier:Panneau-C24a.svg|22x22px]] Début de {{dunité|2|3|voies}}.
+''Fin de la section parallèle avec la LGV Sud-Est à {{unité|62|km}}.''
+* [[File:France road sign C24b-2.svg|22x22px]] Réduction à {{dunité|2|2|voies}}.
+* '''{{Échangeur autoroutier|[[Autoroute A19 (France)|A19]]|A5}}''' à {{unité|72|km}} : [[Orléans]] ([[Autoroute A10 (France)|A10]]), [[Lyon]] (A6), [[Sens (Yonne)|Sens]]
+** {{Aire de repos|de Montard|Paris – Langres|de Montaphilant|Langres – Paris}}
+** {{Aire de service|de Villeneuve l'Archevêque|Paris – Langres|de Villeneuve Vauluisant|Langres – Paris}}
+* {{Sortie|19 Vulaines}} à {{unité|97|km}} : Nogent-sur-Seine, [[Saint-Florentin (Yonne)|Saint-Florentin]], [[Romilly-sur-Seine]], [[Aix-Villemaur-Pâlis]], [[Villeneuve-l'Archevêque]]
+''Passage du département de l'[[Yonne (département)|Yonne]] à celui de l'[[Aube (département)|Aube]].<br /> Passage de la région [[Bourgogne-Franche-Comté]] à celui [[Grand Est]].''
+[[Fichier:2007.8.15 A5.jpg|vignette|Autoroute A5 à la sortie {{Sortie|21}}.]]
+* {{Aire de repos|des Tomelles|Paris – Langres|de Fontvannes|Langres – Paris}}
+* {{Sortie|20 Torvilliers}} à {{unité|123|km}} : [[Troyes]] - ''centre'', [[Sainte-Savine]], Romilly-sur-Seine, Aix-Villemaur-Pâli
+** {{Aire de repos|de Saint-Pouange|Paris – Langres|La Coloterie|Langres – Paris}}
+* {{Sortie|21 Saint-Thibault}} à {{unité|139|km}} : [[Auxerre]], [[Troyes]] - ''centre, sud'', [[Tonnerre (Yonne)|Tonnerre]], [[Saint-Julien-les-Villas]], [[Saint-Thibault (Aube)|Saint-Thibault]]
+* '''{{Échangeur autoroutier|[[Autoroute A26 (France)|A26]]|A5}}''' : Lille (A1), [[Metz]] (A4), [[Reims]], [[Châlons-en-Champagne]], [[Saint-Dizier]], Troyes - ''est''
+** {{Aire de service|de Troyes - Fresnoy|Paris – Langres|Troyes - Le Plessis|Langres – Paris}}
+* {{Sortie|22 Magnant}} à {{unité|164|km}} : [[Châtillon-sur-Seine]], [[Bar-sur-Seine]], [[Bar-sur-Aube]], [[Brienne-le-Château]], [[Vendeuvre-sur-Barse]], ''[[File:France road sign ID16a.svg|15px|alt]] [[Parc naturel régional de la Forêt d'Orient|Forêt d'Orient]]''
+** {{Aire de repos|de Mondeville|Paris – Langres|de Champignol|Langres – Paris}}
+* {{Sortie|23 Ville-sous-Laferté}} à {{unité|193|km}} : [[Châteauvillain]], [[Colombey les Deux Églises]], Châtillon-sur-Seine, Bar-sur-Aube
+''Passage du département de l'[[Aube (département)|Aube]] à celui de la [[Haute-Marne]].''
+* {{Aire de service|de Châteauvillain - Val Marnay|Paris – Langres|de Châteauvillain - Orges|Langres – Paris}}
+* {{Sortie|24 Chaumont-Semoutiers}} à {{unité|215|km}} : Saint-Dizier, [[Chaumont (Haute-Marne)|Chaumont]], Châteauvillain, [[Arc-en-Barrois]], [[Semoutiers-Montsaon]]
+** {{Aire de repos|du Bois-Moyen|Paris – Langres|du Champ à la Croix|Langres – Paris}}
+* '''{{Échangeur autoroutier|[[Autoroute A31 (France)|A31]]|A5}}''' à {{unité|234|km}} : Lyon (A6), [[Besançon]] ([[Autoroute A39 (France)|A39]]), [[Dijon]], [[Metz]]-[[Nancy]], [[Vesoul]], [[Langres]]
+''Fin de l'autoroute A5 devient l'autoroute A31.''
+
+=== Autoroute A105 (ou A5b) ===
+[[Fichier:Panneau vers la fin de l'autoroute.jpg|vignette|redresse|Panneau vers la fin de l'autoroute A105.]]
+L'A105 est une autoroute reliant la RN 104 au nord de [[Melun]]. Elle est longue de {{unité|9,5|km}}.
+
+'''Section concédée à [[Autoroutes Paris-Rhin-Rhône|APRR]] et gratuite.'''
+* '''{{Échangeur autoroutier|[[Route nationale 104 (France)|RN 104]]|A105}}''' à {{unité|0|km}} : [[Paris]] ([[Autoroute A4 (France)|A4]]), [[Lille]] ([[Autoroute A1 (France métropolitaine)|A1]]), ''[[Marne-la-Vallée]]'', [[Brie-Comte-Robert]] ; ''[[Fichier:France road sign C207.svg|22x22px]] [[Autoroute A6 (France)|A6]] - [[Autoroute A10 (France)|A10]]'', [[Évry-Courcouronnes]], [[Corbeil-Essonnes]], ''[[Carré Sénart]]'', [[Savigny-le-Temple]], [[Lieusaint (Seine-et-Marne)|Lieusaint]], [[Combs-la-Ville]], ''[[File:France road sign ID35.svg|15px|alt]] Parc de PariSud''
+** [[Fichier:France road sign C207.svg|24x24px]] [[Fichier:Panneau-C24a-2.svg|22x22px]] [[Fichier:France road sign B14 (110).svg|22x22px]] Début de l'autoroute A105, début en {{dunité|2|2|voies}} et limitation à {{unité|110|km/h}}.
+* {{Sortie|11 Évry-Grégy-sur-Yerre}} à {{unité|1.5|km}} ''(demi-échangeur, depuis et vers RN 104)'' : [[Évry-Grégy-sur-Yerre]] 
+* {{Sortie|12 Moissy-Cramayel}} à {{unité|3|km}} : [[Provins]], [[Moissy-Cramayel]], Évry-Grégy-sur-Yerre, [[Guignes]]
+* {{Sortie|13 Réau}} à {{unité|5|km}} : [[Réau]], ''Centre aéronautique'', ''Centre routier (observé par vidéosurveillance)'' + {{Aire de service|de Galande}} 
+** [[Fichier:Panneau-C24a.svg|22x22px]] Passage à {{dunité|2|3|voies}}.
+* '''{{Échangeur autoroutier|A5|A105}}''' ''(demi-échangeur, depuis et vers RN 104)'' : [[Montereau-Fault-Yonne]], [[Troyes]], [[Lyon]]
+* '''{{Échangeur autoroutier|A5a|A105}}''' ''(demi-échangeur, depuis et vers Melun)'' : Évry-Courcouronnes, Paris (A6), Savigny-le-Temple, Lieusaint, ''Carré Sénart''
+* {{Sortie|14 Vert-Saint-Denis}} à {{unité|10|km}} : [[Voisenon (Seine-et-Marne)|Voisenon]], [[Cesson]], [[Vert-Saint-Denis]], [[Pouilly-le-Fort]]
+** [[Fichier:Panneau-C24a-2.svg|22x22px]] Passage à {{dunité|2|2|voies}}.
+** [[Fichier:France_road_sign_C107.svg|22x22px]] [[Fichier:France_road_sign_C208.svg|22px]] ''Fin de l'autoroute A105 et devient la [[Route nationale 105 (France)|route nationale 105]], début de la route à accès réglementée.''
+** [[Fichier:France_road_sign_C108.svg|22x22px]] [[Fichier:France road sign B14 (90).svg|22x22px]] {{unité|500|m}} avant la fin de route à accès réglementée et limitation à {{Unité|90|km/h}}.
+** [[Fichier:France_road_sign_C108.svg|22x22px]] [[Fichier:France road sign B14 (70).svg|22x22px]] {{unité|400|m}} avant la fin de route à accès réglementée et limitation à {{Unité|70|km/h}}.
+** [[Fichier:France_road_sign_C108.svg|22x22px]] Fin de route à accès réglementée et fin de la [[Route nationale 105 (France)|route nationale 105]].
+** [[Fichier:France road sign AB25.svg|23x23px]] Avant giratoire.
+* '''{{Carrefour giratoire|RD 605|RD 1605|RN 105}}''' à {{unité|12.5|km}} :
+** RD 605 : [[Fontainebleau]], [[Melun]] - ''centre, Gare'', [[Le Mée-sur-Seine]], Melun - Champ de Foire
+** RD 1605 : Troyes (A5), [[Montereau-sur-le-Jard]], [[Rubelles]], (RD 605) [[Vaux-le-Pénil]]
+
+== Lieux sensibles ==
+Il n'existe pas de bouchons mais des ralentissements se produisent parfois avant d'arriver sur la [[Francilienne]]. Des bouchons peuvent survenir lors des week-ends de soldes à la sortie {{n°}}20 Troyes-ouest, entre l'autoroute et le péage.
+
+== Notes et références ==
+{{Références}}
+
+== Voir aussi ==
+{{Autres projets|commons=Category:A5 autoroute|commons titre=L'autoroute A5}}
+=== Articles connexes ===
+* Projet de prolongement à l'est par l'[[Autoroute A319 (France)|Autoroute A319]]
+* [[Liste des autoroutes de France]]
+* [[Route européenne 17]]
+* [[Route européenne 54]]
+* [[Route européenne 511]]
+
+=== Liens externes ===
+* [http://www.aprr.fr/ APRR, site officiel]
+* [http://saratlas.free.fr/index.php?page=route&route=a5&lang=fr L'Autoroute A5 dans Saratlas]
+* [http://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A5 Fiche autoroutière de l'A5 sur WikiSara]
+* [http://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A105 Fiche autoroutière de l'A105 sur WikiSara]
+
+{{Palette Autoroutes de France}}
+{{Portail|route|transports en Île-de-France|Seine-et-Marne|Yonne|Aube|Haute-Marne}}
+
+[[Catégorie:Autoroute en Île-de-France|005]]
+[[Catégorie:Autoroute en Bourgogne-Franche-Comté|005]]
+[[Catégorie:Autoroute dans le Grand Est|005]]

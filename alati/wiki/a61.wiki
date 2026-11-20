@@ -1,0 +1,132 @@
+{{Voir homonymes|A61}}
+{{Infobox Route/France
+|statut=A
+|numéro=61
+|autres_noms       = L'Autoroute des Deux-Mers (avec l'A62)
+|image             = Autoroute-BarriereDePeage-ToulouseSud.JPG
+|légende           = Barrière de péage de Toulouse-sud.
+|carte             = France A6X A61.svg
+|longueur          = 148
+|direction         = nord-ouest / sud-est
+|dir1              = nord-ouest 
+|dir2              = sud-est
+|ville1            = {{Route européenne|9}} {{Autoroute française|A62}} {{Autoroute française|A68}} à [[Toulouse]]
+|ville2            = {{Route européenne|15}} {{Route européenne|80}} {{Autoroute française|A9}} à [[Narbonne]]
+|villes_principales= [[Toulouse]], [[Castanet-Tolosan]], [[Montgiscard]], [[Villefranche-de-Lauragais]], [[Castelnaudary]], [[Bram]], [[Carcassonne]], [[Lézignan-Corbières]], [[Narbonne]]
+|intersections     = {{Route européenne|80}} {{Autoroute française|A620}} à [[Toulouse]]<br /> {{Route européenne|9}} {{Autoroute française|A66}} à [[Vieillevigne (Haute-Garonne)|Vieillevigne]]
+|ouverture         = [[1978]]
+|réseau            = Autoroute française, également {{Route européenne|9}} {{Route européenne|80}}
+ | régions        = [[Occitanie (région administrative)|Occitanie]]
+ | départements   = [[Haute-Garonne]] et [[Aude (département)|Aude]] 
+ | nb_reg         = 1
+ | nb_dep         = 2
+| concessionnaire = [[Autoroutes du Sud de la France|ASF]]
+| nom_notes      = 
+}}
+
+L''''autoroute A61''' est une [[Liste des autoroutes de France|autoroute]] qui constitue la composante est de l'[[Autoroute des Deux Mers]]. Elle relie [[Narbonne]] (via une jonction sur l'[[Autoroute A9 (France)|A9]]) à [[Toulouse]], où elle se raccorde à l'[[Autoroute A62 (France)|A62]] vers [[Bordeaux]], l'[[Autoroute A64 (France)|A64]] vers [[Bayonne]] et l'[[Autoroute A68 (France)|A68]] vers [[Albi]] par le [[périphérique de Toulouse]].
+
+Payante sur la quasi-totalité de son parcours, elle est exploitée par la société [[Autoroutes du Sud de la France|ASF]]. Elle est à {{dunité|2|2|voies}} sur plus de la moitié de son parcours. Elle a été élargie à {{dunité|2|3|voies}} entre [[Toulouse]] et l'aire de Port-Lauragais ainsi qu'entre [[Lézignan-Corbières]] et la bifurcation avec l'[[Autoroute A9 (France)|A9]].<br>
+Une enquête publique se déroulant du {{date-|16 avril}} au {{date-|24 mai 2018}} concerne son élargissement jusqu'à l'A9.
+
+[[Radio Vinci Autoroutes|Radio VINCI Autoroutes]] (107.7FM) fonctionne sur l'A61 secteur [[Autoroutes du Sud de la France|ASF]].
+
+== Parcours ==
+[[File:Carcassonne depuis l'A61.jpg|thumb|300px|Vue de Carcassonne depuis l'aire du Belvédère De La Cité.]]
+''Particularité : Sur les bornes kilométriques figurent le cumul avec le kilométrage de l'autoroute A62, ainsi la première borne kilométrique de l'autoroute est au km 231''<ref>{{Lien web |langue=fr-US |titre=Emplacement (Google Maps) de la borne A61 km 231 sous le pont de la route d'Agde (Toulouse) |url=https://www.google.com/maps/place/43%C2%B037'38.0%22N+1%C2%B028'44.3%22E/@43.6275494,1.4792042,18.5z/ |site=Google Maps |consulté le=2025-01-29}}</ref> ''et la dernière au km 377 (échangeur A9).''
+
+'''Section concédée à [[Autoroutes du Sud de la France|ASF]] et payante (sauf entre le périphérique de Toulouse).'''<br/>
+Fin de l'A62 depuis : [[Bordeaux]] ([[Autoroute A62 (France)|A62]]), [[Paris]], [[Montauban]] ([[Autoroute A20 (France)|A20]]), [[File:France road sign B8.svg|15px|alt]] '''(7,5t)''' [[Albi]], [[Auch]], ''[[Fichier:France road sign ID2.svg|15px|alt]] [[aéroport de Toulouse-Blagnac|Blagnac]]'', [[Toulouse]] - ''nord, [[Quartier Croix-Daurade|Croix-Daurade]]''.
+* '''{{échangeur autoroutier|[[Autoroute A68 (France)|A68]] ([[Image:Péage.png|30 px]])|[[Fichier:SU4 - Rocade France.svg|22x22px]] [[Périphérique de Toulouse|Périphérique Est de Toulouse (A61 / A62)]]}}''' à {{unité|230|km}} : [[Albi]], [[Castres]] - [[Mazamet]], [[Lavaur (Tarn)|Lavaur]] ([[Autoroute A69 (France)|A69]]) 
+** [[Fichier:Panneau-C24a.svg|22x22px]] [[Fichier:France road sign B14 (90).svg|22x22px]] Début de l'autoroute A61, début de {{dunité|2|3|voies}} et limitation à {{unité|90|km/h}}.
+* {{Sortie|15 ''[[Gramont (Balma)|Gramont]]''}} à {{unité|231|km}} : [[File:France road sign B8.svg|15px|alt]] '''7,5t''' Lavaur, [[Montrabé]], ''[[File:France road sign ID1b.svg|15px|alt]] [[Argoulets (métro de Toulouse)|Métro]]''
+* {{Sortie|16 [[Balma]]}} à {{unité|233|km}} : Toulouse - ''centre, [[File:France road sign ID12a.svg|15px|alt]] [[Gare de Toulouse-Matabiau|Matabiau]], [[Médiathèque José-Cabanis|médiathèque]]''
+* {{Sortie|17 Lasbordes}} à {{unité|235|km}} : Castres - Mazamet, [[Quint-Fonsegrives]]
+* (en projet)<ref>{{Lien web |titre=A61 - Création de l'échangeur de la Jonction-Est |url=https://www.autoroutes-miditoulousain.com/amenager-lautoroute/jonction-est/ |site=Autoroutes Midi Toulousain |consulté le=2024-07-25}}</ref> {{Sortie|17.1 [[Cité de l'espace]]}} : Quint-Fonsegrives
+* {{Sortie|18 ''[[Montaudran]]''}} à {{unité|237|km}} : [[Saint-Orens-de-Gameville]], [[Revel (Haute-Garonne)|Revel]]
+* '''{{échangeur autoroutier|[[Fichier:SU4 - Rocade France.svg|22x22px]] [[Périphérique de Toulouse|Périphérique de Toulouse (A620 - Ouest / A61 - Est)]]|A61}}''' + {{Sortie|19/19a/19b Le Palays}} '''(''[[Échangeur du Palays]]'')''' à {{unité|239|km}} : 
+** ''Périphérique Ouest (A620)'' : [[Tarbes]] - [[Lourdes]] ([[Autoroute A64 (France)|A64]]), [[Foix]], ''[[File:France road sign ID2.svg|15px|alt]] Blagnac'', Toulouse - ''centre, ouest, [[Pont des Demoiselles]]'' 
+** {{Sortie|19/19a/19b}} : ''[[Lespinet]]'', [[Carcassonne]], [[Labège]], [[Castanet-Tolosan]], [[Ramonville-Saint-Agne]], ''Parc Technologique du Canal, Parc d'Activités du Palays, [[File:France road sign ID1b.svg|15px|alt]] [[Ramonville (métro de Toulouse)|Métro]], [[File:France road sign ID3.svg|15px|alt]] [[Hôpital de Rangueil|Rangueil]] - [[Hôpital Larrey|Larrey]]''
+Fin de la partie appartenant au '''[[Périphérique de Toulouse|Périphérique Est de Toulouse]]'''
+* {{Péage|Péage de Toulouse-Sud (à système fermé)}}
+** [[Fichier:France_road_sign_B14_(130).svg|20px]] Limitation à 130 km/h.
+** {{Aire de service|de Toulouse-Sud}}
+* {{Sortie|19.1 Montgiscard}} à {{unité|250|km}} : Castanet-Tolosan, [[Escalquens]], [[Montgiscard]], [[Baziège]], ''Parcs d'activités Sicoval Sud''
+** {{Aire de repos|d’Ayguesvives|Toulouse-Narbonne|de Baziège|Narbonne-Toulouse}}
+* '''{{échangeur autoroutier|[[Autoroute A66 (France)|A66]]|A61}}''' à {{unité|260|km}} : [[Andorre]], Foix, [[Pamiers]], [[Nailloux]]
+* {{Sortie|20 Villefranche-de-Lauragais}} à {{unité|264|km}} : [[Auterive (Haute-Garonne)|Auterive]], Lavaur, Revel, [[Villefranche de Lauragais]]
+** {{Aire de repos|de Renneville|Toulouse-Narbonne|de Villefranche-de-Lauragais|Narbonne-Toulouse}}
+** [[Fichier:France_road_sign_B14_(110).svg|20px]] Limitation à 110 km/h.
+** {{Aire de service|de Port-Lauragais}} ''(aires accessibles entre elles par un passage routier inférieur à l'autoroute)'' 
+** [[Fichier:France road sign C28-2.svg|20x20px]] Rétrécissement à {{dunité|2|2|voies}}
+** [[Fichier:France_road_sign_B14_(130).svg|20px]] Limitation à 130 km/h.
+Passage du département de la [[Haute-Garonne]] à celui de l'[[Aude (département)|Aude]]
+* {{Sortie|21 Castelnaudary}} à {{unité|288|km}} : Castres, [[Mazères (Ariège)|Mazères]], Revel, [[Castelnaudary]]
+** {{Aire de repos|de Mireval|Toulouse-Narbonne|de Castelnaudary|Narbonne-Toulouse}}
+* {{Sortie|22 Bram}} à {{unité|301|km}} : Foix, [[Limoux]], [[Mirepoix (Ariège)|Mirepoix]], [[Bram]]
+** {{Aire de repos|de Montréal|Toulouse-Narbonne|de Bram|Narbonne-Toulouse}}
+** {{Aire de service|de Carcassonne-Arzens}}
+* {{Sortie|23 Carcassonne - ''ouest''}} à {{unité|319|km}} : Mazamet, Carcassonne - ''centre, Z. I.'', Limoux
+** {{Aire de repos|du Belvédère de la Cité|Toulouse-Narbonne|du Belvédère d'Auriac|Narbonne-Toulouse}} 
+* {{Sortie|24 Carcassonne - ''est''}} à {{unité|329|km}} : Carcassonne - ''centre, La Cité'', [[Trèbes]]
+** {{Aire de service|des Corbières}}
+** {{Aire de repos|de Fontcouverte|Toulouse-Narbonne|de La Peyrière|Narbonne-Toulouse}}
+* {{Sortie|25 Lézignan-Corbières}} à {{unité|357|km}} : [[Lézignan-Corbières]], [[Fabrezan]]
+** [[Fichier:Panneau-C24a.svg|20x20px]] Passage à {{dunité|2|3|voies}}.
+** {{Aire de repos|de Bizanet}}
+** {{Aire de repos|de Narbonne-Jonquières|Toulouse-Narbonne|de Pech Loubat|Narbonne-Toulouse}}
+** [[Fichier:France_road_sign_B14_(110).svg|20px]] Limitation à 110 km/h.
+** [[Fichier:France_road_sign_B14_(90).svg|20px]] Limitation à 90 km/h.
+* '''{{échangeur autoroutier|[[Autoroute A9 (France)|A9]]|A61}}''' à {{unité|377|km}} : [[Lyon]] ([[Autoroute A7 (France)|A7]]), [[Béziers]] ([[Autoroute A75 (France)|A75]]), [[Montpellier]], [[Narbonne]] ; [[Barcelone|Barcelone (Barcelona)]], [[Perpignan]]
+** [[Fichier:France road sign C208.svg|24x24px]] Fin de l'autoroute.
+
+== Lieux touristiques ==
+
+* [[Toulouse]] (Place du Capitole, Cité de l'Espace)  
+* [[Castelnaudary]] (Cassoulet, canal du midi) 
+* [[Bram]] (village circulaire, canal du midi) 
+* [[Carcassonne]], [[cité de Carcassonne]] 
+* [[Corbières (AOC)]] 
+* [[Minervois (AOC)]] 
+* [[Abbaye de Fontfroide]] : accès par Narbonne-Sud (sortie 38 de l'[[Autoroute A9 (France)|A9]]) ou Lézignan (sortie 25)
+* [[Narbonne]], à l'issue de l'autoroute
+* [[Canal du Midi]] : Le canal est parallèle à l'autoroute
+
+== Territoires traversés ==
+
+Région :
+* [[Occitanie (région administrative)|Occitanie]]
+
+Départements :
+* [[Haute-Garonne]] 
+* [[Aude (département)|Aude]]
+{{clr}}
+
+== Lieux sensibles ==
+* Contournement de Carcassonne : fortes pentes (Montagne d'Alaric)
+* En arrivant sur Narbonne : fortes pentes
+* Péage de Toulouse-sud : des bouchons aux heures de pointe.
+
+== Galerie d’images ==
+
+== Références ==
+{{Références}}
+
+== Voir aussi ==
+=== Articles connexes ===
+* [[Autoroute A62 (France)]]
+* [[Liste des autoroutes de France]]
+* [[Route européenne 9]]
+* [[Route européenne 80]]
+
+=== Liens externes ===
+{{Liens}}
+* [http://saratlas.free.fr/index.php?page=autoroute&route=a61&lang=fr Autoroute A61 dans Saratlas]
+* [http://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A61 L'A61 sur WikiSara]
+
+{{Palette Autoroutes de France}}
+
+{{Portail|route|Aude|Haute-Garonne}}
+
+[[Catégorie:Autoroute en région Occitanie|061]]
+[[Catégorie:Autoroute à Toulouse|061]]

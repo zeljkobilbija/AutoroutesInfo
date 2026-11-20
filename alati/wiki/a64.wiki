@@ -1,0 +1,187 @@
+{{Voir homonymes|A64}}
+{{Infobox Route/France|statut=A|numéro=64
+|autres_noms       = La Pyrénéenne<br>[[Route européenne 80]]
+|image             = A64.E80 FRA vue1.JPG
+|légende           = Sortie 13 vers [[Tarbes]] Est dans le sens Bayonne → Toulouse.
+|carte             = France A6X A64.svg
+|longueur          = 287
+|direction         = ouest / nord-est
+|dir1              = ouest
+|dir2              = nord-est
+|ville1            = {{Route européenne|5}} {{Route européenne|70}} {{Route européenne|80}} {{Autoroute française|A63}} à [[Saint-Pierre-d'Irube]]
+|ville2            = {{Route européenne|80}} {{Autoroute française|A620}} à [[Toulouse]]
+|villes_principales= [[Toulouse]], [[Saint-Gaudens]], [[Tarbes]], [[Pau]], [[Orthez]], [[Bayonne]]
+|intersections     = {{Autoroute française|A641}} ({{sortie|6}}) à [[Oeyregave]]<br /> {{Route européenne|7}}{{autoroute française|A65}} à [[Lescar]] <br />{{Autoroute française|A645}} ({{sortie|17}}) à [[Ponlat-Taillebourg]]
+|ouverture         = à partir de [[1977]]
+|réseau            = [[Liste des autoroutes de France|Autoroute française]], également {{Route européenne|7}} {{Route européenne|80}} 
+ | régions        = [[Nouvelle-Aquitaine]] et [[Occitanie (région administrative)|Occitanie]]
+ | départements   = [[Haute-Garonne]], [[Hautes-Pyrénées]], [[Pyrénées-Atlantiques]] et [[Landes (département)|Landes]]
+ | nb_reg         = 2
+ | nb_dep         = 4
+|concessionnaire   = [[Autoroutes du Sud de la France|ASF]] (entre Bayonne et Martres-Tolosane ; Muret et Toulouse)
+|gestionnaire      = [[Direction interdépartementale des Routes#Direction interdépartementale des Routes Sud-Ouest|DIR Sud-Ouest]] (entre Martres-Tolosane et Muret)
+| nom_notes      = 
+}}
+{{maplink|frame=yes|plain=yes|frame-width=290|frame-height=360|frame-align=right|type=line|stroke-width=2| |stroke-color=#0000C0| id= }}
+L’'''autoroute A64''' ('''La Pyrénéenne''' ou '''[[Route européenne 80|E80]]''' sous son appellation européenne) est une [[Liste des autoroutes de France|autoroute]] à péage sur une partie de son tracé. Orientée est-ouest, elle relie [[Toulouse]] à [[Bayonne]] ''via'' [[Tarbes]] et [[Pau]]. 
+
+Sa longueur est d'environ {{unité|287|km}} à {{dunité|2|2|voies}} de Bayonne au péage de Muret et {{dunité|2|3|voies}} du péage de Muret au périphérique toulousain dont une très courte section à {{dunité|2|4|voies}} à l'approche du périphérique toulousain. Elle double la route départementale 817 (ancienne [[route nationale 117]]).
+
+Elle est concédée à [[Autoroutes du Sud de la France|ASF]] sauf la section entre la sortie 22 et la sortie 35 gérée par la DIR Sud-Ouest.
+
+[[Radio Vinci Autoroutes|Radio VINCI Autoroutes]] (107.7FM) fonctionne sur l'A64 secteur ASF.
+
+== Historique ==
+{{Section vide ou incomplète}}
+En [[2004]], l'ensemble des {{Unité|1800|[[platane]]s}} situés entre [[Muret (Haute-Garonne)|Muret]] et [[Martres-Tolosane]] est abattu, la [[Direction départementale de l'Équipement|DDE]] justifiant alors un risque pour la sécurité<ref>{{Article|langue=fr|titre=HAUTE-GARONNE 1 800 arbres abattus sur l'A64|périodique=[[Le Moniteur (France)|Le Moniteur]]|date=22 octobre 2004|lire en ligne=https://www.lemoniteur.fr/article/haute-garonne-1-800-arbres-abattus-sur-l-a64.1881464|accès url=libre}}</ref>. Cette section de l'autoroute avait été construite par dessus la [[Route nationale 125 (France)|route nationale 125]] (devenue par la suite [[Route nationale 117|117]]) et les platanes avaient été conservés lors de la mise à {{dunité|2|2|voies}}<ref>[https://remonterletemps.ign.fr/telecharger?x=1.292465&y=43.404142&z=14&layer=GEOGRAPHICALGRIDSYSTEMS.PLANIGNV2&demat=DEMAT.PVA$GEOPORTAIL:DEMAT;PHOTOS&missionId=missions.6685339 Vue aérienne] du {{Date-|5 juin 1946}} de l'[[Institut national de l'information géographique et forestière|IGN]].</ref>.
+
+== Tracé ==
+L'autoroute A64 débute à [[Bayonne]], où elle permet une connexion avec l'[[Autoroute A63 (France)|A63]]. Auparavant, cette liaison était assurée par la [[Route départementale 1 (Pyrénées-Atlantiques)|RD 1]] entre [[Briscous]] et Bayonne, intégrée à la concession d'ASF au milieu des années 2010<ref name=":0">{{Lien web|prénom1=Pierre|nom1=Sabathié|titre=Pays basque : la route reliant Bayonne et Briscous devient autoroute|url=https://www.sudouest.fr/2015/11/02/de-la-route-a-l-autoroute-2172839-4018.php|site=SudOuest.fr|consulté le=2015-11-29}}</ref>. L'[[échangeur de Mousserolles]] avec l'A63 a été mis en service en {{date-|juin 2011}}, dans le cadre de la mise à {{dunité|2|3|voies}} de cette autoroute.
+Elle traverse ensuite le sud-ouest de la France selon un axe globalement ouest–est, reliant le [[Pays basque]] et le [[Béarn]] à l'aire urbaine de [[Toulouse]]. Elle est reliée à l'[[Autoroute A65 (France)|A65]] à hauteur de [[Pau]], permettant une liaison vers l'[[Autoroute A62 (France)|A62]] (vers [[Bordeaux]]) via [[Mont-de-Marsan]].
+L'A64 se termine à [[Toulouse]], au niveau du [[Périphérique de Toulouse]], où elle est connectée aux autoroutes [[Autoroute A61 (France)|A61]] (vers [[Montpellier]] ([[Autoroute A9 (France)|A9]]) et vers [[Foix]] ([[Autoroute A66 (France)|A66]])), [[Autoroute A62 (France)|A62]] (vers Bordeaux et [[Paris]] ([[Autoroute A20 (France)|A20]])), [[Autoroute A68 (France)|A68]] (vers [[Albi]]), [[Autoroute A621 (France)|A621]] (vers [[Aéroport de Toulouse-Blagnac|Blagnac]]) et [[Autoroute A624 (France)|A624]] (vers [[Auch]]).
+
+== Sorties ==
+'''Section concédée à [[Autoroutes du Sud de la France|ASF]] et payante (sauf entre l'A63 à la sortie 4 et les sorties 20 à 22).'''
+* '''{{Échangeur autoroutier|[[Autoroute A63 (France)|A63]]|A64}} (''[[Échangeur de Mousserolles]]'')''' à {{unité|0|km}} : [[Bordeaux]], ''[[Bassin d'Arcachon]]'', [[Mont-de-Marsan]], [[Bayonne]] - ''Saint-Léon, Saint-Esprit'', [[Biarritz]], [[Saint-Sébastien (Espagne)|Saint-Sébastien (Donostia-San Sebastián)]], [[Bilbao]]
+** [[Fichier:France road sign C207.svg|24x24px]] [[Fichier:Panneau-C24a.svg|22x22px]] [[Fichier:France road sign B14 (90).svg|22x22px]] Début de l'autoroute, début de {{dunité|2|3|voies}} et limitation à {{unité|90|km/h}}.
+* {{Sortie|1 Bayonne - ''Mousserolles''}} à {{unité|1|km}} : Bayonne - ''centre'', [[Saint-Pierre-d'Irube]], [[Villefranque (Pyrénées-Atlantiques)|Villefranque]], ''Centre Européen de Fret''
+** [[Fichier:Panneau-C24a-2.svg|22x22px]] [[Fichier:France_road_sign_B14_(110).svg|22x22px]] Passage à {{dunité|2|2|voies}} et limitation à {{unité|110|km/h}}.
+* {{Sortie|1.1 Mouguerre - ''Bourg''}} à {{unité|3|km}} :  Villefranque, [[Mouguerre]]
+* {{Sortie|2 Mouguerre - ''Elizabery''}} à {{unité|7|km}} : [[Briscous]] - ''Les Salines'', Mouguerre
+* {{Sortie|3 Briscous}} à {{unité|11|km}} : Briscous - ''centre'', [[Cambo-les-Bains]], [[Hasparren]]
+* {{Sortie|4 Urt}} à {{unité|16|km}} : [[Urt]], [[Saint-Palais (Pyrénées-Atlantiques)|Saint-Palais]], [[Bidache]]
+* {{Sortie|5 Guiche}} à {{unité|23|km}} ''(demi-échangeur, depuis et vers Bayonne)'' : [[Guiche]]
+** [[Fichier:AB-Brücke.svg]] Pont sur [[Fichier:Panneau cours d'eau France.png|20px]] la [[Bidouze]].
+* {{Péage|Péage de Sames (à système fermé)}}
+** [[Fichier:France_road_sign_B14_(130).svg|22x22px]] Limitation à {{unité|130|km/h}}.
+** {{Aire de service|de Hastingues}} [[Fichier:A64 autoroute Aire d'Hastingues.JPG|vignette|Aire d'Hastingues.]]
+* {{Sortie|6 Peyrehorade}} '''({{Échangeur autoroutier|[[Autoroute A641 (France)|A641]]|A64}})''' à {{unité|35|km}} : [[Capbreton]], [[Soorts-Hossegor|Hossegor]], [[Saint-Vincent-de-Tyrosse]], Bidache, [[Peyrehorade]]
+** [[Fichier:AB-Brücke.svg]] Viaduc sur [[Fichier:Panneau cours d'eau France.png|20px]] la [[Gave d'Oloron]].
+(en projet) {{Sortie|6.1 Carresse-Cassaber / Sorde-l'Abbaye<ref>{{Lien web |titre=Projet de création d'un demi-échangeur à Carresse-Cassaber et Sorde-l'Abbaye |url=https://a64-amenagement.com/amenager-l-autoroute/projet-de-creation-dun-demi-echangeur-a-carresse-cassaber-et-sorde-labbaye/ |site=A64 |consulté le=2024-07-24}}</ref>}} ''(demi-échangeur, depuis et vers Bayonne)'' : [[Carresse-Cassaber]], [[Sorde-l'Abbaye]]
+* {{Sortie|7 Salies-de-Béarn}} à {{unité|50|km}} : [[Pampelune|Pampelune (Pamplona)]], [[Saint-Jean-Pied-de-Port]], [[Oloron-Sainte-Marie]], [[Mauléon-Licharre]], [[Salies-de-Béarn]]
+** [[Fichier:AB-Brücke.svg]] Viaduc sur [[Fichier:Panneau cours d'eau France.png|20px]] la [[Gave de Pau]]
+(en projet) {{Sortie|7.1 La Virginie<ref>{{Lien web |titre=Projet de création du demi-échangeur La Virginie |url=https://a64-amenagement.com/amenager-l-autoroute/projet-de-creation-du-demi-echangeur-la-virginie/ |site=A64 |consulté le=2024-07-24}}</ref>}} ''(demi-échangeur, depuis et vers Toulouse)'' : [[Dax]], [[Orthez]] - ''ouest''
+* {{Aire de repos|de Haut-de-Départ|Bayonne-Toulouse|de Magret|Toulouse-Bayonne}}
+* {{Sortie|8 Orthez - ''centre''}} à {{unité|66|km}} : Dax, Mont-de-Marsan, [[Hagetmau]], [[Lacq]], Orthez - ''Zone d'Activités''
+** [[Fichier:AB-Brücke.svg]] Viaduc sur [[Fichier:Panneau cours d'eau France.png|20px]] la [[Gave de Pau]].
+** {{Aire de service|de Lacq-Audéjos}}
+* {{Sortie|9 Artix}} à {{unité|85|km}} : [[Mourenx]], Lacq, [[Artix (Pyrénées-Atlantiques)|Artix]]
+* '''{{Échangeur autoroutier|[[Autoroute A65 (France)|A65]]|A64}}''' : Bordeaux ([[Autoroute A62 (France)|A62]]), [[Agen]], Mont-de-Marsan, [[Aire-sur-l'Adour]]
+* {{Sortie|9.1 Lescar}} à {{unité|97|km}} : [[Saragosse|Saragosse (Zaragoza)]], [[Lescar]], Oloron-Sainte-Marie, ''[[File:France road sign ID2.svg|15px|alt]] [[Aéroport Pau-Pyrénées|Pau-Pyrénées]]'', [[Pau]] - ''ouest'' <!--''<ref>« L'échangeur de Lescar inauguré en avant-première », ''[[La République des Pyrénées]]'', 8 décembre 2010 {{lire en ligne|lien=https://www.larepubliquedespyrenees.fr/2010/12/08/l-echangeur-de-lescar-inaugure-hier-en-avant-premiere,170107.php}}</ref>''-->
+* {{Sortie|10 Pau - ''centre''}} à {{unité|103|km}} : Pau
+(en projet)<ref>{{Lien web |titre=Projet d'échangeur autoroutier de Pau-Morlaàs (A64) et ses aménagements urbains connexes |url=https://a64-amenagement.com/amenager-l-autoroute/projet-dechangeur-autoroutier-de-pau-morlaas-a64-et-ses-amenagements-urbains-connexes/ |site=A64 |consulté le=2024-07-24}}</ref> {{Sortie|10.1 Pau-Morlaàs}} : Saragosse (Zaragoza), Oloron-Sainte-Marie, [[Morlaàs]], [[Nay (Pyrénées-Atlantiques)|Nay]], Pau - ''est''
+* {{Aire de repos|de Serres-Morlaàs}}
+* {{Sortie|11 Soumoulou}} à {{unité|117|km}} : [[Lourdes]], [[Pontacq]], Pau - ''est'', [[Nousty]], [[Soumoulou]]
+** {{Aire de service|des Pyrénées}}
+''Passage de la région [[Nouvelle-Aquitaine]] à celui de l'[[Occitanie (région administrative)|Occitanie]]''.<br />Passage du département des [[Pyrénées-Atlantiques]] à celui des [[Hautes-Pyrénées]].
+* {{Sortie|12 Tarbes - ''ouest''}} à {{unité|137|km}} : Lourdes, [[Tarbes]] - ''centre'', ''[[File:France road sign ID2.svg|15px|alt]] [[Aéroport de Tarbes-Lourdes-Pyrénées|Tarbes-Lourdes-Pyrénées]]'', [[Vic-en-Bigorre]], [[Bagnères-de-Bigorre]]
+* {{Sortie|13 Tarbes - ''est ''([[Route nationale 117|RD 817]])}} à {{unité|145|km}} : [[Auch]], Tarbes - ''centre'', [[Trie-sur-Baïse]], [[Rabastens-de-Bigorre]], Pau, Lourdes
+** [[Fichier:AB-Brücke.svg]] [[Viaduc de l'Arrêt-Darré]]
+** {{Aire de repos|de Bordes}}
+* {{Sortie|14 Tournay}} à {{unité|158|km}} : Bagnères-de-Bigorre, [[Tournay]]
+** [[Fichier:France_road_sign_B14_(110).svg|22x22px]] Limitation à 110 km/h.
+** [[Fichier:France road sign B14 (90).svg|22x22px]] Limitation à 90 km/h
+** [[Fichier:AB-Brücke.svg]] [[Viaduc de Lanespède]]
+** [[Fichier:France_road_sign_B14_(130).svg|22x22px]] Limitation à 130 km/h.
+* {{Sortie|15 Capvern}} à {{unité|170|km}} : [[Toulouse]], [[Foix]], [[Capvern]], [[Lannemezan]] - ''est''
+** {{Aire de repos|des Bandouliers|Bayonne-Toulouse|du Lac Saint-Martin|Toulouse-Bayonne}}
+* {{Sortie|16 Lannemezan}} à {{unité|175|km}} : Auch, [[Arreau]], Lannemezan - ''sud''
+** {{Aire de repos|du Pic-du-Midi}}
+''Passage du département des Hautes-Pyrénées à celui de la [[Haute-Garonne]]''
+* {{Sortie|17 Montréjeau}} '''({{Échangeur autoroutier|[[Autoroute A645 (France)|A645]]|A64}})''' à {{unité|192|km}} : [[Lérida|Lérida (Lleida)]] ([[Route nationale 125 (France)|RN 125]]), [[Bagnères-de-Luchon]], [[Montréjeau]], ''[[File:France road sign ID16a.svg|15px|alt]] [[Cathédrale Notre-Dame de Saint-Bertrand-de-Comminges|Saint-Bertrand]] - [[Basilique Saint-Just de Valcabrère|Valcabrère]]''
+** {{Aire de service|du Comminges}}
+* {{Sortie|18 Saint-Gaudens}} à {{unité|206|km}} : [[Boulogne-sur-Gesse]], [[Aspet]], [[Saint-Gaudens]]
+* {{Péage|Péage de Lestelle (à système fermé)}}
+* {{Sortie|19 Lestelle-de-Saint-Martory}} à {{unité|218|km}} ''(demi-échangeur, depuis et vers Toulouse)'' : Saint-Gaudens, [[Lestelle-de-Saint-Martory]]
+** [[Fichier:AB-Brücke.svg]] Pont sur [[Fichier:Panneau cours d'eau France.png|20px]] la [[Garonne]]
+* {{Sortie|20 Saint-Martory}} à {{unité|222|km}} : Foix, [[Saint-Girons (Ariège)|Saint-Girons]], [[Salies-du-Salat]], [[Saint-Martory]] 
+* {{Sortie|21 Boussens}} à {{unité|230|km}} : Tarbes, Lourdes, Saint-Gaudens, [[Aurignac]], [[Boussens (Haute-Garonne)|Boussens]], [[Martres-Tolosane]]
+* {{Sortie|22 Martres-Tolosane}} à {{unité|234|km}} : Martres-Tolosane, [[Mondavezan]]
+'''Section non-concédée gérée par la [[Direction interdépartementale des Routes#Direction interdépartementale des Routes Sud-Ouest|DIR Sud-Ouest]] et gratuite.'''
+* {{Sortie|23 Cazères}} à {{unité|239|km}} : Mondavezan, [[Le Fousseret]], [[Cazères]]
+* {{Sortie|24 Lavelanet-de-Comminges}} à {{unité|243|km}} : [[Lavelanet-de-Comminges]]
+* {{Sortie|25 Saint-Élix-le-Château}} à {{unité|246|km}} : [[Montesquieu-Volvestre]], [[Rieux-Volvestre|Rieux]], [[Saint-Julien-sur-Garonne]], [[Saint-Élix-le-Château]]
+* {{Sortie|26 Laffite-Vigordanne}} à {{unité|251|km}} : [[L'Isle-en-Dodon]], [[Peyssies]], [[Salles-sur-Garonne]], [[Lafitte-Vigordane]], [[Carbonne]] - ''ouest''
+* {{Sortie|27 Carbonne}} à {{unité|254|km}} : [[Montesquieu-Volvestre]], Rieux, [[Bérat (Haute-Garonne)|Bérat]], Carbonne - ''nord'', [[Marquefave]]
+** {{Aire de service|de La Garonne|Bayonne-Toulouse|du Volvestre|Toulouse-Bayonne}}
+* {{Sortie|28 Capens}} à {{unité|258|km}} : [[Saint-Sulpice-sur-Lèze]], [[Longages]], Marquefave, [[Noé (Haute-Garonne)|Noé]] - ''sud'', [[Capens]]
+* {{Sortie|29 Noé}} à {{unité|259|km}} ''(demi-échangeur, depuis Toulouse et vers Bayonne)'' : Noé - ''centre''
+* {{Sortie|30 Longages}} à {{unité|261|km}} ''(demi-échangeur, depuis et vers Toulouse)'' : Noé - ''nord'', Bérat, [[Longages]]
+* {{Sortie|31 Mauzac}} à {{unité|263|km}} : [[Saint-Hilaire (Haute-Garonne)|Saint-Hilaire]], [[Lavernose-Lacasse]], [[Le Fauga]], [[Mauzac (Haute-Garonne)|Mauzac]]
+* {{Sortie|32 Le Fauga}} à {{unité|265|km}} ''(demi-échangeur, depuis et vers Toulouse)'' : Saint-Hilaire, Lavernose-Lacasse, Le Fauga
+* {{Sortie|33 Muret - ''sud''}} à {{unité|269|km}} : [[Labarthe-sur-Lèze]], [[Lherm (Haute-Garonne)|Lherm]], [[Muret (Haute-Garonne)|Muret]] - ''Z. I. Sud''
+* {{Sortie|34 Muret - ''ouest''}} à {{unité|272|km}} : [[Saint-Clar-de-Rivière]], [[Lamasquère]], [[Labastidette]], [[Rieumes]], Lherm, Muret
+* {{Sortie|35 Muret - ''nord''}} à {{unité|275|km}} : Toulouse, [[Saint-Lys]], [[Villeneuve-Tolosane]], [[Roques (Haute-Garonne)|Roques]], [[Seysses]], Muret - ''centre''
+'''Section concédée à [[Autoroutes du Sud de la France|ASF]] et payante (sauf entre la sortie 36 au Périphérique de Toulouse).'''
+* {{Péage|Péage de Muret (à système ouvert)}}
+** [[Fichier:France_road_sign_B14_(110).svg|22x22px]] Limitation à 110 km/h.
+* {{Sortie|36 Roques}} à {{unité|282|km}} ''(demi-échangeur, depuis et vers Toulouse)'' : Tarbes, Lourdes, Foix, Muret, Roques, [[Auterive (Haute-Garonne)|Auterive]], Labarthe-sur-Lèze
+** [[Fichier:France_road_sign_B14_(90).svg|22x22px]] Limitation à 90 km/h.
+* {{Sortie|37/37a/37b Francazal}} à {{unité|283|km}} : [[Portet-sur-Garonne]], [[Cugnaux]], Villeneuve-Tolosane, ''[[Saint-Simon (Toulouse)|Saint-Simon]]''
+* {{Sortie|38 Le Chapitre}} à {{unité|285|km}} : [[Tournefeuille]], ''[[File:France road sign ID4.svg|15px|alt]] [[Oncopole de Toulouse]], Toulouse - ''[[Mirail|Le Mirail]], [[Quartier de la Croix de Pierre|La Croix-de-Pierre]], Saint-Simon''
+* '''{{Échangeur autoroutier|[[Fichier:SU4 - Rocade France.svg|22x22px]] [[Périphérique de Toulouse|Périphérique de Toulouse (A620)]]|A64}}''' à {{unité|287|km}} : 
+** ''Périphérique Intérieur'' : [[Paris]] ([[Autoroute A20 (France)|A20]]), Bordeaux ([[Autoroute A62 (France)|A62]]), Auch ([[Autoroute A624 (France)|A624]]), ''[[File:France road sign ID2.svg|15px|alt]] [[Aéroport de Toulouse-Blagnac|Blagnac]]'' ([[Autoroute A621 (France)|A621]]), Toulouse - ''[[La Faourette]]''
+** ''Périphérique Extérieur'' : [[Montpellier]] ([[Autoroute A61 (France)|A61]]), Foix ([[Fichier:Péage.png|30 px]]) ([[Autoroute A66 (France)|A66]]), [[Albi]] ([[Autoroute A68 (France)|A68]]), Toulouse - ''centre, [[Empalot]]''
+** [[Fichier:France road sign C208.svg|22x22px]] Fin de l'autoroute
+
+== Caractéristiques ==
+=== Profil ===
+{{Graph:Chart|width=582|height=100|xAxisTitle=Distance (km); l'autoroute présente une pente certaine dans la région de Capvern|yAxisTitle=Profil altitude|legend=Légende|type=line|
+x=0,30,63,120,130,137,152,167,174,216,283
+|y1=0,3,67,311,412,320,304,596,620,294,145
+|xAxisMin=0|colors=#ff8000,#44aaaa,#44aa44,#0000aa|y1Title=Profil |y2Title= -- }}
+Le point le plus haut de l'autoroute se situe au niveau de l'aire de repos des Bandouliers. Il dépasse les {{unité|600|mètres}} d'altitude.
+
+[[Fichier:A 64 depuis le pont de Berlanne.jpg|thumb|right|A64 depuis le pont de Berlanne ([[Morlaàs]]) dans le sens Bayonne → Toulouse.]]
+
+[[Fichier:A64_à_Lescar_sens_Pau-Toulouse.JPG|thumb|right|A64 à [[Lescar]] dans le sens Bayonne → Toulouse.]]
+
+[[Fichier:A64.E80 FRA vue4 viaduc de l'Arrêt d'Arré.JPG|thumb|right|[[Viaduc de l'Arrêt-Darré]] dans le sens Bayonne → Toulouse.]]
+[[Fichier:A64.E80 FRA vue9.JPG|thumb|right|Passage du [[viaduc de Lanespède]] avant la côte de [[Capvern]] dans le sens Bayonne → Toulouse.]]
+
+=== Ouvrages d'art remarquables ===
+* [[Viaduc de l'Arrêt-Darré]]
+* Arche du [[viaduc de Lanespède|viaduc ferroviaire de Lanespède]]
+
+=== Lieux sensibles ===
+*En cas de neige : plateaux de Ger et de Lannemezan + rampe de Capvern
+*Péage de Sames, bouchons lors des vacances 
+*Sortie de Tarbes Ouest, bouchons au péage aux heures de pointe
+*Sortie Lannemezan, bouchons au péage certains week-ends d'hiver.
+* Péage de Lestelle, bouchons lors des vacances
+* Tous les jours, trafic dense à l'entrée de Toulouse
+
+== Références ==
+{{Références}}
+
+== Voir aussi ==
+=== Articles connexes ===
+{{Autres projets|commons=Category:A64 autoroute}}
+* [[Liste des autoroutes de France]]
+* [[Liste des voies rapides de France]]
+* [[Autoroute A63 (France)|Autoroute A63]]
+* [[Autoroute A65 (France)|Autoroute A65]]
+* [[Autoroute A641 (France)|Autoroute A641]]
+* [[Autoroute A645 (France)|Autoroute A645]]
+* [[Périphérique de Toulouse|Autoroute A620 (périphérique de Toulouse)]]
+* [[Route nationale 10 (France)|Route nationale 10]]
+* [[Route nationale 20 (France)|Route nationale 20]]
+* [[Route nationale 21 (France)|Route nationale 21]]
+* [[Route nationale 117]]
+
+=== Liens externes ===
+{{Liens}}
+* [http://saratlas.free.fr/index.php?page=autoroute&route=a64&lang=fr Autoroute A64 dans Saratlas]
+* [http://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A64 L’A64 sur WikiSara]
+* [http://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A641 L’A641 sur WikiSara]
+
+{{Palette Autoroutes de France}}
+
+{{Portail|route|Haute-Garonne|Hautes-Pyrénées|Pyrénées-Atlantiques|Landes}}
+
+[[Catégorie:Autoroute en région Occitanie|064]]
+[[Catégorie:Autoroute en Nouvelle-Aquitaine|064]]
+[[Catégorie:Autoroute à Toulouse|064]]
+[[Catégorie:Route dans les Pyrénées-Atlantiques]]
+[[Catégorie:Autoroute A64 (France)|*]]
+[[Catégorie:Pyrénées-Atlantiques au XXe siècle]]

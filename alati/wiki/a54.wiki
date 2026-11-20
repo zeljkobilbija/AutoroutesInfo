@@ -1,0 +1,132 @@
+{{Coord|43.639325|N|4.980667|E|source:enwiki|display=title}}
+{{Voir homonymes|A54}}
+{{Infobox Route/France|statut=A|numéro=54
+|image=Autoroute A54 (Salon de Provence).JPG
+|légende=L'A54 au sud de [[Salon-de-Provence|Salon]] en direction d'[[Aix-en-Provence|Aix]] et de l'[[Autoroute A7 (France)|A7]].
+|carte=France_A5X_A54.svg
+|autres_noms       = La Camarguaise
+|longueur=49
+|ouverture=premier tronçon en [[1970]]<br />Nîmes – Arles : 1990<br />dernier tronçon en [[1996]]
+|direction=nord-ouest/est
+|dir1=nord-ouest|ville1= {{Route européenne|15}} {{Route européenne|80}} {{Autoroute française|A9}} à [[Nîmes]]
+|dir2=est       |ville2= {{Route européenne|80}} {{Route européenne|714}} {{Autoroute française|A7}} à [[Salon-de-Provence]]
+|intersections= {{Route européenne|80}} {{Route nationale|572}} à [[Arles]] ''(interruption de l'autoroute)''<br /> {{Route européenne|80}} {{Route nationale|113|France}} à [[Saint-Martin-de-Crau]] ''(reprise de l'autoroute)''
+|villes_principales=[[Nîmes]], [[Arles]], [[Saint-Martin-de-Crau]], [[Salon de Provence]]
+|principaux péages : [[Arles]], [[Saint-Martin-de-Crau]]
+|réseau=[[liste des autoroutes de France|Autoroute française]], aussi {{Route européenne|80}}
+|régions=[[Occitanie (région administrative)|Occitanie]], [[Provence-Alpes-Côte d'Azur]]
+|départements=[[Gard]], [[Bouches-du-Rhône]]
+|nb_reg=2|nb_dep=2
+| concessionnaire = [[Autoroutes du Sud de la France|ASF]]
+}}
+En [[France]], l''''autoroute A54''' relie [[Nîmes]] à [[Salon-de-Provence]]. Elle est gérée par les [[Autoroutes du Sud de la France]] (ASF). Elle est longue de {{unité|72|km}}, tronçon faisant partie de la [[route européenne 80]] dans son intégralité. C'est une autoroute à péage.
+
+[[Radio Vinci Autoroutes]] (107.7FM) fonctionne sur l'A54 secteur ASF. L'A54 fait partie sur le réseau ASF de la ''Zone EST''.
+
+== Tracé ==
+L'autoroute relie [[Nîmes]] à [[Salon-de-Provence]] et constitue un maillon de l'arc autoroutier méditerranéen reliant la péninsule Ibérique à la vallée du Rhône et à l'Italie. Elle assure notamment la liaison entre l'[[Autoroute A9 (France)|A9]] à hauteur de Nîmes et l'[[Autoroute A7 (France)|A7]] à proximité de Salon-de-Provence.
+
+Toutefois, l'itinéraire n'est pas intégralement aménagé aux normes autoroutières. Entre [[Arles]] et [[Saint-Martin-de-Crau]], la continuité est assurée par une section à caractéristiques de voie express correspondant principalement à la [[Route nationale 113 (France)|RN 113]] ainsi qu'à une courte portion de la [[Route nationale 572|RN 572]]. Cette discontinuité constitue le principal point noir de l'itinéraire et fait l'objet du projet de contournement autoroutier d'Arles destiné à rétablir une continuité autoroutière complète.
+
+Sur une longueur totale d'environ 72 kilomètres, près des deux tiers du tracé ({{unité|48.4|km}}) sont classés en autoroute. Le tiers restant est constitué de sections de routes nationales : environ ({{unité|19.5|km}}) pour la RN 113 et ({{unité|4.3|km}}) pour la RN 572.
+
+Le tracé traverse notamment les agglomérations de [[Nîmes]], [[Arles]] et [[Salon-de-Provence]], et dessert plusieurs pôles économiques et logistiques majeurs de la [[plaine de la Crau]] et du [[delta du Rhône]]. Il assure également une connexion stratégique avec les infrastructures portuaires de [[Fos-sur-Mer]] et [[Marseille]] via la [[Route nationale 568|RN 568]].
+
+== Histoire ==
+Son premier tronçon a été inauguré sous la forme d'une voie rapide au sud de [[Salon-de-Provence]] au cours de l'année [[1970]], en même temps que la portion de l'[[Autoroute A7 (France)|autoroute A7]] entre [[Sénas]] et [[Rognac]].
+
+La portion entre [[Nîmes]] et [[Arles]] est inaugurée en 1990.
+
+Le dernier tronçon reliant [[Saint-Martin-de-Crau]] à Salon-de-Provence est inauguré le {{date-|13 mars 1996}}. Mais à Salon-de-Provence, la mise en service complète de l'autoroute a entraîné un enclavement d'une cité scolaire de {{unité|2000|élèves}} où le franchissement n'est possible que par un cheminement piétonnier dangereux, selon [[André Vallet (homme politique)|André Vallet]], sénateur des Bouches-du-Rhône, en 1997<ref>{{Lien web|url=http://www.senat.fr/questions/base/1997/qSEQ97100049S.html|titre=Problèmes de sécurité liés à la construction de l'autoroute A 54|année=1997|site=le site du Sénat|consulté le=21 juillet 2014}}.</ref>.
+
+{{Référence nécessaire|On surnomme l'A54, la N113 et la N572 la camarguaise.}}
+
+== Sorties ==
+'''Section concédée à [[Autoroutes du Sud de la France|ASF]] et payante.'''
+* '''{{échangeur autoroutier|[[Autoroute A9 (France)|A9]]|A54}}''' à {{unité|0|km}} : [[Barcelone|Barcelone (Barcelona)]], [[Toulouse]], [[Montpellier]] ; [[Lyon]], [[Avignon]], [[Nîmes]] - ''Courbessac'' + {{Sortie|25 Nîmes - ''ouest'' (sortie de l'A9)}} : [[Alès]], Nîmes - ''Saint-Cézaire'' ''(km 0, prolongement de la [[Route nationale 106 (France)|RN 106]])''
+** [[Fichier:France road sign C207.svg|24x24px]] [[Fichier:Panneau-C24a-2.svg|22x22px]] [[Fichier:France road sign B14 (130).svg|22x22px]] Début de l'autoroute, début de {{dunité|2|2|voies}} et limitation à {{unité|130|km/h}}.
+* {{Sortie|1 Nîmes - ''centre''}} à {{unité|3|km}} : Nîmes
+** {{Aire de repos|Caissargues|Nîmes – Salon|Nîmes-Costières|Salon – Nîmes}}
+* {{Sortie|2 Garons}} à {{unité|10|km}} : ''[[File:France road sign ID2.svg|15px|alt]] [[Aéroport de Nîmes–Garons|Garons]]'', [[Saint-Gilles (Gard)|Saint-Gilles]], [[Garons]]
+** ''[[Fichier:AB-Brücke.svg]] Passage sur [[Fichier:Panneau cours d'eau France.png|20px]] le [[Canal du Bas-Rhône Languedoc|canal Philippe-Lamour]].''
+** '' [[Fichier:AB-Brücke.svg]] Passage sur [[Fichier:Panneau cours d'eau France.png|20px]] le [[Petit-Rhône]]''
+'' Passage de la région [[Occitanie (région administrative)|Occitanie]] à celui de la [[Provence-Alpes-Côte d'Azur]].<br /> Passage du département du [[Gard]] à celui des [[Bouches-du-Rhône]].''
+* {{Péage|Péage d'Eyminy (Arles) (à système fermé)}}
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à 110 km/h.
+* [[Fichier:France_road_sign_C107.svg|22x22px]] [[Fichier:France_road_sign_C208.svg|22x22px]] L'A54 devient la Route nationale 572, puis la route nationale 113
+{{Article détaillé|Route nationale 572#Voie express|Route nationale 113 (France)#Voie rapide}}
+* [[Fichier:France_road_sign_C108.svg|22x22px]] [[Fichier:France_road_sign_C207.svg|22x22px]] La Route nationale 113 redevient l'A54.
+* {{Sortie|12 Saint-Martin-de-Crau - ''est''}} à {{unité|48|km}} : [[Salon-de-Provence]], [[Istres]], [[Miramas]], [[Saint-Martin-de-Crau]]
+** [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à 130 km/h.
+* {{Péage|Péage de Saint-Martin-de-Crau (à système fermé)}}
+** {{Aire de repos|du Merle}}
+* {{Sortie|13 Salon-de-Provence - ''ouest''}} à {{unité|64|km}} : [[Fos-sur-Mer]], [[Martigues]], Istres, [[Les Baux-de-Provence]], [[Eyguières]], [[Miramas]], [[Grans]], Salon-de-Provence
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à 110 km/h.
+* {{Sortie|14 Grans}} à {{unité|69|km}} : Salon-de-Provence - ''sud'', Grans, [[La Fare-les-Oliviers]], [[Lançon-Provence]]
+** [[Fichier:France road sign B14 (90).svg|22x22px]] Limitation à 90 km/h.
+* {{Sortie|15 Salon-de-Provence - ''centre''}} à {{unité|71|km}} ''(demi-échangeur, depuis et vers l'A7)'' : Salon-de-Provence, [[Pélissanne]]
+** [[Fichier:Panneau-C24a.svg|22x22px]] Passage à {{dunité|2|3|voies}}.
+* '''{{échangeur autoroutier|[[Autoroute A7 (France)|A7]]|A54}}''' : [[Nice]], [[Aix-en-Provence]] ([[Autoroute A8 (France)|A8]]), [[Toulon]] (A52), [[Marseille]], ''[[File:France road sign ID2.svg|15px|alt]] [[Aéroport Marseille-Provence|Marseille-Provence]]'', Lyon, Avignon, [[Cavaillon]]
+
+== Futur : Contournement d'Arles ==
+Le [https://www.contournementarles.com contournement autoroutier d'Arles] vise à assurer la continuité de l'A54 entre [[Nîmes]] et [[Salon-de-Provence]], complétant ainsi un axe autoroutier structurant de l'arc méditerranéen reliant l'[[Espagne]] à l'[[Italie]]. Ce projet a pour objectif principal de reporter le trafic de transit actuellement concentré sur la [[Route nationale 113 (France)|RN 113]], qui traverse [[Arles]] et [[Saint-Martin-de-Crau]], afin d'améliorer la fluidité de circulation, la sécurité routière et la qualité de vie des riverains grâce à la réduction des nuisances sonores et atmosphériques.
+
+Porté par l'État, sous le pilotage de la [[Direction régionale de l'Environnement, de l'Aménagement et du Logement|DREAL Provence-Alpes-Côte d'Azur]], le projet consiste en la réalisation d'un nouveau tronçon autoroutier en tracé neuf selon l'option dite « ''Sud Vigueirat'' ». Celui-ci prendrait naissance à l'ouest d'Arles au niveau de l'échangeur ''d'Eyminy'', franchirait le ''[[Rhône]]'', longerait le sud du ''canal du Vigueirat'' et rejoindrait la RN 113 au lieu-dit ''Balarin'', à l'est de la ville. Il comprend également la mise aux normes autoroutières de sections existantes. La longueur totale de l'aménagement est estimée à environ 26 kilomètres. L'infrastructure serait majoritairement aménagée à {{dunité|2|2|voies}}, avec un élargissement à {{dunité|2|3|voies}} sur certains secteurs, notamment entre la [[Route nationale 568|RN 568]] et Balarin.
+
+Une première enquête publique s'est tenue en 2013-2014 et le projet a été [[déclaration d'utilité publique|déclaré d'utilité publique]] en 2014. Après plusieurs années marquées par des ajustements administratifs et environnementaux, une nouvelle phase d'enquête publique a été engagée fin 2025 afin d'actualiser la déclaration d'utilité publique et de prendre en compte les évolutions du projet ainsi que les avis de l'autorité environnementale<ref>{{Lien web |langue=fr |titre=Contournement autoroutier d'Arles : prolongation de l'enquête publique jusqu'au 2.01.2026 |url=https://www.bouches-du-rhone.gouv.fr/Actualites/Contournement-autoroutier-d-Arles-prolongation-de-l-enquete-publique-jusqu-au-2.01.2026 |site=Les services de l'État dans les Bouches-du-Rhône |consulté le=2026-02-18}}</ref>.
+
+À terme, le contournement devrait accueillir un trafic estimé à environ 45 000 véhicules par jour et permettre la requalification de la traversée actuelle d'Arles en voirie urbaine. Le coût du projet est évalué à 958 millions d'euros aux conditions économiques de 2020, montant susceptible d'évolution en fonction des actualisations financières et des adaptations techniques. La mise en service est envisagée à l'horizon entre 2028 et 2029, sous réserve de l'aboutissement des procédures réglementaires et du lancement des travaux.
+
+La mise en service du contournement autoroutier, qui devrait transformer l'actuelle RN 113 en boulevard urbain dans la traversée d'Arles n'est pas encore datée précisément.
+
+=== Sorties ===
+* {{Péage|Péage d'Eyminy (Arles) (à système fermé)}}
+** [[Fichier:Panneau-C24a-2.svg|22x22px]] [[Fichier:France road sign B14 (130).svg|22x22px]] Début de {{dunité|2|2|voies}}, limitation à 130 km/h.
+* {{Sortie|3 Arles - ''ouest'' / Eyminy}} : [[Montpellier]], [[Arles]] - ''centre'', [[Saintes-Maries-de-la-Mer]], [[Salin-de-Giraud]], [[Vauvert (Gard)|Vauvert]], [[Saint-Gilles (Gard)|Saint-Gilles]]
+* {{Sortie|4 Arles - ''Sud Rive-Droite''}} ''(demi-échangeur, depuis et vers Salon-de-Provence)'' : [[Nîmes]], [[Bellegarde (Gard)|Bellegarde]], Arles - ''[[Trinquetaille]]'', Saintes-Maries-de-la-Mer, Salin-de-Giraud
+** [[Fichier:AB-Brücke.svg]] ''Passage sur [[Fichier:Panneau cours d'eau France.png|20px]] le [[Grand-Rhône]]''
+* {{Sortie|5 Arles - ''Sud Rive-Gauche''}} ''(demi-échangeur, depuis et vers Nîmes)'' : [[Avignon]], [[Beaucaire (Gard)|Beaucaire]], [[Tarascon (Bouches-du-Rhône)|Tarascon]], Arles - ''[[Barriol (quartier d'Arles)|Barriol]]'', ''Fourchon'', ''[[Pont-de-Crau]]'', [[Port-Saint-Louis-du-Rhône]]
+** {{Aire de repos|des Canaux}}
+** [[Fichier:AB-Brücke.svg]] ''Passage sur [[Fichier:Panneau cours d'eau France.png|20px]] le [[Canal de navigation d'Arles à Bouc]] et le Canal du Vigueirat ''
+* {{Sortie|7 Arles - ''est / Balarin''}} ''(demi-échangeur, depuis et vers Salon-de-Provence)'' : Arles - ''centre, Pont-de-Crau, [[Moulès (Arles)|Moulès]], [[Raphèle-lès-Arles]]'', Nîmes, Avignon, Tarascon, Beaucaire, Saintes-Maries-de-la-Mer, Port-Saint-Louis-du-Rhône
+** [[Fichier:Panneau-C24a.svg|22x22px]] Passage à {{dunité|2|3|voies}}.
+* {{Sortie|9 Saint-Hippolyte ([[Route nationale 568|RN 568]])}} ''(demi-échangeur, depuis et vers Nîmes)'': [[Marseille]] ([[Autoroute A55 (France)|A55]]), [[Fos-sur-Mer]] - [[Martigues]]
+** [[Fichier:Panneau-C24a-2.svg|22x22px]] Passage à {{dunité|2|2|voies}}.
+* {{Sortie|10 Saint-Martin-de-Crau - ''ouest''}} ''(demi-échangeur, depuis et vers Nîmes)'' : [[Saint-Martin-de-Crau]]
+* {{Sortie|11 Saint-Martin-de-Crau - ''centre''}} : ''Z. I. Saint-Martin-de-Crau'', Saint-Martin-de-Crau
+* {{Sortie|12 Saint-Martin-de-Crau - ''est''}} : [[Salon-de-Provence]], [[Istres]], [[Miramas]], Saint-Martin-de-Crau + {{Aire de service|de Mas de Paul}}
+* {{Péage|Péage de Saint-Martin-de-Crau (à système fermé)}}
+
+== Lieux sensibles ==
+(uniquement les lieux à bouchons et les pentes dangereuses) :
+* Nîmes : {{sortie|25 (sortie de l'A9)}}, risque de bouchon ; depuis cette sortie, les usagers s'engagent sur l'A54 à vive allure donc il est difficile de s'y engager.
+* Arles (RN 113) :
+** Pas aux normes, pas de bande d'arrêt d'urgence, circulation très dense ; de nombreux bouchons chaque jour sont à déplorer en direction de Nîmes. Ces embouteillages pouvant faire perdre 30 min entre Saint-Martin-de-Crau et Arles.
+** sortie {{sortie|5}} dangereux :
+*** en direction de Nîmes, pas aux normes sur la RN 113, les véhicules s'arrêtent avant de s'engager à allure réduite sur la 2×2, circulation très dense, 
+*** en direction de Salon-de-Provence, virage à 270° dont la vitesse est limitée à {{unité|30|km/h}}, aucun espace de décélération, circulation très dense.
+
+== Notes et références ==
+<references />
+
+== Voir aussi ==
+=== Articles connexes ===
+* [[Liste des autoroutes de France]]
+* Routes nationales [[Route nationale 572|572]] et [[Route nationale 113 (France)|113]]
+
+=== Liens externes ===
+* http://www.camargue-insolite.com
+* [http://saratlas.free.fr/index.php?page=autoroute&route=a54&lang=fr Autoroute A54 dans Saratlas]
+* [http://www.bouches-du-rhone.equipement.gouv.fr/depart/infra_tr/Site_Parles/ P'Arles ! Quelle autoroute pour le pays d'Arles]
+* [http://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A54 Article de l'A54 sur WikiSara]
+* [http://fr.structurae.de/projects/data/index.cfm?id=p0000225 Autoroute A54 sur Structurae]
+*[https://www.contournementarles.com Contournement Autoroutier d'Arles](le site de la concertation)
+
+{{Palette Autoroutes de France}}
+{{Portail|route|Gard|Bouches-du-Rhône|Camargue|Alpilles}}
+
+[[Catégorie:Autoroute en région Occitanie|054]]
+[[Catégorie:Autoroute en Provence-Alpes-Côte d'Azur|054]]
+[[Catégorie:Transports en Camargue]]
+[[Catégorie:Transport à Arles]]
+[[Catégorie:Alpilles]]

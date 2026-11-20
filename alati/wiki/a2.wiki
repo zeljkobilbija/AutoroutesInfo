@@ -1,0 +1,108 @@
+{{Voir homonymes|A2|Autoroute A2}}
+{{Infobox Route/France|statut=A|numéro=2
+|autres_noms       = 
+|image             = 
+|légende           = 
+|carte             = Carte Autoroute A2.svg
+|longueur          = 78
+|direction         = sud / nord-est
+|dir1              = sud
+|dir2              = nord-est
+|ville1            = {{Route européenne|15}} {{Route européenne|19}} {{Autoroute française|A1}} à [[Combles]]
+|ville2            = {{Cartouche route|BE|E|19}} {{Cartouche route|BE|A|7}} à [[Saint-Aybert]]
+|villes_principales= [[Cambrai]], [[Valenciennes]], [[Denain]], [[Thun-l'Évêque]], [[Hordain]], [[Sailly-Saillisel]]
+|intersections     = {{Route européenne|17}} {{Autoroute française|A26}} à [[Graincourt-lès-Havrincourt]]<br/>
+{{Autoroute française|A21}} à [[Douchy-les-Mines]] <br/>
+{{Autoroute française|A23}} à [[La Sentinelle (Nord)|La Sentinelle]]<br/>
+{{sortie|22a}} {{Route départementale|649|Nord}} à [[Marly (Nord)|Marly]]
+|ouverture         = 1972
+|réseau            = Autoroute française, également {{Route européenne|19}}
+|régions           = [[Hauts-de-France]]
+|départements      = [[Somme (département)|Somme]], [[Pas-de-Calais]], [[Nord (département français)|Nord]]
+|nb_reg            = 1
+|nb_dep            = 3
+| concessionnaire= [[Société des autoroutes du Nord et de l'Est de la France|SANEF]] (entre Combles et Cambrai)
+| gestionnaire   = [[Direction interdépartementale des Routes#Direction interdépartementale des Routes Nord|DIR Nord]] (entre Cambrai et Saint-Aybert)
+}}
+{{maplink|frame=yes|plain=yes|frame-width=290|frame-height=360|frame-align=right|type=line|stroke-width=2| |stroke-color=#0000C0| id= }}
+L''''autoroute française A2''' relie l'[[Autoroute A1 (France)|autoroute A1]] à hauteur de [[Combles]] dans la [[Somme (département)|Somme]] à l'[[Autoroute A7 (Belgique)|autoroute belge A7]] à hauteur de [[Saint-Aybert]] dans le [[Nord (département français)|Nord]]. Par prolongement, l'autoroute relie ainsi [[Paris]] à [[Bruxelles]]. Elle dessert notamment les agglomérations de [[Cambrai]] et de [[Valenciennes]].
+
+Elle mesure {{Unité|78|km}}. Elle fait partie intégrante de la [[route européenne 19]]. La section comprise entre l'A1 et la sortie {{n°|15}} est payante, car concédée à la [[Société des autoroutes du Nord et de l'Est de la France|SANEF]]. Elle a ouvert le {{date|19 décembre 1972}}.
+
+== Tracé ==
+L'autoroute est entièrement à 2×2 voies. Entre l'[[Autoroute A1 (France)|A1]] et la sortie 15, elle est payante et concédée à la [[Société des autoroutes du Nord et de l'Est de la France|SANEF]] jusqu'au {{date|31 décembre 2032}}. La partie entre la '''sortie 15''' et la Belgique est gratuite et gérée par la direction interdépartementale des routes Nord ; elle est du ressort de la [[Direction interdépartementale des Routes|Direction interdépartementale des Routes Nord]]<ref>{{Lien web|url=http://www2.equipement.gouv.fr/bulletinofficiel/fiches/Bo200610/A0100033.htm|titre=Arrêté du 29 mai 2006 portant constitution des directions interdépartementales des routes|auteur=|année=|éditeur=equipement.gouv.fr|consulté le=15 juillet 2011}}</ref>.
+
+La dernière section située entre la sortie 26 et la frontière est limitée à 120 km/h, l'unique endroit en France possédant cette limitation dans le pays. Cela est mis en place pour créer une continuité avec l'[[Autoroute A7 (Belgique)|A7 belge]] (où les autoroutes sont limitées à 120 km/h). Au niveau de la frontière se trouve le ''[[Signal d'Hensies]]''<ref name="R1"/>.
+
+=== Son parcours ===
+'''Section concédée à [[Société des autoroutes du Nord et de l'Est de la France|SANEF]] et payante.'''
+* '''{{Échangeur autoroutier|[[Autoroute A1 (France)|A1]]|A2}}''' ''(demi-échangeur, depuis et vers Paris)'' : [[Paris]], [[Amiens]] ([[Autoroute A29 (France)|A29]]), [[Compiègne]], [[Senlis (Oise)|Senlis]]
+** [[Fichier:France road sign C207.svg|24x24px]] [[Fichier:Panneau-C24a-2.svg|22x22px]] [[Fichier:France road sign B14 (130).svg|22x22px]] Début de l'autoroute, début de {{dunité|2|2|voies}} et limitation à 130 km/h.
+''Passage du département de la [[Somme (département)|Somme]] à celui du [[Pas-de-Calais]].''
+* {{Aire de repos|de Rocquigny|Paris – Bruxelles|de Barastre|Bruxelles – Paris}}
+** {{Aire de service|d'Havrincourt|Paris – Bruxelles|de Graincourt|Bruxelles – Paris}}
+* '''{{Échangeur autoroutier|[[Autoroute A26 (France)|A26]]|A2}}''' à {{unité|22|km}} ''(trois-quarts-échangeur, pas accessible depuis Paris vers Calais)'' : [[Lyon]] ([[Autoroute A5 (France)|A5]]), [[Calais]], [[Reims]], [[Saint-Quentin]], [[Lille]] (A1), [[Arras]]
+''Passage du département de Pas-de-Calais à celui du [[Nord (département français)|Nord]].''
+* {{Sortie|14 Cambrai}} à {{unité|27|km}} : [[Cambrai]] - ''ouest'', [[Bapaume]]
+* {{Péage|Péage de [[Thun-l'Évêque]] (à système fermé)}} à {{unité|37|km}}
+'''Section non-concédée gérée par la [[Direction interdépartementale des Routes#Direction interdépartementale des Routes Nord|DIR Nord]] et gratuite.'''
+* {{Sortie|15 Hordain}} à {{unité|40|km}} : Amiens, Saint-Quentin, Cambrai - ''nord'', [[Bouchain (Nord)|Bouchain]], [[Aniche]], [[Hordain]], [[Iwuy]], ''[[Fichier:France road sign ID35.svg|15px|alt]] Hordain''
+* {{Sortie|16 Bouchain}} à {{unité|42|km}} ''(demi-échangeur, depuis et vers Bruxelles)'' : Bouchain, Hordain, [[Lieu-Saint-Amand]], ''[[Fichier:France road sign ID35.svg|15px|alt]] Parc d'Activités Jean Monnet'' 
+* {{Sortie|17 Douchy-les-Mines}} à {{unité|43|km}} ''(demi-échangeur, depuis et vers Paris)'' : [[Douchy-les-Mines]], [[Neuville-sur-Escaut]] 
+* '''{{Échangeur autoroutier|[[Autoroute A21 (France)|A21]]|A2}}''' à {{unité|45|km}} : [[Denain]] - ''Nouveau-Monde'', [[Douai]], [[Escaudain]], [[Somain]], [[Aniche]]
+* {{Sortie|18 Denain}} à {{unité|48|km}} : Denain - ''centre'', [[Haulchin (Nord)|Haulchin]], Douchy-les-Mines ''[[Fichier:France road sign ID35.svg|15px|alt]] Thiant''
+** [[Fichier:France_road_sign_B14_(110).svg|22x22px]] Limitation à 110 km/h.
+* {{Sortie|19 ''Z. I. Prouvy-Rouvignies''}} à {{unité|51|km}} ''(quart-échangeur, depuis Paris)'' : ''[[Fichier:France road sign ID2.svg|15px|alt]] [[Aéroport de Valenciennes - Denain|Aérodrome]], Centre Routier, Douanier'' 
+* {{Sortie|20 La Sentinelle}} à {{unité|53|km}} : [[Valenciennes]] - ''Le Vignoble'', [[La Sentinelle (Nord)|La Sentinelle]], [[Trith-Saint-Léger]], [[Anzin]], ''[[Fichier:France road sign ID35.svg|15px|alt]] Prouvy-Rouvignies, [[Fichier:France road sign ID2.svg|15px|alt]] Aérodrome, Centre Routier'' + {{Aire de service|de La Sentinelle-Est|Paris – Bruxelles|de La Sentinelle-Ouest|Bruxelles – Paris}}
+* '''{{Échangeur autoroutier|[[Autoroute A23 (France)|A23]]|A2}}''' à {{unité|54|km}} : Lille, [[Saint-Amand-les-Eaux]], Valenciennes - ''Saint-Waast, Le Vignoble'', Anzin, ''[[Fichier:France road sign ID3.svg|15px|alt]] Centre Hospitalier''
+* {{Sortie|21/21a/21b Valenciennes - ''centre''}} à {{unité|55|km}} : [[Marly (Nord)|Marly]], Valenciennes, [[Solesmes (Nord)|Solesmes]], [[Le Cateau-Cambrésis|Le Cateau]], [[Aulnoy-lez-Valenciennes]], ''[[Université polytechnique Hauts-de-France|Universités]]''
+* {{Sortie|22a Maubeuge ([[route nationale 49 (France)|RD 649]])}} à {{unité|57|km}} ''(demi-échangeur, depuis et vers Paris)'' : [[Maubeuge]], [[Bavay]], [[Le Quesnoy]] 
+* {{Sortie|22b Marly}} à {{unité|57|km}} ''(demi-échangeur, depuis et vers Paris)'' : [[Marly (Nord)|Marly]], Valenciennes - ''Le Roleur'', ''[[Fichier:France road sign ID35.svg|15px|alt]] Marly 1''
+* {{Sortie|23 Saint-Saulve}} à {{unité|59|km}} : Marly, Valenciennes - ''Le Roleur'', [[Saint-Saulve]], ''[[Fichier:France road sign ID35.svg|15px|alt]] Marly 2, Maubeuge, Bavay, Le Quesnoy
+* {{Sortie|23.1 Sebourg}} à {{unité|62|km}} : [[Sebourg]], ''[[Fichier:France road sign ID35.svg|15px|alt]] Parc d'Activités de la Vallée de l'Escaut - sud''
+* {{Sortie|24 Onnaing}} à {{unité|64|km}} : [[Onnaing]], ''[[Fichier:France road sign ID35.svg|15px|alt]] Parc d'Activités de la Vallée de l'Escaut - nord''
+* {{Sortie|25 Vicq}} à {{unité|69|km}} : [[Vicq (Nord)|Vicq]], [[Quiévrechain]], [[Condé-sur-l'Escaut]], [[Fresnes-sur-Escaut]], [[Quarouble]], [[Bruay-sur-l'Escaut]], Saint-Saulve - Z. I.
+** {{Aire de repos|des Enclosis|Bruxelles – Paris}}
+* {{Sortie|26 Crespin}} à {{unité|74|km}} ''(demi-échangeur, depuis et vers Paris)'' : [[Crespin (Nord)|Crespin]], [[Saint-Aybert]], [[Thivencelle]]
+** [[Fichier:Belgian road sign C43 120.svg|22x22px]] Limitation à 120 km/h.
+** {{Aire de repos|de Saint-Aybert|Paris – Bruxelles}}
+* [[Fichier:France_road_sign_C208.svg|22px]] Fin de l'autoroute A2
+'''{{France}} - {{Belgique}}''', [[Frontière entre la Belgique et la France|Frontière franco-belge]] à {{unité|76|km}}
+* [[Fichier:Traffic sign of border with Belgium.svg|25px]] Entrée sur le territoire [[Belgique|belge]] : [[Fichier:Belgian traffic sign F5.svg|16px]] L'[[Autoroute A7 (Belgique)|autoroute belge A7]] en direction de : [[Ville de Bruxelles|Bruxelles (Brussel)]], [[Liège|Liège (Luik/Lüttich)]], [[Mons|Mons (Bergen)]], [[Charleroi]]
+
+=== Travaux de Vicq ===
+Entre {{date|septembre 2021}} et {{date|juillet 2022}}, l'autoroute A2 a été coupée dans le sens Bruxelles-Paris au niveau de l'échangeur de Vicq pour une raison inconnue, bien qu'un communiqué faisait état de « lutte contre les réseaux de passeurs et le trafic de stupéfiants »<ref>{{Lien web |titre=Vicq: le fameux barrage sur l’A2 levé, mais pour combien de temps? |url=https://www.lavoixdunord.fr/1208451/article/2022-07-21/vicq-le-fameux-barrage-sur-l-a2-enfin-leve-ce-jeudi-matin |éditeur=La Voix du Nord |consulté le=21 novembre 2022}}</ref>. Cette coupure a provoqué des bouchons importants ainsi que des nuisances pour les riverains puisque les véhicules devaient sortir de l'autoroute et traverser des quartiers résidentiels à proximité.
+
+== Lieux sensibles ==
+Dans son ensemble, le tracé est peu sinueux et il y a quelques pentes non dangereuses dans toute la partie concédée.
+
+* Il y a une pente à 5 %, dans la partie non concédée, au niveau du raccordement avec l'[[Autoroute A23 (France)|A23]].
+* {{pertinence contestée|Bouchons fréquents autour de Valenciennes (sorties 19 à 23 ; échangeur avec l'A23) dans les deux sens|date=8 octobre 2025}}.
+
+== Départements et régions traversés ==
+* [[Somme (département)|Somme]] (80) (aucune sortie)
+* [[Pas-de-Calais]] (62) (aucune sortie)
+* [[Nord (département français)|Nord]] (59)
+La totalité du tracé de l'autoroute se trouve en région Hauts-de-France.
+
+== Notes et références ==
+{{Références|références=
+<ref name="R1">{{Lien web |url= https://www.lavoixdunord.fr/204288/article/2017-08-14/pourquoi-un-monument-signale-le-poste-frontiere-de-saint-aybert |titre= Pourquoi un monument signale le poste frontière de Saint-Aybert |auteur= J.-M. C. |site= https://www.lavoixdunord.fr/ |éditeur= ''[[La Voix du Nord]]'' |en ligne le= 14 août 2017 }}</ref>
+}}
+
+== Annexes ==
+=== Articles connexes ===
+* [[Liste des autoroutes de France]]
+* [[Route européenne 15]]
+* [[Route nationale 30 (France)|Route nationale 30]]
+
+=== Liens externes ===
+* [http://www.sanef.com/fr/index.jsp Société SANEF]
+* [http://saratlas.free.fr/index.php?page=autoroute&route=a2&lang=fr Autoroute A2 dans Saratlas]
+* [http://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A2 Fiche autoroutière de l'A2 sur WikiSara]
+
+{{Palette|Autoroutes de France}}
+{{Portail|Picardie|Nord-Pas-de-Calais|route|Somme}}
+
+{{DEFAULTSORT:Autoroute francaise A2}}
+[[Catégorie:Autoroute dans les Hauts-de-France|002]]

@@ -1,0 +1,245 @@
+{{Voir homonymes|A8|La Provençale}}
+{{Infobox Route/France
+| statut = A
+| numéro = 8
+| nom = 
+| image = A8-Viaduc du Rank vu de Gorbio-2.JPG
+| légende = Viaduc du Rank vu de [[Gorbio]].
+| carte = Autoroute A8 FR.svg
+| autres_noms = La Provençale
+| ouverture = à partir de [[1961]]
+| longueur = 224
+| direction = ouest / est
+| dir1 = ouest
+| dir2 = est
+| ville1 = {{Route européenne|80}} {{Route européenne|714}} {{Autoroute française|A7}} à [[Coudoux]]
+| ville2 = {{Cartouche route|IT|E|80}} {{Cartouche route|IT|A|10}} à [[Menton (Alpes-Maritimes)|Menton]]
+| villes_principales = [[Aix-en-Provence]], [[Brignoles]], [[Fréjus]]/[[Saint-Raphaël (Var)|Saint-Raphaël]], [[Cannes]]/[[Mougins]], [[Antibes]], [[Nice]], [[La Turbie]]/[[Monaco]], [[Menton (Alpes-Maritimes)|Menton]]
+| régions = Provence-Alpes-Côte d'Azur
+| départements = [[Bouches-du-Rhône]], [[Var (département)|Var]], [[Alpes-Maritimes]]
+| nb_reg = 1
+| nb_dep = 3
+| intersections = {{Route européenne|712}} {{Autoroute française|A51}} à [[Aix-en-Provence]]<br />{{Autoroute française|A52}} à [[Châteauneuf-le-Rouge]]<br />{{Autoroute française|A57}} au [[Le Cannet-des-Maures|Cannet des Maures]]<br />{{Route métropolitaine N|202|6202BIS}} à [[Nice]]<br />{{Autoroute française|A500}} à [[La Trinité (Alpes-Maritimes)|La Trinité]] (à proximité de [[Monaco]])
+| réseau = Autoroute française, également {{Route européenne|74}} {{Route européenne|80}}
+| concessionnaires = [[Autoroutes du Sud de la France|ASF]] (entre Coudoux et Aix-en-Provence)<br />[[Autoroutes Esterel-Côte d'Azur|ESCOTA]] (entre Aix-en-Provence et Menton)
+| site = https://www.a8-actualites.com/
+| twitter = https://twitter.com/A8Trafic
+}}
+{{maplink|frame=yes|plain=yes|frame-width=290|frame-height=360|frame-align=right|type=line|stroke-width=2| |stroke-color=#0000C0| id= }}
+En [[France]], l’'''autoroute A8''', dite '''''la Provençale''''', relie [[Aix-en-Provence]] et l'[[Autoroute A7 (France)|A7]] à la [[Côte d'Azur]]. Elle fait partie du réseau [[Autoroutes du Sud de la France]] (ASF) entre [[La Fare-les-Oliviers|La Fare-les Oliviers]] au sud de [[Lançon-Provence]] (bifurcation A8 / [[Autoroute A7 (France)|A7]]) et [[Aix-en-Provence]] ([[Autoroute A51 (France)|A51]]) puis du réseau [[Autoroutes Esterel-Côte d'Azur|Estérel-Côte d'Azur-Provence-Alpes]] (ESCOTA) entre Aix-en-Provence et [[Menton (Alpes-Maritimes)|Menton]] (frontière italienne). Elle est longue de {{unité|223|km}}<ref>[http://maps.google.fr/maps?f=d&source=s_d&saddr=A8&daddr=43.788507,7.529776&geocode=FRSwmAId9MVPAA%3B&gl=fr&hl=fr&mra=dme&mrcr=0&mrsp=1&sz=17&sll=43.788755,7.529722&sspn=0.003354,0.006899&ie=UTF8&ll=43.59607,6.378895&spn=1.722515,3.532104&z=8 Itinéraire en voiture A8 (Coudoux) > A8 (limite France-Italie)]</ref>.
+
+[[Radio Vinci Autoroutes]] (107.7 FM) fonctionne sur l'A8 réseau [[Autoroutes Esterel-Côte d'Azur|ESCOTA]]. L'A8 fait partie du réseau [[Autoroutes du Sud de la France|ASF]]-ESCOTA ([[Vinci Autoroutes]]) de la '''zone EST'''.
+
+== Tracé ==
+
+L'A8 est reliée à l'[[Autoroute A7 (France)|A7]] à l'ouest d'[[Aix-en-Provence]], à [[La Fare-les-Oliviers]]. Dans les départements des [[Bouches-du-Rhône]], du [[Var (département)|Var]] et des [[Alpes-Maritimes]], elle dessert les villes d'Aix-en-Provence, [[Fréjus]], [[Saint-Raphaël (Var)|Saint-Raphaël]], [[Cannes]], [[Antibes]], [[Nice]], [[Monaco]] et [[Menton (Alpes-Maritimes)|Menton]] avant de franchir la frontière où elle devient l'[[Autoroute italienne A10|A10]] en [[Italie]]. Elle traverse le pied des massifs de la [[Massif de la Sainte-Baume|Sainte-Baume]] et des [[Massif des Maures|Maures]] entre Aix-en-Provence et Fréjus et le [[massif de l'Esterel|massif de l’Estérel]] entre Saint-Raphaël et Cannes.
+
+=== Aménagement ===
+* {{dunité|2|3|voies}} de [[Coudoux]] (jonction avec l'[[Autoroute A7 (France)|A7]]) à [[Cagnes-sur-Mer]].
+* {{dunité|2|4|voies}} de Cagnes-sur-Mer à [[Saint-Laurent-du-Var]] (entrée de l’agglomération niçoise).
+* {{dunité|2|3|voies}} entre les sorties 50 ([[Nice]] – [[Promenade des Anglais]]) et 52 (Nice – [[Liste des quartiers de Nice#Saint-Isidore|Saint-Isidore]]).
+* {{dunité|2|3}}, 2 + 3 ou {{Dunité|2|2|voies}} dans la traversée sud des [[Alpes]] (de Nice – Saint-Isidore à la frontière italienne). 15 tunnels jalonnent cette portion très technique. La vitesse est limitée à {{unité|110|km/h}} dans les tunnels ({{unité|70|km/h}} pour les poids-lourds).
+
+== Historique ==
+* [[1956]] : création de la société [[Autoroutes Esterel-Côte d'Azur|Escota]] qui aura en charge la totalité des tronçons entre [[Aix-en-Provence]] et la frontière italienne.
+* [[1957]] : lancement des travaux de construction de l'[[Autoroute Esterel-Côte d'Azur|Autoroute de l’Estérel]].
+* {{date|2 décembre 1959}} : destruction totale du pont sur le [[Reyran]] à la suite de la rupture du [[barrage de Malpasset]].
+* [[1961]] : ouverture des tronçons à péage de [[Fréjus]] à [[Mandelieu-la-Napoule]] puis jusqu'à [[Cagnes-sur-Mer]] (cas unique de voie payante à cette époque en France) près de [[Nice]], introduction des premiers tickets de transit perforés.
+* [[1966]] : l'Autoroute de l'Estérel devient A8 en application du système de numérotation entrant en vigueur.
+* [[1969]] : ouverture du tronçon à péage entre [[Roquebrune-Cap-Martin|Roquebrune]] et la frontière italienne (première connexion internationale autoroutière payante depuis la France). Une chaussée seulement est ouverte et son utilisation est interdite aux poids-lourds jusqu'à l'année suivante, lorsque celle-ci est effectivement doublée. Cette portion ainsi que ses prolongements postérieurs furent initialement numérotés A53.
+* [[1970]] : ouverture de la déviation d'[[Aix-en-Provence]] concédée à [[Autoroutes Esterel-Côte d'Azur|Escota]] qui demeurera l'une des rares sections sans péage sur le tracé de l'A8.
+* [[1972]] : ouverture de la bifurcation entre l'[[Autoroute A7 (France)|A7]] et l'A8 dite Croix de [[Coudoux]] ainsi que de la liaison vers [[Aix-en-Provence]] toutes deux concédées à la SAVR (devenue [[Autoroutes du Sud de la France|ASF]] l'année suivante), prolongement de la section historique de l'A8 entre [[Fréjus]] et [[Le Luc]].
+* [[1973]] : le second nom de La Provençale est attribué à l'autoroute A8.
+* [[1981]] : ouverture du dernier tronçon sur le contournement de [[Nice]] mais le doublement des voies entre cette agglomération et l'échangeur de [[La Turbie]] ne fut achevé qu'à la fin de la décennie.
+* [[1982]] : à la suite d'une réforme nationale de la numérotation, l'autoroute A53 desservant toute la Corniche est intégrée à l'A8 (cette appellation n'existe plus sur le réseau autoroutier français actuel...).
+* [[2021]] : la première pierre de l<nowiki>'</nowiki>aire de Beausoleil ayant fait l'objet de travaux de réhabilitation depuis plusieurs années a été posée en {{date|juillet 2021}}. Cette nouvelle bretelle permet également de désengorger le trafic en direction de Monaco<ref>{{Lien web |langue=fr |prénom1=La |nom1=rédaction |titre=Découvrez à quoi va ressembler la future sortie de Beausoleil sur l'A8 |url=https://www.monacomatin.mc/info-trafic/decouvrez-a-quoi-va-ressembler-la-future-sortie-de-beausoleil-sur-la8-701785 |accès url=payant |site=Monaco-Matin |date=2021-07-14 |consulté le=2021-07-15 |brisé le=27 octobre 2026 |archive-url=https://web.archive.org/web/20250605204045/https://www.monacomatin.mc/info-trafic/decouvrez-a-quoi-va-ressembler-la-future-sortie-de-beausoleil-sur-la8-701785 |archive-date=5 juin 2025}}.</ref>.
+
+== Sorties et échangeurs ==
+[[Fichier:Disjonction A7-A8.JPG|vignette|Approche de l'échangeur A7 - A8.]]
+''Kilométrage : km 0 de l’A7'', incluant les projets<ref>{{pdf}} [http://autorout.free.fr/2_Pdf/1_France/A8.pdf Panneaux directionnels de l’A8]</ref><br>
+'''Section concédée à [[Autoroutes du Sud de la France|ASF]] et payante.'''
+* '''{{échangeur autoroutier|[[Autoroute A7 (France)|A7]]|A8}}''' à {{unité|0|km}} et {{unité|2|km}} ''(deux demi-échangeurs)'' : [[Lyon]], [[Avignon]], [[Nîmes]], [[Barcelone]], [[Salon-de-Provence]] ([[Autoroute A54 (France)|A54]]) ; [[Berre-l'Étang]], ''[[Fichier:France road sign ID2.svg|15px|alt]] [[aéroport Marseille-Provence|Marseille-Provence]]'' + {{Sortie|28 Coudoux}} à {{unité|2|km}} ''(demi-échangeur, depuis et vers Menton)'' : [[Coudoux]], [[La Fare-les-Oliviers]]
+** [[Fichier:France road sign C207.svg|24x24px]] [[Fichier:Panneau-C24a.svg|22x22px]] [[Fichier:France road sign B14 (130).svg|22x22px]] Début de l'autoroute, début de {{dunité|2|3|voies}} et limitation à 130 km/h.
+** {{Aire de repos|de Ventabren}}
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à 110 km/h.
+* {{Sortie|29 Aix - ''ouest''}} à {{unité|16|km}} ''(demi-échangeur, depuis et vers Lyon)'' : ''[[Fichier:France road sign C207.svg|22x22px]] [[Gap]] ([[Autoroute A51 (France)|A51]])'', [[Aix-en-Provence]] - ''centre, [[Jas-de-Bouffan]], Encagnane, [[Les Milles]]''
+** [[Fichier:France road sign B14 (90).svg|22x22px]] Limitation à {{unité|90|km/h}} pour le contournement d'Aix en Provence
+* '''{{échangeur autoroutier|[[Autoroute A51 (France)|A51]]|[[Route nationale 296|RN 296]]|A8}}''' à {{unité|17,5|km}} ''(trois-quart échangeur, non-accessible depuis Lyon)'' : [[Marseille]] - ''nord'' (A7), ''Marignane, Les Milles, [[Fichier:France road sign ID12a.svg|15px|alt]] [[Gare d'Aix-en-Provence TGV|Aix T.G.V]], [[Fichier:France road sign ID2.svg|15px|alt]] Marseille-Provence'' ; Gap (A51), Aix-en-Provence - Encagnane, Avignon (interdit + {{unité|26|t}})
+
+'''Section concédée à [[Autoroutes Esterel-Côte d'Azur|ESCOTA]] et payante (sauf entre les sorties 30 à 31, 40 à 42, 49 à 51.1, 54 à 55 et 58 à 59).'''
+* {{Sortie|30a/30b/30 Aix - ''Pont-de-l'Arc''}} à {{unité|19|km}} : Aix-en-Provence - ''centre, Les Milles, Luynes, Facultés, Val-de l'Arc''
+* {{Sortie|31 Aix - ''Val-Saint-André''}} à {{unité|22|km}} : Aix-en-Provence, [[Fréjus]], [[Saint-Raphaël (Var)|Saint-Raphaël]], [[Aubagne]]
+** [[Fichier:France road sign C111.svg|22x22px]] ''Tunnel de Langesse'' ({{unité|114|m}}) 
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à {{unité|110|km/h}}.
+* {{Sortie|32 Cannet-de-Meyreuil}} à {{unité|27|km}} : [[Fuveau]], [[Trets]], [[Rousset (Bouches-du-Rhône)|Rousset]], [[Gardanne]]
+* {{Péage|Péage de la Barque (à système fermé)}}
+* '''{{échangeur autoroutier|[[Autoroute A52 (France)|A52]]|A8}}''' à {{unité|31|km}} : Aubagne, [[Toulon]], Marseille - ''centre ''([[Autoroute A50 (France)|A50]])
+** [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à {{unité|130|km/h}}
+** {{Aire de service|de Rousset|Menton-Aix|de la Sainte-Victoire (anc. l'Arc)|Aix-Menton}}
+''Passage du [[Bouches-du-Rhône]] au département du [[Var (département)|Var]].''
+* {{Sortie|33 Pourrières}} à {{unité|47|km}} ''(demi-échangeur, depuis et vers Menton)'' : Rousset, [[Pourrières]], Trets
+** {{Aire de repos|de Saint-Hilaire|Menton-Aix|de Barcelone|Aix-Menton}}
+* {{Sortie|34 Saint-Maximin}} à {{unité|58|km}} : [[Barjols]], Tourves, [[Saint-Maximin-la-Sainte-Baume]], Auriol
+** {{Aire de service|de Cambarette|Menton-Aix|des Terrasses de Provence|Aix-Menton}}
+[[Fichier:Exposition archéologique de l'aire des Terrasses de Provence sur l'autoroute A8.jpg|thumb|Exposition archéologique sur l'aire des Terrasses de Provence]]
+* {{Sortie|35 Brignoles}} à {{unité|74|km}} : Le Val, [[Brignoles]]
+** {{Aire de repos|de Candumy|Menton-Aix|de Roudaï|Aix-Menton}}
+** [[Fichier:AB-Brücke.svg]] ''Viaduc du Luc'' ({{unité|300|m}})
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à {{unité|110|km/h}} (sens Aix-Menton) pour une descente dangereuse, au niveau du Luc.
+* '''{{échangeur autoroutier|[[Autoroute A57 (France)|A57]]|A8}}''' à {{unité|99|km}} : Toulon, [[Hyères]] ([[Autoroute A570 (France)|A570]]), [[La Garde-Freinet]], [[Vidauban]], [[Le Luc]], [[Le Cannet des Maures]]
+** {{Aire de service|de Provence Verdon|Menton-Aix|de Vidauban sud|Aix-Menton}}
+* {{Sortie|36 Le Muy}} à {{unité|117|km}} : [[Saint-Tropez]], [[Draguignan]], [[Sainte-Maxime]], [[Roquebrune-sur-Argens]], Vidauban, [[Les Arcs (Var)|Les Arcs]], [[Le Muy]]
+** {{Aire de repos|de Jas Pellicot|Aix-Menton}} et {{Aire de service|du Canaver|Menton-Aix}}
+''Sortie au niveau de Roquebrune sur Argens en projet''
+* {{Sortie|37 Puget-sur-Argens}} à {{unité|129|km}} : Fréjus - ''ouest'', [[Puget-sur-Argens]], Roquebrune-sur-Argens
+* {{Péage|Péage du Capitou (à système fermé)}}
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à {{unité|110|km/h}}
+* {{Sortie|38 Fréjus}} à {{unité|133|km}} et {{unité|134|km}} ''(deux demi-échangeurs)'' : Fréjus - ''centre'', Saint-Raphaël
+** {{Aire de repos|du Reyran|Aix-Menton}}, ''réservée aux poids lourds''
+** {{Aire de service|de l'Estérel|Aix-Menton}}<ref>{{Lien web |langue=fr |titre=L'aire de l'Esterel est inaugurée sur l'A8 |url=https://radio.vinci-autoroutes.com/medias/appli/154532bc3a5e202991024ac622519c99.pdf}}</ref>
+* {{Sortie|39 Les Adrets}} à {{unité|146|km}} : [[Fayence]], [[Les Adrets-de-l'Estérel]]
+''Passage du Var au département des [[Alpes-Maritimes]].''
+* {{Sortie|40 Mandelieu}} à {{unité|157|km}} : [[Théoule-sur-Mer]], [[Mandelieu-la-Napoule]] - ''centre''
+* {{Sortie|41 ''[[La Bocca]]''}} à {{unité|159|km}} : Mandelieu - est, ''[[Fichier:France road sign ID2.svg|15px|alt]] [[Aéroport de Cannes - Mandelieu|Cannes-Mandelieu]]'', [[Cannes]] - ''centre, ouest'' (La Bocca : (ex-Cannes ouest, ''appellation éphémère durant les années 90''))
+* {{Sortie|42 Mougins}} à {{unité|165|km}} : [[Grasse]], [[Le Cannet]], Cannes - ''centre'', [[Mougins]] 
+** {{Aire de repos|du Piccolaret|Aix-Menton}}
+** {{Aire de service|de Mougins (anc. Bréguières Nord)|Menton-Aix|de la Côte d'Azur (anc. Bréguières Sud)|Aix-Menton}}
+''Sortie 43 (en projet)''
+* {{Péage|Péage d'Antibes (à système ouvert)}} + {{Sortie|44 Antibes}} à {{unité|171|km}} : [[Antibes]], [[Sophia Antipolis]], [[Vallauris]], [[Golfe Juan]], [[Juan-les-Pins]]
+''Sortie 45 (en projet)''
+* {{Sortie|46 Villeneuve-Loubet - ''Plage''}} à {{unité|178|km}} ''(demi-échangeur, depuis et vers Aix)'' : Bouches du [[Loup (fleuve)|Loup]], [[Villeneuve-Loubet]]
+* {{Sortie|47 Villeneuve-Loubet / Cagnes-sur-Mer - ''ouest''}} à {{unité|179|km}} : Villeneuve-Loubet - ''centre'', [[Vence]], [[Cagnes-sur-Mer]]
+** [[Fichier:France road sign B14 (90).svg|22x22px]] Limitation à {{unité|90|km/h}} entre les sorties 47 et 55
+* {{Sortie|48 Cagnes-sur-Mer - ''est''}} à {{unité|181|km}} ''(demi-échangeur, depuis et vers Menton)'' : Vence, Cagnes-sur-Mer
+* {{Sortie|49 Saint-Laurent-du-Var}} à {{unité|185|km}} : [[Saint-Laurent-du-Var]] 
+** [[Fichier:AB-Brücke.svg]] ''[[Viaduc du Var]]'' ({{unité|310|m}}) sur [[Fichier:Panneau cours d'eau France.png|20px]] le [[Var (fleuve)|Var]].
+* {{Sortie|50 Nice - ouest}} à {{unité|186|km}} ''(demi-échangeur, depuis et vers Aix)'' : [[Nice]] - ''centre, [[Promenade des Anglais]]''
+* {{Sortie|51 Nice - ''Aéroport''}} à {{unité|186|km}} : ''M.I.N.'', ''Centre Administratif'', ''[[Fichier:France road sign ID2.svg|15px|alt]] [[Aéroport de Nice-Côte d'Azur|Nice-Côte d'Azur]]'', Nice - ''[[Liste_des_quartiers_de_Nice#Saint-Augustin|Saint-Augustin]], ouest''
+* {{Sortie|51.1 Carros}} à {{unité|188|km}} : [[Carros]], [[Digne-les-Bains]], [[Grenoble]] (''Échangeur avec la M 6202<sup>BIS</sup> (2012) - actuellement uniquement sortie dans le sens Aix vers Menton - Entrée et autre sens encore en projet.'')
+* {{Sortie|52 Nice - ''[[Liste_des_quartiers_de_Nice#Saint-Isidore|Saint-Isidore]]''}} à {{unité|190|km}} : Carros, Nice, [[Allianz Riviera|Stade de Nice]], Grenoble, Digne-les-Bains
+* {{Péage|Péage de Nice-Saint-Isidore (à système ouvert)}}
+** Montée à 6% sur 5km
+** [[Fichier:AB-Brücke.svg]] ''Viaduc de Saint-Isidore'' ({{unité|230|m}})
+** [[Fichier:France road sign C111.svg|22x22px]] ''Tunnel de Canta-Galet'' ({{unité|500|m}}, sens Aix-Menton) ({{unité|600|m}}, sens Menton-Aix)
+** [[Fichier:AB-Brücke.svg]] ''Viaduc de Magnan'' ({{unité|490|m}})
+** [[Fichier:France road sign C111.svg|22x22px]]'' Tunnel de Saint-Pierre de Féric'' ({{unité|220|m}})
+** [[Fichier:France road sign C111.svg|22x22px]] ''Tunnel de Pessicart'' ({{unité|550|m}}, sens Aix-Menton) ({{unité|600|m}}, sens Menton-Aix)
+** [[Fichier:France road sign C111.svg|22x22px]] ''Tunnel de Las Planas'' ({{unité|1100|m}})
+''Pas de sortie 53''
+* {{Sortie|54 Nice - ''Quartiers Nord''}} à {{unité|198|km}} : Nice - ''nord''
+** [[Fichier:AB-Brücke.svg]] ''Viaduc du Vallon des Fleurs'' ({{unité|125|m}})
+** [[Fichier:France road sign C111.svg|22x22px]] ''Tunnel du Cap de Croix'' ({{unité|400|m}})
+** [[Fichier:France road sign C111.svg|22x22px]] ''Tunnel de La Baume'' ({{unité|350|m}})
+** [[Fichier:AB-Brücke.svg]] Viaduc de la Banquière ({{unité|230|m}})
+* {{Sortie|55 Nice - ''est''}} à {{unité|200|km}} et {{unité|201|km}} ''(demi-échangeur, de et vers Aix)'' : Nice - [[L'Ariane]], ''[[Fichier:France road sign ID13a.svg|15px|alt]] [[Port Lympia|Port]]'', [[Saint-André-de-la-Roche]], [[La Trinité (Alpes-Maritimes)|La Trinité]]
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à {{unité|110|km/h}} sur 4km
+** [[Fichier:AB-Brücke.svg]] ''Viaduc du Paillon'' ({{unité|360|m}})
+* {{Sortie|55 Nice - ''est''}} à {{unité|201|km}} ''(demi-échangeur, de et vers Menton)'' : Nice - ''centre'', ''[[Fichier:France road sign ID13a.svg|15px|alt]] Port'', Saint-André-de-la-Roche, La Trinité
+** Montée à 6% sur 5km
+** [[Fichier:France road sign C111.svg|22x22px]] ''Tunnel de Paillon'' ({{unité|400|m}}, sens Aix-Menton)
+** [[Fichier:AB-Brücke.svg]] ''Viaduc de l'Oli'' ({{unité|620|m}})
+** [[Fichier:AB-Brücke.svg]] ''Viaduc de la Nuec'' ({{unité|245|m}})
+** [[Fichier:France road sign C111.svg|22x22px]] ''Tunnel de Rosti'' ({{unité|250|m}}, sens Aix-Menton) ({{unité|230|m}}, sens Menton-Aix)
+** [[Fichier:AB-Brücke.svg]] ''Viaduc des Vignasses'' ({{unité|255|m}})
+** [[Fichier:France road sign B14 (90).svg|22x22px]] Limitation à 90km/h sur 3km (tracé sinueux)
+** [[Fichier:France road sign C111.svg|22x22px]] ''Tunnel de La Borne Romaine'' ({{unité|755|m}}, sens Aix-Menton)
+* {{Sortie|56 Monaco ([[Autoroute A500 (France)|A500]])}} à {{unité|207|km}} ''(demi-échangeur, depuis et vers Aix)'' : [[Monaco]] - ''centre'', Cap d'Ail
+* {{Péage|Péage de la Turbie (à système ouvert)}} + {{Sortie|57 La Turbie}} à {{unité|208|km}} ''(demi-échangeur, depuis et vers Aix)'' : [[La Turbie]], [[Èze]]
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à {{unité|110|km/h}}
+** [[Fichier:AB-Brücke.svg]] ''Viaduc du Borriglione'' ({{unité|245|m}})
+** {{Aire de service|Via Julia Augusta (anc. La Scoperta)|Menton-Aix}}
+** [[Fichier:France road sign C111.svg|22x22px]] ''Tunnel de Col de Guerre'' ({{unité|290|m}}, sens Aix-Menton) ({{unité|350|m}}, sens Menton-Aix)
+* {{Sortie|58 Beausoleil / Monaco - ''est''}} à {{unité|211|km}} : Monaco, Roquebrune-Cap-Martin, [[Beausoleil (Alpes-Maritimes)|Beausoleil]] ''(quart-échangeur, depuis Aix)'' + {{Aire de service|de la Riviera Française (anc. Beausoleil)|Aix-Menton}}
+** [[Fichier:France road sign C111.svg|22x22px]] ''Tunnel de L'Arme'' ({{unité|1105|m}})
+** [[Fichier:France road sign C111.svg|22x22px]] ''Tunnel de Ricard'' ({{unité|405|m}}, sens Aix-Menton) ({{unité|440|m}}, sens Menton-Aix)
+* {{Sortie|58 Roquebrune}} à {{unité|213|km}} ''(demi-échangeur, depuis et vers Menton)'' : Monaco, Roquebrune-Cap-Martin, Èze, La Turbie
+** [[Fichier:France road sign C111.svg|22x22px]] ''Tunnel de La Coupière'' ({{unité|815|m}}, sens Aix-Menton) ({{unité|810|m}}, sens Menton-Aix)
+** [[Fichier:AB-Brücke.svg]] ''Viaduc du Gorbio'' ({{unité|150|m}})
+** [[Fichier:AB-Brücke.svg]] ''Viaduc du Rank'' ({{unité|360|m}})
+** [[Fichier:France road sign C111.svg|22x22px]] ''Tunnel de Col de Garde'' ({{unité|230|m}})
+** [[Fichier:AB-Brücke.svg]] ''Viaduc de Saint-Agnès'' ({{unité|450|m}})
+** [[Fichier:AB-Brücke.svg]] ''Viaduc du Pala'' ({{unité|190|m}})
+** [[Fichier:France road sign C111.svg|22x22px]] ''Tunnel de Sainte-Lucie'' ({{unité|150|m}})
+** [[Fichier:AB-Brücke.svg]] ''Viaduc de Cabrolles'' ({{unité|300|m}})
+* {{Sortie|59 Menton}} à {{unité|220|km}} : [[Menton (Alpes-Maritimes)|Menton]], [[Sospel]]
+** [[Fichier:France road sign B14 (90).svg|22x22px]] Limitation à {{unité|90|km/h}} (sens France-Italie)
+** [[Fichier:AB-Brücke.svg]] ''Viaduc de Careï'' ({{unité|520|m}})
+** [[Fichier:France road sign C111.svg|22x22px]] ''Tunnel de Castellar'' (600 m)
+** [[Fichier:AB-Brücke.svg]] ''Viaduc du Fossan'' ({{unité|135|m}})
+** [[Fichier:AB-Brücke.svg]] ''Viaduc du Baousset'' ({{unité|125|m}})
+** [[Fichier:AB-Brücke.svg]] ''Viaduc du Garavan'' ({{unité|205|m}})
+** [[Fichier:France road sign C111.svg|22x22px]] ''Tunnel de la Peyronnet'' (150 m)
+** [[Fichier:France road sign C111.svg|22x22px]] ''Tunnel de La Giraude'' (sens France-Italie, {{unité|400|m}} totalité ({{unité|255|m}}, côté français)) (sens Italie-France, {{unité|410|m}} totalité ({{unité|250|m}}, côté français)) 
+'''{{France}} / {{Italie}}''', [[Frontière entre la France et l'Italie|Frontière franco-italienne]] à l'intérieur du tunnel + [[Fichier:France road sign C208.svg|22x22px]] Fin de l'autoroute A8
+* [[Fichier:Italian traffic signs - confine di Stato tra paesi della Comunità Europea (figura II 97-a).svg|25px]] Entrée sur le territoire [[Italie|italien]] ''(Plateforme douanière située sur le territoire italien)'' : [[Fichier:Italian traffic signs - inizio autostrada (figura II 345).svg|18px]] L'[[Autoroute A10 (Italie)|autoroute italienne A10]] en direction de [[Gênes|Gênes (Genova)]], [[Coni|Coni (Cuneo)]], [[Vintimille|Vintimille (Ventimiglia)]], [[Tende (Alpes-Maritimes)|Tende]], [[Breil-sur-Roya]]
+
+== Classement en route européenne ==
+L'A8 est aussi l'[[Route européenne 80|E80]] sur tout son parcours : de l'[[Italie]] à la jonction avec l'A7 ; [[Route européenne 74|E74]] de Nice à l'Italie.
+
+== Circulation ==
+[[Fichier:Les Gendarmes de l'Autoroute A8.webm|thumb|Gendarmes de l'autoroute A8.]]
+
+Le trafic est dense toute l'année et proche de la saturation en juillet et en août en particulier le samedi, la région étant très appréciée par les vacanciers. Elle est aussi un point de passage stratégique entre la péninsule ibérique et l'Italie ou l'Europe de l'Est (un des plus forts de France entre [[Antibes]] et [[Nice]]). Au franchissement du [[Var (fleuve)|Var]] à Nice-Ouest, l'écoulement de véhicules est équivalent au [[Boulevard périphérique de Paris|périphérique parisien]]. L'autoroute est occasionnellement fermée sur une partie du tronçon Nice-Menton en raison d'éboulements rocheux sur la chaussée, créant un trafic complètement saturé sur le réseau secondaire. Les tronçons traversant les Maures et l’Estérel sont soumis aux risques de [[feu de forêt|feux de forêt]], importants en été.
+
+=== Lieux sensibles ===
+(uniquement les lieux à bouchons et les pentes dangereuses) :
+
+==== Dans le sens Aix-Italie ====
+* Sortie 42 : Cannes-Mougins : cette sortie est très fréquentée et débouche sur un rond-point, ce qui occasionne fréquemment le blocage de la voie de droite par les véhicules.
+* Sortie 47 : trafic dense à hauteur de la sortie Villeneuve-Loubet Centre. En effet, la bretelle de sortie débouche sur une route avec un passage de deux voies à une voie avec trafic dense, ce qui occasionne souvent le blocage de la bande d'arrêt d'urgence sur un long trajet par les véhicules, dangereusement proches aux voitures et camions qui circulent sur la voie de droite.
+* Sorties 49 et 50 : le trafic est très dense, et l’autoroute sert alors de rocade.
+* Descente dangereuse à l'approche du Luc-en-Provence avec une pente à 6 %, vitesse limitée à {{unité|110|km/h}} pour les voitures et {{unité|70|km/h}} pour les véhicules de plus de {{unité|3.5|tonnes}}.
+* Descente dangereuse entre les sorties 39 et 40, vitesse limitée à {{unité|110|km/h}} et avec 1 radar automatique pour contrôler la vitesse des usagers.
+
+==== Dans le sens Italie-Aix ====
+* entre les échangeurs 52 et 49, le trafic est dense.
+* Sorties 44 et 42, bouchon aux heures de pointe avec voie de droite bloquée.
+* Descente dangereuse formant un virage à droite limitée à {{unité|90|km/h}} sans grande visibilité, donnant sur la sortie 42 avec potentiellement la voie de droite bloquée par les véhicules voulant sortir.
+
+==== Au niveau d'Aix-en-Provence ====
+Embouteillages récurrents, l'A8 servant de rocade à la ville et de voie express locale.
+
+==== Dans les Alpes-Maritimes ====
+La vitesse est limitée à {{unité|110|km/h}} maximum sur la portion d'autoroute située dans les Alpes-Maritimes, dans les deux sens. La vitesse est limitée à 90 km/h dans le contournement de Nice.
+
+== Sections gratuites ==
+En raison de la configuration des péages (présence de cinq barrières pleine voie) et du grand nombre d'échangeurs, certains parcours sont gratuits. C'est notamment le cas des contournements d'[[Aix-en-Provence]], [[Cannes]] et partiellement de celui de [[Nice]]. L'emprunt de l'A8 est gratuit sur les tronçons suivants :
+* de l'échangeur A8/A51 au diffuseur 31 (Aix-Val Saint-André) : contournement d'Aix ;
+* du diffuseur 40 (Mandelieu) au diffuseur 42 (Mougins) : contournement de Cannes ;
+* du diffuseur 49 (Saint-Laurent-du-Var) au diffuseur 51.1 (Nice-Plaine du Var) : Rocade Ouest de Nice, desserte de l'aéroport ;
+* du diffuseur 54 (Nice Nord) au diffuseur 55 (Nice l'Ariane) : Rocade Nord de Nice ;
+* du diffuseur 58 (Roquebrune-Cap-Martin) au diffuseur 59 (Menton).
+
+Attention : au-delà du diffuseur 59, l'A8, bien qu'officiellement gratuite sur sa section française, se poursuit par une section payante de l'A10 italienne. L'accès à [[Vintimille]] est donc payant depuis la France.
+
+== Tourisme ==
+
+Certaines aires proposent des activités touristiques :
+* Aire de Rousset : les métiers de Provence, des santons dans des décors anciens représentent les activités d'autrefois.
+* Aire des Terrasses de Provence : une petite galerie présente les artéfacts retrouvés lors des fouilles archéologiques lors des travaux d'élargissement de l'autoroute.
+
+== Notes et références ==
+{{Références}}
+
+== Voir aussi ==
+{{Autres projets|commons=Category:A8 autoroute}}
+
+=== Articles connexes ===
+{{catégorie détaillée|Autoroute A8 (France)}}
+* [[Liste des autoroutes de France]]
+* [[Liste des ceintures périphériques et rocades en France]]
+
+=== Liens externes ===
+{{Liens}}
+* [http://saratlas.free.fr/index.php?page=autoroute&route=a8&lang=fr Autoroute A8 dans Saratlas]
+* [https://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A8 L'autoroute A8 sur WikiSara]
+* [https://structurae.info/ouvrages/autoroute-a-8-france L'autoroute A8 sur Structurae]
+* {{Lien web |titre=Site A8 actualités |url=https://www.a8-actualites.com/ |site=a8-actualites.com |brisé le=27 octobre 2026 |archive-url=https://web.archive.org/web/20190920191424/http://www.a8-actualites.com/ |archive-date=20 septembre 2019}}
+
+{{Palette|Autoroutes de France|Boulevards périphériques en France}}
+{{Portail|route|Aix-en-Provence|Bouches-du-Rhône|Var|Alpes-Maritimes}}
+
+[[Catégorie:Autoroute A8 (France)|*]]
+[[Catégorie:Transport routier dans les Bouches-du-Rhône]]
+[[Catégorie:Transport routier dans le Var]]
+[[Catégorie:Transport routier dans les Alpes-Maritimes]]

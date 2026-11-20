@@ -1,0 +1,298 @@
+{{Voir homonymes|A13|Autoroute de l'Ouest}}
+{{Infobox Route/France
+| statut = A
+| numéro = 13
+| autres_noms = Autoroute de Normandie et Route des Estuaires.
+| image = A13 Epone01.jpg
+| légende = L'autoroute de Normandie à Épône (Yvelines).
+| carte = France A13.svg
+| longueur = 225
+| direction = Est↔Ouest
+| dir1 = est
+| ville1 = {{route européenne|5}} [[Boulevard périphérique de Paris|Boulevard périphérique]] à [[Paris]]
+| dir2 = ouest
+| ville2 = {{route européenne|46}} {{Route nationale|814|lien=Boulevard périphérique de Caen}} à [[Caen]]
+| intersections = {{Autoroute française|A86}} à [[Vaucresson]]<br />{{Autoroute française|A12}} à [[Bailly (Yvelines)|Bailly]]<br />  {{Autoroute française|A104}} à [[Orgeval (Yvelines)|Orgeval]] (projet)<br />{{Autoroute française|A14}} à [[Orgeval (Yvelines)|Orgeval]]<br /> {{Autoroute française|A13a}} à [[Rosny-sur-Seine]] <br/>{{Autoroute française|A154}} à [[Val-de-Reuil]]<br />{{Autoroute française|A139}} à [[Oissel-sur-Seine]]<br />{{route européenne|402}} {{Autoroute française|A28}} à [[Bourg-Achard]] <br />{{route européenne|5}} {{Autoroute française|A131}} à [[Bourneville (Eure)|Bourneville]]<br />{{Autoroute française|A29}} à [[Beuzeville]]<br />{{Autoroute française|A132}} à [[Pont-l'Évêque (Calvados)|Pont-l'Évêque]]<br /> {{Autoroute française|A813}} à [[Banneville-la-Campagne]]
+| villes_principales = [[Paris]], [[Boulogne-Billancourt|Boulogne]], [[Saint-Cloud]], [[Orgeval (Yvelines)|Orgeval]], [[Les Mureaux]], [[Mantes-la-Jolie]], [[Vernon (Eure)|Vernon]], [[Gaillon]], [[Val-de-Reuil]], [[Bourg-Achard]], [[Beuzeville]], [[Pont-l'Évêque (Calvados)|Pont-l'Évêque]] et [[Caen]]
+| ouverture = À partir de [[1940]]
+| réseau = Autoroute française, également {{Route européenne|5}}, {{Route européenne|46}} et {{route européenne|402}} sous sa dénomination européenne
+| régions = [[Île-de-France]], [[Normandie (région administrative)|Normandie]]
+| départements = [[Paris]], [[Hauts-de-Seine]], [[Yvelines]], [[Eure (département)|Eure]], [[Seine-Maritime]], [[Calvados (département)|Calvados]]
+| concessionnaire = [[société des autoroutes Paris-Normandie|SANEF Paris Normandie]] (entre Orgeval et Caen)
+| gestionnaire = [[Direction interdépartementale des Routes#Direction des routes d'Île-de-France (DIRIF)|DIR Île-de-France]] (Paris et Orgeval)
+| nom = 
+}}
+En [[France]], l''''autoroute A13''', ou '''autoroute de Normandie''' ou encore '''autoroute de l'Ouest''', relie [[Paris]] à [[Caen]] en passant au sud de [[Rouen]], à {{Unité|15|km}} environ de son centre-ville. Sa longueur est de {{unité|225|km}}. C'est historiquement la première autoroute française. La portion entre l'[[Autoroute A29 (France)|autoroute A29]] et [[Caen]] fait partie de la [[route des Estuaires]].
+
+== Présentation ==
+Entre [[Paris]] et [[Orgeval (Yvelines)|Orgeval]], le gestionnaire de l'autoroute A13 est l'État français, représenté par la [[Direction interdépartementale des Routes#Direction des routes d'Île-de-France (DIRIF)|DIR Île-de-France]] (DIRIF). Son usage est gratuit de Paris à [[Mantes-la-Jolie]] ({{Nobr|sortie 13}}). Au-delà, c'est une autoroute à [[péage]] en [[Autoroute en flux libre|flux libre]], gérée par la [[société des autoroutes Paris-Normandie]] (SAPN). Cependant, trois autres sections sont libres : de [[Chaufour-lès-Bonnières]] ({{Nobr|sortie 15}}) à [[Gaillon]] ({{Nobr|sortie 17}}), de [[Criquebeuf-sur-Seine]] ({{Nobr|sortie 20}}) à ''Maison Brûlée'' ({{Nobr|sortie 24}}) et de [[Pont-l'Évêque (Calvados)|Pont-l'Évêque]] à ''La Haie Tondue'' ({{Nobr|sortie 29}}) (commune de [[Drubec]]).
+
+Depuis l'ouest de l'[[Île-de-France]] (Mantes-la-Jolie), elle traverse la [[Normandie (région administrative)|Normandie]] et dessert les deux capitales régionales par la rive gauche de la [[Seine]].
+
+Dans les années 2000, il a été envisagé de prolonger l'autoroute jusqu'à [[Cherbourg-en-Cotentin|Cherbourg]], mais ce projet semble aujourd'hui au point mort<ref>{{Lien web |url=http://images.wikia.com/routes/images/6/69/A13_-_Mise_aux_normes_autorouti%C3%A8res_Caen_-_Cherbourg_-_Enqu%C3%AAte_publique.pdf |titre=Mise aux normes autoroutières de la RN 13 entre Caen et Cherbourg |sous-titre=Enquête publique préalable à la déclaration d'utilité publique des travaux et des… - Rapport de la commission d'enquête |site=wikia.com |date=3 février 2005 |consulté le=10 août 2020}}.</ref>{{,}}<ref>{{Lien web |titre=Dossier. Dans la Manche, quatre ans pour définir ce que va devenir la RN13 |url=https://actu.fr/normandie/_50/dossier-dans-manche-quatre-ans-definir-ce-va-devenir-rn13_30363456.html |site=actu.fr |date=21 décembre 2019 |consulté le=2020-08-10}}.</ref>.
+
+== Historique ==
+Les premières autoroutes en Europe furent réalisées en Italie sur le tronçon [[Milan]] ↔ [[Côme]]{{refnec}}. L'Allemagne se lança ensuite vers un ambitieux programme à partir de l'accession au pouvoir d'[[Adolf Hitler|Hitler]]. La France réalisa ses premières études en 1927 pour créer l''''autoroute de l'Ouest''' qui devait relier la capitale à la Normandie. [[Le Havre]] et [[Cherbourg-en-Cotentin|Cherbourg]] constituaient des escales importantes pour les paquebots de luxe à une époque où n'existaient que peu d'avions commerciaux. Retardé par le caractère historique du [[Domaine national de Saint-Cloud|parc de Saint-Cloud]], le projet fut déclaré d'utilité publique le {{Date|4|mai|1935}}. Celui-ci s'accompagna de la reconstruction du [[pont de Saint-Cloud]]. Les travaux s'arrêtèrent en 1941 et la partie nord, après [[Vaucresson]] vers [[Orgeval (Yvelines)|Orgeval]], fut ouverte au public{{refnec}}.
+
+Le [[tunnel de Saint-Cloud]] fut utilisé par les Allemands comme dépôt d'explosifs de presque dix tonnes destinées à faire sauter Paris<ref>{{Lien archive |url=http://www.saintcloud.fr/articles/un-tunnel-dans-lhistoire |titre=Un tunnel dans l'histoire |site=saintcloud.fr |citation=le tunnel de l'autoroute A13 abrite un important stock d'explosifs que les Allemands menacent de faire sauter avant de se replier |horodatage archive=20170826121551}}.</ref>.
+
+L'ensemble fut effectivement ouvert à la circulation le {{Date|9 juin 1946}} à l'occasion de la première compétition automobile et motocycliste d'après-guerre<ref>[http://racingmemo.free.fr/M%20FRANCE/MOTO%20FRANCE%201946.htm Les Courses Motos en France - 1946], « 9 juin 1946, Circuit de Saint-Cloud (6,002 km) », sur ''racingmemo.free.fr'', consulté le 7 février 2015</ref>. C'est d'ailleurs le seul exemple d'une compétition sur autoroute. Cette autoroute était entièrement gratuite, financée entièrement par des fonds d'État. Au niveau du [[triangle de Rocquencourt]], la sortie vers [[Trappes]] s'effectuait par une bretelle à gauche, ce qui constituait une curiosité, pour une circulation à droite. Cette autoroute était créditée d'une étoile au [[guide vert|guide vert Michelin]] « Environs de Paris » jusque dans les années 1960, en raison de son caractère de modernité absolue et de nouveauté.
+
+Les autoroutes françaises furent ensuite dénommées en fonction des routes nationales qu'elles longent, d'où '''A13''' en raison de la proximité de la [[Route nationale 13 (France)|route nationale 13]].
+
+Le décret du {{date|12 juin 1967}} [[Déclaration d'utilité publique|déclare d'utilité publique]] la construction de l'autoroute entre Rouen (Les Essarts) et Caen<ref>{{Article|titre=Décret du {{Date|12|6|1967}} déclarant d'utilité publique la construction de la section comprise entre Les Essarts et Caen de l'autoroute Paris—Normandie|périodique=[[Journal officiel de la République française]]|date=1967-06-17|lire en ligne=https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000511348|éditeur=[[Légifrance]]|format=pdf|pages=5976}}.</ref>.
+
+La façade du tunnel de Saint-Cloud d'origine (actuel sens Paris → province) a été entièrement refaite lors du percement du deuxième tube (actuellement province → Paris). Ce tunnel d'origine, à double sens, était équipé d'un système de feux rouges horizontaux pour les sens de circulation. Les abords de l'entrée du premier tunnel abritaient le premier poste de secours routier français.
+
+Jusqu'en 1974, l'A13 s'arrêtait au [[pont de Saint-Cloud]]. Depuis, elle est reliée au [[Boulevard périphérique de Paris|périphérique parisien]] par le [[viaduc de Saint-Cloud]] qui surplombe la [[Seine]] et par un tunnel sous le nord de [[Boulogne-Billancourt]], amputant le jardin du [[Château Rothschild (Boulogne-Billancourt)|château Rothschild]].
+
+Dans le cadre du bouclage de l'[[Autoroute A86 (France)|autoroute A86]] dont la première section entre [[Rueil-Malmaison]] et [[Vaucresson]] a été mise en service en {{date|juin 2009}} (voir le tunnel [[Duplex A86]]), il a été ajouté une quatrième voie dans les deux sens et l'installation d'écrans acoustiques entre l'échangeur A13/A86 et le [[triangle de Rocquencourt]]<ref>{{Lien web|url=http://www.a13-yvelines.fr/fr/projet/ecrans-acoustiques/|titre=Poser des écrans acoustiques|éditeur=DIR Île-de-France - A13 Yvelines|consulté le=25 mai 2009}}.</ref>. Les échangeurs entre l'A13 et l'[[Autoroute A12 (France)|A12]] d'un côté et l'A13 et la [[Route nationale 186|RN 186]] de l'autre, seront réaménagés pour fluidifier le trafic<ref>{{Lien web|url=http://www.a13-yvelines.fr/fr/realisation/calendrier/|titre=Calendrier|éditeur=DIR Île-de-France - A13 Yvelines|consulté le=25 mai 2009}}.</ref>. La quatrième voie dans le sens Paris – Province permet d'accéder facilement au triangle de Rocquencourt. Elle a été inaugurée en {{date|janvier 2011}}. La quatrième voie dans le sens Province – Paris a été inaugurée en {{date|juillet 2011}}. Le décalage de six mois s'explique par la nécessité de réaliser « une glissière mobile d'affectation sur cette quatrième voie » qui est une voie affectée au tunnel Duplex A86<ref>''Le Parisien'', [http://www.leparisien.fr/hauts-de-seine-92/l-a-13-s-offre-une-quatrieme-voie-vers-rocquencourt-31-01-2011-1291120.php L'A13 s'offre une quatrième voie vers Rocquencourt], 31 janvier 2011</ref>.
+
+Le {{date|3 septembre 2019}}, le troisième tablier du [[viaduc de Guerville]] est mis en service dans le sens province - Paris après trois années de construction (2016-2019) afin de rénover les deux tabliers existants (sens Paris - province) datant des années 1960, sans pour autant couper le trafic<ref>{{Lien web |url=https://www.sanef.com/fr/actualites/grandsprojets/tic-tac-le-nouveau-tablier-du-viaduc-de-guerville-sur-a13-est-ouvert |titre=TIC TAC… Le nouveau tablier du viaduc de Guerville sur A13 est ouvert ! |citation=à l'aube du 3 septembre 2019, les premières voitures ont pu circuler sur le nouveau tablier. |date=6 septembre 2019 |site=sanef.com |consulté le=3 janvier 2020}}.</ref>.
+
+Le {{date|19 avril 2024}}, à la suite de l'apparition de [[Fissure (matériau)|fissures]] sur l'A13 à Saint-Cloud (92), la fermeture provisoire de la section Paris-Vaucresson ({{nb|130000 automobilistes/jour concernés}}) est décidée par les autorités. Ces fissures pourraient être la conséquence de mouvements de sol induits par un grand chantier à proximité, celui de la création d'un parking souterrain sous le [[musée du Grand Siècle]]<ref>{{Article |périodique=Batiactu |titre=Les fissures sur l'A13 probablement causées par un chantier situé à proximité (préfet) |date=2024-04-29 |lire en ligne=https://www.batiactu.com/edito/fermeture-a13-causee-par-un-grand-chantier-a-proximite-68450.php |consulté le=2024-04-30}}</ref>. Cette hypothèse annoncée le {{date|29 avril 2024}} par ''[[Le Canard enchaîné]]'' a été confirmée par un communiqué de Laurent Hottiaux [[Liste des préfets des Hauts-de-Seine|préfet des Hauts-de-Seine]] : {{Citation|Les analyses menées montrent aujourd'hui que les travaux réalisés, à l'extérieur de l'ouvrage sur un chantier de travaux à proximité sont, selon l'hypothèse la plus probable, les faits générateurs de ce [[Glissement de terrain|mouvement de terrain]]}}<ref>{{Lien web |langue=fr |auteur= GAILLY-DE-TAURINESC|titre= Réouverture progressive de l’autoroute A13 dans le sens Province-Paris prévue le samedi 11 mai 2024|url=https://www.hauts-de-seine.gouv.fr/contenu/telechargement/24535/173881/file/2024-04-29_CP%20R%C3%A9ouverture%20progressive%20de%20l%E2%80%99autoroute%20A13%20dans%20le%20sens%20Province-Paris%20pr%C3%A9vue%20le%20samedi%2011%20mai%202024.pdf |date= 29 4 2024|site= |consulté le=14 mai 2024|format=pdf}}.</ref>. Le préfet annonce la réouverture le {{date|11 mai 2024}}, pour le sens Province → Paris, et uniquement pour les véhicules légers, {{Citation|sous réserve que toutes les conditions de sécurité soient réunies}}<ref>{{Lien web|titre=Autoroute A13 : une réouverture prévue le 11 mai dans le sens Province-Paris uniquement |url=https://web.archive.org/web/20240429193920/https://www.leparisien.fr/info-paris-ile-de-france-oise/transports/autoroute-a13-une-reouverture-prevue-le-11-mai-dans-le-sens-province-paris-uniquement-29-04-2024-3GMPH3KEJVDS5PEDU33V6ED4UA.php |site=leparisien.fr |date=2024-04-29 |consulté le=2024-04-30}}</ref>, puis le {{date|19 juin 2024}}, le préfet annonce la réouverture totale le {{date|20 juin 2024}}, pour le sens Province vers Paris et le {{date|24 juin 2024}}, pour le sens Paris vers Province<ref>{{Lien web |langue=fr |nom=DiRIF |titre=Le préfet Laurent Hottiaux annonce la réouverture totale de l'autoroute A13 dans le sens Province-Paris le jeudi 20 juin et dans le sens Paris-Province le lundi 24 juin. |url=https://www.dir.ile-de-france.developpement-durable.gouv.fr/le-prefet-laurent-hottiaux-annonce-la-reouverture-a1722.html |site=DiRIF |date=2024-06-19 |consulté le=2024-08-05}}</ref>.
+
+Depuis {{date|septembre 2024}}, les panneaux de l'autoroute SAPN ont été remplacés par la mention Sanef Paris Normandie<ref>{{Lien web |titre=Paiement Sanef A13 & A14 : péage flux libre des autoroutes A13 et A14 {{!}} Sanef Sapn |url=https://www.sanef.com/ |site=www.sanef.com |consulté le=2025-05-11}}</ref>.
+
+Depuis la nuit {{Date|9|décembre|2024}}, toute la section payante de l'autoroute passe en ''[[Autoroute en flux libre|flux libre]]'', en supprimant les barrières de péages pour fluidifier le trafic<ref>{{Lien web |langue=fr |titre=Mi-décembre, l'A13 passe au péage en flux libre ! {{!}} sanef.com |url=https://www.autoroutes.sanef.com/fr/actualite/autoroute_A13_en_peage_flux_libre |site=www.autoroutes.sanef.com |consulté le=2024-12-09}}</ref>.
+
+À compter du {{date|3 mars 2025}}, une expérimentation de six mois est lancée pour réserver la voie de gauche au [[covoiturage]], taxis et véhicules prioritaires. Signalée par l'affichage d’un losange blanc, l'activation de cette voie réservée se fait du lundi au vendredi, uniquement en direction de Paris, entre {{heure|7}} et {{heure|10}} de Bailly à Boulogne. Après une période transitoire de non-verbalisation jusqu'au {{date|2 mai}}, l'infraction sera pénalisée {{unité|135|€}}<ref>{{Lien web|url=https://www.leparisien.fr/info-paris-ile-de-france-oise/transports/voies-reservees-sur-le-periph-taxis-bus-vehicules-de-secours-covoiturage-top-depart-lundi-3-mars-28-02-2025-FS7OXWX5SJAUPNG4YOBOVKVJ6U.php |titre=Voies réservées au covoiturage sur le périphérique, l'A1 et l'A13 : tout ce qui vous attend à partir du lundi 3 mars |site=leparisien.fr|date=28 février 2025|auteur=Benoît Hasse |consulté le=4 mars 2025}}.</ref>.
+
+== Principaux ouvrages d'art ==
+
+* [[Viaduc de Saint-Cloud]]. Il fut construit en [[Béton de ciment#Béton précontraint|béton précontraint]], du côté de Boulogne-Billancourt, construit à la place des jardins du [[Château Rothschild (Boulogne-Billancourt)|château Rothschild]] ; des culées attendent un éventuel doublement du viaduc.
+* [[Tunnel de Saint-Cloud]]. Comme indiqué ci-dessus, le tunnel servit de dépôt de munition pour l'armée allemande, en particulier des torpilles de la [[Kriegsmarine]]. Au milieu de l'ancien tunnel, (direction province), une bouche d'aération, située dans la voûte, évacue les gaz d'échappement dans le [[Domaine national de Saint-Cloud|parc de Saint-Cloud]]. L'entrée du tunnel (direction province) fut aménagée d'après les dessins de l'artiste suédois [[Bengt Olson]].
+* [[Viaduc de Guerville]]
+* [[Viaduc d'Oissel]]
+
+== Œuvres d'art ==
+* ''[[Sur la trace des Vikings]]'' de [[Georges Saulterre]] (1990) à la hauteur de [[Criquebeuf-sur-Seine]]<ref>{{Lien web |langue=fr |titre=Savez-vous ce que représente cette sculpture le long de l'A13, près de Rouen ? |url=https://actu.fr/normandie/sotteville-sous-le-val_76682/la-question-pas-si-bete-que-symbolise-cette-sculpture-etrange-sur-l-a13-pres-de-rouen_37055822.html |site=actu.fr |date=2020-11-01 |consulté le=2024-08-24}}</ref>.
+* ''Guillaume Le Conquérant au galop'' de [[Jean-Marc de Pas]] (2022), aire de [[Bosgouet]] Sud<ref>{{Lien web |langue=fr-FR |titre=Guillaume Le Conquérant au galop, A13 aire de Bosgouet nord près de Rouen – Total Energies et la Sanef – Jean Marc de Pas |url=https://jeanmarcdepas.com/installation-guillaume-le-conquerant-a13-aire-de-bosgouet-nord-pres-de-rouen/ |consulté le=2024-08-24}}</ref>.
+* En direction de la province, après la sortie 05, une pyramide de petite taille rappelle le décès de combattants de la [[Seconde Guerre mondiale]]. Ce monument, difficile à voir et d'accès dangereux, est situé entre la glissière de sécurité et le grillage, il a été épargné par les travaux de raccordement de l'A86. Il est fleuri à la date anniversaire des combats.
+* En 2003 et 2004, plusieurs statues de personnages en forme de plot étaient installées sur plusieurs kilomètres.
+
+== Son parcours ==
+=== A13 ===
+'''Section non-concédée gérée par la [[Direction interdépartementale des Routes#Direction des routes d'Île-de-France (DIRIF)|DIR Île-de-France]] et gratuite.'''
+[[Fichier:Pilone viaduc Saint-Cloud.jpg|vignette|redresse|<center>Le viaduc de Saint-Cloud, au départ de Paris.</center>]]
+* '''{{échangeur autoroutier|[[Fichier:SU4 - Rocade France.svg|22x22px]] [[Boulevard périphérique de Paris]]|A13}} ([[Échangeur de la porte d'Auteuil|Échangeur de la Porte d'Auteuil]])''' à {{unité|0|km}} :
+** ''Périphérique Intérieur (Nord)'' : ''[[Fichier:France road sign C207.svg|22x22px]] [[Autoroute A14 (France)|A14]], [[Autoroute A15 (France)|A15]]'', ''[[Fichier:France road sign ID2.svg|15px|alt]] [[Aéroport de Paris-Charles-de-Gaulle|Ch.de Gaulle]]'', [[Lille]] ([[Autoroute A1 (France métropolitaine)|A1]]), [[Paris]] - ''[[Porte de Passy]]''
+** ''Périphérique Extérieur (Sud)'' : ''[[Fichier:France road sign ID2.svg|15px|alt]] [[Aéroport de Paris-Orly|Orly]]'', [[Lyon]] ([[Autoroute A6 (France)|A6]]), [[Metz]]-[[Nancy]] ([[Autoroute A4 (France)|A4]]), Paris - ''centre, [[Porte de Saint-Cloud]]''
+** [[Fichier:France road sign C207.svg|24x24px]] [[Fichier:Panneau-C24a-4.svg|22x22px]] [[Fichier:France road sign B14 (70).svg|22x22px]] Début de l'autoroute, début de {{dunité|2|4|voies}} et limitation à {{unité|70|km/h}}.
+** [[Fichier:France road sign C28.svg|22x22px]] Réduction à {{dunité|2|3|voies}}.
+** [[Fichier:France road sign C111.svg|22x22px]] [[Tunnel Ambroise-Paré]].
+* {{Sortie|1 [[Porte d'Auteuil]]}} à {{unité|1|km}} ''(quart-échangeur, depuis Caen)'' : Paris
+''Passage de [[Paris]] à celui des [[Hauts-de-Seine]].''
+* [[Fichier:France road sign C112.svg|22x22px]] Sortie du tunnel Ambroise-Paré.
+* {{Sortie|2 Bois de Boulogne}} à {{unité|2|km}} ''(quart-échangeur, depuis Caen)'' : ''[[Bois de Boulogne]]''
+** [[Fichier:France road sign C28-2.svg|22x22px]] Réduction à {{dunité|2|2|voies}}.
+** [[Fichier:AB-Brücke.svg]] [[Viaduc de Saint-Cloud]] ({{unité|1100|m}}) sur [[Fichier:Panneau cours d'eau France.png|20px]] la [[Seine]].
+* {{Sortie|3 Boulogne-Billancourt}} à {{unité|3,5|km}} ''(demi-échangeur, depuis et vers Caen)'' : [[Boulogne-Billancourt]], [[Sèvres]], [[Suresnes]]
+** [[Fichier:France road sign C111.svg|22x22px]] [[Tunnel de Saint-Cloud]] + [[Fichier:Panneau-C24a.svg|22x22px]] Passage à {{dunité|2|3|voies}}
+** [[Fichier:France road sign C112.svg|22x22px]] Sortie du Tunnel de Saint-Cloud.
+* {{Sortie|4 Saint-Cloud ([[Route nationale 185|RD 985]])}} à {{unité|4,5|km}} ''(quart-échangeur, depuis Caen)'' : [[Ville-d'Avray]], [[Saint-Cloud]]
+** [[Fichier:France road sign B14 (90).svg|22x22px]] Limitation à {{unité|90|km/h}}.
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à {{unité|110|km/h}}.
+* {{Sortie|5 Vaucresson (RD 182)}} à {{unité|8|km}} : [[Versailles]] - ''centre, [[Quartier Montreuil|Montreuil]]'', [[Vaucresson]], [[La Celle-Saint-Cloud]], [[Garches]], [[Marnes-la-Coquette]]
+* '''{{échangeur autoroutier|[[Fichier:SU4 - Rocade France.svg|22x22px]] [[Autoroute A86 (France)|A86]] ([[Duplex A86]] [[Fichier:Péage.png|30 px]])|A13}}''' à {{unité|8,7|km}} : [[Nanterre]], [[Créteil]], ''[[Fichier:France road sign C207.svg|22x22px]] A14 - [[Autoroute A10 (France)|A10]]''
+''Passage du département des Hauts-de-Seine à celui des [[Yvelines]].''
+* [[Fichier:Panneau-C24a-4.svg|22x22px]] Passage à {{dunité|2|4|voies}}.
+* {{Sortie|6 Le Chesnay-Rocquencourt ([[Route nationale 186|RN 186 - RD 186]])}} à {{unité|11|km}} : [[Saint-Germain-en-Laye]], Versailles - ''centre, [[Quartier Notre-Dame (Versailles)|Notre-Dame]]'', [[Marly-le-Roi]], [[Le Chesnay-Rocquencourt]]
+* '''{{échangeur autoroutier|[[Autoroute A12 (France)|A12]]|A13}} ''([[Triangle de Rocquencourt]])''''' à {{unité|12|km}} : [[Dreux]], [[Rambouillet]], [[Saint-Quentin-en-Yvelines]], [[Évry-Courcouronnes|Évry]], Lyon (A6), [[Bois-d'Arcy (Yvelines)|Bois d'Arcy]], Versailles - ''[[Satory]]''
+** [[Fichier:Panneau-C24a-2.svg|22x22px]] Passage à {{dunité|2|2|voies}}.
+<!--(en projet) '''{{échangeur autoroutier|[[Autoroute A104 (France)|A104]]|A13}}''' ''(demi-échangeur, depuis et vers Paris)'' : [[Cergy-Pontoise]] ([[Autoroute A15 (France)|A15]]), [[Amiens]] ([[Autoroute A16 (France)|A16]]), [[Conflans-Sainte-Honorine]], [[Carrières-sous-Poissy]]-->
+* {{Sortie|7 Orgeval}} à {{unité|24|km}} et {{unité|26|km}} ''(deux demi-échangeurs)'' : ''[[Fichier:France road sign C207.svg|22x22px]] A14'', [[Poissy]], [[Chambourcy]], [[Villennes-sur-Seine]], [[Orgeval (Yvelines)|Orgeval]], Saint-Germain-en-Laye, Nanterre, ''[[La Défense]]''
+'''Section concédée à [[société des autoroutes Paris-Normandie|SANEF Paris Normandie]], payante et en flux libre (sauf entre les sorties 7 à 13, 15 à 18, 20 à 24 et 29).'''
+* '''{{échangeur autoroutier|[[Autoroute A14 (France)|A14]] ([[Fichier:Péage.png|30 px]])|A13}}''' à {{unité|25|km}} ''(demi-échangeur, depuis et vers Caen)'' : Lille (A1), Paris - ''[[Porte Maillot]]'', Nanterre, ''La Défense'', Saint-Germain-en-Laye
+** [[Fichier:Panneau-C24a.svg|22x22px]] [[Fichier:France road sign B14 (130).svg|22x22px]] Passage à {{dunité|2|3|voies}} et limitation à {{unité|130|km/h}}.
+** {{Aire de service|de [[Morainvilliers]] - Nord|Paris – Caen|Morainvilliers - Sud|Caen – Paris}} à {{unité|29|km}} 
+[[Fichier:Morainvilliers - A13.jpg|vignette|<center>Aire de service de Morainvilliers.</center>]]
+* {{Sortie|8 Les Mureaux}} à {{unité|32|km}} et {{unité|34|km}} ''(deux demi-échangeurs)'' : [[Les Mureaux]]-[[Meulan-en-Yvelines|Meulan]], [[Ecquevilly]], [[Bouafle]]
+* {{Sortie|9 Flins}} à {{unité|37|km}} : [[Flins-sur-Seine|Flins]], [[Aubergenville]], ''[[Fichier:France road sign ID35.svg|15px|alt]] Z. I. Mureaux''
+** {{Aire de repos|d'Épône - Nord|Paris – Caen|d'Épône - Sud|Caen – Paris}}
+* {{Sortie|10 Épône}} à {{unité|41|km}} : Rambouillet, [[Épône]]-[[Mézières-sur-Seine|Mézières]], [[Gargenville]]
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à {{unité|110|km/h}}.
+** [[Fichier:AB-Brücke.svg]] [[Viaduc de Guerville]] ({{unité|360|m}}) franchissant la [[Ligne de Paris-Saint-Lazare au Havre|ligne de chemin de fer Paris – Le Havre via Rouen]].
+Début de la périphérie de Mantes.
+* {{Sortie|11 Mantes - ''est''}} à {{unité|48|km}} : [[Mantes-la-Jolie]] - ''centre'', [[Mantes-la-Ville]] - ''centre'', [[Limay]], [[Guerville (Yvelines)|Guerville]]
+* {{Sortie|12 Mantes - ''sud''}} à {{unité|50|km}} : Dreux, Mantes-la-Jolie - ''centre'', Mantes-la-Ville - ''Les Brouets'', [[Magnanville]]
+* {{Sortie|13 Mantes - ''ouest''}} à {{unité|50,5|km}} ''(demi-échangeur, depuis et vers Paris)'' : [[Vernon (Eure)|Vernon]], [[Évreux]], [[Buchelay]], [[Rosny-sur-Seine]], Mantes-la-Jolie - ''Les Garennes''
+* {{péage|Péage de [[Buchelay]] (à flux libre)}}.
+Fin de la périphérie de Mantes
+* [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à {{unité|130|km/h}}.
+** {{Aire de service|de Rosny-sur-Seine - Nord|Paris – Caen|de Rosny-sur-Seine Sud|Caen – Paris}} à {{unité|54|km}}.
+* {{Sortie|14 Bonnières ([[Autoroute A13a (France)|A13a]])}} à {{unité|58|km}} ''(demi-échangeur, depuis et vers Paris)'' : Vernon, [[Bonnières-sur-Seine]] 
+** {{Aire de repos|de [[La Villeneuve-en-Chevrie]] - Nord|Paris – Caen|de La Villeneuve-en-Chevrie - Sud|Caen – Paris}} à {{unité|62|km}} 
+* {{Sortie|15 Chaufour}} à {{unité|65|km}} : Évreux, [[Pacy-sur-Eure]], Bonnières-sur-Seine
+''Passage du département des Yvelines à celui de l'[[Eure (département)|Eure]] et de la région [[Île-de-France]] à la région [[Normandie (région administrative)|Normandie]].''
+* {{Aire de repos|de [[Douains]] - Nord|Paris – Caen|de [[Douains]] - Sud|Caen – Paris}} à {{unité|71|km}} 
+* {{Sortie|16 Vernon}} à {{unité|73|km}} : Vernon, Pacy-sur-Eure
+** {{Aire de repos|de [[Saint-Aubin-sur-Gaillon|Beauchêne]] -Nord|Paris – Caen|de Beauchêne - Sud|Caen – Paris}} à {{unité|80|km}} 
+[[Fichier:Panneaua13vdr.jpg|vignette|<center>Sortie de Val-de-Reuil.</center>]]
+[[Fichier:WV0011-A11 PeageIncarville.ogv|vignette|<center>Ancienne gare de péage de Louviers.</center>]]
+* {{Sortie|17 Gaillon}} à {{unité|84|km}} : [[Gaillon]], [[Les Andelys]]
+* {{Sortie|18 Heudebouville}} à {{unité|93|km}} : [[Louviers]] - La Roquette, [[Heudebouville]], ''[[Fichier:France road sign ID35.svg|15px|alt]] ÉcoParc''
+* {{péage|Péage d'[[Heudebouville]] (à flux libre)}}.
+** {{Aire de service|de [[Vironvay]] - Nord|Paris – Caen|de [[Vironvay]] - Sud|Caen – Paris}} à {{unité|95|km}} 
+* {{Sortie|19 Val-de-Reuil}} à {{unité|99|km}} ''(demi-échangeur, depuis et vers Paris)'' : [[Louviers]] - ''centre'', [[Val-de-Reuil]], ''[[Fichier:France road sign ID35.svg|15px|alt]] La Fringale'', A154
+* '''{{échangeur autoroutier|[[Autoroute A154 (France)|A154]]|A13}} (''[[échangeur de Louviers]]'')''' à {{unité|101|km}} ''(demi-échangeur, depuis et vers Caen)'' : Évreux, [[Orléans]], Louviers, Dreux, Val-de-Reuil
+** {{Aire de repos|de [[Communauté de communes Seine-Bord|Bord]] - Nord|Paris – Caen|de [[Communauté de communes Seine-Bord|Bord]] - Sud|Caen – Paris}} à {{unité|104|km}} 
+* {{Sortie|20 Criquebeuf}} à {{unité|108|km}} : Vernon, [[Criquebeuf-sur-Seine]], [[Elbeuf]] - ''est'', [[Pont-de-l'Arche]]
+** [[Fichier:AB-Brücke.svg]] [[Viaduc de Criquebeuf]] ({{unité|512|m}}) sur [[Fichier:Panneau cours d'eau France.png|20px]] l'[[Eure (rivière)|Eure]] et sur [[Fichier:Panneau cours d'eau France.png|20px]] la Seine. + ''Passage du département de l'Eure à celui de la [[Seine-Maritime]].''
+* {{Sortie|21 Tourville}} à {{unité|112|km}} : Elbeuf - ''centre'', [[Oissel-sur-Seine]], [[Cléon (Seine-Maritime)|Cléon]], [[Tourville-la-Rivière]]
+** [[Fichier:AB-Brücke.svg]] [[Viaduc d'Oissel]] ({{unité|360|m}}) sur [[Fichier:Panneau cours d'eau France.png|20px]] la Seine.
+[[Fichier:A13 - Viaduc d'Oissel -4.jpg|vignette|<center>Viaduc d'Oissel au-dessus de la Seine.</center>]]
+* {{Sortie|22 Oissel-sur-Seine}} à {{unité|114|km}} : [[Calais]] ([[Autoroute A28 (France)|A28]]), Amiens - [[Reims]] ([[Autoroute A29 (France)|A29]]) Oissel-sur-Seine, [[Saint-Étienne-du-Rouvray]], [[Rouen]] - ''est''
+* '''{{échangeur autoroutier|[[Autoroute A139 (France)|A139]]|A13}}''' à {{unité|116|km}} ''(demi-échangeur, depuis et vers Paris)'' : Rouen - ''centre'', [[Grand-Couronne]], ''[[Fichier:France road sign ID35.svg|15px|alt]] [[Grand port maritime de Rouen|Zone Portuaire]]''
+* {{Sortie|23 Rouen - ouest ([[Route nationale 138|RN 138]])}} à {{unité|121|km}} ''(demi-échangeur, depuis et vers Caen)'' : Rouen - ''centre'', Elbeuf, Grand-Couronne, ''[[Fichier:France road sign ID35.svg|15px|alt]] Zone Portuaire''
+* {{Sortie|24 Maison Brûlée}} à {{unité|124|km}} : [[Caen]], [[Alençon]], Grand-Couronne, [[Grand Bourgtheroulde|Bourgtheroulde]]
+''Passage du département de Seine-Maritime à celui de l'Eure.''
+* {{Aire de service|de [[Bosgouet]] - Nord|Paris – Caen|de [[Bosgouet]] - Sud|Caen – Paris}} à {{unité|130|km}} 
+* '''{{échangeur autoroutier|[[Autoroute A28 (France)|A28]]|A13}}''' à {{unité|132|km}} : [[Bordeaux]] ([[Autoroute A10 (France)|A10]]), [[Le Mans]], Alençon
+* {{Sortie|25 Bourg-Achard)}} à {{unité|133|km}} : [[Fécamp]], [[Yvetot]], [[Bourg-Achard]], ''[[Pont de Brotonne]]''
+** {{Aire de repos|de [[Rougemontiers]]|Paris – Caen}} à {{unité|141|km}} 
+** {{Aire de repos|d'[[Éturqueraye]]|Caen – Paris}} à {{unité|143|km}} 
+* {{Sortie|26 Bourneville}} à {{unité|147|km}} : [[Pont-Audemer]] - ''est'', [[Brionne]], [[Bourneville-Sainte-Croix]]
+* '''{{échangeur autoroutier|[[Autoroute A131 (France)|A131]]|A13}}''' à {{unité|149|km}} ''(demi-échangeur, depuis et vers Paris)'' : [[Le Havre]], ''[[Pont de Tancarville]]''
+** [[Fichier:Panneau-C24a-2.svg|22x22px]] Passage à {{dunité|2|2|voies}}.
+** {{Aire de repos|du Moulin|Caen – Paris}} à {{unité|149|km}} 
+** {{Aire de repos|de Josapha|Paris – Caen}} à {{unité|151|km}} 
+* {{Sortie|27 Toutainville}} à {{unité|160|km}} ''(demi-échangeur, depuis et vers Paris)'' : [[Toutainville]], Pont-Audemer - ''centre''
+* {{Sortie|28 Beuzeville}} à {{unité|169|km}} : Pont-Audemer, [[Beuzeville]]
+* {{péage|Péage de [[Beuzeville]] (à flux-libre)}}.
+** [[Fichier:Panneau-C24a.svg|22x22px]] Passage à {{dunité|2|3|voies}}. Après la sortie.
+** {{Aire de service|de Beuzeville - Nord|Paris – Caen|de Beuzeville - Sud|Caen – Paris}} à {{unité|173|km}} 
+* '''{{échangeur autoroutier|[[Autoroute A29 (France)|A29]]|A13}}''' à {{unité|174|km}} : Calais, Amiens, Le Havre, [[Honfleur]], ''[[Pont de Normandie]]''
+''Passage du département de l'Eure à celui du [[Calvados (département)|Calvados]].''
+* '''{{échangeur autoroutier|[[Autoroute A132 (France)|A132]]|A13}} (''[[Échangeur de Pont-l'Évêque - Lisieux]]'')''' à {{unité|183|km}} : [[Lisieux]], [[Deauville]]-[[Trouville-sur-Mer|Trouville]], [[Pont-l'Évêque (Calvados)|Pont-l'Évêque]]
+* {{Sortie|29 La Haie-Tondue}} à {{unité|191|km}} : [[Villers-sur-Mer]], [[Saint-Pierre-en-Auge|Saint-Pierre-sur-Dives]] 
+** {{Aire de repos|de Beaumont-en-Auge|Caen – Paris}} à {{unité|193|km}} 
+** {{Aire de repos|d'[[Annebault]]|Paris – Caen}} à {{unité|196|km}}
+** [[Fichier:Panneau-C24a-2.svg|22x22px]] Passage à {{dunité|2|2|voies}}.
+* {{péage|Péage de [[Dozulé]] (à flux libre)}}<ref>[https://www.groupe.sanef.com/sites/default/files/2026-06/A13_Fermeture_A13_Travaux_Dozul%C3%A9.pdf Nouvelle étape pour les travaux consécutifs au passage en flux libre de l’A13 à Dozulé : entre le 22 juin et le 10 juillet*, la circulation va progressivement s’effectuer sur le nouvel axe central de l’autoroute.]</ref>.
+* {{Sortie|30 Dozulé}} à {{unité|206|km}} : [[Houlgate]], [[Cabourg]], [[Dives-sur-Mer]], [[Dozulé]]
+* {{Sortie|31 Troarn}} à {{unité|217|km}} : [[Troarn]], [[Sannerville]]
+* '''{{échangeur autoroutier|[[Autoroute A813 (France)|A813]]|A13}}''' à {{unité|220|km}} : [[Mézidon Vallée d'Auge|Mézidon-Canon]], [[Bellengreville (Calvados)|Bellengreville]], [[Frénouville]], [[Falaise (Calvados)|Falaise]] ([[Autoroute A88 (France)|A88]])
+** {{Aire de service|de [[Giberville]] - Nord|Paris – Caen|de [[Giberville]] - Sud|Caen – Paris}} à {{unité|222|km}} 
+** [[Fichier:France road sign C24b.svg|22x22px]] [[Fichier:France road sign B14 (90).svg|22x22px]] Séparation de la {{dunité|2|2|voies}}.
+* '''{{échangeur autoroutier|[[Fichier:SU4 - Rocade France.svg|22x22px]] [[Boulevard périphérique de Caen|Boulevard périphérique de Caen (RN 814)]]|A13}}''' à {{unité|225|km}} : 
+** ''Périphérique Intérieur (Nord)'' : Caen, [[Hérouville-Saint-Clair]], ''[[Fichier:France road sign ID13a.svg|15px|alt]] [[Ouistreham]] - Car-Ferry'', ''[[Fichier:France road sign ID3.svg|15px|alt]] [[Centre hospitalier universitaire de Caen|C.H.U]]'' 
+** ''Périphérique Extérieur (Sud)'' : Alençon (A83), [[Rennes]] ([[Autoroute A84 (France)|A84]]), [[Cherbourg-en-Cotentin|Cherbourg]], [[Mondeville (Calvados)|Mondeville]]
+* [[Fichier:France road sign C208.svg|22x22px]] Fin de l'autoroute A13.
+
+=== De Caen à Cherbourg (RN13) ===
+
+Seule la section de la [[Route nationale 13 (France)|RN13]] entre Bayeux et Carentan est aux normes autoroutières.
+
+* {{Sortie|36}} à {{unité|253|km}} : ville desservie [[Bayeux]]-est
+* {{Sortie|37}} à {{unité|258|km}} : ville desservie Bayeux-sud, centre historique
+* {{Sortie|37.1}} à {{unité|260|km}} : ville desservie Bayeux-sud uniquement en sortie depuis / entrée vers Caen, Paris (demi échangeur)
+* {{Sortie|38}} à {{unité|263|km}} : ville desservie Bayeux-ouest
+* {{Sortie|39}} à {{unité|274|km}} : ville desservie [[Formigny]]
+* {{Sortie|40}} à {{unité|282|km}} : ville desservie [[La Cambe (Calvados)|La Cambe]]-sud
+* {{Sortie|40}} à {{unité|284|km}} : ville desservie La Cambe-ouest
+* {{Sortie|41}} à {{unité|287|km}} : ville desservie [[Osmanville]]-est
+* {{Sortie|41}} à {{unité|288|km}} : ville desservie Osmanville-sud
+* {{Sortie|41.1}} à {{unité|290|km}} : ville desservie [[Isigny-sur-Mer]]-le Port
+* {{Sortie|42}} à {{unité|291|km}} : ville desservie Isigny-sur-Mer-centre
+*** {{Aire de service|de Cantepie}}
+* {{échangeur autoroutier|[[Route nationale 174|RN174]]|[[Route nationale 13 (France)|RN13]]}} : ville desservie [[Saint-Lô|Saint Lô]]
+* {{Sortie|43}} à {{unité|300|km}} : ville desservie [[Saint-Hilaire-Petitville]]
+* {{Sortie|44}} à {{unité|302|km}} : ville desservie [[Carentan]]
+* {{Sortie|45}} à {{unité|304|km}} : ville desservie [[Saint-Côme-du-Mont]]
+
+{{Référence souhaitée|La mise aux normes autoroutières sur la totalité du parcours est prévue, avec création de bandes d'arrêt d'urgence et d'aires de repos et de services, afin que la [[Route nationale 13 (France)|RN 13]] devienne une voie gratuite à caractère autoroutier, mais ces travaux ne sont pas planifiés|date=10 septembre 2021}}.
+
+== Lieux sensibles ==
+[[Fichier:Bifurcation A13-A132 à Pont-l'Évêque (juillet 2025).JPG|vignette|Vue, à Pont-l'Évêque sur la Route départementale 162a venant de Lisieux, de la bifurcation vers l'autoroute A13 pour Paris et Caen et l'autoroute A132 pour Deauville et Trouville, dans le Calvados.]]
+Au niveau de la [[forêt de Marly]], quelques ralentissements et [[Embouteillage (route)|bouchons]] se produisent aux heures de pointe et le week-end. Des bouchons fréquents sont observés près de l'échangeur entre les autoroutes [[Autoroute A12 (France)|A12]] et A13 à hauteur du [[triangle de Rocquencourt]], près de [[Garches]] et de [[Saint-Cloud]], et plus souvent encore, lors de l'arrivée à [[Paris]] - [[Porte d'Auteuil]], peu avant l'échangeur avec le [[boulevard périphérique de Paris]].
+
+Au niveau de la sortie {{Numéro|20}} ([[Criquebeuf-sur-Seine]]), en direction de [[Paris]], la sortie est saturée le matin et le soir avec un bouchon qui remonte sur l'autoroute.
+
+Lors des départs en vacances et week-ends prolongés, la circulation est saturée aux abords des quatre barrières de péages. Des bouchons apparaissent également entre [[Mantes-la-Jolie]] et [[Poissy]], dans la traversée de l'agglomération rouennaise entre la sortie {{Numéro|20}} ([[Criquebeuf-sur-Seine]]) et la sortie {{Numéro|22}} ([[Oissel]]), dans le secteur de l'[[échangeur de Pont-l'Évêque - Lisieux]] (jonction avec [[Autoroute A132 (France)|A132]] vers [[Deauville]]) et sur l'arrivée sur le [[boulevard périphérique de Caen]].
+
+== Péages ==
+Il existait sur l'autoroute A13 quatre barrières de [[péage]] à système ouvert (paiement direct sans ticket), situées à :
+* [[Buchelay]] ;
+* [[Heudebouville]] ;
+* [[Beuzeville]] ;
+* [[Dozulé]] ;
+
+En dehors de ces barrières, plusieurs bretelles d'entrées et de sortie sont à accès libre, si bien qu'il est possible d'emprunter gratuitement certaines sections de l'autoroute. L'autoroute de Normandie est aussi gratuite entre Paris et Mantes et dans la traversée de l'agglomération rouennaise. Par contre, certaines bretelles d'entrée et de sortie possèdent un péage selon la direction empruntée.
+
+À la demande du conseil général des Yvelines et de certaines collectivités locales, dont la commune de Bonnières-sur-Seine, un déplacement vers l'ouest du péage de Buchelay est à l'étude. En effet sa position actuelle dans l'agglomération de Mantes est considérée comme un obstacle au développement de l'ouest du département des Yvelines, peu compatible avec le projet d'[[opération d'intérêt national]] « [[Seine-Aval]] » et crée une saturation des échangeurs desservant la ville de Mantes-la-Jolie. Plusieurs scénarios combinant des aménagements de l'infrastructure et des mesures tarifaires sont envisagés<ref>{{Lien archive|url=http://www.epamsa.fr/images/K-ACTUALITES/K4-Publications/Protocole_OIN_page_par_page.pdf |titre=Protocole de l'Opération d'Intérêt National « Seine Aval |site=epamsa.fr |page=27-28 (p. 30-31 du PDF) |citation=Le verrou de Buchelay |date=31 janvier 2008 |format=pdf|horodatage archive=20160304032150}}.</ref>.
+
+Le {{Date|22|décembre|2021}}, le [[Premier ministre français|Premier ministre]] [[Jean Castex]] annonce que l'autoroute deviendra en {{citation|[[Autoroute en flux libre|flux libre]]}} à partir de 2024, supprimant les péages et les remplaçant par des portiques<ref>{{Lien web |auteur1=Cédric Lang-Roth |auteur2=Philippe Thomas |url=https://www.francebleu.fr/infos/transports/vers-la-fin-des-barrieres-de-peage-sur-l-autoroute-a13-1640191884 |titre=Vers la fin des barrières de péage sur l'autoroute A13 |site=francebleu.fr |date=22 décembre 2021 |consulté le=22 décembre 2021}}.</ref>.
+
+Dans la nuit du {{Date|09|décembre|2024}} au {{Date|10|décembre|2024}}, les 4 péages de l'autoroute et dans la nuit du {{Date|10|décembre|2024}} au {{Date|11|décembre|2024}}, les entrées et sorties payantes de l'autoroute passent en « [[Autoroute en flux libre|flux libre]] », avec suppression des barrières et obligation pour l'usager d'être abonné au télépéage ou de régler sur internet après son passage dans les 72h<ref>{{Lien web |langue=fr |titre=L’autoroute en flux libre Paris-Normandie (A13 – A14) : vos conditions de circulation pendant les travaux {{!}} Sanef |url=https://www.autoroutes.sanef.com/fr/flux-libre/conditions-de-circulation-A13-A14 |site=www.autoroutes.sanef.com |consulté le=2024-12-09}}</ref>
+
+== Éclairage ==
+Depuis 2010, l'A13 n'est plus éclairée sur la section francilienne entre [[Saint-Cloud]] et [[Le Chesnay-Rocquencourt|Chesnay-Rocquencourt]] par décision de la [[Direction interdépartementale des Routes|DIRIF]] qui décida de supprimer l'éclairage, afin de faire des économies en réduisant les coûts d'entretien et de facture énergétique, et également pour des raisons environnementales de lutte contre la pollution lumineuse<ref>{{Lien web |langue=fr |titre=130km d'autoroutes passent dans le noir |url=https://www.liberation.fr/terre/2010/05/10/130km-d-autoroutes-passent-dans-le-noir_625326/ |site=Libération |consulté le=2024-01-24}}.</ref>{{,}}<ref>{{Lien web |langue=fr-FR |titre=À partir de mercredi, l'éclairage va être progressivement éteint sur 13O kilomètres de voies rapides en Ile-de-France |url=https://www.francetvinfo.fr/france/a-partir-de-mercredi-l-eclairage-va-etre-progressivement-eteint-sur-13o-kilometres-de-voies-rapides-en-ile-de-france_236201.html |site=Franceinfo |date=2010-05-11 |consulté le=2024-01-24}}.</ref>. Seules les parties entre Paris et Saint-Cloud, ainsi qu'au niveau des sorties 5 et 6 restent toujours éclairées.
+
+== Informations sur le trafic ==
+[[Fichier:Travaux d'extension sur l'A13 entre Dozulé et Pont-L'Evêque février 2020.jpg|vignette|Travaux d'élargissement sur l'A13 entre Dozulé et Pont-L'Evêque en février 2020.]]
+Entre [[Orgeval (Yvelines)|Orgeval]] et [[Caen]], les informations sur le trafic de l'autoroute sont diffusées sur la radio [[Sanef 107.7#Zone Ouest (378,4 km)|Sanef 107.7]].
+
+== Travaux ==
+=== Effectués ===
+Le [[viaduc de Guerville]] est passé de trois voies vers [[Paris]] et quatre vers la province entre 2017<ref>{{article|titre=Guerville : la nouvelle A13 sera livrée « début 2020 »|périodique=[[Le Parisien]]|url=http://www.leparisien.fr/yvelines-78/guerville-78930/guerville-la-nouvelle-a13-sera-livree-debut-2020-06-07-2017-7115871.php|année=2017|mois=juillet|jour=6}}</ref> et 2019<ref>
+{{article|url=http://www.leparisien.fr/yvelines-78/yvelines-le-viaduc-de-l-a13-a-guerville-ouvert-aux-automobilistes-03-09-2019-8144745.php|périodique=[[Le Parisien]]|titre=Yvelines : le viaduc de l'A13 à Guerville ouvert aux automobilistes|année=2019|mois=septembre|jour=3}}</ref>.
+
+Les 22 kilomètres entre [[Dozulé]] et [[Pont-l'Évêque (Calvados)|Pont-l'Évêque]] font l'objet d'un élargissement à deux fois trois voies entre 2017 et 2022 afin d'absorber le trafic quotidien de 40 000 véhicules<ref>{{article|url=https://france3-regions.francetvinfo.fr/normandie/calvados/autoroute-a13-travaux-elargissement-vont-durer-six-mois-plus-1771337.html|titre=Autoroute A13 : les travaux d'élargissement vont durer plus longtemps que prévu|année=2020|mois=janvier|jour=8|périodique=France 3 Normandie}}.</ref>. La mise en service est effectuée le {{date|6 mai 2022}}<ref>{{article|titre=Calvados. Les travaux de l'A13 entre Pont-l'Évêque et Dozulé sont enfin terminés|périodique=[[Ouest-France]], édition de Caen|année=2022|mois=mai|jour=06|url=https://www.ouest-france.fr/normandie/pont-leveque-14130/calvados-les-travaux-de-l-a13-entre-pont-l-eveque-et-dozule-sont-enfin-termines-81268924-cd35-11ec-bfe9-57254f4be77f}}</ref>.
+
+La SAPN réalise un complément du demi-diffuseur de la Haie-Tondue ({{Sortie|29 La Haie-Tondue (RD 675)}}) sur l'A13 dans le [[Calvados (département)|Calvados]] entre [[Dozulé]] et [[Pont-l'Évêque (Calvados)|Pont-l'Évêque]] ; ces travaux de construction et d'aménagement aboutissent à la création de deux nouvelles bretelles d’autoroute en direction et en provenance de [[Caen]]<ref>{{article|url=https://www.autoroutes.sanef.com/fr/actualite/haie-tondue-demarrage-travaux|titre=A13 - Démarrage des travaux pour la création d’un complément au ½ diffuseur n°29 La Haie Tondue|année=2025|mois=mars|jour=24|périodique=SANEF}}.</ref>{{,}}<ref>{{article|url=https://www.ouest-france.fr/normandie/drubec-14130/ce-qui-changera-apres-la-construction-dun-echangeur-sur-la13-entre-dozule-et-pont-leveque-06632b64-92b5-11ef-8d50-f75a8f5479a6|titre=Ce qui changera après la construction d’un échangeur, sur l’A13, entre Dozulé et Pont-l’Évêque|année=2025|mois=mars|jour=24|périodique=Ouest France}}.</ref>. Ce nouvel échangeur est inauguré le {{date|20|01|2026}}<ref>{{article|titre=Après des mois de controverses, le nouvel échangeur de la Haie-tondue inauguré sur l’A13, entre Pont-l’Évêque et Dozulé|périodique=[[Ouest-France]], édition Calvados|année=2026|mois=01|jour=21|auteur=Clémentine Le Ridée}}</ref> mais mis en service que le {{date|20|03|}}<ref>{{lien web|url=https://www.francebleu.fr/normandie/calvados-14/a-13-le-demi-diffuseur-n029-de-la-haie-tondue-en-direction-de-caen-enfin-ouvert-a-la-circulation-9649835|titre=A 13 : le demi-diffuseur n°29 de la Haie Tondue en direction de Caen enfin ouvert à la circulation|site=www.francebleu.fr|année=2026|mois=03|jour=20|consulté le =2026-03-20}}</ref>.
+
+=== En cours ===
+La SAPN réalise actuellement le démantèlement des anciennes gares de péage. Elle a commencé par déposer les structures métalliques de la gare de [[Buchelay]] dans la nuit du 22 et {{date|23 mars 2025}}<ref>{{article|url=https://www.leparisien.fr/yvelines-78/autoroute-a13-a-la-barriere-de-peage-de-buchelay-lauvent-metallique-completement-disloque-23-03-2025-L22EYRHJGVENND33V5DLJSDKKM.php|titre=Autoroute A13 : à la barrière de péage de Buchelay, l’auvent métallique complètement disloqué|année=2025|mois=mars|jour=24|périodique=Le Parisien}}.</ref>.
+Le rétablissement sur les voies définitives s'étalera jusqu'en 2027. À partir de 2027, les abords de l’autoroute seront réaménagés avec un traitement paysager spécifique <ref>{{article|url= https://www.autoroutes.sanef.com/fr/assistance/flux-libre/travaux-duree#:~:text=Les%2520travaux%2520de%2520d%C3%A9ploiement%2520du,p%C3%A9age%2520actuelles%2520vont%2520%C3%AAtre%2520supprim%C3%A9es.&text=Juin%2520puis%2520d%C3%A9cembre%25202024%2520%253A%2520bascule,les%2520voies%2520provisoires%2520de%2520contournement. |titre= Quelle est la durée des travaux de déploiement du péage en flux libre sur l’autoroute Paris-Normandie A13 / A14 ?|année=2025|mois=avril|jour=14|périodique=Le Parisien}}.</ref>.
+
+== Projets ==
+=== Élargissements ===
+Deux projets d'élargissements à 2x3 voies sont prévus sur l'A13<ref>{{article|url=https://www.egis-group.com/fr/actualites/autoroute-de-normandie-egis-remporte-les-etudes-de-mise-a-2x3-voies-des-deux-sections-manquantes-de-l-a13|titre=Autoroute de Normandie : Egis remporte les études de mise à 2x3 voies des deux sections manquantes de l’A13|année=2025|mois=mars|jour=24|périodique=Egis}}.</ref> :
+* Section de [[Bourneville (Eure)|Bourneville]] <small>({{échangeur autoroutier|[[Autoroute A131 (France)|A131]]|A13}})</small> à [[Beuzeville]] <small>({{Sortie|28 Beuzeville (RD 675)}})</small> - '''''21,1 km''''' ;
+* Section de [[Dozulé]] <small>({{Sortie|30 Dozulé (RD 400)}})</small> à [[Mondeville (Calvados)|Mondeville]] <small>({{échangeur autoroutier|[[Boulevard périphérique de Caen|RN 814]]|A13}})</small> - '''''19,0 km'''''
+Actuellement ces deux projets d'élargissements sont en cours d'études. Les travaux devraient commencer entre 2028 et 2030.
+
+=== Prolongement ===
+À plusieurs reprises selon l'évolution politique, il a été envisagé de prolonger l'autoroute jusqu'à [[Cherbourg-en-Cotentin|Cherbourg]], non pas en construisant une nouvelle infrastructure, mais en mettant aux normes autoroutières la [[Route nationale 13 (France)|N13]] (le contournement de [[Bayeux]] respecte déjà ces normes), mais ce projet semble aujourd'hui au point mort<ref>{{Lien web |url=http://images.wikia.com/routes/images/6/69/A13_-_Mise_aux_normes_autorouti%C3%A8res_Caen_-_Cherbourg_-_Enqu%C3%AAte_publique.pdf |titre=Mise aux normes autoroutières de la RN 13 entre Caen et Cherbourg |sous-titre=Enquête publique préalable à la déclaration d'utilité publique des travaux et des… - Rapport de la commission d'enquête |site=wikia.com |date=3 février 2005 |consulté le=24 mars 2025}}.</ref>{{,}}<ref>{{Lien web |titre=Dossier. Dans la Manche, quatre ans pour définir ce que va devenir la RN13 |url=https://actu.fr/normandie/_50/dossier-dans-manche-quatre-ans-definir-ce-va-devenir-rn13_30363456.html |site=actu.fr |date=21 décembre 2019 |consulté le=24 mars 2025}}.</ref>. Cependant la [[Route nationale 13 (France)|N13]] entre [[Caen]] et [[Cherbourg-en-Cotentin|Cherbourg]] fait l'objet de nombreux projets de mises aux normes autoroutières en particulier :
+* Sécurisation de la RN 13 et la mise aux normes autoroutières entre [[Cherbourg-en-Cotentin|Cherbourg]] et [[Valognes]]<ref>{{Lien web |format=html |url=https://rn13-securisation-valognes-cherbourg.fr/ |titre=Site officiel de la Sécurisation du tronçon entre Valognes et Cherbourg |sous-titre=Préfecture de la Normandie et Conseil Départemental de la Manche |date= |site=rn13-securisation-valognes-cherbourg.fr |consulté le=24 mars 2025}}.</ref>. Les travaux débuteront fin 2025-début 2026 ;
+* Création de la Bande d’Arrêt d’Urgence - BAU pour les sections dépourvues (Les travaux sont étalés sur plusieurs années (lors de la réfection de la chaussée) la fin de ces travaux est prévue pour 2035 ;
+* Création des aires de services et de repos entre [[Caen]] et [[Cherbourg-en-Cotentin|Cherbourg]] (à long-terme).
+Ces projets sont pilotés par le préfet de la région Normandie (représentant de l’État et du ministère des Transports) en lien avec la DIRNO, la DREAL de Normandie, le conseil régional de Normandie, le conseil départemental de la Manche, le conseil départemental du Calvados et la communauté d’agglomération du Cotentin.
+
+Ces projets pourraient aboutir au passage de la [[Route nationale 13 (France)|N13]] en '''''A13''''' entre Caen et Cherbourg-en-Cotentin.
+
+{{clr}}
+
+== Notes et références ==
+{{Références}}
+* Sur l'autoroute de l'Ouest : collection ''Les archives de ...'', Jacques Borgé et Nicolas Viasnoff, ''Les Archives de la banlieue parisienne'', éditions Michèle Trinckvel, 1994, {{p.|233}}, avec photos ; article repris de la revue de Saint-Cloud d'{{date|avril 1959}}.
+
+== Voir aussi ==
+
+{{Autres projets |commons=Category:A13 autoroute|commons titre=L'autoroute A13}}
+
+=== Articles connexes ===
+* [[Liste des autoroutes de France]]
+* [[Route européenne 5]]
+* [[Route européenne 46]]
+* [[Route nationale 13 (France)|Route nationale 13]] 
+
+=== Liens externes ===
+* [http://saratlas.free.fr/index.php?page=route&route=a13&lang=fr Autoroute A13 dans Saratlas]
+* [http://routes.wikia.com/wiki/Autoroute_française_A13 Fiche autoroutière de l'A13 sur WikiSara]
+
+Décret :
+* {{Légifrance|base=JORF|numéro=EQUR0601062D|texte=Décret du {{Date|10|5|2006}} déclarant d'utilité publique les travaux et les acquisitions foncières nécessaires à la mise aux normes autoroutières de la RN 13 à {{dunité|2|2|voies}} entre Caen et Cherbourg}}
+
+=== Bibliographie ===
+* {{Ouvrage|prénom1=Fabienne|nom1=Gambrelle|prénom2=Félix|nom2=Torres|titre=Une autoroute se souvient|sous-titre=Paris-Normandie de 1963 à 1993|éditeur=Presses de l'École nationale des ponts et chaussées|collection=Preponcha|année=1993|isbn=978-2859782030|isbn2=2-85978-203-6}}
+
+{{Palette|Autoroutes de France}}
+{{Portail|route|transports en Île-de-France|Normandie|Paris|Rouen|Caen}}
+
+[[Catégorie:Autoroute en Île-de-France|013]]
+[[Catégorie:Autoroute en Normandie|013]]
+[[Catégorie:Transport à Caen]]
+[[Catégorie:Transport routier dans les Yvelines]]
+[[Catégorie:Autoroute A13 (France)|*]]

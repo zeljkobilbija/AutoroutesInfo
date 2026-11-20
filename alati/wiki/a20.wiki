@@ -1,0 +1,422 @@
+{{voir homonymes|A20}}
+{{Infobox Route/France
+ | statut                = A
+ | numéro                = 20
+ | image                 = A20 - Limoges La Bastide.JPG
+ | légende               = L'autoroute A20 dans le quartier de la Bastide, à [[Limoges]] ([[Haute-Vienne]]).
+ | carte                 = Autoroute A20.PNG
+ | autres_noms           = L'Occitane
+ | ouverture             = [[1992]] à [[2003]]
+ | fermeture             = 
+ | déclassement          = 
+ | longueur              = 428
+ | direction             = nord - sud
+ | ville1                = {{Route européenne|9}} {{Route européenne|11}} {{Autoroute française|A71}} à [[Vierzon]]
+ | dir1                  = nord
+ | ceinture_périphérique = 
+ | intersections         =  {{Route européenne|62}} {{Route nationale|145}} à [[Saint-Amand-Magnazeix]]<br />{{Route nationale|520}} à [[Limoges]]<br />{{Route européenne|70}} {{Autoroute française|A89}} à [[Saint-Pardoux-l'Ortigier]] (''vers [[Lyon]]'')<br />{{Route européenne|70}} {{Autoroute française|A89}} à [[Ussac]] (''vers [[Bordeaux]]'')
+ | ville2                = {{Route européenne|9}} {{Route européenne|72}} {{autoroute française|A62}} à [[Montbartier]]
+ | dir2                  = sud
+ | villes_principales    = [[Vierzon]], [[Châteauroux]], [[Limoges]], [[Brive-la-Gaillarde]], [[Cahors]], [[Montauban]]
+ | réseau                = [[Autoroute française]] également {{route européenne|9}}, {{route européenne|70}}
+ | régions               = [[Centre-Val de Loire]], [[Nouvelle-Aquitaine]], [[Occitanie (région administrative)|Occitanie]]
+ | départements          = [[Cher (département)|Cher]], [[Indre (département)|Indre]], [[Creuse (département)|Creuse]], [[Haute-Vienne]], [[Corrèze (département)|Corrèze]], [[Lot (département)|Lot]], [[Tarn-et-Garonne]]
+ | nb_reg                = 3
+ | nb_dep                = 7
+ |concessionnaire   = [[Cofiroute]] (Vierzon)<br/>[[Autoroutes du Sud de la France|ASF]] (entre Brive-la-Gaillarde et Montbartier)
+ |gestionnaire      = [[Direction interdépartementale des Routes#Direction interdépartementale des Routes Centre-Ouest|DIR Centre-Ouest]] (entre Vierzon et Brive-la-Gaillarde)
+ | nom_notes             = 
+}}
+
+L''''autoroute A20''' est une [[autoroute]] située en [[France]], et reliant [[Vierzon]] dans le [[Département français|département]] du [[Cher (département)|Cher]], à [[Montbartier]], près de [[Montauban]] dans le [[Département français|département]] de [[Tarn-et-Garonne]], via [[Limoges]] dans la [[Haute-Vienne]].
+
+Appelée « L'Occitane », et traversant trois [[Région française|régions]] ([[Centre-Val de Loire]], [[Nouvelle-Aquitaine]] et [[Occitanie (région administrative)|Occitanie]]), elle constitue un maillon essentiel de l'axe autoroutier reliant [[Paris]] (via les [[autoroute A71 (France)|autoroutes A71]] et [[autoroute A10 (France)|A10]] au nord) à [[Toulouse]] (via l'[[autoroute A62 (France)|autoroute A62]] au sud).
+
+L'A20 est gratuite de [[Vierzon]] à la barrière de péage de [[Gignac (Lot)|Gignac]] (sud de [[Brive-la-Gaillarde]]), sur environ {{unité|270|km}}. Elle est concédée aux [[Autoroutes du Sud de la France]] (ASF), société de [[Vinci Autoroutes]], sur le reste du parcours. [[Radio Vinci Autoroutes]] (107.7 [[Radio FM|FM]]) est disponible de [[Brive-la-Gaillarde]] à [[Montauban]].
+
+Cette section veut s'inscrire dans le projet autoroutier officieusement nommé « autoroute [[Amsterdam]]-[[Barcelone]] »<ref name="a">{{Lien web |auteur=Laurent Marcaillou |titre=L'inauguration du tronçon de Cahors boucle l'A20 Paris-Toulouse |url=https://www.lesechos.fr/25/06/2003/LesEchos/18932-021-ECH_l-inauguration-du-troncon-de-cahors-boucle-l-a20-paris-toulouse.htm |date=25 juin 2003 |site=lesechos.fr |consulté le=21 mars 2016}}</ref>{{,}}<ref>{{Lien web |auteur= |titre= Eurocentre |url=http://www.haute-garonne.fr/fr/nos-missions/developpement-economique/economie/eurocentre.html |date=14 avril 2015 |site=haute-garonne.fr |consulté le=21 mars 2016}}</ref>{{,}}<ref>{{Lien web |auteur= |titre=Les zones d'activités |url=http://www.chateauroux-metropole.fr/vie-economique/les-zones-d-activites-188.html |date= |site=chateauroux-metropole.fr |consulté le=21 mars 2016}}</ref>, dont le tronçon manquant est la traversée pyrénéenne, entamé côté français par l'[[autoroute A66 (France)|autoroute A66]], initialement nommée A20 avant sa réalisation. Elle permet aussi le désenclavement de l'ouest du [[Massif central]].
+
+== Généralité ==
+L'autoroute est divisée en deux sections distinctes.
+
+La première, entre [[Vierzon]] et [[Nespouls]], [[Gratuité (économie)|gratuite]], non concédée, est gérée par la [[Direction interdépartementale des Routes Centre-Ouest|DIR Centre-Ouest]]. C'est une autoroute à {{dunité|2|2|voies}}, avec certaines sections à 2+3 voies, par exemple dans la traversée de [[Limoges]]. Il est également prévu, faute de construire une portion autoroutière superflue entre [[Saint-Germain-les-Vergnes]] et [[Ussac]], pour joindre les deux parties de l'[[Autoroute A89 (France)|A89]], de rajouter une voie sur l'A20 entre ces deux localités.
+
+La seconde section, entre [[Nespouls]] et [[Montauban]], à l'exception de [[Rocade de Montauban|la rocade Est Montauban]], est payante. Elle est exploitée par les [[Autoroutes du Sud de la France]] ([[Vinci Autoroutes]]).
+
+== Historique ==
+=== Travaux d'aménagement jusqu'en 1987 ===
+Prévue au schéma directeur routier depuis le début des [[années 1970]], la construction de l'A20 est plusieurs fois reportée au profit de chantiers jugés plus urgents. Des aménagements ponctuels de la route [[Route nationale 20 (France)|nationale 20]] sont tout de même réalisée pour résorber les principaux points noirs.
+
+[[Fichier:Vatan village étape A20.jpg|thumb|left|alt=Le panneau sortie {{n°|10}}, de l'autoroute.|Le panneau sortie {{n°|10}}, de l'autoroute.]]
+
+En [[1987]], sont déjà construites<ref>Atlas [[Michelin]], édition 1987.</ref> : 
+* la déviation de [[Vierzon]] en {{dunité|2|1|voies}}, avec emprises au sol et ouvrages d'art prévus pour la mise en {{dunité|2|2|voies}} ;
+* la déviation de [[Vatan]] ; une portion en {{dunité|2|2|voies}} au niveau de [[Brion (Indre)|Brion]], sans l'échangeur actuel ;
+* la déviation de Lothiers, près de [[Velles (Indre)|Velles]] (sortie 15 alors incomplète) ;
+* la déviation d'[[Argenton-sur-Creuse]] (sorties 17 et 18, ainsi qu'un semi-échangeur, desservant [[Saint-Benoît-du-Sault]], aujourd'hui disparu) ;
+* la déviation de [[La Croisière (Creuse)|La Croisière]], sans l'échangeur actuel ;
+* une portion en {{dunité|2|2|voies}} entre [[Bessines-sur-Gartempe]] et [[Razès (Haute-Vienne)|Razès]], sans l'échangeur actuel ;
+* une portion en {{dunité|2|2|voies}} entre Grossereix et la Bastide ([[Limoges]]-nord / sortie 29) ;
+* une portion en {{dunité|2|2|voies}} entre [[Limoges]]-Casseaux et [[Pierre-Buffière]] (sorties 33 à 40) ;
+* une portion en {{dunité|2|2|voies}} entre [[Donzenac]] et [[Brive-la-Gaillarde]] (sorties 47 à 50) ;
+* une portion en {{dunité|2|2|voies}} entre [[Noailles (Corrèze)|Noailles]] et [[Nespouls]] ainsi que la déviation de [[Loupiac (Lot)|Loupiac]] qui ne font pas partie de l'actuelle A20, mais existe toujours sur l'ancienne RN 20, sans l'échangeur actuel ;
+* une portion en {{dunité|2|2|voies}} près du [[Le Montat|Montat]], qui ne fait pas partie de l'actuelle A20 mais existe toujours sur l'ancienne RN 20, sans l'échangeur actuel ;
+* une portion en {{dunité|2|2|voies}} entre [[Montauban]]-sud et l'[[Autoroute A62 (France)|A62]], sans l'échangeur actuel.
+
+=== Achèvement de la mise en service (1987-2003) ===
+[[Fichier:Logo autoroute A20.PNG|left|thumb|alt=Le logo de l'autoroute.|Le logo de l'autoroute.]]
+
+La décision de terminer l'A20 est prise en [[1988]], afin d'alléger un transit sans cesse croissant dans les communes traversées par la [[Route nationale 20 (France)|RN 20]] et pour éviter les bouchons pendant les périodes de congés à hauteur de [[Châteauroux]], [[Limoges]], [[Uzerche]], [[Brive-la-Gaillarde|Brive]], [[Souillac]], [[Cahors]] et [[Montauban]].
+
+Au cours des années 1990, la déviation des bourgs de Haute-Vienne, notamment [[Bessines-sur-Gartempe]] et [[Magnac-Bourg]], stimule la création du projet « [[Village étape]] », label valorisant les localités contournées, ensuite généralisé à l'échelle nationale<ref>{{Lien web |auteur=Fédération française des Villages étapes |titre=Les Villages étapes (dossier de presse 2020) |url=https://www.village-etape.fr/wp-content/uploads/2020/01/dossier-presse-2020.pdf |date=2020 |site=village-etape.fr |consulté le=14 juin 2022}}.</ref>.
+
+Les ouvertures se succèdent à un rythme accéléré :
+* avant 1992 : déviations complètes de [[Limoges]] et de [[Brive-la-Gaillarde]] ;
+* en [[1992]], ouverture de la section de [[Vierzon]] à [[Vatan]] (sorties 5 à 10) et du contournement de [[Montauban]] (sorties 60 à 64) est officialisée ;
+* en [[1996]] : mise aux normes autoroutières et ajout des sorties 66, 67 et 68 de la section de [[Montauban]]-sud à l'[[Autoroute A62 (France)|A62]] (sorties 64 à 68), 
+* en [[1998]] : ouverture de la section de [[Montauban]]-nord à [[Lalbenque]] (sorties 58 à 60) ;
+* en [[2000]] : mise aux normes autoroutières et ajout des sorties 49 et 50 de la section de [[Donzenac]] à [[Brive-la-Gaillarde]]-nord (sorties 47 à 50) ;
+* En [[2001]] : ouverture de la section de [[Souillac]] à [[Francoulès]] (sorties 55 à 57) ;
+* en [[2003]] : ouverture de la section de [[Francoulès]] à [[Lalbenque]] (sorties 57 à 58), qui achève la mise en service de l'A20.
+
+=== Contournement de Montauban ===
+Le contournement de [[Montauban]], entre les actuels échangeurs {{sortie|60}} et {{sortie|65}}, a été ouvert en 1987 comme un tronçon de la [[Route nationale 20 (France)|RN 20]], puis a intégré l'A20 après des travaux de mise aux normes autoroutières.
+
+Depuis le {{Date|1|juin|2007}}, cette section gratuite fait partie de la concession des [[Autoroutes du Sud de la France|ASF]] ([[Vinci Autoroutes]]). Les travaux de mise aux normes se sont déroulés entre [[2010]] et [[2011]], avec le réaménagement des quatre échangeurs de la section, la mise en place de nouvelles protections acoustiques et l'élargissement de la [[bande d'arrêt d'urgence]] (BAU)<ref>{{Lien web|langue = FR|titre = Montauban. La mise aux normes de la rocade est lancée|url = https://www.ladepeche.fr/article/2010/04/02/809349-montauban-la-mise-aux-normes-de-la-rocade-est-lancee.html|date = 2010-04-02 |site = www.ladepeche.fr|consulté le = 2020-07-13}}</ref>{{,}}<ref>{{Lien web|langue = FR|titre = Rocade de Montauban - Avril 2010|url = http://autorout.free.fr/3_Cartes/1_France/A%2020/Montauban/plaquette_Montauban.pdf|format = pdf|site = autorout.free.fr|consulté le = 2020-07-13}}</ref>. En 2011, afin d'améliorer la sécurité de ce tronçon au trafic dense, la vitesse maximale a été abaissée de {{unité|110|km/h}} à {{unité|90|km/h}}<ref>{{Lien web|langue = FR|titre = Montauban. Cette nuit la rocade passe à 90 km/h|url = https://www.ladepeche.fr/article/2011/09/21/1172326-le-petit-journal-et-ses-dirigeants-condamnes-cette-nuit-la-rocade-passe-a-90.html|date = 2011-09-21 |site = www.ladepeche.fr|consulté le = 2020-07-13}}</ref>.
+
+== Lieux sensibles ==
+[[Fichier:Déols (36) - Point d'appui de Châteauroux (DIRCO).jpg|vignette|left|alt=Le point d'appui de Châteauroux, de la DIR Centre-Ouest.|Le point d'appui de Châteauroux, de la DIR Centre-Ouest.]]
+
+* La traversée de [[Limoges]] qui est de plus en plus délicate entre les échangeurs {{sortie|28}} et {{sortie|37}} avec un trafic journalier qui se situe aux alentours de {{unité|40000|véhicules}} et jusqu'à {{unité|71556|véhicules}} (TMJA 2019)<ref name='DIRCO_TMJA2019'>{{Lien web|langue = FR|titre = Carte des données de trafic routier pour l'année 2019|url = http://www.dir.centre-ouest.developpement-durable.gouv.fr/IMG/pdf/trafic2019.pdf|format = pdf|date = 2020-05-28 |site = www.dir.centre-ouest.developpement-durable.gouv.fr|consulté le = 2020-07-13}}</ref> entre les échangeurs {{sortie|32}} et {{sortie|33}}. L'autoroute traversant la ville, elle sert aussi de périphérique urbain supportant ainsi en plus du trafic de transit, un important trafic local. Il en résulte lors des vacances scolaires des pics de trafic dépassant les {{unité|100000|véhicules}} par jour<ref name='Le_Populaire'>{{Lien web|langue = FR|auteur = Pierre Vignaud|titre = Pourquoi l'A20 est-elle si souvent bloquée en Limousin ?|url = https://www.lepopulaire.fr/limoges-87100/actualites/pourquoi-l-a20-est-elle-si-souvent-bloquee-en-limousin_12844712/#refresh|date = 2018-05-11 |site = www.lepopulaire.fr|consulté le = 2020-07-13}}</ref>, très au-dessus des limites de saturation d'une autoroute à {{dunité|2|2|voies}} (seules quelques courtes sections possèdent 3 voies).
+* La traversée de [[Brive-la-Gaillarde]] qui est régulièrement saturée en période de vacances scolaires notamment l'été. La section problématique se situe entre l'échangeur avec l'[[Autoroute A89 (France)|A89]] vers [[Clermont-Ferrand]] et le tunnel de [[Noailles (Corrèze)|Noailles]] (échangeur {{sortie|52}}), tout particulièrement la portion en tronc commun A20/[[Autoroute A89 (France)|A89]] comprenant la descente dangereuse de [[Donzenac]], qui supporte un trafic d'environ {{unité|40000|véhicules}} par jour (TMJA 2019)<ref name='DIRCO_TMJA2019' /> et des pics dépassant les {{unité|80000|véhicules}} par jour l'été<ref name='Le_Populaire' />.
+* La [[rocade de Montauban]] en période estivale.
+* L'échangeur avec l'[[Autoroute A62 (France)|A62]] au niveau de [[Bressols]], coupé par la barrière de péage de Montauban-Sud qui constitue un goulot d'étranglement dans les deux sens de circulation. La configuration particulière de l'échangeur créée un entonnoir à la sortie du péage à cause des bretelles d'accès vers [[Toulouse]] et dans l'autre sens vers [[Paris]], qui se réduisent à 1 voie<ref name='F3_Occitanie'>{{Lien web|langue = FR|auteur = Fabrice Valery|titre = Montauban-sud : le péage autoroutier le plus c... du monde ?|url = https://france3-regions.francetvinfo.fr/occitanie/tarn-et-garonne/montauban/montauban-sud-le-peage-autoroutier-le-plus-c-du-monde-788389.html|date = 2015-08-18 |site = france3-regions.francetvinfo.fr|consulté le = 2020-07-13}}</ref>. Il n'est ainsi pas rare qu'un bouchon se forme et remonte en amont du péage sur plusieurs centaines de mètres, notamment lors des retours de weekend ou en période de vacances scolaires.
+
+== Parcours ==
+[[Fichier:A20 - Porte de Corrèze.jpg|vignette|alt=L'autoroute en Corrèze (19).|L'autoroute en [[Corrèze (département)|Corrèze]].]]
+[[Fichier:Autoroute A20 - Viaduc de la Dordogne.jpg|vignette|alt=L'autoroute et le viaduc de la Dordogne.|L'autoroute et le [[viaduc de la Dordogne]].]]
+
+{| class="wikitable" style="text-align:center; width=50%;"
+ |+ Régions et départements traversés
+ |-
+ ! scope="col" | [[Région française|Régions]]
+ ! scope="col" | [[Département français|Départements]]
+ ! scope="col" | Distances par départements
+ ! scope="col" | Distances par régions
+ ! scope="col" | [[Parc naturel régional en France|Parc naturel régional]] à proximité
+ |-
+ | rowspan="2"| [[Centre-Val de Loire]]
+ | [[Cher (département)|Cher]] (18)
+ | {{unité|23|km}}
+ | rowspan="2"| {{unité|118|km}}
+ | rowspan="2"| [[Parc naturel régional de la Brenne|La Brenne]]
+ |-
+ | [[Indre (département)|Indre]] (36)
+ | {{unité|95|km}}
+ |- {{ligne grise}}
+ | rowspan="3"| [[Nouvelle-Aquitaine]]
+ | [[Creuse (département)|Creuse]] (23)
+ | {{unité|4|km}}
+ | rowspan="3"| {{unité|170|km}}
+ | rowspan="3"| [[Parc naturel régional de Millevaches en Limousin|Millevaches en Limousin]] <br /> [[Parc naturel régional Périgord-Limousin|Périgord-Limousin]]
+ |- {{ligne grise}}
+ | [[Haute-Vienne]] (87)
+ | {{unité|103|km}}
+ |- {{ligne grise}}
+ | [[Corrèze (département)|Corrèze]] (19)
+ | {{unité|63|km}}
+ |-
+ | rowspan="2"| [[Occitanie (région administrative)|Occitanie]]
+ | [[Lot (département)|Lot]] (46)
+ | {{unité|92|km}}
+ | rowspan="2"| {{unité|128|km}}
+ | rowspan="2"| [[Parc naturel régional des Causses du Quercy|Les Causses du Quercy]]
+ |-
+ | [[Tarn-et-Garonne]] (82)
+ | {{unité|36|km}}<ref group="Note">{{unité|42|km}} en comptabilisant le contournement de Montauban.</ref>
+ |}
+'''Altitude maximale du tracé'''
+
+Environ 485 m.
+{| class="wikitable alternance" style="text-align:center; width=100%;"
+ |+ Principaux cours d'eau traversés
+ |-
+ ! scope="row" | Noms
+ | [[Cher (rivière)|Cher]]
+ | [[Arnon]]
+ | [[Indre (rivière)|Indre]]
+ | [[Creuse (affluent de la Vienne)|Creuse]]
+ | [[Abloux]]
+ | [[Anglin]]
+ | [[Benaize]]
+ | [[Brame (rivière)|Brame]]
+ | [[Semme]]
+ | [[Gartempe (rivière)|Gartempe]]
+ | [[Couze (affluent de la Gartempe)|Couze]]
+ |-
+ ! scope="row" | Point Kilométrique
+ | {{unité|4|km}}
+ | {{unité|7|km}}
+ | {{unité|61|km}}
+ | {{unité|88|km}}
+ | {{unité|105|km}}
+ | {{unité|116|km}}
+ | {{unité|127|km}}
+ | {{unité|133|km}}
+ | {{unité|141|km}}
+ | {{unité|148|km}}
+ | {{unité|157|km}}
+ |-
+ ! scope="row" | Noms
+ | [[Vienne (rivière française)|Vienne]]
+ | [[Briance]]
+ | [[Vézère]]
+ | [[Corrèze (rivière)|Corrèze]]
+ | [[Dordogne (cours d'eau)|Dordogne]]
+ | [[Lot (rivière)|Lot]]
+ | [[Lemboulas]]
+ | [[Aveyron (affluent du Tarn)|Aveyron]]
+ | [[Tescou]]
+ | [[Tarn (rivière)|Tarn]]
+ |-
+ ! scope="row" | Point Kilométrique
+ | {{unité|182|km}}
+ | {{unité|197|km}}
+ | {{unité|240|km}}
+ | {{unité|271|km}}
+ | {{unité|306|km}}
+ | {{unité|356|km}}
+ | {{unité|375|km}}
+ | {{unité|399|km}}
+ | {{unité|411|km}}
+ | {{unité|414|km}}
+ |}
+
+=== Parcours détaillé ===
+'''Section concédée à [[Cofiroute]] et payante.'''
+* '''{{échangeur autoroutier|[[Autoroute A71 (France)|A71]]|A20}}''' : [[Paris]] ([[Autoroute A10 (France)|A10]]), [[Tours]] ([[Autoroute A85 (France)|A85]]), [[Blois]], [[Orléans]] ; [[Bourges]], [[Clermont-Ferrand]], [[Vierzon]] - ''est''
+** [[Fichier:France road sign B14 (50).svg|22x22px]] Limitation à {{unité|50|km/h}} sur l'échangeur.
+* {{Péage|Péage de Vierzon - nord (à système fermé)}}
+** [[Fichier:France road sign B14 (110).svg|22x22px]] ''Début de portion en périphérie de Vierzon''. Limitation à {{unité|110|km/h}}.
+'''Section non-concédée gérée par la [[Direction interdépartementale des Routes#Direction interdépartementale des Routes Centre-Ouest|DIR Centre-Ouest]] et gratuite.'''
+* {{Sortie|5 Vierzon - ''nord''}} : Orléans, [[Auxerre]], Vierzon
+* {{Sortie|6 Vierzon - ''Village''}} : Blois, Tours, Vierzon, [[Méry-sur-Cher]]
+** [[Fichier:France road sign B14 (130).svg|22x22px]] ''Fin de portion en périphérie de Vierzon''. Limitation à {{unité|130|km/h}}.
+** [[Fichier:AB-Brücke.svg]] Pont sur [[Fichier:Panneau cours d'eau France.png|20px]] Le [[Cher (rivière)|Cher]].
+* {{Sortie|7 Vierzon - sud}} : Vierzon - ''centre, Bourgneuf'', Bourges, [[Saint-Florent-sur-Cher]], [[Saint-Hilaire-de-Court]], [[Méreau (Cher)|Méreau]]
+** [[Fichier:AB-Brücke.svg]] Pont sur [[Fichier:Panneau cours d'eau France.png|20px]] [[Arnon|l'Arnon]].
+* {{Sortie|8 Massay - ''nord''}} ''(demi-échangeur, depuis et vers Vierzon)'' : [[Massay (Cher)|Massay]], [[Reuilly (Indre)|Reuilly]]
+* {{Sortie|8.1 Massay - ''sud''}} : Massay, Reuilly
+* {{Sortie|9 Graçay}} : [[Graçay]], [[Saint-Outrille]], [[Romorantin-Lanthenay]]
+''Passage du département du [[Cher (département)|Cher]] à celui de l'[[Indre (département)|Indre]].
+* {{Aire de service|des Champs d'Amour}}
+* {{Sortie|10 Vatan}} ''(deux demi-échangeurs)'' : [[Vatan]], [[Issoudun]], [[Valençay]]
+* {{Sortie|11 Brion}} : [[Brion (Indre)|Brion]], [[La Champenoise]], [[Levroux]]
+** {{Aire de repos|des Avionneurs|Vierzon-Montauban|des Blés d'Or|Montauban-Vierzon}}
+* {{Sortie|12 Châteauroux - ''nord'' / Déols}} : Bourges, Blois, [[Montluçon]], [[Châteauroux]] - ''centre'', [[Déols]], Issoudun, [[La Châtre]], ''Zones Industrielles'', ''[[Fichier:France road sign ID2.svg|15px|alt]] [[Aéroport de Châteauroux-Centre|Châteauroux-Centre]]''
+* {{Sortie|13 Châteauroux - ''Saint-Christophe''}} : Tours, Châteauroux, [[Saint-Maur (Indre)|Saint-Maur]] - ''centre'', [[Villedieu-sur-Indre]], [[Buzançais]]
+** [[Fichier:AB-Brücke.svg]] Pont sur [[Fichier:Panneau cours d'eau France.png|20px]] l'[[Indre (rivière)|Indre]]
+* {{Sortie|13.1 Châtellerault}} ''(demi-échangeur, depuis et vers Vierzon)'' : [[Châtellerault]], [[Mézières-en-Brenne]], Saint-Maur - ''Bel Air''
+* {{Sortie|14 Châteauroux - ''sud''}} : Châteauroux - ''centre'', Châtellerault, Saint-Maur - ''Cap Sud'', [[Le Poinçonnet]], [[Luant]]
+** {{Aire de service|des Mille Étangs|Vierzon-Montauban|du Val d'Indre|Montauban-Vierzon}}
+* {{Sortie|15 Velles}} : [[Poitiers]], [[Velles (Indre)|Velles]], [[Saint-Gaultier]], Luant, [[Le Blanc (Indre)|Le Blanc]]
+* {{Sortie|16 Tendu}} : [[Tendu]]
+* {{Sortie|17 Argenton - ''nord''}} : [[Argenton-sur-Creuse]] - ''centre'', [[Saint-Marcel (Indre)|Saint-Marcel]], [[Le Pêchereau]], Le Blanc, [[La Châtre]], [[Le Pont-Chrétien-Chabenet]]
+** [[Fichier:France road sign A1c.svg|23x23px]] [[Fichier:France road sign B14 (110).svg|22x22px]] ''Début de zone avec une multitude de virages dangereux''. Limitation à {{unité|110|km/h}}.
+** [[Fichier:AB-Brücke.svg]] Pont sur [[Fichier:Panneau cours d'eau France.png|20px]] la [[Creuse (affluent de la Vienne)|Creuse]].
+** [[Fichier:France road sign B14 (130).svg|22x22px]] ''Fin de zone avec une multitude de virages dangereux''. Limitation à {{unité|130|km/h}}.
+* {{Sortie|18 Argenton - ''sud''}} : ''[[Fichier:France road sign ID35.svg|15px|alt]] Argenton-sur-Creuse - Z. I.'', [[Prissac]]
+** {{Aire de repos|de la Marche Occitane|Vierzon-Montauban|du Val de Creuse|Montauban-Vierzon}}
+** [[Fichier:AB-Brücke.svg]] Pont sur [[Fichier:Panneau cours d'eau France.png|20px]] la [[Sonne (rivière)|Sonne]].
+* {{Sortie|19 Celon}} : [[Celon]], [[Vigoux]], [[Ceaulmont]]
+* {{Sortie|20 Les Cinq Routes}} : [[Éguzon-Chantôme]], [[Montmorillon]], [[Parnac (Indre)|Parnac]], [[Saint-Benoît-du-Sault]]
+* {{Sortie|21 Rhodes}} : [[Azerables]], [[Mouhet]], Saint-Benoît-du-Sault
+''Passage de la région [[Centre-Val de Loire]] à la région [[Nouvelle-Aquitaine]].<br />Passage du département de l'Indre à celui de la [[Creuse (département)|Creuse]]. ''<br>
+''Passage du département de la Creuse à celui de la [[Haute-Vienne]].''
+* {{Aire de service|de Boismandé}}
+* {{Sortie|22 Ruffasson}} : [[Arnac-la-Poste]], [[Saint-Sulpice-les-Feuilles]]
+''Passage du département de la Haute-Vienne à celui de la Creuse.''<br>
+''Passage du département de la Creuse à celui de la Haute-Vienne.''
+* {{Sortie|23/23a/23b La Croisière}} : [[Angoulême]], [[Guéret]], Montluçon, [[La Souterraine (Creuse)|La Souterraine]], [[Saint-Maurice-la-Souterraine]], [[Saint-Sornin-Leulac]], [[Magnac-Laval]], [[Bellac]]
+** {{Aire de repos|de la Coulerouze}}
+* {{Sortie|23.1 La Croix du Breuil}} ''(demi-échangeur, depuis et vers Vierzon)'' : ''[[Fichier:France road sign ID35.svg|15px|alt]] Z. I. Croix du Breuil'', [[Bessines-sur-Gartempe]] - ''Gare'', [[Châteauponsac]], [[Saint-Pierre-de-Fursac]] 
+** [[Fichier:AB-Brücke.svg]] Pont sur [[Fichier:Panneau cours d'eau France.png|20px]] La [[Gartempe (rivière)|Gartempe]]
+* {{Sortie|24 Bessines-sur-Gartempe}} : Bessines-sur-Gartempe, [[Bersac-sur-Rivalier]], [[Laurière]], [[Châteauponsac]], [[Saint-Pierre-de-Fursac]]
+* {{Sortie|25 Razès}} : [[Razès (Haute-Vienne)|Razès]], ''[[Lac de Saint-Pardoux]]'', [[Saint-Sylvestre (Haute-Vienne)|Saint-Sylvestre]], [[Bersac-sur-Rivalier]], [[Laurière]]
+** [[Fichier:France road sign B14 (110).svg|22x22px]] ''Début de portion sinueuse''. Limitation à {{unité|110|km/h}}.
+* {{Sortie|26 La Crouzille}} : [[Compreignac]], [[Nantiat]], Saint-Sylvestre, [[Ambazac]]
+* {{Sortie|27 Trazmont}} : [[Bonnac-la-Côte]], [[Chaptelat]], Ambazac, [[Saint-Priest-Taurion]], [[Limoges]] - ''[[Beaune-les-Mines]]''
+** {{Aire de service|Limoges-Ouest|Vierzon-Montauban|Limoges-Est|Montauban-Vierzon}} ''(anc. [[Beaune-les-Mines]])
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Rappel ''Fin de portion sinueuse et début de portion en périphérie de Limoges''. Limitation rappel à {{unité|110|km/h}}.
+* {{Sortie|28 Grossereix}} : [[Périgueux]], Angoulême, Poitiers, [[Rilhac-Rancon]], [[Couzeix]], [[Saint-Junien]], ''[[Fichier:France road sign ID2.svg|15px|alt]] [[Aéroport de Limoges-Bellegarde|Limoges-Bellegarde]], [[Fichier:France road sign ID35.svg|15px|alt]] Z. I. Limoges - Nord'', Limoges
+* {{Sortie|29 Beaubreuil}} : Limoges - ''[[Beaubreuil]]''
+* {{Sortie|30 Limoges - ''nord''}} ''(demi-échangeur, depuis et vers Vierzon)'' : [[Le Palais-sur-Vienne]], Limoges, ''[[Ester (technopole)|Ester Technopole]]'', ''[[Fichier:France road sign ID35.svg|15px|alt]] Z. I. Nord. - Lac Uzurat'', Limoges
+* {{Sortie|31 Ester}} ''(demi-échangeur, depuis et vers Montauban)'' : ''Ester Technopole'', ''Z. I. Nord Lac Uzurat'', Limoges
+** [[Fichier:France road sign B14 (90).svg|22x22px]] ''Fin de portion en périphérie de Limoges, début de portion urbaine de Limoges''. Limitation à {{unité|90|km/h}}.
+* {{Sortie|32 Limoges - ''[[La Bastide (Limoges)|La Bastide]]''}} ''(demi-échangeur, depuis et vers Montauban)'' : Limoges - ''nord''
+* {{Sortie|33 Limoges - ''[[Centre-ville de Limoges|centre]]''}} : Limoges, [[Le Palais-sur-Vienne]], [[Saint-Priest-Taurion]], [[Aixe-sur-Vienne]], [[Rochechouart (Haute-Vienne)|Rochechouart]], ''[[Fichier:France road sign ID3.svg|15px|alt]] [[Centre hospitalier régional universitaire de Limoges|C.H.R.U Dupuytren de Limoges]]''
+** [[Fichier:AB-Brücke.svg]] Pont sur [[Fichier:Panneau cours d'eau France.png|20px]] la [[Vienne (rivière française)|Vienne]]
+* {{Sortie|34 Panazol}} ''(demi-échangeur, depuis et vers Vierzon)'' : Clermont-Ferrand, [[Panazol]], [[Saint-Léonard-de-Noblat]], Limoges - ''[[Le Sablard]]'', ''[[Lac de Vassivière]]''
+* {{Sortie|35 Le Bas-Fargeas}} : Clermont-Ferrand, Limoges - ''sud'', [[Feytiat]], [[Eymoutiers]], Panazol, Saint-Léonard-de-Noblat, Limoges - Saint Lazare, ''Z. I. Ponteix''
+** [[Fichier:France road sign B14 (110).svg|22x22px]] ''Fin de portion urbaine de Limoges et début de portion en périphérie de Limoges''. Limitation à {{unité|110|km/h}}.
+* {{Sortie|36 Le Ponteix}} : Limoges - ''sud'', [[Nexon (Haute-Vienne)|Nexon]], [[Saint-Yrieix-la-Perche]], ''[[Fichier:France road sign ID35.svg|15px|alt]] Z. I. Ponteix, Magret-Romanet''
+* {{Sortie|37 Boisseuil}} : Les Quatre Vents, [[Boisseuil]], [[Le Vigen]], ''[[File:France road sign ID36.svg|15px|alt]] [[Centre commercial|Zones commerciales]] Boisseuil - Le Vigen''
+** [[Fichier:France road sign B14 (130).svg|22x22px]] ''Fin de portion en périphérie de Limoges''. Limitation à {{unité|130|km/h}}.
+* {{Sortie|38 Le Vigen}} : Le Vigen, [[Solignac]], Boisseuil, ''[[Pôle de Lanaud]]''
+* {{Sortie|39 Saint-Hilaire-Bonneval}} : [[Saint-Hilaire-Bonneval]], [[Saint-Paul (Haute-Vienne)|Saint-Paul]], [[Saint-Priest-Ligoure]]
+** [[Fichier:France road sign A1c.svg|23x23px]] [[Fichier:France road sign B14 (110).svg|22x22px]] ''Début de zone avec une multitude virages dangereux''. Limitation à {{unité|110|km/h}}.
+** [[Fichier:AB-Brücke.svg]] Viaduc de la Briance sur [[Fichier:Panneau cours d'eau France.png|20px]] la [[Briance]]
+** [[Fichier:AB-Brücke.svg]] Viaduc du Blanzou sur [[Fichier:Panneau cours d'eau France.png|20px]] le [[Blanzou]]
+** [[Fichier:France road sign B14 (130).svg|22x22px]] ''Fin de zone avec une multitude de virages dangereux''. Limitation à {{unité|130|km/h}}.
+* {{Sortie|40 Pierre-Buffière}} : [[Vicq-sur-Breuilh]], Nexon, [[Château-Chervix]], [[Pierre-Buffière]], [[Saint-Priest-Ligoure]]
+** {{Aire de repos|de Briance-Ligoure}}
+* {{Sortie|41 Magnac-Bourg}} : [[Vicq-sur-Breuilh]], [[Magnac-Bourg]], [[Château-Chervix]]
+* {{Sortie|42 Saint-Germain-les-Belles}} : [[Saint-Germain-les-Belles]], [[Meuzac]], [[Saint-Yrieix-la-Perche]], [[La Porcherie]], ''[[Lac de Vassivière]]''
+''Passage du département de la Haute-Vienne à celui de la [[Corrèze (département)|Corrèze]].''
+* {{Aire de service|de la Porte de Corrèze}}
+* {{Sortie|43 Masseret}} : [[Masseret]], [[La Porcherie]], [[Chamberet]], [[Salon-la-Tour]]
+* {{Sortie|44 Beausoleil}} : [[Salon-la-Tour]], [[Lubersac]], [[Arnac-Pompadour]], [[Uzerche]]
+** [[Fichier:AB-Brücke.svg]] [[Viaduc de la Vézère]] sur [[Fichier:Panneau cours d'eau France.png|20px]] la [[Vézère]].
+* {{Sortie|45 Les Balladours}} : [[Tulle]], [[Aurillac]], Uzerche, [[Seilhac]], [[Vigeois]], [[Arnac-Pompadour]]
+** {{Aire de repos|de Puy de Grâce}}
+* {{Sortie|46 Perpezac-le-Noir}} : [[Perpezac-le-Noir]], [[Sadroc]]
+* '''{{échangeur autoroutier|[[Autoroute A89 (France)|A89]] Est|A20}}''' : [[Lyon]], Clermont-Ferrand, Tulle, [[Saint-Germain-les-Vergnes]]
+''Début du tronc commun avec l'A89''
+* [[Fichier:France road sign B14 (110).svg|22x22px]] ''Début de portion en périphérie de Brive-la-Gaillarde''. Limitation à {{unité|110|km/h}}
+* {{Sortie|47 Donzenac}} : [[Donzenac]], Sadroc
+* {{Sortie|48 Allassac}} : Donzenac, [[Allassac]]
+* {{Sortie|49 Ussac}} : Tulle, [[Brive-la-Gaillarde]] - ''est'', [[Malemort-sur-Corrèze]], [[Ussac]]
+* '''{{échangeur autoroutier|A89 Ouest|A20}}''' : Périgueux, [[Bordeaux]], [[Sarlat-la-Canéda]]
+''Fin du tronc commun''
+* {{Sortie|50 Brive-la-Gaillarde - ''centre''}} : Brive-la-Gaillarde, [[Objat]]
+** [[Fichier:AB-Brücke.svg]] Pont sur [[Fichier:Panneau cours d'eau France.png|20px]] la [[Corrèze (rivière)|Corrèze]].
+* {{Sortie|51 Brive-la-Gaillarde - ''ouest''}} : Périgueux, Brive-la-Gaillarde - ''centre'', [[Terrasson-Lavilledieu]], [[Montignac-Lascaux]], ''[[Lac du Causse]]''
+** [[Fichier:France road sign A1c.svg|23x23px]] [[Fichier:France road sign B14 (110).svg|22x22px]] Rappel. ''Fin de portion en périphérie de Brive-la-Gaillarde et début de zone avec une multitude de virages dangereux''. Limitation rappel à {{unité|110|km/h}}
+** [[Fichier:France road sign C111.svg|25x25px]] [[Fichier:France road sign B14 (90).svg|22x22px]] Traversée du ''Tunnel de Noailles'' (Longueur : 300 m). Limitation à {{unité|90|km/h}}.
+* {{Sortie|52 Noailles}} : [[Noailles (Corrèze)|Noailles]], [[Collonges-la-Rouge]], [[Beaulieu-sur-Dordogne]], [[Saint-Céré]]
+** [[Fichier:France road sign C112.svg|25x25px]] [[Fichier:France road sign B14 (110).svg|22x22px]] ''Fin de traversée de tunnel''. Limitation à {{unité|110|km/h}}
+** [[Fichier:France road sign B14 (130).svg|22x22px]] ''Fin de zone avec une multitude de virages dangereux''. Limitation à {{unité|130|km/h}}.
+* {{Sortie|53 Nespouls}} : [[Cahors]], [[Rodez]], [[Cressensac]], [[Nespouls]]
+'''Section concédée à [[Autoroutes du Sud de la France|ASF]] et payante (sauf entre les sorties 60 à 68).'''<br>
+''Passage de la région Nouvelle-Aquitaine à la région [[Occitanie (région administrative)|Occitanie]].<br /> Passage du département de la Corrèze à celui du [[Lot (département)|Lot]].''
+* {{Aire de service|de Pech Montat}}
+* {{Sortie|54 Martel}} ''(demi-échangeur, depuis et vers Vierzon)'' : ''[[Fichier:France road sign ID16a.svg|15px|alt]] [[Gouffre de Padirac]]'', [[Gramat]], ''[[Fichier:France road sign ID16b.svg|15px|alt]] [[Rocamadour]]''
+* {{Péage|Péage de Gignac (à système fermé)}}
+* {{Sortie|55 Souillac}} : Sarlat-la-Canéda, Beaulieu-sur-Dordogne, [[Souillac]]
+** [[Fichier:AB-Brücke.svg]] [[Viaduc de la Dordogne]] sur [[Fichier:Panneau cours d'eau France.png|20px]] la [[Dordogne (cours d'eau)|Dordogne]] (Longueur : 1070 m).
+* {{Sortie|56 Labastide-Murat}} : Aurillac, Rodez, Sarlat-la-Canéda, [[Figeac]]-[[Decazeville]], Saint-Céré, [[Gourdon (Lot)|Gourdon]], [[Gramat]] 
+** {{Aire de service|Jardin des Causses du Lot}} 
+** [[Fichier:AB-Brücke.svg]] [[Viaduc de la Rauze]] sur [[Fichier:Panneau cours d'eau France.png|20px]] la [[Rauze]] (Longueur : 555 m).
+* {{Sortie|57 Cahors - ''nord''}} : [[Villeneuve-sur-Lot]], Cahors - ''centre'', [[Fichier:France road sign ID16a.svg|15px|alt]] [[Saint-Cirq-Lapopie]]
+** [[Fichier:AB-Brücke.svg]] [[Viaduc autoroutier sur le Lot|Viaduc du Lot]] sur [[Fichier:Panneau cours d'eau France.png|20px]] le [[Lot (rivière)|Lot]] (Longueur : 550 m).
+** [[Fichier:France road sign C111.svg|25x25px]] [[Fichier:France road sign B14 (110).svg|22x22px]] Traversée de la ''Tranchée couverte de la Garenne'' (Longueur : 135 m). Limitation à {{unité|110|km/h}}.
+** [[Fichier:France road sign C112.svg|25x25px]] [[Fichier:France road sign B14 (130).svg|22x22px]] Fin de traversée de la Tranchée couverte. Limitation à {{unité|130|km/h}}.
+** {{Aire de repos|de la Combe du Tréboulou}}
+* {{Sortie|58 Cahors - ''sud''}} : Villeneuve-sur-Lot, Cahors - ''centre'', [[Villefranche-de-Rouergue]]
+''Passage du département du Lot à celui du [[Tarn-et-Garonne]].''
+* {{Aire de service|du Bois de Dourre}}
+* {{Sortie|59 Caussade}} : Rodez, Decazeville, Villefranche-de-Rouergue, [[Caussade (Tarn-et-Garonne)|Caussade]], [[Saint-Antonin-Noble-Val]]
+** [[Fichier:AB-Brücke.svg]] Pont sur [[Fichier:Panneau cours d'eau France.png|20px]] l'[[Aveyron (affluent du Tarn)|Aveyron]].
+* {{Péage|Péage de Montauban - nord (à système fermé)}}
+** [[Fichier:France road sign B14 (90).svg|22x22px]] ''Début de portion urbaine de Montauban''. Limitation à {{unité|90|km/h}}.
+* {{Sortie|60 Montauban - ''nord''}} : Cahors, Rodez ''par RD'', [[Moissac]], [[Albias]], [[Lafrançaise]], [[Montauban]] - ''centre, Aussonne'' 
+* {{Sortie|61 Montauban - ''Z. I. Nord''}} : ''[[Fichier:France road sign ID16a.svg|15px|alt]] [[Saint-Antonin-Noble-Val]]'', [[Nègrepelisse]], [[Léojac]], Lafrançaise, Montauban
+* {{Sortie|62 Montauban - ''Les Chaumes''}} : [[Monclar-de-Quercy]], [[Léojac]], Montauban
+* {{Sortie|63 Montauban - ''Beausoleil''}} : [[Albi]], [[Gaillac]], [[Lisle-sur-Tarn]], Montauban
+* {{Sortie|64 Montauban - ''Sapiac''}} : [[Villebrumier]], Montauban
+** [[Fichier:AB-Brücke.svg]] Pont sur [[Fichier:Panneau cours d'eau France.png|20px]] le [[Tarn (rivière)|Tarn]].
+* {{Sortie|65 Montauban - ''La Molle''}} : [[Auch]], [[Agen]], Montauban - ''Villebourbon, centre, sud'', [[Lafrançaise]], [[Castelsarrasin]], [[Montech]]
+* {{Sortie|66 Montauban - ''Parages''}} ''(deux demi-échangeurs)'' : [[Castres]], [[Villemur-sur-Tarn]], [[Fronton (Haute-Garonne)|Fronton]], [[Bressols]] - ''centre'', ''[[Fichier:France road sign ID35.svg|15px|alt]] Z. A. Albasud''
+** [[Fichier:France road sign B14 (110).svg|22x22px]] ''Fin de portion urbaine de Montauban et début de portion en périphérie de Montauban''. Limitation à {{unité|110|km/h}}
+** {{Aire de service|de Nauze-Vert|Vierzon-Toulouse}}
+* {{Sortie|67 Bressols - ''Moulis''}} : ''[[Fichier:France road sign ID35.svg|15px|alt]] Z. A. Bressols'', [[Montbartier]]
+** [[Fichier:France road sign C24b.svg|22x22px]] [[Fichier:France road sign B14 (90).svg|22x22px]] Séparation de la {{dunité|2|2|voies}} et limitation à {{unité|90|km/h}}.
+* {{Sortie|68 Le Clos du Lac ([[Route nationale 20 (France)|RD 820]])}} ''(entrée/sortie par la gauche depuis et vers Vierzon)'' : [[Toulouse]], [[Grisolles (Tarn-et-Garonne)|Grisolles]], [[Grenade (Haute-Garonne)|Grenade]], [[Verdun-sur-Garonne]], Fronton, [[Villemur-sur-Tarn]]
+* {{Péage|Péage de Montauban - sud (à système fermé)}}
+* '''{{échangeur autoroutier|[[Autoroute A62 (France)|A62]]|A20}}''' : Toulouse ; Bordeaux, Agen
+
+== Ouvrages d'art ==
+{{colonnes|taille=20|
+* Pont sur le Cher
+* Pont sur l'Indre
+* Pont sur la Creuse
+* Viaduc de la Gartempe
+* Tranchées couvertes de Limoges 
+* Pont sur la Vienne
+* Viaduc de la Briance
+* Viaduc du Blanzou
+* Viaduc sur la Vézère
+* Viaduc de la Corrèze
+* Tunnel de Noailles
+* [[Viaduc de Blazy]]
+* Tranchée couverte de Terregaye
+* [[Viaduc de la Dordogne]]
+* Tranchée couverte de Sol de Roques
+* [[Viaduc de la Rauze]]
+* Tranchée couverte de Constans
+* [[Viaduc autoroutier sur le Lot]]
+* Tranchée couverte de la Garenne
+* Tunnel de Pech-Brunet
+* [[Viaduc de la Vézère]]
+* Pont sur l'Aveyron
+* Pont sur le Tarn
+}}
+
+== Œuvres d'art exposées ==
+* [[Rond des Osages]], au niveau des sorties 65 et 66 '' (échangeur Albasud)'', trois [[sculpture]]s contemporaines du sculpteur français [[Michel Batlle]]<ref> [https://www.pop.culture.gouv.fr/notice/palissy/IM82100006 Site pop.culture.gouv.fr, fiche "sculpture : Rond des Osages"].</ref>.
+
+== Lieux touristiques ==
+* [[Vierzon]]
+* [[Châteauroux]]
+* [[Limoges]]
+* [[Oradour-sur-Glane]]
+* [[Brive-la-Gaillarde]]
+* [[Rocamadour]], ''village remarquable du [[Lot (département)|Lot]]''
+* [[Gouffre de Padirac]]
+* [[Cahors]] (''[[Pont Valentré]], etc'')
+* [[Saint-Antonin-Noble-Val]], ''village remarquable de [[Tarn-et-Garonne]]''
+* [[Montauban]] (''[[Place Nationale (Montauban)|Place Nationale]], Pont Neuf, etc'')
+* [[Boisseuil]], avec le [[pôle de Lanaud]],  labellisé « [[Label « Patrimoine du XXe siècle »|Patrimoine du {{20e}} siècle]] » par le [[Ministère de la culture et de la communication|Ministère de la Culture et de la Communication]] ; le site est également homologué au titre des Sites Remarquables du Goût.
+
+== Projets ==
+Il était initialement envisagé de réaliser un contournement autoroutier à l'est de [[Limoges]] (projet « A20bis »), afin de rendre à la section de l'autoroute A20 qui traverse l'agglomération limougeaude, sa vocation de voie rapide de desserte urbaine, donc son appellation de RN 20. Cette éventualité a été abandonnée en [[1998]], au profit d'études sur une voie de contournement au sud de Limoges<ref>Site de la DREAL Aquitaine-Limousin-Poitou-Charentes : [http://www.limousin.developpement-durable.gouv.fr/contournement-sud-de-l-agglomeration-de-limoges-r210.html Contournement sud de l'agglomération de Limoges], consulté le 15 mars 2016.</ref>.
+
+En {{date|mai 2019}}, Vinci Autoroutes et [[BlaBlaCar|Blablacar]] expérimentent une navette bus entre l'autoroute et le centre-ville de Cahors pour faciliter le covoiturage. Cette expérience doit durer un an ; de plus ces partenaires mènent un projet similaire à [[Carpentras]] sur l'[[Autoroute A7 (France)|autoroute A7]]. Vinci Autoroute se montre favorable au covoiturage car il lui attire une nouvelle clientèle<ref>{{Lien web |langue=fr-FR |titre=Lot. Une navette entre l'A20 Cahors Nord et le centre-ville de Cahors pour BlaBlaCar |url=https://actu.fr/occitanie/cahors_46042/lot-une-navette-entre-la20-cahors-nord-le-centre-ville-cahors-blablacar_25963116.html |site=actu.fr |consulté le=2019-07-26 }}</ref>.
+
+== Galerie de photographies ==
+<gallery>
+A20-Limoges.JPG|L'autoroute à [[Limoges]] ([[Haute-Vienne]]).
+Sortie 32 A20 limoges bastide.jpg|La sortie n° 32.
+A20-A89 Brive.JPG|Le panneau annonçant l'[[échangeur autoroutier]] A20 - [[Autoroute A89 (France)|A89]].
+A20 - Pech Montat.jpg|L'autoroute au niveau <br /> de l'aire de service « Pech-Montat ».
+A20 Bois de Dourre.JPG|L'autoroute au niveau de l'aire de service <br /> « Bois de Dourre ».
+Aire de service Jardins des Causses du Lot, A20.jpg|L'aire de service <br /> « Jardins des Causses du Lot ».
+</gallery>
+
+== Notes et références ==
+=== Notes ===
+{{Références|groupe=Note|colonnes=3}}
+
+=== Références ===
+{{Références}}
+
+== Voir aussi ==
+{{Autres projets|commons=Category:A20 autoroute|commons titre=L'autoroute française A20}}
+=== Articles connexes ===
+* [[Liste des autoroutes de France]]
+* [[Route européenne 9]]
+
+=== Liens externes ===
+* [http://saratlas.free.fr/index.php?page=autoroute&route=a20&lang=fr Autoroute A20 dans Saratlas]
+* [http://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A20 Article de l'A20 sur WikiSara]
+* [http://autorout.free.fr/2_Pdf/1_France/A20.pdf Panneaux directionnels de l'autoroute A20]
+* {{Légifrance|base=JORF|numéro=EQUR0501142D|texte=Décret du {{Date|20|10|2005}} déclarant d'utilité publique les travaux de mise aux normes autoroutières de la rocade de Montauban et attribuant le statut d'autoroute à cette rocade}}
+* [http://www.patrimoine-lot.com/media/IVD46_20104600493.pdf Autoroute A20 : A20, le passé retrouvé. Découvertes archéologiques sur le tracé de l'autoroute]
+
+{{Palette|Autoroutes de France}}
+{{Portail|route|Cher|Indre|Creuse|Haute-Vienne|Corrèze|Lot|Tarn-et-Garonne}}
+
+[[Catégorie:Autoroute en Centre-Val de Loire|020]]
+[[Catégorie:Autoroute en Nouvelle-Aquitaine|020]]
+[[Catégorie:Autoroute en région Occitanie|020]]
+[[Catégorie:Autoroute A20 (France)|*]]

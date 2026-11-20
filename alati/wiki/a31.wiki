@@ -1,0 +1,253 @@
+{{voir homonymes|A31}}
+{{Infobox Route/France|statut=A|numéro=31
+|autres_noms         = Autoroute de Lorraine-Bourgogne
+|image               = Autoroute A31 à Harmonville (88).jpg
+|légende             = L'autoroute A31 dans le département des Vosges.
+|carte               = Autoroutes A31.png
+|longueur            = 349
+|direction           = sud / nord
+|dir1                = sud
+|dir2                = nord
+|ville1              = {{Route européenne|15}} {{Route européenne|21}} {{Route européenne|60}} {{Autoroute française|A6}} à [[Beaune]]
+|ville2              = {{Cartouche route|LU|A|3}} {{Cartouche route|LU|E|25}} à [[Zoufftgen]]
+|intersections       = {{route européenne|60}} {{Autoroute française|A36}} à [[Ladoix-Serrigny]]<br>{{Autoroute française|A311}} à [[Perrigny-lès-Dijon]]<br>{{Autoroute française|A39}} à [[Fauverney]]<br>{{route européenne|17}} {{route européenne|54}} {{Autoroute française|A5}}à [[Beauchemin (Haute-Marne)|Beauchemin]]<br>{{Route européenne|23}} {{Autoroute française|A33}} à [[Laxou]]<br>{{Route européenne|25}} {{route européenne|50}} {{Autoroute française|A4}} à [[Hauconcourt]]<br>{{Route européenne|411}} {{Autoroute française|A30}} à [[Richemont (Moselle)|Richemont]] 
+|villes_principales  = [[Thionville]], [[Metz]], [[Nancy]], [[Toul]], [[Dijon]], [[Beaune]]
+|ouverture           = [[1966]]
+|réseau              = Autoroute française, également {{Route européenne|17}} {{Route européenne|21}} {{Route européenne|23}} {{Route européenne|25}} {{Route européenne|54}} {{Route européenne|60}}
+|régions             = [[Bourgogne-Franche-Comté]]<br>[[Grand Est]]
+|départements        = [[Côte-d'Or]]<br>[[Haute-Marne]]<br>[[Vosges (département)|Vosges]]<br>[[Meurthe-et-Moselle]]<br>[[Moselle (département)|Moselle]]
+|concessionnaire   = [[Autoroutes Paris-Rhin-Rhône|APRR]] (entre Beaune et Toul)
+|gestionnaire      = [[Direction interdépartementale des Routes#Direction interdépartementale des Routes Est|DIR Est]] (entre Toul et Zoufftgen)
+}}
+L’'''autoroute A31''' (aussi appelée '''autoroute de Lorraine-Bourgogne''') relie la [[frontière entre la France et le Luxembourg|frontière franco-luxembourgeoise]], dans le prolongement de l’[[autoroute luxembourgeoise A3|A3]] luxembourgeoise (au [[poste frontière]] de [[Zoufftgen]]), à [[Beaune]] où elle rejoint l’[[Autoroute A6 (France)|A6]].
+
+Elle fait partie des [[route européenne|routes européennes]] [[Route européenne 25|E25]], [[Route européenne 21|E21]], [[Route européenne 23|E23]] et [[Route européenne 17|E17]] à partir de [[Langres]]. Elle est longue de {{Unité|349|km}}.
+
+Elle est gratuite du [[Luxembourg (pays)|Luxembourg]] jusque [[Toul]] (péage de [[Gye]]). Elle dessert les villes de [[Thionville]], [[Metz]], [[Pont-à-Mousson]], [[Nancy]], [[Toul]] et [[Dijon]]. Elle traverse les deux premières, tandis qu'elle contourne les quatre suivantes.
+
+Son débit est un des plus importants de France ({{unité|100000|véhicules}} par jour à la hauteur de Croix d'[[Hauconcourt]]) puisque se mêlent les déplacements interurbains du sillon mosellan et le transit de poids lourds et de véhicules légers en provenance ou à destination du Luxembourg, de la [[Belgique]], des [[Pays-Bas]] ou de l'[[Allemagne]] vers le nord et en provenance et à destination de la Bourgogne et du [[sillon rhodanien]] vers le sud.
+
+== Trafic et fréquentation ==
+C'est ainsi que l'A31 cumule plusieurs vocations, qui ne vont pas sans poser de nombreux problèmes au niveau du trafic : d'abord, l'A31 est un axe européen incontournable (ou presque, voir [[Autoroute A34 (France)|A34]] et [[Autoroute A304 (France)|A304]]) non seulement pour les vacanciers et routiers néerlandais, belges, luxembourgeois et allemands qui se rendent en masse dans le sud de la France mais aussi pour les routiers espagnols, portugais et italiens qui se rendent dans le nord-est de la France et le nord de l'Europe.
+
+L'A31 est effectivement un maillon surchargé de l'axe [[Rotterdam]]-[[Lyon]] ou encore [[Rotterdam]]-[[Milan]]. Ensuite, entre Luxembourg et Toul, à l'ouest de Nancy, ce trafic international se double de déplacements inter-urbains intenses : les grandes villes du [[sillon lorrain]] (Nancy, Metz, Thionville) sont connectées par cette autoroute et elle sert de chemin de parcours quotidien pour les dizaines de milliers de frontaliers français se rendant chaque jour au Grand-duché. C'est sur cette autoroute, à hauteur de la sortie Nancy Centre (sens Metz-Nancy), que se situe le [[radar automatique]] qui a enregistré le plus d'infractions en France en 2010 avec une moyenne de 20 flashes à l'heure<ref>[http://www.europe1.fr/France/Ou-flashe-t-on-le-plus-les-automobilistes-546955/ Où flashe-t-on le plus les automobilistes ?] sur Europe1.fr</ref>.
+
+Un projet d'A31 bis est en cours de discussion, il consiste à réaménager l'A31 en {{dunité|2|3|voies}} et créer des sections neuves. Ce projet permettrait à l'A31 actuelle de soulager son fort trafic. Mais ce projet est en contradiction avec l'[[accord de Paris sur le climat]], qui impose la réduction des émissions de {{CO2}}.
+
+== Le tronçon Luxembourg-Toul ==
+La portion [[Toul]]-[[Luxembourg (pays)|Luxembourg]] est la plus longue section gratuite autoroutière de France après l'[[Autoroute A20 (France)|A20]] (section [[Vierzon]] à [[Brive-la-Gaillarde]]), l'[[autoroute A35 (France)|A35]], les deux sections de l'[[autoroute A75 (France)|A75]] encadrant le [[viaduc de Millau]] (section [[Clermont-Ferrand]] à [[Millau]]-nord et Millau-sud à [[Béziers]]) et l'[[autoroute A84 (France)|A84]].
+
+Pour faire face au problème d'engorgement, il est question de doubler la portion gratuite de l'A31 par la construction de l'[[Autoroute A32 (France)|A32]] ou A31 bis. Ce projet d'A32 est dans les cartons depuis les années 1980. En résumé, s'opposent les partisans d'une nouvelle autoroute (dont le tracé ne fait pas l'unanimité) et ceux préférant la mise à {{dunité|2|3|voies}} complète de l'A31 jusqu'à Toul, le renforcement du maillage ferroviaire, le ferroutage et même le développement des voies d'eau{{référence nécessaire}}. Ce projet est toujours en cours<ref>[https://www.a31bis.fr/fr/ A31 bis], dernière mise à jour le {{date|17 juin 2026}}.</ref>.
+
+De nouvelles règles de circulation ont été mises en place en {{date|juin 2009}}, visant à interdire aux poids-lourds de doubler en journée ({{heure|7}}-{{heure|20}}) et à limiter la vitesse à {{Unité|110|km/h}} partout et à {{Unité|90|km/h}} dans les traversées d'agglomérations<ref>Nouvelle règle de circulation de l'A31 sur le [http://tout-metz.com/nouvelles-regles-circulation-autoroute-a31.php site de la ville de Metz]</ref>.
+
+Gratuite du [[Luxembourg]] à [[Toul]], le flot important de la circulation dégrade vite son état, même si ces dernières années des travaux de reclassement (traversée de [[Metz]] notamment) ont quelque peu amélioré cet état. L'A31 a en effet connu de très nombreux accidents mortels depuis sa création ; cependant, d'après les statistiques{{lesquelles}} sur le sujet, elle n'est guère plus dangereuse qu'une autre autoroute.
+
+En 2010, le [[Schéma national des infrastructures de transport]] (SNIT) recommande l'abandon de l'A32 et la mise à {{dunité|2|3|voies}} de l'A31 entre [[Nancy]] et Metz. L'existence de l'emprise de cette voie permettrait un début du chantier dans les cinq ans. De plus, un barreau [[Dieulouard]] - Toul est recommandé pour décharger l'A31 au niveau de Nancy et un barreau entre l'[[Autoroute A30 (France)|A30]] et l'A31 à l'ouest de [[Thionville]] est également recommandé pour soulager l'autoroute au niveau de la ville. Tous ces projets devraient être réalisés pour 2030<ref>[http://www.republicain-lorrain.fr/fr/region/article/3499513/2030-le-nouveau-visage-de-l-autoroute-A31.html Le nouveau visage de l'autoroute A31], Républicain lorrain du 17 juillet 2010.</ref>.
+
+De la [[frontière franco-luxembourgeoise]] jusqu'à Thionville-Nord, l'autoroute traverse exclusivement une zone champêtre d'où l'on peut apercevoir à l'est la [[centrale nucléaire de Cattenom]]. Thionville est traversée via la zone commerciale du Linkling. L'A31 surplombe en même temps la [[Moselle (rivière)|Moselle]], la [[Route nationale 53 (France)|D953]] et la [[Ligne de Metz-Ville à Zoufftgen|voie ferrée de Metz à Luxembourg]] par le [[viaduc de Beauregard]]. Un peu plus au sud, elle collecte le flot de circulation en provenance du contournement de [[Yutz]]. De ce point jusque Metz, elle constitue un des plus anciens tronçons autoroutiers de France, puisque mis en service dans les [[années 1960]].
+
+L'A31 reçoit ensuite l'A30 à hauteur de [[Richemont (Moselle)|Richemont]] (Triangle de la [[Fensch]], communément nommé « Patte d'Oie de Richemont »). À partir de là, elle est aménagée à {{dunité|2|3|voies}} et traverse un habitat relativement dense, enserrée entre la [[Moselle (rivière)|Moselle]] et son [[Canal des mines de fer de la Moselle|canal]] et les faubourgs des villes composant le [[sillon mosellan]]. Elles croise l'[[autoroute A4 (France)|A4]], à hauteur de [[Hauconcourt]]. Elle collecte le trafic provenant de l'ouest ([[Paris]], Reims notamment). Elle perd le trafic qui se détourne vers Metz-Est. Bien que disposant d'un contournement complet par l'est, la plupart des automobilistes traversant Metz empruntent l'A31, qui frôle le centre-ville. L'autoroute redevient à {{dunité|2|2|voies}}, après l'échangeur Metz-Nord, pour une courte section de {{unité|2|kilomètres}}. Elle reprend sa configuration à {{dunité|2|3|voies}} pour recevoir le trafic sortant de Metz et se dirigeant vers Nancy. Elle traverse la ZAC d'[[Augny]], quasiment en son centre, avant de bifurquer plein sud vers Nancy.
+[[Fichier:Église Saint-Joseph-et-Saint-Louis de Beauregard, Thionville, Autoroute A31--3208.jpg|vignette|L'église Saint-Joseph à [[Thionville]] vue depuis le [[viaduc de Beauregard]].]]
+L'autoroute collecte ensuite le flux provenant de la [[Route nationale 431|rocade sud-est de Metz]] et, par extension, de l'[[Moselle-Est|Est Mosellan]] et du [[Land de Sarre]]. Le parcours est champêtre. On passe sous la [[LGV Est européenne]] avant [[Pont-à-Mousson]], tout en longeant les [[côtes de Moselle]] et les vignobles, visibles à hauteur de [[Marieulles]] entre autres. Le tracé devient plus sinueux au droit de [[Custines]]. On surplombe l'agglomération nancéienne. Nancy est contournée par le Nord-Ouest. Sa traversée s'effectue en {{dunité|2|2}} ou {{dunité|2|3|voies}}. L'A31 se divise ensuite en deux axes autoroutiers : l'[[autoroute A33 (France)|A33]], filant plein est, est le prolongement de la [[Route nationale 4 (France)|N4]], assurant les liaisons avec [[Épinal]]-[[Besançon]] ([[Route nationale 57 (France)|N57]]), [[Colmar]]-[[Saint-Dié]] ([[Route nationale 59 (France)|N59]]) et [[Sarrebourg]] (N4). Et l'A31, vers Toul et [[Beaune]]. À ce stade, l'autoroute file plein ouest, traversant la [[forêt de Haye]]. Elle dessert Toul, avant de se diviser de nouveau. Vers l'ouest, par la N4, on dessert [[Bar-le-Duc]], [[Saint-Dizier]] et Paris. Vers le Sud, on reste sur l'A31, qui devient payante au niveau du péage de [[Gye]].
+
+== Le tronçon Toul-Beaune ==
+L'A31 perd alors sa vocation de desserte interne de la [[conurbation]] lorraine, ne conservant que sa vocation interurbaine. Elle ne dessert plus aucune ville d'importance avant [[Dijon]], {{nobr|200 kilomètres}} plus loin. Le trafic chute brutalement. La vitesse limite autorisée est de nouveau fixée à {{unité|130|km/h}}. Hormis lors des périodes transhumances estivales, la section [[Toul]]-[[Langres]] est peu fréquentée. D'une autoroute au trafic très dense et aux échangeurs rapprochés, on passe à une section à faible trafic, avec des échangeurs espacés (plus de vingt kilomètres souvent).
+
+Après le péage de [[Gye]], le tracé rencontre des villes moyennes. L'A31 entre dans le [[Vosges (département)|département des Vosges]], dont une des sous-préfectures, [[Neufchâteau (Vosges)|Neufchâteau]], est contournée par l'Est. Son passage dans l'[[Ouest vosgien]] est marqué par un paysage de hauts-plateaux et de grandes forêts. Les villes thermales de [[Vittel]] et [[Contrexéville]] sont mieux desservies, éloignées de seulement quelques kilomètres de l'autoroute. Puis le tracé s'engage dans les collines du [[Bassigny]], à une altitude avoisinant les {{nobr|350-400 mètres}} puis pénètre, toujours dans le Grand Est, en [[Haute-Marne]], la ville de [[Langres]] est contournée par le nord-ouest, à plus de dix kilomètres. L'A31 collecte le flux venant de l'[[Autoroute A5 (France)|A5]] (trafic en provenance du Nord de la France, de [[Troyes]], de [[Paris]] et de [[Belgique]]). Pour contenir ce trafic, elle a été mise à {{dunité|2|3|voies}} jusqu'à son terme à Beaune. L'A31 pénètre en Bourgogne peu avant [[Selongey]]. Elle contourne Dijon par l'est. Cependant, la ville est desservie, dans son accès Est comme Sud, par deux itinéraires à chaussées séparées. Elle croise ensuite l'[[Autoroute A39 (France)|A39]], autoroute de liaison qui permet de rejoindre les [[Alpes]], le [[Massif du Jura|Jura]] et [[Grenoble]] sans passer par Lyon. L'A31 dessert [[Nuits-Saint-Georges]], puis rejoint l'A6 en provenance de Paris et vers Lyon.
+
+== Limitations de vitesse ==
+* Luxembourg - Thionville-ouest : {{Unité|110|km/h}} ({{Unité|130|km/h}} sur territoire luxembourgeois)
+* Thionville-ouest - Thionville-est : {{Unité|90|km/h}}
+* Thionville - Metz-nord : {{Unité|110|km/h}}
+* Metz-nord - Metz-sud : {{Unité|90|km/h}}
+* Metz-sud - Nancy-nord : {{Unité|110|km/h}}
+* Nancy-nord - Nancy-ouest : {{Unité|90|km/h}}
+* Nancy-ouest - Toul : {{Unité|110|km/h}}
+* Toul - jonction [[Autoroute A6 (France)|A6]] : {{Unité|130|km/h}}
+
+Un projet de [[Vitesse maximale autorisée sur route|limitation de vitesse]] prévoyant notamment la disparition des sections à {{Unité|130|km/h}} (remplacées par des sections à {{Unité|110|km/h}}) et une interdiction de doubler s'appliquant aux [[poids lourd]]s est entrée en vigueur le {{date|10 juillet 2009}}<ref>{{lien web|url=http://www.lepoint.fr/actualites-societe/2009-10-01/la-limitation-de-vitesse-ramenee-a-110-km-h-sur-les-autoroutes-de/920/0/381835|titre=La limitation de vitesse ramenée à 110 km/h sur les autoroutes de Lorraine|site=Le Point|date=1/10/2009}}</ref>.
+
+== Travaux sur A31 ==
+* 2008 : {{unité|200|km}} de voies nouvelles ont été aménagées en {{nobr|3 ans}}. L'élargissement de {{unité|2|à=3|voies}} est réalisé sur la totalité du tronçon entre [[Beaune]] et [[Langres]] (sur {{Unité|98|km}}, excepté entre les échangeurs autoroutiers avec l'A311 et l'A39)<ref>Le Moniteur {{N°|5533}} du 11 décembre 2008</ref>. Les travaux sont estimés à {{unité|310|millions}} d'euros, entièrement financés par [[Autoroutes Paris-Rhin-Rhône|APRR]] (Autoroutes Paris Rhin Rhône).
+
+== Carrefours autoroutiers ==
+* Croix de Vignoles entre l'A31 et l'[[Autoroute A6 (France)|A6]] vers Paris et Auxerre près de Beaune.
+* Croix de Ladoix-Serrigny entre l'A31 et l'[[Autoroute A36 (France)|A36]] vers Dole, Besançon, Mulhouse et Strasbourg près de Beaune.
+* Entre l'A31 et l'[[Autoroute A311 (France)|A311]] vers Dijon.
+* Entre l'A31 et l'[[Autoroute A39 (France)|A39]] vers Dole, Besançon, Mulhouse, Strasbourg et Genève, près de Dijon.
+* Entre l'A31 et l'[[Autoroute A5 (France)|A5]] vers Paris, Troyes, Reims, Lille et Chaumont près de Langres.
+* Près de Nancy un carrefour autoroutier (appelé « échangeur origine ») entre l'A31 et l'[[Autoroute A33 (France)|A33]] vers [[Lunéville]], [[Saint-Dié]] et [[Strasbourg]].
+* Entre l'A31 et l'[[Autoroute A313 (France)|A313]] vers [[Pont-à-Mousson]].
+* Croix d'Hauconcourt entre l'A31 et l'[[Autoroute A4 (France)|A4]] vers Paris, Strasbourg, Verdun, Reims et Sarrebruck au nord de Metz.
+* Patte d'oie de Richemont entre l'A31 et l'[[Autoroute A30 (France)|A30]] vers Longwy entre Metz et Thionville.
+* Entre l'A31 et l'[[Autoroute A319 (France)|A319]] (en projet) au sud de [[Langres]], vers [[Vesoul]].
+
+== Échangeurs ==
+'''Section concédée à [[Autoroutes Paris-Rhin-Rhône|APRR]] et payante.'''
+* '''{{échangeur autoroutier|[[Autoroute A6 (France)|A6]]|A31}} ''(Croix de [[Vignoles]])''''' à {{Unité|0|km}} : [[Paris]], [[Auxerre]], [[Lyon]], [[Chalon-sur-Saône]], [[Beaune]]
+** [[Fichier:France road sign C207.svg|24x24px]] [[Fichier:Panneau-C24a.svg|22x22px]] [[Fichier:France road sign B14 (130).svg|22x22px]] Début de l'autoroute, début de {{dunité|2|3|voies}} et limitation à 130 km/h.
+* '''{{échangeur autoroutier|[[Autoroute A36 (France)|A36]]|A31}} ''(Croix de [[Ladoix-Serrigny]])''''' à {{Unité|6|km}} ''(demi-échangeur, depuis et vers Beaune)'' : [[Strasbourg]], [[Mulhouse]], [[Besançon]], [[Dole (Jura)|Dole]]
+** {{Aire de repos|de Corgoloin|Beaune-Luxembourg|de Serrigny|Luxembourg-Beaune}}
+* {{Sortie|1 Nuits-Saint-Georges}} à {{Unité|10|km}} : [[Nuits-Saint-Georges]]
+** {{Aire de repos|de Boncourt-le-Bois|Beaune-Luxembourg|de Flagey-Échezeaux|Luxembourg-Beaune}}
+** {{Aire de service|de Gevrey-Chambertin}}
+* '''{{échangeur autoroutier|[[Autoroute A311 (France)|A311]]|A31}}''' à {{Unité|28|km}} ''(demi-échangeur, depuis et vers Beaune)'' : [[Dijon]]
+** [[Fichier:France road sign C28-2.svg|22x22px]] Réduction à {{dunité|2|2|voies}}
+[[Fichier:Début autoroute A39 à partir de l'A31 - Dijon, France.jpg|vignette|Échangeur A31 - A39 en provenance du nord de l'A31.]]
+* '''{{échangeur autoroutier|[[Autoroute A39 (France)|A39]]|A31}}''' à {{Unité|38|km}} ''(trois-quarts-échangeur, non-accessible depuis Beaune vers Dijon)'' : [[Grenoble]] ([[Autoroute A48 (France)|A48]]), [[Genève]] ([[Autoroute A40 (France)|A40]]), Dole, Besançon (A36), Mulhouse, Dijon - ''sud''
+** [[Fichier:Panneau-C24a.svg|22x22px]] Passage à {{dunité|2|3|voies}}
+** {{Aire de repos|du Pré d'Azur|Beaune-Luxembourg|de la Tille|Luxembourg-Beaune}}
+* {{Sortie|4 Arc-sur-Tille}} à {{Unité|43|km}} : [[Vesoul]], [[Gray (Haute-Saône)|Gray]], [[Saint-Apollinaire (Côte-d'Or)|Saint-Apollinaire]], [[Arc-sur-Tille]], Dijon - ''centre''
+** {{Aire de service|de Dijon Spoy|Beaune-Luxembourg|de Dijon Brognon|Luxembourg-Beaune}}
+* {{Sortie|5 Til-Châtel}} à {{Unité|70|km}} : [[Châtillon-sur-Seine]], [[Selongey]], [[Is-sur-Tille]], [[Til-Châtel]]
+** {{Aire de repos|de La Villa des Tuillières|Beaune-Luxembourg|de Sainte Gertrude|Luxembourg-Beaune}}
+''Passage de la région [[Bourgogne-Franche-Comté]] à la région [[Grand Est]]. Passage du département de la [[Côte-d'Or]] à celui de la [[Haute-Marne]].''
+* {{Aire de repos|de La Combe Suzon|Beaune-Luxembourg|de Fontenelle|Luxembourg-Beaune}}
+* {{Sortie|6 Langres - ''sud''}} à {{Unité|100|km}} : [[Langres]], Gray, Châtillon-sur-Seine
+** {{Aire de service|de Langres Noidant|Beaune-Luxembourg|de Langres Perrogney|Luxembourg-Beaune}}
+* '''{{échangeur autoroutier|[[Autoroute A5 (France)|A5]]|A31}}''' à {{Unité|114|km}} : [[Lille]] ([[Autoroute A26 (France)|A26]]), Paris, [[Troyes]], [[Chaumont (Haute-Marne)|Chaumont]]
+** [[Fichier:Panneau-C24a-2.svg|22x22px]] Passage à {{dunité|2|2|voies}}
+* {{Sortie|7 Langres - ''nord''}} à {{Unité|120|km}} : Vesoul, [[Nogent (Haute-Marne)|Nogent]], Langres
+** {{Aire de repos|du Val de Gris|Beaune-Luxembourg|de La Côte Robert|Luxembourg-Beaune}}
+** {{Aire de service|du Val de Meuse|Beaune-Luxembourg|de Montigny-le-Roi|Luxembourg-Beaune}}
+* {{Sortie|8 Montigny-le-Roi}} à {{Unité|140|km}} : Chaumont, [[Bourbonne-les-Bains]], Nogent, [[Val-de-Meuse|Montigny-le-Roi]]
+''Passage du département de la Haute-Marne à celui des [[Vosges (département)|Vosges]].''
+* {{Sortie|8.1 Robecourt}} à {{Unité|162|km}} : [[Bourmont-entre-Meuse-et-Mouzon|Bourmont]], [[Lamarche (Vosges)|Lamarche]] + {{Aire de repos|du Bois de Chaumont|Beaune-Luxembourg|du Grand Repenti|Luxembourg-Beaune}}
+* {{Sortie|9 Bulgnéville}} à {{Unité|176|km}} : [[Épinal]], [[Vittel]], [[Contrexéville]], [[Bulgnéville]]
+** {{Aire de service|de Lorraine-Sandaucourt Les Rappes|Beaune-Luxembourg|de Lorraine-Sandaucourt la Trelle|Luxembourg-Beaune}}
+* {{Sortie|10 Châtenois}} à {{Unité|186|km}} : [[Neufchâteau (Vosges)|Neufchâteau]], Épinal, [[Mirecourt]], [[Châtenois (Vosges)|Châtenois]]
+** {{Aire de repos|du Val au Renard|Beaune-Luxembourg|du Grand Chêne|Luxembourg-Beaune}}
+''Passage du département des Vosges à celui de la [[Meurthe-et-Moselle]].''
+** {{Aire de repos|de Malvaux|Beaune-Luxembourg|de Faverosse|Luxembourg-Beaune}}
+* {{Sortie|11 Colombey-les-Belles}} à {{Unité|215|km}} : Neufchâteau, [[Neuves-Maisons]], [[Charmes (Vosges)|Charmes]], [[Colombey-les-Belles]]
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à 110 km/h.
+* {{Péage|Péage de Gye (à système fermé)}} à 225 km
+'''Section non-concédée gérée par la [[Direction interdépartementale des Routes#Direction interdépartementale des Routes Est|DIR Est]] et gratuite.'''
+* {{Sortie|12 Gye}} à {{Unité|227|km}} '''({{échangeur autoroutier|[[Route nationale 4 (France métropolitaine)|RN 4]]|A31}})''' : Paris, [[Reims]], Troyes, [[Bar-le-Duc]], [[Toul]] - ''centre''
+''Début du tronc commun avec la RN 4''
+* {{Sortie|13 Toul - ''sud''}} à {{Unité|231|km}} ''(demi-échangeur, depuis et vers Luxembourg)'' : Chaumont, Dijon, Toul - ''Valcourt''
+** {{Aire de service|de Toul Chaudenay|Beaune-Luxembourg|de Toul Dommartin|Luxembourg-Beaune}}
+* {{Sortie|14 Toul - ''nord''}} à {{Unité|235|km}} : [[Verdun (Meuse)|Verdun]], Toul - ''Croix de Metz'', [[File:France road sign ID35.svg|15px|alt]] Zones Industrielles''
+* {{Sortie|15 Dommartin-lès-Toul}} à {{Unité|231|km}} : Toul - ''centre'', [[Dommartin-lès-Toul]], ''[[File:France road sign ID3.svg|15px|alt]] Jeanne d'Arc, [[File:France road sign ID36.svg|15px|alt]] Centre Commercial''
+* {{Sortie|16 Gondreville}} à {{Unité|236|km}} : [[Gondreville (Meurthe-et-Moselle)|Gondreville]], [[Bois-de-Haye|Velaine-en-Haye]], ''[[File:France road sign ID35.svg|15px|alt]] Z. A. Internationale Gondreville-Fontenoy''
+** {{Aire de repos|de La Forêt de Haye|Beaune-Luxembourg}}.
+* {{Sortie|17 Les Cinq Tranchées}} à {{Unité|245|km}} : Verlaine-en-Haye, ''Parc de Haye, Sites Saint Jacques''
+** [[Fichier:France road sign B14 (90).svg|22x22px]] Limitation à 90 km/h.
+* '''{{Échangeur autoroutier|[[Autoroute A33 (France)|A33]]|A31}}''' à {{Unité|248|km}} : Strasbourg, [[Lunéville]], Besançon, Épinal, [[Nancy]] - sud, ''[[Fichier:France road sign ID3.svg|15px|alt]] [[Centre hospitalier régional et universitaire de Nancy|C.H.R.U de Nancy - Hôpitaux de Nancy-Brabois]]'', [[Vandœuvre-lès-Nancy]]
+''Fin du tronc commun avec la [[Route nationale 4 (France métropolitaine)|RN4]]''
+* {{Sortie|18 Laxou}} à {{Unité|249|km}} ''(demi-échangeur, depuis et vers Beaune)'' : [[Laxou]], Nancy - ''centre, [[File:France road sign ID1b.svg|15px|alt]] Grande Sapinière''
+* {{Sortie|19 Nancy - Gentilly}} à {{Unité|251|km}} ''(demi-échangeur, depuis et vers Luxembourg)'' : Laxou, Nancy - ''Plateau de Haye'', [[Maxéville]], ''Zénith''
+* {{Sortie|20 Nancy - Centre-Gare}} à {{Unité|255|km}} ''(demi-échangeur, depuis et vers Luxembourg)'' : Nancy, Maxéville 
+** [[Fichier:Panneau-C24a.svg|22x22px]] Passage à {{dunité|2|3|voies}}
+* {{Sortie|21 Maxéville}} à {{Unité|255.5|km}} ''(demi-échangeur, de et vers Luxembourg)'' : Nancy - ''centre, Rives de Meurthe'', Maxéville
+* {{Sortie|22 Frouard}} à {{Unité|256|km}} : [[Champigneulles]], [[Frouard]], ''[[File:France road sign ID35.svg|15px|alt]] Porte Nord''
+** [[Fichier:France road sign C28-2.svg|22x22px]] Réduction à {{unité|2|voies}}
+* {{Sortie|23 Bouxières-aux-Dames}} à {{Unité|258|km}} : [[Sarreguemines]], [[Bouxières-aux-Dames]], [[Malzéville]], Nancy - ''est''
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à 110 km/h.
+* {{Sortie|24 Custines}} à {{Unité|261|km}} : [[Custines]], [[Pompey]], ''Eiffel Energie''
+* {{Sortie|25 Belleville}} à {{Unité|266|km}} : [[Belleville (Meurthe-et-Moselle)|Belleville]], [[Dieulouard]]
+** {{Aire de service|de Loisy|Beaune-Luxembourg|de L'Obrion|Luxembourg-Beaune}} ''(Aires de service concédée à [[Société des autoroutes du Nord et de l'Est de la France|SANEF]])''.
+* '''{{Échangeur autoroutier|[[Autoroute A313 (France)|A313]]|A31}}''' ({{Sortie|26}}) à {{Unité|274|km}} ''(demi-échangeur, depuis et vers Beaune)'' : [[Pont-à-Mousson]], Verdun
+* {{Sortie|27 Atton}} à {{Unité|276|km}} : [[Atton]], [[Nomeny]]
+** {{Aire de repos|du Bois du Juré|Beaune-Luxembourg|de Lesménils|Luxembourg-Beaune}}
+* {{Sortie|28 Lorraine}} à {{Unité|281|km}} : Verdun, Pont-à-Mousson, [[Saint-Avold]], ''[[Fichier:France road sign ID2.svg|15px|alt]] [[Aéroport Metz-Nancy-Lorraine|Metz-Nancy-Lorraine]]'', ''[[Fichier:France road sign ID12a.svg|15px|alt]] [[Gare de Lorraine TGV|Lorraine T.G.V]]''
+''Passage du département de la Meurthe-et-Moselle à celui de la [[Moselle (département)|Moselle]].''
+* {{Sortie|29 Féy ([[Route nationale 431|RN 431]])}} à {{Unité|292|km}} : [[Sarrebruck|Sarrebruck (Saarbrücken)]] ([[Autoroute A4 (France)|A4]]), [[Féy]], [[Marly (Moselle)|Marly]], [[Pagny-sur-Moselle]], [[Metz]] - est, ''Lac de Madine''
+* {{Sortie|30/30a/30b Jouy-aux-Arches}} à {{Unité|297|km}} : [[Jouy-aux-Arches]], [[Ars-sur-Moselle]], Marly, ''Zone Actisud''
+** [[Fichier:Panneau-C24a.svg|22x22px]] Passage à {{dunité|2|3|voies}}
+* {{Sortie|31 Moulins-lès-Metz}} à {{Unité|299|km}} : Verdun, [[Charleville-Mézières]], [[Briey (Meurthe-et-Moselle)|Briey]], [[Moulins-lès-Metz]], [[Montigny-lès-Metz]], Ars-sur-Moselle
+** [[Fichier:France road sign B14 (90).svg|22x22px]] Limitation à 90 km/h.
+* {{Sortie|32 Metz - ''[[Metz-Centre|centre]]''}} à {{Unité|303|km}} : Metz - ''Technopôle, [[Fichier:France road sign ID12a.svg|15px|alt]] [[Gare de Metz-Ville|Centre-Gare]]'', Montigny-lès-Metz
+* {{Sortie|33 Metz - ''[[Patrotte Metz-Nord|nord]]''}} : Strasbourg, Sarrebruck (Saarbrücken), [[Woippy]], Metz - ''[[Devant-les-Ponts]], [[Pontiffroy]], [[Fichier:France road sign ID35.svg|15px|alt]] Zones Industrielles''
+* {{Sortie|34 La Maxe}} : Woippy, [[La Maxe]], ''[[Nouveau port de Metz|Port de Metz]]'' + {{Aire de service|de La Maxe|Beaune-Luxembourg}}
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à 110 km/h.
+** {{Aire de service|de Saint Rémy|Luxembourg-Beaune}}
+* '''{{Échangeur autoroutier|[[Autoroute A4 (France)|A4]]|A31}} ''(Croix de [[Hauconcourt]])''''' à {{Unité|313|km}} : Paris, Verdun, Reims, Strasbourg, Sarrebruck (Saarbrücken) ([[Autoroute A320 (France)|A320]]), Metz - ''est'', ''[[Amnéville]], [[Walygator Parc]]''
+* {{Sortie|35 Maizières-lès-Metz}} à {{Unité|315|km}} : [[Maizières-lès-Metz]], Hauconcourt, [[Ennery (Moselle)|Ennery]]
+* {{Sortie|36 Talange}} à {{Unité|318|km}} : [[Talange]], [[Hagondange]]
+* {{Sortie|37 Mondelange}} à {{Unité|320|km}} : [[Mondelange]], Amnéville, [[Richemont (Moselle)|Richemont]], Ennery
+* '''{{Échangeur autoroutier|[[Autoroute A30 (France)|A30]]|A31}} ''(Patte d'Oie de Richemont)''''' à {{Unité|323|km}} ''(demi-échangeur, depuis et vers Beaune)''  : [[Longwy]], [[Hayange]], [[Florange]], [[Fameck]], [[Uckange]]
+** [[Fichier:Panneau-C24a-2.svg|22x22px]] Passage à {{dunité|2|2|voies}}
+* {{Sortie|37.1 Bertrange}} à {{Unité|325|km}} ''(demi-échangeur, depuis et vers Luxembourg)'' : [[Guénange]], [[Bertrange (Moselle)|Bertrange]], Uckange
+* {{Sortie|37.2 Illange}} à {{Unité|328|km}} : [[Illange]], ''[[Fichier:France road sign ID35.svg|15px|alt]] [[Yutz]] - est'', [[Bouzonville]], [[Trèves (Allemagne)|Trèves (Trier)]], [[Sarrelouis|Sarrelouis (Saarlouis)]]
+** [[Fichier:France road sign B14 (90).svg|22x22px]] Limitation à 90 km/h.
+* {{Sortie|38 Yutz}} à {{Unité|330|km}} : Yutz - ''centre'', [[Thionville]] - ''centre'', Illange
+* {{Sortie|39 Thionville - ''[[Beauregard (Thionville)|Beauregard]]''}} à {{Unité|332|km}} : Thionville, [[Terville]], Uckange
+* {{Sortie|40 Thionville - ''périphérique ''}} à {{Unité|332.5|km}} : Thionville - ''centre, [[Fichier:France road sign ID3.svg|15px|alt]] Bel Air'', [[File:France road sign ID36.svg|15px|alt]] Linkling, [[Cattenom]], [[Mondorf-les-Bains]]
+* {{Sortie|41 Terville}} à {{Unité|334|km}} : [[Terville]], Florange
+* {{Sortie|42 Bétange}} à {{Unité|335|km}} : Hayange, Florange, Briey, [[Château de Bétange|Bétange]]
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à 110 km/h.
+* {{Sortie|43 Thionville - ''[[Elange]]''}} à {{Unité|337|km}} : Longwy, [[Nilvange]], [[Algrange]], Thionville - ''ouest''
+** {{Aire de repos|d'Entrange|Beaune-Luxembourg|de Thionville-Porte de France|Luxembourg-Beaune}}
+* {{Sortie|44 Kanfen}} à {{Unité|345|km}} : [[Hettange-Grande]], [[Volmerange-les-Mines]], [[Kanfen]]
+** [[Fichier:France_road_sign_C208.svg|22px]] Fin de l'autoroute A31
+'''{{France}} / {{Luxembourg}}''', [[Frontière entre la France et le Luxembourg|Frontière franco-luxembourgeoise]] à 349 km
+* [[Fichier:Luxembourg EU Border Crossing Sign.svg|25px]] Entrée sur le territoire [[Luxembourg|luxembourgeois]] : [[Fichier:Luxembourg road sign diagram E 15.gif|16px]] L'[[Autoroute A3 (Luxembourg)|autoroute luxembourgeoise A3]] vers [[Luxembourg (ville)|Luxembourg (Lëtzebuerg)]], [[Esch-sur-Alzette|Esch-sur-Alzette (Esch-Uelzecht)]]
+
+== Lieux sensibles ==
+{{section à sourcer|date=décembre 2016}}
+Zones de bouchons :
+* Périphérie de Thionville (dans les deux sens) dès la sortie 37.1 ;
+* Retour du Luxembourg aux heures dites de pointe (de {{heure|15}} à {{heure|20}}) ;
+* Carrefour autoroutier avec l'[[Autoroute A33 (France)|A33]] depuis (ou en direction) de Metz dans les deux sens de circulation. Bouchon lors des vacances scolaires (route pour aller vers les Vosges, le Jura) et lors des trajets urbains (Nancy - Metz - Luxembourg) ;
+* Péage de [[Gye]].
+Globalement, c'est une autoroute très sensible.
+
+À noter la mise en place depuis {{date|juin 2012}} de caméras de vidéosurveillance qui permettent de surveiller la traversée de Thionville, la traversée de Metz ainsi que la côte Solvay au nord-ouest de Nancy (tous ces secteurs sont déjà limités à {{unité|90|km/h}}).
+
+== Antennes ==
+=== A311 ===
+{{Article détaillé|Autoroute A311 (France){{!}}Autoroute française A311}}
+L'autoroute A311, ou A311, est une courte autoroute française, antenne de l'A31, reliant cette dernière à [[Dijon]].
+
+=== A313 ===
+{{Article détaillé|Autoroute A313 (France){{!}}Autoroute française A313}}
+L'autoroute A313, ou A313, relie l'A31 à [[Pont-à-Mousson]].
+
+== Projets ==
+=== A31bis ===
+L'A31bis est un projet autoroutier de doublement de l'A31 actuelle qui est fortement saturée. Après l'abandon du projet d'[[Autoroute A32 (France)|A32]], celui d'A31bis voit le jour. Celui-ci consiste à améliorer l’écoulement du trafic dans le sillon lorrain.
+
+Ce projet consistera d'une part à aménager les infrastructures existantes :
+* élargissement à {{dunité|2|3|voies}} de l’A31 entre [[Bouxières-aux-Dames]] et [[Féy]] ;
+* aménagement de l'A31 entre [[Thionville]] et le Luxembourg en {{dunité|2|3|voies}} également.
+
+D'autre part à créer de nouvelles sections autoroutières :
+* création du barreau Toul-Dieulouard ;
+* réalisation du contournement ouest de Thionville.
+Ce projet entraîne un débat public organisé du {{date|15 avril}} au {{date|30 septembre 2015}} au cours duquel sont réalisés, un peu partout en Lorraine, des débats et réunions d'information sur le projet d'A31bis. Après ce débat, il faudra attendre le compte rendu puis le bilan de la [[Commission nationale du débat public]], qui paraîtront aux environs de {{date|septembre 2015}}. Il sera ensuite à la charge du maître d'ouvrage de prendre une décision sur les suites du projet entre septembre et {{date|décembre 2015}}.
+
+Le gouvernement entend privilégier les transports du quotidien, et un certain nombre de projets, parmi lesquels figure l'autoroute A31 bis, ne sont plus à l'ordre du jour<ref>[http://www.lejdd.fr/economie/transports-les-grands-chantiers-suspendus-3440396 transports-les-grands-chantiers-suspendus] sur lejdd.fr</ref>. Le rapport sur les infrastructures de transport préconise derechef de procéder à l'élargissement de l'autoroute<ref>[https://reporterre.net/IMG/pdf/2018.02.01_rapport_coi.pdf Rapport du Conseil d'Orientation des Infrastructures] sur reporterre.net, site de ''[[Reporterre]]''.</ref>.
+
+=== A319 ===
+{{Article détaillé|Autoroute A319 (France){{!}}Autoroute française A319}}
+L'autoroute A319 permettra de connecter l'A31 à [[Vesoul]] par le doublement autoroutier de la [[Route nationale 19 (France)|RN 19]].
+
+== Notes et références ==
+{{Références}}
+
+== Voir aussi ==
+{{Autres projets|commons=Category:A31 autoroute|commons titre=L'autoroute A31}}
+=== Articles connexes ===
+* [[Liste des autoroutes de France]]
+* [[Route européenne 17]]
+* [[Route européenne 21]]
+* [[Route européenne 23]]
+* [[Route européenne 25]]
+=== Liens externes ===
+* [http://www.aprr.fr/fr/travaux/a31 Élargissement de l'autoroute entre Beaune et Langres]
+* [http://saratlas.free.fr/index.php?page=autoroute&route=a31&lang=fr Autoroute A31 dans Saratlas]
+* [http://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A31 Fiche autoroutière de l'A31 sur WikiSara]
+
+{{Palette|Autoroutes de France}}
+
+{{Portail|route|Côte-d'Or|Haute-Marne|Vosges|Meurthe-et-Moselle|Moselle}}
+
+[[Catégorie:Autoroute A31 (France)| ]]
+[[Catégorie:Autoroute dans le Grand Est|031]]
+[[Catégorie:Autoroute en Bourgogne-Franche-Comté|031]]
+[[Catégorie:Transport à Dijon]]
+[[Catégorie:Transport à Metz]]
+[[Catégorie:Transport à Nancy]]
+[[Catégorie:Thionville]]

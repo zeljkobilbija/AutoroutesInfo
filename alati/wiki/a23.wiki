@@ -1,0 +1,71 @@
+{{voir homonymes|A23}}
+{{ébauche|autoroute française}}
+{{Infobox Route/France|statut=A|numéro=23
+|autres_noms       = 
+|image             = Péronne-en-Mélantois - Motorway A23 - 2.jpg
+|légende           = L'autoroute à proximité de [[Péronne-en-Mélantois]].
+|carte             = France_A2X_A23.svg
+|longueur          = 43
+|direction         = nord-ouest / sud-est
+|dir1              = nord-ouest
+|dir2              = sud-est
+|ville1            = {{Route européenne|42}} {{Autoroute française|A27}} à [[Lesquin]]
+|ville2            = {{Route européenne|19}} {{Autoroute française|A2}} à [[Trith-Saint-Léger]]
+|villes_principales= [[Villeneuve-d'Ascq]], [[Orchies]], [[Saint-Amand-les-Eaux]], [[Valenciennes]]
+|intersections     = 
+|ouverture         = [[1978]]
+|réseau            = Autoroute française
+| régions        = [[Hauts-de-France]]
+| départements   = [[Nord (département français)|Nord]]
+| nb_reg         = 1
+| nb_dep         = 1
+| gestionnaire   = [[Direction interdépartementale des Routes#Direction interdépartementale des Routes Nord|DIR Nord]]
+| nom_notes      = 
+}} 
+L''''autoroute A23''' est une autoroute française reliant [[Lesquin]] à [[Valenciennes]]. Elle fait partie du ressort de la [[Direction interdépartementale des Routes|Direction interdépartementale des Routes Nord]]<ref>{{Lien web|url=http://www2.equipement.gouv.fr/bulletinofficiel/fiches/Bo200610/A0100033.htm|titre=Arrêté du 29 mai 2006 portant constitution des directions interdépartementales des routes|auteur=|année=|éditeur=equipement.gouv.fr|consulté le=15 juillet 2011}}</ref> (DIR Nord).
+
+Cette autoroute portait auparavant le numéro C27. La section sud, d'[[Orchies]] à [[Valenciennes]], a été réalisée principalement par aménagement sur place de l'ancienne [[Route nationale 49 (France)|route nationale 49]], tandis que la section nord d'Orchies à [[Lille]], ouverte la première, est en tracé neuf.
+
+L'autoroute A23 traverse 23 communes sur 47 km. Elle naît sur l'A27 à [[Lesquin]] et aboutit sur l'A2 à [[La Sentinelle (Nord)|La Sentinelle]]. Elle comprend 9 échangeurs sur son tracé.
+
+Sur son tracé, l'autoroute passe près de l'[[aéroport de Lille-Lesquin]] (qu'elle dessert), passe sous la [[LGV Nord]], longe [[Templeuve-en-Pévèle]] et [[Genech]], dessert [[Orchies]], passe entre [[Sars-et-Rosières]], [[Millonfosse]] et [[Hasnon]], traverse la [[forêt de Raismes-Saint-Amand-Wallers]] et longe [[Valenciennes]], avant de se terminer par un échangeur avec l'{{lnobr|Autoroute A2 (France)|autoroute A2}}.
+
+== Son parcours ==
+'''Section non-concédée gérée par la [[Direction interdépartementale des Routes#Direction interdépartementale des Routes Nord|DIR Nord]] et gratuite.'''
+* '''{{échangeur autoroutier|[[Autoroute A27 (France)|A27]]|[[Route nationale 227|RN 227]]|A23}}''' à {{unité|0|km}} ''(demi-échangeur, depuis et vers Lille)'' : [[Paris]], [[Lille]], [[Calais]], ([[Autoroute A25 (France)|A25]]) ; [[Gand|Gand (Gent)]], [[Tourcoing]] ([[Autoroute A22 (France)|A22]]), [[Roubaix]], [[Villeneuve-d'Ascq]]
+** [[Fichier:France road sign C207.svg|24x24px]] [[Fichier:Panneau-C24a.svg|22x22px]] [[Fichier:France road sign B14 (90).svg|22x22px]] Début de l'autoroute, début de {{dunité|2|3|voies}} et limitation à {{unité|90|km/h}}.
+* {{Sortie|1 Lesquin}} à {{unité|2|km}} : [[Lesquin]], [[Aéroport de Lille-Lesquin|Aéroport de Lille]]
+** [[Fichier:Panneau-C24a-2.svg|22x22px]] [[Fichier:France_road_sign_B14_(130).svg|22x22px]] Passage à {{dunité|2|2|voies}} et limitation à {{unité|130|km/h}}.
+** {{Aire de service|de Genech Ouest|Lille-Valenciennes}} 
+* {{Sortie|2 Orchies}} à {{unité|16,5|km}} : [[Orchies]], [[Douai]], [[Tournai]], [[Lens (Pas-de-Calais)|Lens]], [[Seclin]], [[Somain]]
+* {{Sortie|3 L'Alène d'Or}} à {{unité|25,5|km}} : [[Saint-Amand-les-Eaux]], [[Rosult]], [[Marchiennes]]
+** {{Aire de repos|de la Scarpe}}
+* {{Sortie|4 Hasnon}} à {{unité|34|km}} : [[Hasnon]], [[Wallers]], [[Denain]], Saint-Amand-les-Eaux
+* {{Sortie|5 Saint-Amand-Les-Eaux}} à {{unité|37|km}} ''(trois-quarts échangeur, non-accessible depuis Lesquin)'' : Saint-Amand-les-Eaux, Tournai 
+* {{Sortie|6 Raismes}} à {{unité|38|km}} : [[Raismes]]
+* {{Sortie|7 Petite-Forêt}} à {{unité|41|km}} : [[Petite-Forêt]], centre commercial, Raismes, [[Beuvrages]], Wallers
+** [[Fichier:France_road_sign_B14_(110).svg|22x22px]] Limitation à 110 km/h.
+** [[Fichier:France_road_sign_B14_(90).svg|22x22px]] Limitation à 90 km/h.
+** {{Aire de service|de Petite-Forêt|Valenciennes-Lille}}
+* {{Sortie|11 Valenciennes - Nord}} à {{unité|44|km}} : [[Valenciennes]] - Saint-Waast, [[Anzin]]
+* {{Sortie|12 La Sentinelle}} à {{unité|46|km}} ''(demi-échangeur, depuis Lesquin et depuis A2 Bruxelles, non-accessible depuis A2 Paris)'' : Valenciennes - Le Vignoble, [[La Sentinelle (Nord)|La Sentinelle]], [[Trith-Saint-Léger]]
+* '''{{échangeur autoroutier|[[Autoroute A2 (France)|A2]]|A23}}''' à {{unité|47|km}} : Valenciennes - ''centre'', Paris ([[Autoroute A1 (France métropolitaine)|A1]]), [[Maubeuge]], [[Cambrai]], [[Denain]], [[Ville de Bruxelles|Bruxelles (Brussel)]], [[Liège|Liège (Luik/Lüttich)]], [[Mons|Mons (Bergen)]]
+
+== Lieux sensibles ==
+
+* {{échangeur autoroutier|[[Autoroute A27 (France)|A27]]|A23}} : très chargé à l'arrivée sur Lille le matin et le soir. 
+* {{Sortie|2|Orchies}} à {{unité|20|km}} : très chargée dans la sortie d'autoroute en heure de pointe le matin dans le sens [[Valenciennes]] → [[Lille]], et le soir dans le sens [[Lille]] → [[Valenciennes]], la file pouvant se prolonger sur la voie de droite en deçà de la voie de décélération
+* {{Sortie|11|Valenciennes-Nord}} à {{unité|44|km}} : virage à droite prononcé sur l'autoroute, d'autant plus serré dans la sortie. Un radar automatique est installé à l'entrée du virage, où la vitesse est limitée à 90 km/h, et la bretelle de sortie est limitée en vitesse à 50 km/h.
+
+== Notes et références ==
+{{Références}}
+
+== Annexes ==
+{{Autres projets|commons=Category:A23 autoroute|commons titre=L'autoroute A23}}
+=== Liens externes ===
+* [http://saratlas.free.fr/index.php?page=autoroute&route=a23&lang=fr Autoroute A23 dans Saratlas]
+
+{{Palette|Autoroutes de France}}
+{{Portail|route}}
+
+[[Catégorie:Autoroute dans les Hauts-de-France|023]]

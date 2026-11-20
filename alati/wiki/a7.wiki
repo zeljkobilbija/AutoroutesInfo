@@ -1,0 +1,335 @@
+{{voir homonymes|Autoroute A7|A7|Autoroute du Soleil}}
+{{Infobox Route/France
+|statut = autoroute
+|numéro = 7
+|image = Autoroute-A7-A9-2.jpg
+|légende = L'autoroute A7 près d'[[Orange (Vaucluse)|Orange]] à quatre voies en direction de Marseille et cinq voies dans l'autre sens.
+|carte = Autoroute A7 FR 2.svg
+|autres_noms = Autoroute du Soleil
+|ouverture = 1951-1969
+|fermeture = 
+|déclassement = 
+|longueur = 306<ref name="grandlyon.com">{{Lien web |langue=fr |titre=Le déclassement de l'autoroute A6-A7 |url=https://met.grandlyon.com/le-declassement-de-lautoroute-a6-a7/ |site=MET' |date=2016-12-29 |consulté le=2025-06-20}}</ref>
+|direction = nord / sud
+|dir1 = nord
+|dir2 = sud
+|ville 1 = {{Route métropolitaine A|A7|7}} à [[Oullins-Pierre-Bénite]]<ref name="grandlyon.com" />
+|ville 2 = [[Marseille]]
+|villes principales = [[Lyon]], [[Vienne (Isère)|Vienne]], [[Tain-l'Hermitage]], [[Valence (Drôme)|Valence]], [[Montélimar]], [[Bollène]], [[Orange (Vaucluse)|Orange]], [[Avignon]], [[Cavaillon]], [[Salon-de-Provence]], [[Vitrolles (Bouches-du-Rhône)|Vitrolles]], [[Marseille]]
+|intersections = 
+{{Autoroute française|A450}} à [[Oullins-Pierre-Bénite]]<br>
+{{Route européenne|15}} {{Autoroute française|A46}} et {{Autoroute française|A47}} à [[Ternay (Rhône)|Ternay]]<br>
+{{Route européenne|713}} {{Route nationale|7|France}} à [[Valence (Drôme)|Valence]]<br>
+{{Route européenne|15}} {{Autoroute française|A9}} à [[Orange (Vaucluse)|Orange]]<br>
+{{Route européenne|80}} {{Autoroute française|A54}} à [[Salon-de-Provence]]<br>
+{{Route européenne|80}} {{Autoroute française|A8}} à [[Coudoux]]<br>
+{{Autoroute française|A55}} aux [[Les Pennes-Mirabeau|Pennes-Mirabeau]]<br>
+{{Route européenne|712}} {{Autoroute française|A51}} à [[Septèmes-les-Vallons]]<br>
+{{Autoroute française|A507}} et {{Autoroute française|A557}} à [[Marseille]]
+|régions = [[Auvergne-Rhône-Alpes]], [[Provence-Alpes-Côte d'Azur]]
+|départements = [[Métropole de Lyon]]<!--Pas un département, mais au vu de l'absence de catégorie spécifique et à l'instar de la loi, on l'assimile comme tel (problème résolu avec le paramètre collectivité)-->, [[Rhône (département)|Rhône]], [[Isère (département)|Isère]], [[Drôme (département)|Drôme]], [[Vaucluse (département)|Vaucluse]] et [[Bouches-du-Rhône]]
+|nb_reg = 2
+|nb_dep = 6
+|collectivité = oui
+|nom_notes = 
+|réseau = Autoroute française, également {{Route européenne|15}}{{Route européenne|80}}{{Route européenne|712}}{{Route européenne|714}}
+|concessionnaire   = [[Autoroutes du Sud de la France|ASF]] (entre Châsse-sur-Rhône et Rognac)
+|gestionnaire = [[Direction interdépartementale des Routes#Direction interdépartementale des Routes Centre-Est|DIR Centre-Est]] (entre Oullins-Pierre-Bénite et Châsse-sur-Rhône<br>[[Bouches-du-Rhône|Département des Bouches-du-Rhône]] (entre Rognac et Marseille)
+}}
+{{maplink|frame=yes|plain=yes|frame-width=290|frame-height=460|frame-align=right|type=line|stroke-width=2| |stroke-color=#0000C0| id= }}
+L''''autoroute A7''' (aussi appelée « '''autoroute du Soleil''' ») est une [[autoroute]] [[France|française]] qui prolonge la route métropolitaine 7 ''(ancien tronçon déclassé de l'A7)'' de [[Oullins-Pierre-Bénite]] au sud de [[Lyon]] jusqu'à [[Marseille]] sur {{unité|306|km}}<ref>[https://www.google.fr/maps/dir/45.700528,4.8355154/43.304799,5.3750031/@43.3047053,5.3750033,21z/data=!4m2!4m1!3e0 Itinéraire en voiture de l'A7 (Oullins-Pierre-Bénite) vers A7 (Marseille)], sur Google Maps.</ref>.
+
+Elle fait partie des routes européennes [[Route européenne 15|E15]] (de Ternay à Orange), [[Route européenne 80|E80]] (de Salon-de-Provence à Coudoux), [[Route européenne 714|E714]] (d'Orange à Marseille) et [[Route européenne 712|E712]] (de Septèmes-les-Vallons à Marseille).
+
+Elle est gérée principalement par la société [[Autoroutes du Sud de la France]] (ASF). [[Radio Vinci Autoroutes]] ([[107,7 MHz]]) fonctionne sur l'A7, secteur ASF. L'A7 fait partie sur le réseau ASF de la zone est.
+
+== Histoire ==
+=== Amorces ===
+L'autoroute A7 trouve ses origines lors de l'ouverture de l'Autoroute Nord, nom encore utilisé aujourd'hui pour la partie de l'A7 situé dans l'agglomération marseillaise, sans rapport avec l'[[Autoroute A1 (France métropolitaine)|''Autoroute du Nord'' A1]], qui doublait les nationales [[Route nationale 8 (France métropolitaine)|8]] et [[Route nationale 113 (France)|113]] au nord de [[Marseille]].
+
+Cette liaison d'origine à {{dunité|2|2|voies}} a été livrée à la circulation en 1951 suivant ce tracé et ces sorties :
+* {{Sortie|}} [[Les Pennes-Mirabeau]] – {{nobr|[[Route nationale 538|N 538]]}}, qui deviendra {{nobr|N 113}} (amorce de l'autoroute à proximité de ''l'Assassin'' sur la route nationale) ;
+* {{Sortie|}} Saint-Antoine – {{nobr|N 8}}  (actuelle sortie 32) ;
+* {{Sortie|}} Le Canet / Saint-Barthélemy (actuelle sortie 35) ;
+* {{Sortie|}} Saint-Gabriel (fin d'autoroute donnant accès au [[boulevard de Plombières]]) (actuelle sortie 36) .
+Ce tronçon mesure {{unité|13 km}}.
+
+Au nord de la [[Vallée du Rhône (France)|vallée du Rhône]], une portion longue de {{unité|30 km}} relie [[Lyon]] à [[Vienne (Isère)|Vienne]] dont l'ouverture intervient en 1965 :
+* {{Sortie|}} [[La Mulatière]] (amorce de l'autoroute sur la {{nobr|[[Route nationale 86 (France)|N 86]]}}) (actuelle sortie 2) ;
+* {{Sortie|}} [[Pierre-Bénite]] (actuelle sorties 3 et 4 et l'actuel échangeur A7/A450) ;
+* {{Sortie|}} [[Saint-Fons]] / [[Feyzin]] (actuelle sorties 5 et 6) ;
+* {{Sortie|}} [[Solaize]] (actuelle sortie 7) ;
+* {{Sortie|}} [[Givors]] (demi-échangeur d'orientation vers le nord) (échangeur aujourd'hui fermé situé au Nord de l'actuel échangeur A7/A47/A46) ;
+* {{Sortie|}} [[Chasse-sur-Rhône]] (demi-échangeur d'orientation vers le sud) (actuelle sortie 8) ;
+* {{Sortie|}} Vienne-Nord (fin de l'autoroute donnant sur la N 7) (actuelle sortie 9).
+
+Son prolongement entre La Mulatière et la Gare de Perrache est livré en 1968 avec un raccordement final sur l'[[Autoroute A6 (France)|A6]] en 1971 à la suite de l'ouverture du [[tunnel de Fourvière]] la même année.
+
+=== Son développement ===
+==== Ouvertures successives ====
+{{à délister|date=octobre 2014}}
+* 1958 : ouverture de la déviation ({{dunité|2|2|voies}}) sur la commune du [[Le Péage-de-Roussillon|Péage-de-Roussillon]] dans l'Isère, longue de six kilomètres. Cette section de voie rapide dont l'usage est gratuit à ce moment est gérée par la SAVR (devenue [[Autoroutes du Sud de la France|ASF]]) qui prendra le contrôle des autres portions de l'A7 situées entre [[Givors]] et [[Rognac]].
+* 1959 : ouverture de la section Vienne-Sud / [[Reventin-Vaugris]].
+* 1961 : ouverture d'une déviation reliant la [[Chartreuse de Bonpas]] à [[Bédarrides]] dans le [[Vaucluse (département)|Vaucluse]] qui deviendra une autoroute en 1965 dont la concession sera attribuée à la SAVR et dont l'usage deviendra payant. Deux sections distinctes existent à savoir une voie rapide entre la Chartreuse de Bonpas et [[Vedène]] puis une route à trois voies depuis cette dernière commune jusqu'à Bédarrides. Cette voie rapide est d'autant appréciée qu'elle permet d'éviter la longue et éprouvante traversée d'[[Avignon]].
+* 1963 : ouverture intégrale de la section à péage entre Vienne-Sud et [[Chanas]] ({{unité|24 km}}) ainsi que de la portion Valence-Nord / Valence-Sud ({{unité|4 km}}). En réalité, l'extrémité Sud de l'autoroute se termine près du centre-ville de Valence, tout près de l'unique pont reliant cette ville aux communes situées sur l'autre rive du Rhône.
+* 1964 : ouverture de la déviation autoroutière d'[[Orange (Vaucluse)|Orange]] dans le Vaucluse. Son tracé débute au sud de [[Piolenc]] et se termine au nord de [[Courthézon]]. Elle mesure environ {{unité|10 km}}. Son utilisation devient payante dès 1965 à la suite de la concession à la SAVR et à son raccordement vers la voie rapide située entre [[Bédarrides]] et la Chartreuse de Bonpas également transformée en autoroute à cette occasion. La liaison discontinue entre [[Piolenc]] et [[Caumont-sur-Durance]] mesure {{unité|38 km}}.<br>''Les sorties :'' [[Piolenc]] - N 7 ; [[Orange (Vaucluse)|Orange]] (actuelle sortie 21 - [[échangeur d'Orange]]) ; [[Vedène]] (actuelle sortie 23) ; [[Caumont-sur-Durance]] / [[Noves]] (actuelle sortie 24).
+* 1965 : ouverture du tronçon payant entre [[Chanas]] et Valence-Nord. La longueur de cette portion est de {{unité|42 km}}, ce qui crée une autoroute discontinue longue de {{unité|73 km}} reliant directement [[Vienne (Isère)|Vienne]] à [[Portes-lès-Valence]], de Vienne à l'actuel échangeur 15.
+* 1966 : ouverture de la section Valence-Sud / Montélimar-Nord et débuts de la numérotation autoroutière. Cette future longue liaison devient l''''A7'''.
+* 1968 : ouverture de la section Montélimar-Nord / Montélimar-Sud puis de son prolongement vers [[Orange (Vaucluse)|Orange]] en fin d'année.
+* 1969 : ouverture de la section Avignon-Sud par le [[pont de Bonpas|pont autoroutier de Bonpas]] / [[Cavaillon]] / [[Sénas]] prolongée en 1970 vers la portion primitive reliant [[Les Pennes-Mirabeau]] à [[Marseille]]. Cette dernière voit sa partie urbaine prolongée vers la Gare Saint-Charles avant de trouver son terminus définitif à la [[Place Jules-Guesde|Porte d'Aix]].
+* 1972 : ouverture de l'échangeur de [[Loriol-sur-Drôme]] entre [[Valence (Drôme)|Valence]] et [[Montélimar]] ({{numéro|16}}).
+* 1974 : ouverture de l'ultime tronçon constituant la déviation de Vienne attendu depuis de nombreuses années. Raccordement final à l'autoroute [[Autoroute A6 (France)|A6]] entre [[La Mulatière]] et [[Perrache (quartier de Lyon)|Perrache]].
+* 1997 : ouverture de l'échangeur ''[[Orange (Vaucluse)|Orange]] - sud'' ({{numéro|22}})
+* 2010 : suppression des 300 derniers mètres du tronçon entrant dans Marseille entre la {{Sortie|37|Saint-Charles}} et la Porte d'Aix. L'autoroute se termine désormais à l'avenue du Général Leclerc allant à la gare Saint-Charles avec un carrefour à feu à la place de la {{Sortie|37|Saint-Charles}} qui est supprimée.
+* 2020 : les {{unité|16|km}} des tronçons de l'A6 et de l'A7 traversant Lyon qui ont été déclassés en 2017 en voie rapide sont transformés en boulevard urbain sous le nom de route M6 et M7 ([[Route métropolitaine en France|route métropolitaine]] 6 et 7)<ref>{{pdf}} [https://rhone.eelv.fr/wp-content/blogs.dir/862/files/2017/01/2017-1717-2.pdf PROJET DE DELIBERATION DU CONSEIL {{n°|2017-1717}}] sur rhone.eelv.fr], 30 janvier 2017</ref>{{,}}<ref name="lefigaro.fr">Étienne Jacob, [http://www.lefigaro.fr/actualite-france/2016/12/30/01016-20161230ARTFIG00182-pour-limiter-le-trafic-et-la-pollution-lyon-sacrifie-une-autoroute.php « Pour limiter trafic et pollution, Lyon sacrifie une autoroute »], ''[[Le Figaro]]'', samedi 31 décembre 2016 / lundi {{date|1er janvier 2017}}, page 7.</ref>.
+
+L'autoroute est placée dans un couloir abondamment pourvu en infrastructures de transport, aux côtés d'une voie fluviale et de trois voies ferrées (lignes [[Ligne de Paris-Lyon à Marseille-Saint-Charles|de Paris à Marseille]], [[Ligne de Givors-Canal à Grezan|de Givors à Grezan]], et les [[Ligne à grande vitesse|LGV]] [[LGV Rhône-Alpes|Rhône-Alpes]] puis [[LGV Méditerranée|Méditerranée]]), dans une région déjà fortement dynamisée<ref>[[#Bonnafous1974|Bonnafous {{et al.}} 1974]], {{p.}}235.</ref>. L'arrivée de l'autoroute donnait l'avantage aux communes de la rive gauche du Rhône<ref>[[#Bonnafous1974|Bonnafous {{et al.}} 1974]], {{p.}}253.</ref>, où le report du trafic de la [[Route nationale 7 (France métropolitaine)|route nationale 7]] vers l'autoroute a permis le développement des villages traversés par cette route<ref>[[#Bonnafous1974|Bonnafous {{et al.}} 1974]], {{p.}}254-255.</ref>.
+
+==== Aménagements postérieurs ====
+L'autoroute est élargie à deux fois trois voies entre Vienne et Orange en 1987, puis jusqu'à Salon-de-Provence en 1992.
+
+Les {{nobr|300 derniers mètres}} sont déclassés dans Marseille entre la sortie [[Saint-Charles (Marseille)|Saint-Charles]] et la [[Place Jules-Guesde|Porte d'Aix]], le {{date|7 juillet 2010}}, dans le cadre de l'opération d'aménagement urbain [[Euroméditerranée]]<ref>[http://www.euromediterranee.fr/uploads/tx_fapressarea/CP-A7.pdf] {{pdf}}, sur ''euromediterranee.fr''.</ref>{{,}}<ref>[http://www.euromediterranee.fr/a7.html], sur ''euromediterranee.fr''.</ref>. Le pont est foudroyé le {{date|7 août 2010}}<ref>{{Lien web|url=http://www.laprovence.com/actu/trafic-en-direct/modifications-de-circulation-porte-daix-des-aujourdhui|titre=Modifications de circulation Porte d'Aix dès aujourd'hui|jour=7|mois=juillet|année=2010|site=laprovence.com|brisé le = 2024-02-11}}.</ref>.
+
+L'échangeur {{numéro|20}}, dénommé Orange-Nord (situé sur la commune de [[Piolenc]]) n'était qu'un quart d'échangeur, ne permettant que l'entrée sur l'autoroute dans le sens nord-sud. Il avait été conçu à la suite de l'interdiction de circulation des poids lourds sur la commune d'[[Orange (Vaucluse)|Orange]], afin qu'ils puissent contourner l'agglomération et revenir sur la {{nobr|[[Route nationale 7 (France métropolitaine)|nationale 7]]}} au sud d'Orange<ref>{{Lien web|titre=Bientôt une sortie d'autoroute sur l'A7 à Piolenc, au nord d'Orange|url=http://www.midilibre.fr/2012/01/24/bientot-une-sortie-d-autoroute-sur-l-a7-a-piolenc-au-nord-d-orange,447799.php|site=Midi Libre|date=24 janvier 2012|consulté le=29 août 2014}}.</ref>. Cet échangeur, déclaré d'utilité publique le {{date|13 novembre 2013}}, a été inauguré le {{date|21 décembre 2015}}<ref>{{Lien web|format=pdf|url=http://www.vinci-autoroutes.com/fr/system/files/pdf/2015/12/communique_vinci_autoroutes_inauguration_echangeur_piolenc_21decembre_2015.pdf|titre=Inauguration de la bretelle de sortie de l'échangeur de Piolenc ({{numéro|20}}) sur l'A7|mois=décembre|année=2015|éditeur=Vinci Autoroutes|consulté le=31 mai 2016|brisé le = 2024-02-11}}.</ref>.
+
+À [[Lyon]], dans le cadre du premier projet de [[La Confluence|Lyon Confluence]] datant de [[1998]], la portion entre [[La Mulatière]] et Perrache devait être déclassée et transformée en boulevard urbain qui aurait par conséquent été interdit aux véhicules dont le poids total en charge excède {{nobr|3,5 tonnes}} (sauf desserte). Un nouveau contournement par l'ouest de la ville ([[Autoroute A44 (France)|Autoroute A44]]) aurait dû être construit. Le déclassement est officiellement annoncé en 2016 par le secrétaire d'État chargé des Transports<ref>{{Lien web|titre=Feu vert pour le déclassement des autoroutes A6-A7|url=http://www.leprogres.fr/rhone/2016/05/03/feu-vert-pour-le-declassement-des-autoroutes-a6-a7|site=Le Progrès|consulté le=4 mai 2016}}.</ref>.
+
+À la suite du débat public tenu en 2006 sur la politique des transports dans la vallée du Rhône et l'arc languedocien<ref>[http://www.debatpublic-transports-vral.org/ Site du débat public de 2006].</ref>, les ministères concernés (ministère des Transports, de l'équipement, du tourisme et de la mer, ministère de l'Écologie et du développement durable) ont conclu que {{Citation|l'élargissement des autoroutes A7 et A9 n'est pas retenu. Un point de rendez-vous est fixé dans {{nobr|5 ans}}}}<ref>[http://www.debatpublic-transports-vral.org/docs/pdf/decisions-cndp/20061204-vral.pdf Communiqué de synthèse des ministères en date du 4 décembre 2006] {{pdf}}.</ref>.
+
+{{unité|16|km}} des tronçons de l'[[Autoroute A6 (France)|A6]] et de l'A7 traversant Lyon sont déclassés le {{date|1 novembre 2017}} en route à grande circulation<ref>{{pdf}} [https://rhone.eelv.fr/wp-content/blogs.dir/862/files/2017/01/2017-1717-2.pdf PROJET DE DELIBERATION DU CONSEIL {{n°|2017-1717}}] sur rhone.eelv.fr], 30 janvier 2017.</ref>, avec le projet de les aménager en boulevard urbain d'ici 2020<ref name="lefigaro.fr"/>. Ce tronçon déclassé de l'A7 est renommé M7 (Route métropolitaine 7).
+
+L'autoroute A7N entre le nœud de Pierre Bénite et la gare routière de Perrache (PK 0) est renumérotée M7 (Route Métropolitaine 7, cartouche fond bleu ciel) à la suite de son déclassement. Les nouveaux panneaux intégrant la renumérotation commencent progressivement à remplacer les anciens panneaux avec le cartouche A7.
+
+=== Avenir ===
+{{projet de transport}}
+La loi {{numéro|2022-217}} du {{Date|21 février 2022}}, dite « [[Loi relative à la différenciation, la décentralisation, la déconcentration et portant diverses mesures de simplification de l'action publique locale|loi 3DS]] », prévoit le transfert de la section non concédée de l'autoroute A7 (comprise entre Rognac et Marseille) au département des [[Bouches-du-Rhône]] au {{Date|1 janvier 2024}}<ref>{{Article|titre=Décision du {{Date|4 janvier 2023}} déterminant la liste des autoroutes, routes et portions de voies qui sont transférées ou mises à disposition en application des articles 38 et 40 de la loi {{numéro|2022-217}} du {{Date|21 février 2022}} relative à la différenciation, la décentralisation, la déconcentration et portant diverses mesures de simplification de l'action publique locale (NOR : TRET2236986S) |périodique=Journal officiel de la République française |numéro=7, texte {{numéro|33}} |date=8 janvier 2023 |url=https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000046949953 |consulté le=5 avril 2023}}.</ref>.
+
+Il existe un projet d'ouverture de deux demi-échangeurs, intercalés entre les sorties 12 et 13, destinés à mieux desservir le nord de la [[Drôme (département)|Drôme]], dans le secteur de [[Saint-Vallier (Drôme)|Saint-Vallier]]. L'ouverture de ces nouveaux équipements, planifiés à [[Saint-Barthélemy-de-Vals]] et [[Saint-Rambert-d'Albon]], est prévue en 2027<ref>{{Lien web |titre=
+Drôme – Saint-Vallier. Demi-échangeurs sur l’A7 : nouveau feu vert des élus pour le projet |url=https://limpartial.fr/drome-saint-vallier-demi-echangeurs-sur-la7-nouveau-feu-vert-des-elus-pour-le-projet/ |date=25 janvier 2024 |site=limpartial.fr |consulté le=12 novembre 2024}}.</ref>.
+
+== Échangeurs ==
+
+[[Fichier:France A7.svg|vignette|alt=Carte détaillée de l'autoroute A 7|Tracé de l'A7.]]
+
+''Note : on appelle « A7 Nord » (A7N) la Section allant d'Oullins-Pierre-Bénite au Péage de Vienne-Reventin (PK 36 A7N = PK 6 A7). Cette appellation non officielle est utilisée notamment sur les points de repère kilométriques et pour les messages sur la radio autoroutière, car il y avait initialement 2 repérages kilométriques de Lyon (PR 0 à Perrache) à Vienne, puis de Vienne (PR 0) à Marseille. Cette appellation « A7 Nord » permet d'éviter les ambiguïtés.
+
+=== M7 ===
+'''Section non-concédée gérée par la [[Métropole de Lyon]] et gratuite.'''
+* Fin de la M6 et début de la M7 par le [[Centre d'échanges de Perrache]] à {{unité|0|km}} depuis : [[Paris]] (A6), [[Clermont-Ferrand]] ([[Autoroute A89 (France)|A89]])
+** [[Fichier:France road sign C111.svg|22x22px]] [[Fichier:France road sign B14 (50).svg|22x22px]] [[Fichier:France road sign A1a.svg|22x22px]] Tunnel de Perrache
+* {{Sortie|1.1 [[La Part-Dieu]]}} : Lyon, ''[[Fichier:France road sign ID3.svg|15px|alt]] [[Centre hospitalier Saint-Joseph Saint-Luc|Saint-Joseph Saint-Luc]]''
+* {{Sortie|1.2 Lyon - centre}} : Lyon - ''[[Presqu'île (Lyon)|Presqu'Île]]''
+** [[Fichier:France road sign B14 (70).svg|22x22px]] [[Fichier:France road sign C24a.svg|22x22px]] Limitation à {{unité|70|km/h}} et mise à 3 voies
+** [[Fichier:France road sign B14 (50).svg|22x22px]] Limitation à {{unité|50|km/h}}
+* {{Sortie|1.3 Lyon - [[Gerland]]}} : Lyon - ''[[La Confluence]]'', ''[[Fichier:France road sign ID1b.svg|20px|alt]] [[Fichier:France road sign ID12a.svg|15px|alt]] [[Gare de Lyon-Perrache|Perrache]], [[Fichier:France road sign ID16a.svg|15px|alt]] [[Musée des Confluences]]''
+** [[Fichier:France road sign B14 (70).svg|22x22px]] Limitation à {{unité|70|km/h}}
+* {{Sortie|2 La Mulatière}} à {{unité|2N|km}} : [[La Mulatière]], [[Oullins]] - ''centre''
+* {{Sortie|3 [[Fichier:France road sign ID1b.svg|20px|alt]] Oullins - La Saulaie}} à {{unité|4N|km}} ''(demi-échangeur, depuis et vers Lyon)'' : Oullins
+* {{Sortie|4 Pierre-Bénite - nord}} à {{unité|6N|km}} : [[Pierre-Bénite]], ''[[Fichier:France road sign ID1b.svg|20px|alt]] Oullins - La Saulaie'', ''[[Fichier:France road sign ID35.svg|20px|alt]] Z. I. Les Lônes''
+* [[Fichier:France road sign C108.svg|22x22px]] Fin de la voie rapide M7
+
+=== A7 ===
+'''Section non-concédée gérée par la [[Direction interdépartementale des Routes#Direction interdépartementale des Routes Centre-Est|DIR Centre-Est]] et gratuite.'''
+* [[Fichier:France_road_sign_C207.svg|20px]] Début de l'autoroute A7
+* '''{{échangeur autoroutier|[[Autoroute A450 (France)|A450]]|A7|M7}}''' à {{unité|6,5N|km}} : Pierre-Bénite, [[Brignais]], ''[[Fichier:France road sign ID3.svg|15px|alt]] [[Hôpital Lyon Sud]]''
+* {{Sortie|5 Saint-Fons ([[Route nationale 383|RD 383]])}} à {{unité|7N|km}} : [[Saint-Fons]], ''[[Fichier:SU4 - Rocade France.svg|22px|alt]] [[Boulevard périphérique de Lyon|Périphérique]]''
+* {{Sortie|6 Feyzin}} à {{unité|8N|km}} : [[Paris]] (A6), [[Vénissieux]], [[Saint-Priest]], [[Feyzin]], ''[[Fichier:France road sign ID35.svg|15px|alt]] Z. I. - Lyon - Sud-Est, [[Fichier:France road sign ID35.svg|15px|alt]] Z. I. Belle Étoile'' (Boulevard Urbain Sud)
+** [[Fichier:France road sign B14 (90).svg|22x22px]] Limitation à {{unité|90|km/h}}
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à {{unité|110|km/h}}
+** {{aire de repos|de Solaize|Lyon-Marseille}}
+* {{Sortie|7 Solaize}} à {{unité|13N|km}} : [[Solaize]], [[Vernaison]], [[Saint-Symphorien-d'Ozon]], ''[[Fichier:France road sign ID35.svg|15px|alt]] Pôle de Recherche'' 
+** {{aire de repos|de Sérézin-du-Rhône|Marseille-Lyon}}
+* '''{{échangeur autoroutier|[[Autoroute A46 (France)|A46]]|[[Autoroute A47 (France)|A47]]|A7}} ''([[Échangeur de Chasse-sur-Rhône]])''''' : Paris (A6), [[Strasbourg]] ([[Autoroute A42 (France)|A42]]), [[Grenoble]] ([[Autoroute A43 (France)|A43]]), [[Lyon]] - est ; [[Saint-Étienne]], [[Givors]], [[Chasse-sur-Rhône]], [[Clermont-Ferrand]] ([[Autoroute A72 (France)|A72]])
+'''Section concédée à [[Autoroutes du Sud de la France|ASF]] et payante (sauf entre les sorties 8 à 9).'''
+* {{Sortie|8 Chasse - sud}} à {{unité|22N|km}} ''(demi-échangeur, depuis et vers Marseille)'' : Chasse-sur-Rhône
+[[Fichier:140614-Autoroute-A7-02.jpg|vignette|L'A7 aux environs de [[Vienne (Isère)|Vienne]] en direction du nord.]]
+* {{Sortie|9 Vienne - nord}} à {{unité|26N|km}} ''(demi-échangeur, depuis et vers Lyon)'' : [[Vienne (Isère)|Vienne]] - centre, [[Valence (Drôme)|Valence]], Grenoble
+** [[Fichier:AB-Brücke.svg]] Viaduc de Vienne Nord sur [[Fichier:Panneau cours d'eau France.png|20px]] le [[Rhône]] (450 m)
+* {{Sortie|10 Condrieu}} à {{unité|32N ou 2|km}} ''(demi-échangeur, depuis et vers Lyon)'' : [[Ampuis]], [[Condrieu]]
+** [[Fichier:AB-Brücke.svg]] Viaduc de Vienne Sud sur [[Fichier:Panneau cours d'eau France.png|20px]] le Rhône (410 m)
+* {{Sortie|11 Vienne - sud}} à {{unité|33N ou 4,5|km}} ''(demi-échangeur, depuis et vers Marseille)'' : Vienne, [[L'Isle-d'Abeau]]
+* {{Sortie|11 Vienne - sud}} à {{unité|35N ou 5,5|km}} ''(demi-échangeur, depuis et vers Lyon)'' : Vienne, L'Isle-d'Abeau, [[Péage-de-Roussillon]], [[Reventin-Vaugris]] ''(ouvert le {{date|9 décembre 2025}})<ref>{{Lien web |langue=fr-FR |nom=komenvoir |titre=Le nouveau demi-échangeur de Vienne Sud entre en service le 9 décembre à 8h00 |url=https://www.a7-echangeur-viennesud.fr/le-nouveau-demi-echangeur-de-vienne-sud-entre-en-service-le-9-decembre-a-8h00/ |site=A7 Échangeur Vienne Sud |date=2025-12-08 |consulté le=2025-12-10}}</ref>''
+* {{Péage|Péage de Vienne-Reventin}} + {{aire de repos|de Vienne-Reventin}} à {{unité|6|km}}
+** {{aire de repos|d'Auberives|Lyon-Marseille}}
+** {{aire de repos|de la Grande Borne|Marseille-Lyon}}
+** {{aire de service|de Roussillon réservés aux poids lourds|Lyon-Marseille}}
+* {{Sortie|11.1 Auberives}} à {{unité|19|km}} ''(quart-échangeur, vers Marseille)'' : [[Auberives-sur-Varèze]] ''(entrée en direction de Marseille, obligatoire pour les poids lourds en provenance de la RN7 en raison d'une forte descente)''
+* {{Sortie|12 Chanas}} à {{unité|24|km}} : [[Chanas]], [[Annonay]], Péage-de-Roussillon, [[Salaise-sur-Sanne]]
+** {{aire de service|de [[Saint-Rambert-d'Albon]]}}
+** ''[[Col du Grand Bœuf]]'' (altitude {{unité|323 m}}) à {{unité|38|km}}
+** {{aire de repos|du Bornaron|Lyon-Marseille|de la Galaure|Marseille-Lyon}}
+** {{aire de repos|de la Bouterne|Marseille-Lyon}}
+* {{Sortie|13 Tain l'Hermitage}} à {{unité|56|km}} : [[Tain-l'Hermitage]], [[Tournon-sur-Rhône]], [[Romans-sur-Isère]], [[Saint-Donat-sur-l'Herbasse|Saint-Donat]]
+** {{aire de service|du Pont de l'Isère|Lyon-Marseille|Latitude 45|Marseille-Lyon}}
+** [[Fichier:AB-Brücke.svg]] Pont sur [[Fichier:Panneau_cours_d'eau_France.png|20x20px]] [[Isère (rivière)|l'Isère]]. (200 m)
+* {{Sortie|14 Valence - nord}} à {{unité|67|km}} : [[Valence (Drôme)|Valence]] - ''centre'', [[Bourg-lès-Valence]]
+[[Fichier:L'autouroute A7 à Valence.JPG|vignette|alt=Photographie de l'autoroute A 7 à Valence|L'A7 à [[Valence (Drôme)|Valence]] en direction du sud.]]
+* {{Sortie|15 Valence - sud}} à {{unité|75|km}} : Valence, Grenoble ([[Autoroute A49 (France)|A49]] via [[Route nationale 532|RN 532]]), Romans-sur-Isère, [[Gap]], [[Crest (Drôme)|Crest]], [[Portes-lès-Valence]]
+** {{aire de service|de Portes-lès-Valence}}
+** {{aire de repos|de Bellevue|Lyon-Marseille|de Livron|Marseille-Lyon}}
+** [[Fichier:AB-Brücke.svg]] Pont sur la [[Fichier:Panneau_cours_d'eau_France.png|20x20px]] [[Drôme (rivière)|Drôme]]. (180 m)
+* {{Sortie|16 Loriol}} à {{unité|92|km}} : [[Loriol-sur-Drôme]], Crest, [[Privas]], [[La Voulte]], [[Livron-sur-Drôme|Livron]], Mémorial des Sapeurs-Pompiers de Loriol
+** {{aire de repos|de Bras de Zil|Lyon-Marseille}} 
+** {{aire de service|de Saulce|Marseille-Lyon}}
+* {{Sortie|17 Montélimar - nord}} à {{unité|102|km}} : [[Montélimar]], [[Le Teil]], [[Dieulefit]], [[Saulce-sur-Rhône]]
+** {{aire de repos|de la Coucourde|Lyon-Marseille|du Logis Neuf|Marseille-Lyon}}
+** {{aire de repos|de Savasse|Lyon-Marseille|du Roubion|Marseille-Lyon}} : ''[[Porte du soleil (sculpture)|Porte du soleil]]''
+** [[Fichier:AB-Brücke.svg]] Pont sur le [[Fichier:Panneau_cours_d'eau_France.png|20x20px]] [[Roubion (rivière)|Roubion]]. (40 m)
+** [[Fichier:AB-Brücke.svg]] Pont sur le [[Fichier:Panneau_cours_d'eau_France.png|20x20px]] [[Jabron (affluent du Roubion)|Jabron]]. (80 m)
+** {{aire de service|de Montélimar}}
+[[Fichier:Autoroute A7 - Mondragon.JPG|thumb|L'autoroute A7 au niveau de [[Mondragon]].]]
+* {{Sortie|18 Montélimar - sud}} à {{unité|125|km}} : Montélimar, [[Le Puy-en-Velay]], [[Aubenas]], [[Valréas]], [[Nyons]], [[Pierrelatte]]
+** {{aire de repos|de Pierrelatte|Lyon-Marseille|de Donzère|Marseille-Lyon}}
+** {{aire de repos|de Tricastin|Marseille-Lyon}}
+[[Fichier:FR-84-Orange19.JPG|vignette|alt=Photographie de l'autoroute A 7 près d'Orange|L'A7 aux environs d'[[Orange (Vaucluse)|Orange]] en direction du nord.]]
+* {{Sortie|19 Bollène}} à {{unité|146|km}} : [[Bollène]], [[Alès]], [[Pont-Saint-Esprit]], [[Vaison-la-Romaine]]
+** [[Fichier:AB-Brücke.svg]] Pont sur le [[Fichier:Panneau_cours_d'eau_France.png|20x20px]] [[Lez (fleuve)|Lez]]. (60 m)
+** {{aire de service|de Mornas-Village|Lyon-Marseille|de Mornas-les-Adrets|Marseille-Lyon}}
+* {{Sortie|20 Orange - nord}} à {{unité|164|km}} ''(demi-échangeur, depuis et vers Marseille)'' : [[Piolenc]], [[Mondragon]], Pont-Saint-Esprit
+** [[Fichier:AB-Brücke.svg]] Pont sur [[Fichier:Panneau_cours_d'eau_France.png|20x20px]] [[Eygues|l'Aigue]]. (85 m)
+* '''{{échangeur autoroutier|[[Autoroute A9 (France)|A9]]|A7}} ''([[Échangeur d'Orange]])''''' ''(demi-échangeur, depuis et vers Lyon)'' : [[Nîmes]], [[Montpellier]], [[Perpignan]], [[Barcelone]], [[Toulouse]] ([[Autoroute A61 (France)|A61]])
+[[Fichier:AutorouteA7-A9.jpg|thumb|L'[[échangeur d'Orange]] entre l'A7 (les trois voies de gauche) et l'A9 (les deux voies de droite) à [[Orange (Vaucluse)|Orange]] avec la sortie 21.]]
+* {{Sortie|21 Orange - centre}} à {{unité|167|km}} : [[Orange (Vaucluse)|Orange]], [[Caderousse]], [[Valréas]], [[Nyons]], Nîmes ([[Autoroute A9 (France)|A9]])
+** {{aire de repos|d'Orange-Le Grès|Lyon-Marseille|d'Orange-Le Coudoulet|Marseille-Lyon}}
+* {{Sortie|22 Orange - sud}} à {{unité|172|km}} : Orange, [[Carpentras]], [[Sarrians]], [[Courthezon]], Vaison-la-Romaine
+** [[Fichier:AB-Brücke.svg]] Pont sur [[Fichier:Panneau_cours_d'eau_France.png|20x20px]] [[Ouvèze|l'Ouvèze]]. (65 m)
+** {{aire de repos|du Fournalet|Lyon-Marseille}} + {{aire de service|de Sorgues|Marseille-Lyon}}
+* {{Sortie|23 Avignon - nord}} à {{unité|188|km}} : [[Avignon]], [[Le Pontet (Vaucluse)|Le Pontet]], [[Sorgues (Vaucluse)|Sorgues]], [[Vedène]], Carpentras
+** {{aire de service|de Morières|Lyon-Marseille}}
+* {{Sortie|24 Avignon - sud}} à {{unité|199|km}} : Avignon, [[Apt]], ''[[Fichier:France road sign ID2.svg|15px|alt]] [[Aéroport d'Avignon-Provence|Avignon-Provence]]'', [[L'Isle-sur-la-Sorgue]], [[Châteaurenard]]
+** [[Fichier:AB-Brücke.svg]] Viaduc de Bonpas sur la [[Fichier:Panneau_cours_d'eau_France.png|20x20px]] [[Durance]]. (570 m)
+** {{aire de repos|de Cabannes|Lyon-Marseille|de Noves|Marseille-Lyon}}Viaduc autoroutier de Bonpas
+** {{aire de repos|de Cavaillon}}
+* {{Sortie|25 Cavaillon}} à {{unité|210|km}} : [[Cavaillon]], [[Arles]], [[Beaucaire (Gard)|Beaucaire]], [[Saint-Rémy-de-Provence]], [[Tarascon (Bouches-du-Rhône)|Tarascon]], Apt, L'Isle-sur-la-Sorgue
+** {{aire de repos|de Sénas}}
+* {{Sortie|26 Sénas}} à {{unité|221|km}} : [[Sénas]], [[Lambesc]], [[Aix-en-Provence]]
+** [[Fichier:AB-Brücke.svg]] Pont sur [[Fichier:Panneau_cours_d'eau_France.png|20x20px]] [[Canal EDF de la Durance|Canal de l'EDF]]. (80 m)
+** {{aire de repos|de Lamanon|Marseille-Lyon}}
+* {{Sortie|27 Salon - nord}} à {{unité|230|km}} ''(demi-échangeur, depuis et vers Lyon)'' : [[Salon-de-Provence]]
+* '''{{échangeur autoroutier|[[Autoroute A54 (France)|A54]]|A7}}''' à {{unité|235|km}} : Salon-de-Provence - centre, Arles, Nîmes, Barcelone (A9), [[Fos-sur-Mer|Fos]] - [[Martigues]]
+* {{Péage|Péage de Lançon de Provence}} à {{unité|240|km}}
+** {{aire de service|de Lançon-Provence «[[Pont-restaurant]]»}}
+* '''{{échangeur autoroutier|[[Autoroute A8 (France)|A8]]|A7}}''' à {{unité|245|km}} : Aix-en-Provence, [[Toulon]] ([[Autoroute A52 (France)|A52]]), [[Nice]]
+'''Section non-concédée gérée par le département des [[Bouches-du-Rhône]] et gratuite.'''
+* {{Sortie|28 Rognac}} à {{unité|255|km}} : [[Rognac]], [[La Fare-les-Oliviers]], [[Berre-l'Étang]], Salon-de-Provence
+** {{aire de service|de Vitrolles-Est|Marseille-Lyon}}
+* {{Sortie|29 Vitrolles - Roucas}} à {{unité|261|km}} : [[Vitrolles (Bouches-du-Rhône)|Vitrolles]] - ''centre''
+* {{Sortie|30/30a/30b Marignane}} à {{unité|264|km}} : [[Marignane]], [[Aix-en-Provence]], ''[[Fichier:France road sign ID2.svg|15px|alt]] [[Aéroport Marseille-Provence|Marseille-Provence]]'', [[Saint-Victoret]], Vitrolles - ''sud'', [[Les Pennes-Mirabeau]]
+** [[Fichier:France_road_sign_C111.svg|22x22px]] Tunnel des Pennes-Mirabeau ({{unité|300|m}})
+* '''{{échangeur autoroutier|[[Autoroute A55 (France)|A551 - A552 (A55)]]|A7}}''' à {{unité|270|km}} : Arles, Fos - Martigues, Nîmes, [[Marseille]] - ''[[Vieux-Port de Marseille|Vieux-Port]], [[L'Estaque]]'', ''[[Fichier:France road sign ID13a.svg|15px|alt]] [[Fichier:France road sign ID13b.svg|15px|alt]] [[Port de Marseille]]
+* {{Sortie|31 Les Pennes-Mirabeau}} à {{unité|270|km}} : Les Pennes-Mirabeau, ''[[Fichier:France road sign ID36.svg|15px|alt]] [[Plan de Campagne]]''
+* '''{{échangeur autoroutier|[[Autoroute A517 (France)|A517]]|[[Autoroute A51 (France)|A51]]|A7}}''' à {{unité|272|km}} : Aix-en-Provence, Nice (A8), [[Gardanne]], Gap, [[Septèmes-les-Vallons]], ''[[Fichier:France road sign ID36.svg|15px|alt]] Plan de Campagne''
+* {{Sortie|32 [[Saint-Antoine (Marseille)|Saint-Antoine]]}} à {{unité|274|km}} : Marseille, Septèmes-les-Vallons, ''[[Fichier:France road sign ID3.svg|15px|alt]] [[Hôpital nord]]
+** [[Fichier:France_road_sign_C111.svg|22x22px]] Tunnel de Saint-Antoine ({{unité|110|m}})
+* {{Sortie|33 [[Les Aygalades]]}} à {{unité|275|km}} ''(demi-échangeur, depuis et vers Lyon)'' : Marseille
+* {{Sortie|34 [[Échangeur des Arnavaux|Les Arnavaux]]}} à {{unité|278|km}} : Marseille - ''[[Sainte-Marthe (Marseille)|Sainte-Marthe]], [[La Rose (Marseille)|La Rose]]'' (A507)
+* '''{{échangeur autoroutier|[[Autoroute A507 (France)|A507]]|A7}}''' à {{unité|278|km}} ''(demi-échangeur, depuis et vers Lyon)'' : Marseille - ''La Rose, [[Saint-Loup (Marseille)|Saint-Loup]]'', [[Aubagne]], Toulon ([[Autoroute A50 (France)|A50]])
+* {{Sortie|35 [[Le Canet (Marseille)|Le Canet]]}} à {{unité|279|km}} ''(demi-échangeur, depuis et vers Lyon)'' : Marseille - [[Saint-Barthélemy (Marseille)|Saint-Barthélemy]], ''[[Fichier:France road sign ID13a.svg|15px|alt]] [[Fichier:France road sign ID13b.svg|15px|alt]] Port de Marseille''
+* '''{{échangeur autoroutier|[[Autoroute A557 (France)|A557]]|A7}}''' ''(quart-échangeur, depuis Lyon)'' : Marseille - ''[[La Joliette]], Vieux-Port'' ([[Autoroute A55 (France)|A55]])
+* {{Sortie|36 [[Boulevard de Plombières|Plombières]]}} ''(demi-échangeur, depuis et vers Lyon)'' :  Marseille - ''[[Menpenti]], [[Cinq Avenues]], [[Belle de Mai]], [[Saint-Mauront]]''
+* [[Fichier:France road sign C208.svg|22x22px]] Fin d'autoroute à ''[[Saint-Lazare (Marseille)|Saint-Lazare]]'', à {{unité|282|km}}, entrée dans [[Marseille]] par l'avenue du Général Leclerc (près de la gare Saint-Charles), avec un débouché place Marceau.
+
+== Circulation ==
+Cette autoroute est très chargée tout au long de l'année. L'axe de la [[Vallée du Rhône (France)|vallée du Rhône]] voit transiter des flux de trafic, surtout de poids-lourds entre le nord de la France, le [[Benelux]], l'[[Allemagne]] et le pourtour méditerranéen (Languedoc, Marseille, Espagne et Afrique du Nord…). De plus la circulation est aussi générée par un trafic local desservant tout le chapelet des villes de la vallée du Rhône (Lyon, Vienne, Valence, Orange, Avignon…) et les axes latéraux (Saint-Étienne, Grenoble, Aix…).
+
+Pendant les périodes de vacances, le trafic déjà chargé, devient très rapidement saturé, notamment en direction du sud en début de congés, vers le nord en fin de congés. Le dernier week-end de juillet et le premier week-end d'août sont particulièrement chargés dans les deux sens - les embouteillages pouvant parfois s'étendre sur des centaines de kilomètres - lors de ce qu'on nomme le ''[[Chassé-croisé entre les juillettistes et les aoûtiens|chassé-croisé]]'' entre les ''juillettistes'' qui terminent leurs vacances et ceux dits ''aoûtiens'' qui les commencent.
+
+Depuis [[2004]], année d'expérimentation sur le tronçon le plus chargé ([[Vienne (Isère)|Vienne]] - [[Orange (Vaucluse)|Orange]]), une ''régulation dynamique des vitesses'' a été mise en place : les jours de fort trafic, la vitesse maximale autorisée est ramenée à 110 voire 90 ou {{unité|70 km/h}} sur certains tronçons, afin, en uniformisant les vitesses des véhicules, de fluidifier la circulation. Cette limitation de vitesse varie en fonction du débit enregistré. Des panneaux à messages variables indiquent la vitesse limitée et un autre indique de ralentir, si cette vitesse limite est dépassée<ref>{{Ouvrage|auteur1=[[Organisation de coopération et de développement économiques|OCDE]]|auteur2=[[Conférence européenne des ministres des Transports|CEMT]]|titre=La gestion de la vitesse|éditeur=OCDE|année=2006|passage=109|isbn=92-821-0379-X|lire en ligne=https://books.google.com/books?id=oMrYAgAAQBAJ&pg=PA109&dq=autoroute+a7|consulté le=6 août 2014}}.</ref>. La réduction de la vitesse permet également de réduire le nombre d'accidents<ref>{{Ouvrage|auteur1=[[Organisation de coopération et de développement économiques|OCDE]]|auteur2=[[Forum international des transports|FIT]]|titre=Gérer la congestion urbaine|éditeur=OCDE|année=2010|pages totales=112|passage=265-266|isbn=978-92-821-0129-2|lire en ligne=https://books.google.com/books?id=F99PPmT8540C&pg=PA265&dq=autoroute+a7|consulté le=6 août 2014}}.</ref>.
+
+=== Trafic ===
+{{Section à sourcer|date=mai 2016}}
+Les chiffres moyens sont donnés à titre indicatif.
+* A7 Lyon (entre Fourvière et A47) : {{nombre|120000|véhicules}} par jour selon le CRICR Lyon
+* A7 au niveau de A47 : {{nombre|150000|véhicules}} par jour selon le CRICR Lyon
+* A7 entre Vienne et Orange {{nombre|70000|véhicules}} par jour selon les calculs de la SETRA (pic à plus de {{nombre|180000|véhicules}} par jour lors des pointes estivales).
+* A7 entre Avignon et Aix {{nombre|85000|véhicules}} par jour selon les calculs de la SETRA
+* A7 Aix Marseille : plus de {{nombre|110000|véhicules}} par jour selon le CRICR de Marseille
+* A7 Marseille intra-muros : plus {{nombre|135000|véhicules}} par jour selon le CRICR de Marseille
+
+=== Jonctions A9-A7 ===
+[[Fichier:A7 (jonction A9).JPG|vignette|L'A7 au niveau de la jonction : cinq files dont les deux de droite proviennent de l'ex-[[Autoroute A9 (France)|A9]].]]
+{{Article détaillé|Échangeur d'Orange}}
+* Il est impossible de bifurquer directement vers l'[[Autoroute A9 (France)|A9]] à partir de l'A7 dans le sens sud-nord. Il est nécessaire de sortir à [[Orange (Vaucluse)|Orange]] afin de rejoindre celle-ci. Si le conducteur vient de [[Salon-de-Provence]] ou plus au sud, et qu'il souhaite rejoindre l'[[Espagne]], l'autoroute [[autoroute A54 (France)|A54]] permet de rejoindre l'A9 au niveau de [[Nîmes]].
+* De la même manière, en provenant de l'A9, il est impossible de bifurquer directement vers l'A7 en direction de [[Marseille]]. Il est nécessaire de sortir à [[Orange (Vaucluse)|Orange]] afin de rejoindre celle-ci. Tout comme dans le cas précédent, l'autoroute A54 relie l'A7 et l'A9 entre Nîmes et Salon-de-Provence.
+
+=== Lieux sensibles ===
+* Agglomération lyonnaise : entre Givors échangeur A7/[[Autoroute A46 (France)|A46]]/[[Autoroute A47 (France)|A47]] et le [[tunnel de Fourvière]], le trafic est extrêmement dense et très problématique aux heures de pointe et les weekends
+* Dans la Drôme, le [[col du Grand Bœuf]], à {{unité|323 m}} d'altitude, point culminant de l'A7, est répertorié comme site à risque pour les poids lourds<ref>[http://www.equipement.gouv.fr/IMG/pdf/SitesPbl_carsPL_31juil1_cle013b47.pdf Sections du réseau routier national à forte déclivité connues pour être problématiques pour les autocars et les poids lourds] {{pdf}}, sur le site du ministère de l'Équipement.</ref>. Leur dépassement est interdit de part et d'autre du col<ref>[http://www.drome.pref.gouv.fr/sections/espace_presse/communiques_de_press/interdiction_de_doub/downloadFile/attachedFile/Interdiction_de_depasser.pdf?nocache=1215691521.35 Interdiction de dépasser pour les poids lourds de plus de {{nobr|3,5 tonnes}} sur plusieurs sections de l'autoroute A7 en Drôme] {{pdf}}, site de la préfecture de la Drôme, 10 juillet 2008.</ref>.
+* Jonction [[Autoroute A9 (France)|A9]] - A7.
+* Traversée d'Orange très difficile (surtout au moment des vacances scolaires), lieu de transit et de jonction autoroutière.
+* Alentours de Marseille : aux heures d'entrée et de sortie du travail, l'A7 est très utilisée par les Marseillais. Certains dimanches matin, en particulier juste avant les fêtes de fin d'année, la sortie de Marseille par l'A7 est surchargée jusqu'à l'embranchement de l'[[Autoroute A51 (France)|A51]] vers la zone commerciale de [[Plan de Campagne]] (ouverte le dimanche). De même pour le retour juste avant {{heure|20}}, heure de fermeture de la plupart des magasins.
+
+== Lieux touristiques ==
+=== Lieux situés sur l'autoroute ===
+[[Fichier:130615-Autoroute-A7-04.jpg|vignette|Entrée de l'aire de Montélimar-Est.]]
+Les aires de Montélimar Est et Ouest, situées sur la commune d’[[Allan (Drôme)|Allan]], dans le département de la [[Drôme (département)|Drôme]], s'étendant sur plus de {{nobr|47 hectares}}, sont présentées par la presse comme la plus grande aire autoroutière d'Europe<ref>[https://www.ledauphine.com/societe/2015/07/10/il-s-agit-de-la-plus-grande-aire-d-autoroute-d-europe Site ledauphine.com, article "Montélimar :la plus grande aire d’autoroute d’Europe sur le pied de guerre"], consulté le 8 avril 2020.</ref>.
+
+En 2015, un article du journal ''Le Parisien'' indique qu'il s'agit également du plus important lieu de vente de nougat de France, concurrençant ainsi les commerçants de la ville de Montélimar<ref>[http://www.leparisien.fr/week-end/reportage-24-heures-sur-l-aire-d-autoroute-de-montelimar-30-07-2013-3018483.php site leparisien.fr, article "Reportage : 24 heures sur l'aire d'autoroute de Montélimar", consulté le 8 avril 2020.]</ref>.
+
+=== Villes et secteurs concernés ===
+* [[Lyon]] ([[Basilique Notre-Dame de Fourvière|basilique Notre-Dame-de-Fourvière]], [[Hôtel-Dieu de Lyon|Hôtel-Dieu]], théâtre romain, palais du commerce, maisons gothiques, [[Primatiale Saint-Jean de Lyon|cathédrale Saint-Jean]])
+* [[Vienne (Isère)|Vienne]] ([[Théâtre antique de Vienne|Théâtre Antique]], [[Cathédrale Saint-Maurice de Vienne|Cathédrale Saint-Maurice]], [[Temple d'Auguste et de Livie]])
+* [[Saint-Romain-en-Gal]], [[Musée gallo-romain de Saint-Romain-en-Gal|Musée Gallo-Romain et Site archéologie]]
+* [[Parc naturel régional du Pilat]] sur le contournement Ouest de Vienne (cette partie d'Autoroute y passe en plein dedans)
+* Le Palais Idéal du [[Ferdinand Cheval|Facteur Cheval]], à Hauterives, dans la Drôme.
+* [[Tournon-sur-Rhône]]
+* [[Romans-sur-Isère]]
+* [[Valence (Drôme)|Valence]] ([[Kiosque Peynet]], [[Vieux Valence]], [[Maison Pic (Valence)|Maison Pic]], [[Musée d'Art et d'Archéologie de Valence|Musée d'Art et d'Archéologie]])
+* [[Montélimar]] ([[Château des Adhémar]])
+* [[Saint-Paul-Trois-Châteaux]]
+* [[Pierrelatte]] ([[la Ferme aux crocodiles]])
+* [[Bollène]], accès aux [[Gorges de l'Ardèche|Gorges]] de l'Ardèche et au [[Château de Grignan|château]] de Grignan
+* [[Mornas]] ([[Forteresse de Mornas]])
+* [[Orange (Vaucluse)|Orange]], [[Théâtre antique d'Orange|Théâtre Antique]]
+* [[Avignon]], [[Palais des papes d'Avignon|Palais des Papes]]
+* Le [[massif du Luberon]], [[Gordes]]
+* Les [[Massif des Alpilles|Alpilles]]
+* [[Marseille]] ([[mer Méditerranée]], [[Basilique Notre-Dame-de-la-Garde]], [[Vieux-Port de Marseille|Vieux-Port]], [[Calanques]], [[Calanque de Sormiou|Sormiou]]).
+
+== Dans la culture ==
+Dans son livre ''[[Les Autonautes de la cosmoroute]]'' (''Los Autonautas de la cosmopista''), l'écrivain argentin [[Julio Cortázar]] raconte le voyage de trente-deux jours fait avec son épouse, l'autrice américaine [[Carol Dunlop]] sur l'{{citation|autoroute du soleil}} (les autoroutes A6 et A7), entre Paris et Marseille.
+
+Le rappeur [[SCH (rappeur)|SCH]] a nommé une de ses mixtapes du nom de l'autoroute en question ([[A7 (mixtape)|A7]])<ref>{{Lien web |titre=A7 - SCH - SensCritique |url=https://www.senscritique.com/album/A7/17981352 |site=senscritique.com |consulté le=2021-11-16}}.</ref>, celle-ci contient également un titre [[Éponymie|éponyme]] portant le nom de la voie rapide<ref>{{Ouvrage|titre=SCH – A7|lire en ligne=https://genius.com/Sch-a7-lyrics|consulté le=2021-11-16}}</ref>.
+
+Dans Astérix " le tour de Gaule d'Astérix", en sortant de Lugdunum / Lyon, Astérix et Obélix prennent la VR VII (Voie Romaine 7) pour aller à Nicae / Nice. Petit clin d'œil à l'autoroute A7 moderne avec les bouchons "crées" par les Luteciengs / Parisiens.
+
+== Voir aussi ==
+{{Autres projets|commons=Category:A7 autoroute|commons titre=L'autoroute A7}}
+
+=== Bibliographie ===
+{{légende plume}}
+* {{Ouvrage|titre=Détection des effets structurants d'une autoroute sur la région traversée : essai d'application à la section Vienne-Bollène de l'autoroute A 7|volume=I|éditeur=Université de Lyon et Institut des études économiques|année=1972|isbn=}}
+* {{article|prénom1=François|nom1=Plassard|titre=Étude du trafic sur le tronçon Vienne-Bollène de l'autoroute A7|périodique=Transports|année=1972|numéro=174|pages=369-379|résumé=http://trid.trb.org/view.aspx?id=1077707|issn=0564-1373}}
+* {{article|prénom1=Alain|nom1=Bonnafous|prénom2=François|nom2=Plassard|prénom3=Didier|nom3=Soum|titre=La détection des effets structurants d'autoroute. Application à la Vallée du Rhône|périodique=Revue économique|volume=25|numéro=2|année=1974|pages=233-256|lire en ligne=http://www.persee.fr/web/revues/home/prescript/article/reco_0035-2764_1974_num_25_2_408142|id=Bonnafous1974}} {{plume}}
+* {{article|prénom1=J.|nom1=Delafosse|prénom2=G.|nom2=Lieutier|titre=Contrôle et régulation de l'autoroute A7 au nord de Marseille|périodique=Transport Environnement Circulation|année=1974|numéro=6|pages=21-28|résumé=http://trid.trb.org/view.aspx?id=1074766}}
+* {{Ouvrage|prénom1=Chantal|nom1=Giammarchi|titre=Effets structurels des diffuseurs de l'autoroute A7 à Avignon|éditeur=|année=1975|isbn=}}
+* {{Ouvrage|auteur1=DDE de la Drôme|lien auteur1=Direction départementale de l'Équipement|titre=Autoroute du soleil, A7 Lyon-Marseille, section Valence Nord-Valence Sud : élargissement à {{dunité|2|3|voies}} et aménagements complémentaires|éditeur=Direction des routes|année=1981|pages totales=100|isbn=}}
+* {{Ouvrage|prénom1=J.|nom1=Marchal|titre=Autoroute A7 : élargissement entre Saint-Rambert-d'Albon et La Galaure. Compte rendu de mesures|éditeur=|année=1986|isbn=}}
+* {{article|prénom1=M.|nom1=Fay|prénom2=M.|nom2=Deniau|prénom3=A.|nom3=Gravier|prénom4=Y.|nom4=Dumazer|titre=L'élargissement de l'autoroute A7 entre Vienne et Valence|périodique=Revue générale des routes et aérodromes|année=1986|numéro=629|pages=35-48|résumé=http://trid.trb.org/view.aspx?id=1027209|issn=0035-3191}}{{commentaire biblio|L'autoroute A7 a besoin d'être élargie entre Vienne et Valence face à l'augmentation du trafic. Les travaux d'élargissement sont engagés depuis l'automne 1983.}}
+* {{article|prénom1=M.|nom1=Deniau|titre=Élargir l'autoroute A7|périodique=Travaux|année=1989|numéro=645|pages=57-62|résumé=http://trid.trb.org/view.aspx?id=1017609}}{{commentaire biblio|Explications sur l'élargissement de l'autoroute entre Vienne et Valence, prévu depuis 1972.}}
+* {{article|prénom1=M.|nom1=Fay|titre=L'élargissement de l'autoroute A7 - Le point de vue de l'exploitation|périodique=Travaux|année=1989|numéro=646|pages=8-14|résumé=http://trid.trb.org/view.aspx?id=1018165}}{{commentaire biblio|Précautions prises par la société d'autoroutes pour l'élargissement de l'autoroute entre Lyon et Orange et concertation avec les riverains.}}
+
+=== Articles connexes ===
+* [[Liste des autoroutes de France]]
+* [[Route européenne 15]]
+* [[Route européenne 80]]
+* [[Route européenne 714]]
+* Transports par département traversé : [[Transports dans les Bouches-du-Rhône|Bouches-du-Rhône]], [[Transports dans la Drôme|Drôme]], [[Transports dans la métropole de Lyon|Métropole de Lyon]], [[Transports dans le Rhône|Rhône]], [[Transports en Isère|Isère]], [[Transports en Vaucluse|Vaucluse]]
+
+=== Liens externes ===
+* [http://saratlas.free.fr/index.php?page=autoroute&route=a7&lang=fr Autoroute A7 dans Saratlas]
+* [http://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A7 L'autoroute A7 sur WikiSara]
+
+== Notes et références ==
+=== Notes ===
+{{Références|groupe=Note}}
+
+=== Références ===
+{{Références|taille=30}}
+
+{{Palette|Autoroutes de France}}
+{{Portail|route|Dauphiné|Provence-Alpes-Côte d'Azur}}
+
+[[Catégorie:Autoroute en Auvergne-Rhône-Alpes|007]]
+[[Catégorie:Autoroute en Provence-Alpes-Côte d'Azur|007]]
+[[Catégorie:Autoroute A7 (France)|*]]

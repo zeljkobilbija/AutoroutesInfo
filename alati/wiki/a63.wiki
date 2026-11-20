@@ -1,0 +1,231 @@
+{{Voir homonymes|A63}}
+{{Infobox Route/France
+| statut = A
+| numéro = 63
+| nom = 
+| autres_noms = Autoroute de la Côte basque<br />Autoroute des Landes (depuis 2014)
+| image = A63 Biarritz.jpg
+| légende = Sortie {{Sortie|4}} de l'A63, Péage de [[Biarritz]].
+| carte = France A6X A63.svg
+| longueur = 206
+| direction = Sud / nord
+| dir1 = Sud
+| dir2 = Nord
+| ville1 = {{Cartouche route|ES|E|5}} {{Cartouche route|ES|E|70}} {{Cartouche route|ES|E|80}} {{Autoroute espagnole|AP-1}}/{{Autoroute espagnole|AP-8}} à [[Biriatou]]
+| ville2 = {{Route européenne|5}} {{Route européenne|70}} {{Autoroute française|A630}} à [[Pessac]]
+| villes_principales = [[Saint-Jean-de-Luz]], [[Biarritz]], [[Anglet]], [[Bayonne]], [[Bordeaux]]
+| intersections = {{Route européenne|80}} {{Autoroute française|A64}} à [[Saint-Pierre-d'Irube]]<br />
+{{Autoroute française|A660}} à [[Mios]]
+| ouverture = à partir de [[1972]]
+| réseau = Autoroute française, également {{Route européenne|5}} {{Route européenne|70}} {{Route européenne|80}}
+| régions = [[Nouvelle-Aquitaine]]
+| départements = [[Gironde (département)|Gironde]], [[Landes (département)|Landes]] et [[Pyrénées-Atlantiques]]
+| nb_reg = 1
+| nb_dep = 3
+|concessionnaire   = [[Autoroutes du Sud de la France|ASF]] (entre Biriatou et Saint-Gours-de-Maremne)<br/>[[Atlandes]] (entre Saint-Gours-de-Maremne et Salles)
+|gestionnaire      = [[Direction interdépartementale des Routes#Direction interdépartementale des Routes Atlantique|DIR Atlantique]] (entre Mios et Pessac)
+| nom_notes = 
+}}
+{{maplink|frame=yes|plain=yes|frame-width=290|frame-height=460|frame-align=right|type=line|stroke-width=2| |stroke-color=#0000C0| id= }}
+En [[France]], l’{{terme défini|autoroute A63}} relie l'agglomération [[Bordeaux|bordelaise]] à la frontière [[Frontière entre l'Espagne et la France|espagnole]].
+
+== Description et historique ==
+Elle est composée de trois sections :
+* la section nord-est, gérée par la [[Direction interdépartementale des Routes#Direction interdépartementale des Routes Atlantique|DIR Atlantique]], est une [[autoroute]] gratuite reliant [[Bordeaux]] (accès par la sortie 15 de la [[Autoroute A630 (France)|rocade]]) à [[Salles (Gironde)|Salles]] ;
+* la section centrale, qui traverse le département des Landes, est une autoroute concédée en {{date|janvier 2011}} à [[Atlandes]] pour un aménagement en une autoroute à {{dunité|2|3|voies}} sur {{nobr|104 kilomètres}}<ref>{{Lien web |titre=Les Landes en 2×3 voies |url=https://www.sudouest.fr/gironde/les-landes-en-2x3-voies-9607093.php |site=sudouest.fr |date=29/09/2011 |consulté le=17/10/2024}}</ref>. Le passage au statut autoroutier de cette ancienne voie express est acquis depuis la mise en service du système de péage autoroutier le {{date|25 avril 2013}}. Les travaux d'aménagement se sont achevés le {{date|22 novembre 2013}} ;
+* la section sud, concédée aux [[Autoroutes du Sud de la France]], relie [[Saint-Geours-de-Maremne]] ([[Landes (département)|Landes]]) à [[Biriatou]] à la [[Frontière entre l'Espagne et la France|frontière franco-espagnole]].
+Les deux sections concédées sont à système de péage ouvert, il n'y a pas de ticket à prendre, le paiement se fait directement à chaque barrière de péage (cinq barrières en tout à franchir pour le trajet complet de Bordeaux à l'Espagne).
+
+Lors de l'inauguration officielle du tronçon nord au {{date|10 avril 2014}}, l'autoroute est renommée autoroute des Landes<ref>{{Lien web
+  |url=http://www.batiactu.com/edito/l-a63-inauguree--dans-les-landes-apres-20-mois-de--37945.php
+  |titre=L’A63 inaugurée dans les Landes après 20 mois de travaux
+  |site=www.batiactu.com
+  |en ligne le=10 avril 2014
+  |consulté le=10 avril 2014
+}}.</ref>{{,}}<ref>{{Lien web
+  |url=http://www.sudouest.fr/2014/03/28/-1506954-4583.php
+  |titre=L’A63 s'appellera ''Autoroute des Landes''
+  |site=www.sudouest.fr
+  |éditeur=''[[Sud Ouest]]''
+  |en ligne le=28 mars 2014
+  |consulté le=10 avril 2014
+}}.</ref>.La section centrale était auparavant entre [[Belin-Béliet]] et [[Saint-Geours-de-Maremne]] une [[voie rapide|voie express]] à {{dunité|2|2|voies}}, la [[Route nationale 10 (France)|RN 10]]. La courte section Salles - Belin-Béliet était une autoroute non concédée à {{dunité|2|2|voies}}.
+
+L'A63 est un axe majeur de communication vers le [[Pays basque espagnol|Pays basque]]. Elle fait partie de la [[route des Estuaires]]. L'A63 fait partie du réseau ASF de la zone ouest. Elle est fréquentée par de nombreux [[poids lourd]]s de toute l'[[Europe]], desservant la [[péninsule Ibérique]].
+
+D'autre part, elle est reliée au niveau de l'[[échangeur de Mousserolles]] ([[Bayonne]]) à l'[[Autoroute A64 (France)|autoroute A64]] en direction de l'Est : [[Pau]], [[Tarbes]] et [[Toulouse]].
+
+La section ouest est connectée à l'[[Autoroute A660 (France)|A660]] qui dessert l'est du [[Bassin d'Arcachon]].
+
+Deux radios d'autoroutes émettent sur l'A63, sur la fréquence [[107,7 MHz]]. [[Radio Vinci Autoroutes]] sur le tronçon d'[[Autoroutes du Sud de la France|ASF]] et Radio Atlandes Autoroute sur le tronçon d'[[Atlandes]].
+
+À la frontière franco-espagnole au péage de [[Biriatou]], et en sortie de la rocade bordelaise, il y a tous les jours des bouchons de poids lourds. Les moments les plus critiques sont le matin vers {{heures|7}}, mais surtout le soir vers {{heures|16}} et en première partie de soirée.
+
+La section sud de l'A63 a été concédée à la société ''Autoroute de la Côte basque'' (ACOBA) en [[1984]]. La première section ouverte fut le contournement est de Saint-Jean-de-Luz en [[1972]]. Par la suite, ACOBA fut intégrée à la société des [[Autoroutes du sud de la France]] (ASF).
+
+;Remarques particulières
+* Cette autoroute possède une particularité remarquable. La numérotation de ses sorties est inversée par rapport à son marquage kilométrique. Ainsi, son point kilométrique d'origine ''km zéro'' se situe sur la sortie {{n°|15}} de la rocade de Bordeaux, alors que la sortie n°1 se situe tout au Sud, au point kilométrique 205.3, près de la frontière, à Biriatou.
+* Sur la sortie {{Sortie|0}} de l'autoroute espagnole {{Autoroute espagnole|AP-1}}/{{Autoroute espagnole|AP-8}} située à 150 mètres de la frontière (et du pont sur la Bidassoa), on trouve des cartouches [[Route nationale espagnole N-I|{{Surligné|#003399|'''&nbsp;A-63&nbsp;'''|texte=#ffffff}}]] en direction de Bayonne (que l'on retrouve habituellement le long de l'autoroute espagnole {{Autoroute espagnole|A-63}} dans les Asturies) au lieu de {{Autoroute française|A63}}.
+
+== Sorties ==
+'''Section concédée à [[Autoroutes du Sud de la France|ASF]] et payante (sauf les sorties 1 et 9 et entre l'A64 et la sortie 6) (Autoroute de la Côte Basque).'''
+* [[Fichier:Traffic_sign_of_border_with_Spain.svg|25x25px]] Entrée ou sortie du territoire espagnol ({{Espagne}}) : [[File:Spain traffic signal s1.svg|20px]] L'[[Autoroute AP-1 (Espagne)|autoroute espagnole AP-1]]/[[Autoroute AP-8 (Espagne)|AP-8]] (Tronc commun) vers / depuis [[Burgos]], [[Vitoria-Gasteiz]], [[Bilbao]], [[Pampelune|Pampelune (Iruña / Pamplona)]], [[Saint-Sébastien (Espagne)|Saint-Sébastien (Donostia-San Sebastián)]], [[Irun|Irun (Irún)]].
+** ''[[Fichier:AB-Brücke.svg]] Pont international franchissant [[Fichier:Panneau cours d'eau France.png|20px]] la [[Bidassoa]].'' + '''{{France}} / {{Espagne}}''', [[Frontière entre l'Espagne et la France|Frontière franco-espagnole]].
+* [[Fichier:Traffic_sign_of_border_with_France.svg|25x25px]] ''Entrée dans le territoire français, entrée dans la région de la [[Nouvelle-Aquitaine]], département des [[Pyrénées-Atlantiques]]''.
+** [[Fichier:France road sign C207.svg|24x24px]] [[Fichier:Panneau-C24a-2.svg|22x22px]] [[Fichier:France road sign B14 (70).svg|22x22px]] Début de l'autoroute française A63, début de {{dunité|2|2|voies}} et limitation à {{unité|70|km/h}}.
+* {{Sortie|1 Biriatou}} à {{unité|0,3|km}} : [[Hendaye]] - ''centre'', [[Fichier:France road sign ID16b.svg|15px|alt]] [[Biriatou]] 
+* {{Péage|Péage de Biriatou (à système ouvert)}}
+** [[Fichier:Panneau-C24a.svg|22x22px]] [[Fichier:France road sign B14 (130).svg|20px]] Passage à {{dunité|2|3|voies}} et limitation à {{unité|130|km/h}}.
+** {{Aire de repos|d'Urrugne|Espagne-Bordeaux}}.
+* {{Sortie|2 Saint-Jean-de-Luz - ''sud''}} à {{unité|8|km}} : [[Saint-Jean-de-Luz]], [[Urrugne]], [[Ciboure]], Hendaye - ''Plage, [[Col d'Ibardin]]''
+** ''[[Fichier:AB-Brücke.svg]] Pont sur [[Fichier:Panneau cours d'eau France.png|20px]] la [[Nivelle (fleuve)|Nivelle]]''.
+(en projet) {{Sortie|2.1 Saint-Jean-de-Luz - ''centre''}} : [[Ascain]], [[Saint-Pée-sur-Nivelle]], Saint-Jean-de-Luz
+* {{Sortie|3 Saint-Jean-de-Luz - ''nord''}} à {{unité|13|km}} : Saint-Jean-de-Luz, Ascain, [[Guéthary]], [[Saint-Pée-sur-Nivelle]]
+** [[Fichier:France road sign C111.svg|22x22px]] Tranchée couverte de Guéthary ({{unité|100|m}})
+** {{Aire de service|de Bidart}}.
+** [[Fichier:France_road_sign_B14_(110).svg|22x22px]] Limitation à 110 km/h.
+* {{sortie|4 Biarritz}} à {{unité|22|km}} : [[Biarritz]], [[Bidart]], ''[[Fichier:France road sign ID2.svg|15px|alt]] [[Aéroport de Biarritz-Pays Basque|Biarritz-Pays Basque]]'', Saint-Pée-sur-Nivelle
+* {{Péage|Péage de Biarritz (à système ouvert)}}
+* {{Sortie|5 Bayonne - ''sud''}} à {{unité|27|km}} : [[Bayonne]] - ''centre, Saint Léon'', [[Anglet]], [[Cambo-les-Bains]], [[Saint-Jean-Pied-de-Port]], [[Ustaritz]]
+** ''[[Fichier:AB-Brücke.svg]] Pont sur [[Fichier:Panneau cours d'eau France.png|20px]] la [[Nive]]''.
+* '''{{échangeur autoroutier|[[Autoroute A64 (France)|A64]]|A63}}''' ({{sortie|5.1 [[Échangeur de Mousserolles]]}}) à {{unité|31|km}} : [[Toulouse]], [[Tarbes]], [[Lourdes]], [[Pau]] ([[Fichier:Péage.png|30 px]]), [[Peyrehorade]], [[Orthez]], [[Mouguerre]], [[Saint-Pierre-d'Irube]], Bayonne - ''Mousserolles''
+** ''[[Fichier:AB-Brücke.svg]] Pont Hubert Touya sur [[Fichier:Panneau cours d'eau France.png|20px]] l'[[Adour]]''
+* {{Sortie|6 Bayonne - ''nord''}} à {{unité|33|km}} : Bayonne - ''centre, [[Saint-Esprit (Pyrénées-Atlantiques)|Saint Esprit]]'', [[Saint-Martin-de-Seignanx]], Orthez, Peyrehorade, Pau
+** [[Fichier:France_road_sign_B14_(130).svg|22x22px]] Limitation à 130 km/h.
+''Passage du département des Pyrénées-Atlantiques au département des [[Landes (département)|Landes]]''
+* {{Sortie|7 Ondres}} à {{unité|39|km}} : ''[[Port de Bayonne|Zone Portuaire]]'', [[Boucau]], [[Tarnos]], [[Ondres]], [[Labenne]], Pau, Saint-Martin-de-Seignanx
+** {{Aire de service|de Labenne}}
+* {{sortie|8 Capbreton}} à {{unité|50|km}} : [[Seignosse]], [[Capbreton]], [[Hossegor]], [[Bénesse-Maremne]], [[Saint-Vincent-de-Tyrosse]], Labenne
+* {{Péage|Péage de Bénesse-Maremne (à système ouvert)}}
+** {{Aire de repos|de Saubion}}
+* {{Sortie|9 Saint-Geours-de-Maremne ([[Route nationale 10 (France métropolitaine)|RD 810]])}} à {{unité|58|km}} : [[Mont-de-Marsan]], [[Dax]]
+[[Fichier:A63Landes.JPG|thumb|alt=Photographie aérienne de la route nationale 10 dans le département des Landes|L'A63 dans les Landes, anciennement RN10.|290x290px]]
+'''Section concédée à [[Atlandes]] et payante (sauf entre les sorties 10 à 11, 12 à 17 et 18 à 21) (Autoroute des Landes).'''
+* {{Sortie|10 Soustons}} à {{unité|67|km}} : [[Saint-Geours-de-Maremne]], [[Soustons]], [[Azur (Landes)|Azur]], [[Vieux-Boucau-les-Bains]], Peyrehorade, Saint-Vincent-de-Tyrosse, ''Atlantis Sud''
+* {{Sortie|11 Magescq}} à {{unité|75|km}} : [[Messanges (Landes)|Messanges]], Vieux-Boucau-les-Bains, [[Magescq]], [[Moliets-et-Maa|Moliets-et-Maâ]]
+** {{Aire de repos|de Magescq}}
+* {{Péage|Péage de Castets (à système ouvert)}}
+* {{Sortie|12 Castets}} à {{unité|88|km}} : Dax, [[Castets (Landes)|Castets]], [[Linxe]], [[Vielle-Saint-Girons]], Moliets-et-Maâ
+* {{Sortie|12.1 Castets - ''est''}} à {{unité|89|km}} (quart-échangeur, entrée uniquement vers Bordeaux) : Castets, Taller
+** {{Aire de service|de l'Océan}} (anc. Aire du Souquet)
+* {{Sortie|13 Lesperon}} à {{unité|101|km}} : [[Lesperon]], [[Tartas]], [[Lit-et-Mixe]], [[Rion-des-Landes]]
+* {{Sortie|14 Laharie}} à {{unité|111|km}} : [[Morcenx]], [[Mimizan]], [[Contis|Contis - Plage]], [[Onesse-Laharie]]
+** {{Aire de repos|d'Onesse-et-Laharie}}
+* {{Sortie|15 Cap de Pin}} à {{unité|123|km}} : [[Escource]], [[Sabres (Landes)|Sabres]], [[Solférino (Landes)|Solférino]], ''[[Fichier:France road sign ID15a14.svg|15px|alt]] [[Marquèze|Écomusée de Marquèze]]''
+* {{Sortie|16 Labouheyre}} à {{unité|129|km}} : [[Labouheyre]], [[Lüe]], [[Pontenx-les-Forges]], Mimizan, [[Commensacq]]
+** {{Aire de repos|de Labouheyre}}
+* {{Sortie|17 Liposthey}} à {{unité|143|km}} : [[Biscarrosse]], [[Parentis-en-Born]], [[Liposthey]]
+* {{Péage|Péage de Saugnac-et-Muret (à système ouvert)}}
+** {{Aire de service|de la Porte des Landes}} (anc. Aire du Muret)
+* {{Sortie|18 Saugnac-et-Muret}} à {{unité|154|km}} : [[Saugnac-et-Muret]], [[Moustey]], Mont-de-Marsan, ''[[Fichier:France road sign ID15a14.svg|15px|alt]] [[Parc naturel régional des Landes de Gascogne]]''
+''Passage du département des Landes au département de [[Gironde (département)|Gironde]]''
+''NB. La sortie {{sortie|19}} a été supprimée, elle correspondait à une bretelle sortante du sens Bordeaux-Bayonne<ref>{{Lien web |titre=Remonter le temps |url=https://remonterletemps.ign.fr/telecharger?x=-0.820861&y=44.454655&z=12&layer=GEOGRAPHICALGRIDSYSTEMS.PLANIGNV2&demat=DEMAT.PVA$GEOPORTAIL:DEMAT;PHOTOS&missionId=missions.6271021 |site=remonterletemps.ign.fr |consulté le=2023-03-27}}.</ref>, donnant sur la route landaise RD 20E et le quartier ''Lilaire'' de Belin-Béliet. Une aire de service dans l'autre sens existait également et été supprimée en 2011 pour la mise aux normes autoroutières de la RN 10.''[[Fichier:RN 10 aire lilaire.jpg|vignette|L'ancienne aire de ''Lilaire''.]]
+* {{Sortie|20 Belin-Béliet}} à {{unité|159|km}} ''(demi-échangeur, depuis et vers Espagne)'' : [[Belin-Béliet]], [[Lugos]]
+** {{Aire de repos|de Lugos}}
+* {{Sortie|21 Salles}} à {{unité|169|km}} : Belin-Béliet, ''Z. I. Belin-Béliet'', [[Hostens]], Salles, [[Mios]]
+** [[Fichier:France_road_sign_C28-2.svg|22x22px]] Réduction à {{dunité|2|2|voies}}.
+'''Section non-concédée gérée par la [[Direction interdépartementale des Routes#Direction interdépartementale des Routes Atlantique|DIR Atlantique]] et gratuite.'''
+* '''{{échangeur autoroutier|[[Autoroute A660 (France)|A660]]|A63}}''' : ''[[Bassin d'Arcachon]]'', Biscarrosse
+** Début de section à vitesse régulée (entre [[Fichier:France_road_sign_B14_(70).svg|22x22px]]km/h et [[Fichier:France_road_sign_B14_(110).svg|22x22px]]km/h selon le trafic) jusqu'à Bordeaux
+** [[Fichier:France_road_sign_B14_(110).svg|22x22px]] Limitation à 110 km/h.
+* {{Sortie|23 Le Barp}} à {{unité|184|km}} : [[Lacanau]], [[Le Barp]], [[Marcheprime]]
+** {{Aire de repos|des Gargails}}[[Fichier:Autoroute française A63 sortie 23.jpg|vignette|Sortie 23.|177x177px]]
+* {{Sortie|24 Saint-Jean-d'Illac}} à {{unité|194|km}} : [[Saucats (Gironde)|Saucats]], [[Saint-Jean-d'Illac]], [[Cestas]] - ''Jauge, Pierroton''
+** {{Aire de service|de Bordeaux - Cestas}}
+** [[Fichier:France_road_sign_B14_(90).svg|22x22px]] Limitation à 90 km/h. (sens Espagne-Bordeaux)
+* {{Sortie|25 Cestas}} à {{unité|199|km}} : Cestas - ''centre'', [[Canéjan]]
+* {{Sortie|26b Canéjan - Granet}} à {{unité|203|km}} ''(demi-échangeur, depuis et vers Bordeaux)'' : Canéjan, ''Z. I. Canéjan-Granet''
+* {{Sortie|26/26a Gradignan}} à {{unité|204|km}} : Canéjan, [[Gradignan]], ''Z. I. Canéjan-Granet, Z. I. Pessac''
+** [[Fichier:Panneau-C24a.svg|22x22px]] Passage à {{dunité|2|3|voies}}.
+** [[Fichier:France_road_sign_B14_(110).svg|22x22px]] Limitation à 110 km/h. (sens Bordeaux-Espagne)
+** Fin de section à vitesse régulée. (sens Espagne-Bordeaux)
+** [[Fichier:France_road_sign_B14_(70).svg|22x22px]] Limitation à 70 km/h.
+* '''{{échangeur autoroutier|[[Fichier:SU4 - Rocade France.svg|22x22px]] [[Rocade de Bordeaux|Rocade de Bordeaux (A630)]]|A63}}''' à {{unité|205|km}} :
+** ''Rocade Intérieure'' : [[Pessac]], ''[[Fichier:France road sign ID2.svg|15px|alt]] [[aéroport de Bordeaux-Mérignac|Mérignac]]''
+** ''Rocade Extérieure'' : [[Paris]] ([[Autoroute A10 (France)|A10]]), [[Lyon]] ([[Autoroute A89 (France)|A89]]), Toulouse ([[Autoroute A62 (France)|A62]]), [[Libourne]], [[Bordeaux]], [[Talence]], ''[[Domaine universitaire de Talence Pessac Gradignan|Domaine Universitaire]]''
+** [[Fichier:France road sign C208.svg|22x22px]] Fin de l'autoroute.
+
+== Quelques chiffres ==
+Chiffres de trafic journalier pour l'A63<ref>Source: Sans Frontières de juillet 2007. Chiffres valables de Bayonne-nord à Biriatou.</ref> :
+* {{formatnum:34000}} véhicules dont {{formatnum:9000}} poids-lourds.
+
+En été :
+* {{formatnum:80000}} véhicules dont {{formatnum:10000}} poids-lourds.
+
+Chaque année, {{formatnum:3300000}} camions passent sur l'A63 entre Bayonne-nord et Biriatou.
+
+== Une autoroute renouvelée ==
+Le péage de Biarritz a été entièrement reconstruit. De même, toujours à Biarritz, le P.C. régional autoroutier ASF, qui regroupe l'A63, l'A64 et la rocade bordelaise, a été érigé. Les travaux ont été menés en 2002.
+
+Le terre plein central en béton entre Saint-Jean-de-Luz sud et la frontière espagnole a été reconstruit.
+
+En 2005, le terre-plein central en béton entre Bayonne-sud ({{numéro|5}}) et Bayonne-Mousserolles ({{numéro|5.1}}) a été entièrement refait par les ASF. Après la saison estivale, ce fut le secteur Bayonne-Mousserolles ({{numéro|5.1}}) à Bayonne-nord ({{numéro|6}}) qui reçut un nouveau terre plein central.
+
+En {{date|mars 2006}}, reprirent les travaux entre Biarritz ({{numéro|4}}) et Bayonne-Mousserolles ({{numéro|6.1}}). Ainsi tout le tronçon de Biarritz ({{numéro|4}}) à Bayonne ({{numéro|7}}) a été renouvelé.
+
+Du {{date|17 septembre}} au {{date|21 décembre 2013}}, les [[Autoroutes du Sud de la France|ASF]] ont engagé l'entreprise [[Eurovia|Eurovia FlocLand]] à renouveler l'enrobé et à élargir les bandes d'arrêt d'urgence (BAU) entre [[Saint-Jean-de-Luz]] et [[Saint-Pierre-d'Irube]].
+
+Et à partir de {{date|janvier 2008}}, les ASF et [[Eurovia]] vont renouveler les dérobés entre Saint-Jean-de-Luz et la frontière espagnole ([[Biriatou]]).
+
+À la suite de ces travaux, les ASF vont pouvoir élargir l'A63 entre [[Labenne]] et [[Biriatou]] (voir ci-dessous).
+
+Les {{unité|104|km}} de la {{nobr|RN 10}} ont été aménagés entre Salles et Saint-Geours-de-Maremne afin de mettre le tronçon aux normes autoroutières : élargissement à 2×3 voies, réalisation d'une bande d'arrêt d'urgence, pose de glissières de sécurité et de grillage interdisant l'accès à la chaussée, élargissement des entrées et sorties, agrandissement des stations service, aménagement de bassins étanches de recueil des eaux de pluie ainsi que diverses réalisations environnementales (écrans et de merlons acoustiques).
+
+Le projet consistait sur la totalité du trajet à réaménager le tracé de la {{nobr|RN 10}} sauf pour le contournement de [[Labouheyre]] où un nouveau tronçon a dû être réalisé ''ex nihilo'', le tracé préexistant ne permettant pas la requalification en tronçon autoroutier.
+
+L'étude et les travaux ont été confiés à la société [[Atlandes]]. Les travaux ont débuté en [[septembre]] [[2011]] et se sont achevés le {{date|22 novembre 2013}}.
+
+Le péage frontalier de Biriatou a également été réaménagé pour permettre l'élargissement de 13 à 20 couloirs.
+
+=== Saint-Geours-de-Maremne - Salles ===
+La voie express [[Route nationale 10 (France)|RN 10]] dans la traversée du département des Landes et du sud Gironde entre Salles et Saint-Geours-de-Maremne a été concédée à Atlandes<ref>[http://www.legifrance.gouv.fr/affichTexte.do;jsessionid=?cidTexte=JORFTEXT000023459846&dateTexte=&oldAction=rechJO&categorieLien=id Décret {{numéro|2011-85}} du 21 janvier 2011 approuvant la convention de concession passée entre l'État et la société ATLANDES pour le financement, la conception, l'aménagement, l'élargissement, l'entretien, l'exploitation et la maintenance de la section de l'autoroute A 63 entre Salles et Saint-Geours-de-Maremne ainsi que le cahier des charges annexé à cette convention] - ''Légifrance''</ref>. À charge pour le concessionnaire de l'aménager en autoroute à deux fois trois voies, sur deux sections de {{unité|15|km}} dans un premier temps, au droit des communes de [[Labouheyre]] et de [[Castets (Landes)|Castets]] puis intégralement dans une seconde phase.
+
+L'autoroute est exploitée depuis {{date|avril 2013}} par un système de péage ouvert, constitué de deux barrières en pleine voie. La barrière nord est située entre l'échangeur du Muret et l'échangeur de Liposthey et la barrière sud entre l'échangeur de Castets et l'échangeur de Magescq. Tous les échangeurs de l'autoroute sont libres de péage<ref>[http://www.sudouest.fr/2013/04/25/bordeaux-pays-basque-l-a-63-payante-a-partir-de-ce-jeudi-soir-1035727-4755.php « Bordeaux - Pays basque : l'A 63 payante à partir de ce jeudi soir »], ''[[Sud Ouest]]'', 25 avril 2013.</ref>.
+
+À l'été [[2013]], {{unité|70|km}} sont en cours d'achèvement.
+
+Les travaux ont débuté le {{date|26 septembre 2011}}. La fin totale des travaux sur cette section concédée de l'A63 a eu lieu fin {{date|novembre 2013}}, soit 7 mois d'avance sur le calendrier initial<ref>[http://www.lemoniteur.fr/181-innovation-chantiers/article/actualite/21871338-l-a63-une-nationale-convertie-en-autoroute L’A63, une nationale convertie en autoroute (Le Moniteur, {{1er}} août 2013)]</ref>.
+
+L'exploitation a été confiée à la société [[Egis]] Exploitation Aquitaine. Elle s'occupe notamment de la sécurité, la viabilité, le péage et la maintenance<ref>{{Lien web|url= http://www.a63-atlandes.fr/contenu/f-1b7feebc32000009/Exploitation.html |titre= A63 Atlandes, La société d'exploitation |site= a63-atlandes.fr |consulté le= 4 mars 2015 |brisé le = 2023-10-26}}.</ref>. Egis n'exclut pas d'utiliser des drones pour la surveillance des incidents dans le trafic automobile<ref>{{Lien web|langue=fr |auteur=Alexis Effroy|url=http://www.stage.fr/offre-de-stage/groupe-caisse-des-depots-ingenieur-gestion-de-trafic-solutions-innovantes-h-f_305213.aspx |titre=Stage Ingénieur Gestion de trafic / Solutions Innovantes H/F |jour=26 |mois=janvier |année=2013 |site=www.stage.fr |consulté le=12 mars 2015|brisé le = 2023-10-26}}.</ref>{{,}}<ref>{{Lien web|langue=fr |auteur=Michaud|url=http://www.aetos-aquitaine.fr/ckfinder/userfiles/files/annonce-technicien-operateur-drone.pdf |titre=Annonce technicien opérateur drone |jour=22 |mois=juillet |année=2014 |site=www.aetos-aquitaine.fr |consulté le=12 mars 2015|brisé le = 2023-10-26}}.</ref>.
+
+=== Bayonne-Biarritz ===
+L'échangeur de Saint-Jean-de-Luz subit aussi des changements. En effet le projet avait pour but d'élargir la gare de péage de la sortie en direction de l'Espagne. On passerait ainsi de 2 à 5 couloirs. Sur ce même échangeur, mais à l'entrée cette fois, la gare de péage sera agrandie en direction de Bordeaux.
+
+Depuis le {{date|6 juillet 2012}} l'élargissement de la section Bayonne-Biarritz est achevé, celui-ci comprend une nouvelle [[Échangeur de Mousserolles|bifurcation à Bayonne-Mousserolles]] pour faciliter l'accès à l'A64. Cette bifurcation permet d'éviter le rond-point de Mousserolles qui était souvent engorgé à cause du passage de la [[Route départementale 1 (Pyrénées-Atlantiques)|départementale D1]] et des autoroutes A63 et A64. À partir du mois de {{date|septembre 2013}} les travaux de mise à {{dunité|2|3|voies}} du tronçon de {{unité|22|kilomètres}} situé entre le péage de Biarritz et celui de Biriatou ont débuté et la fin des travaux d'élargissement secteur [[Autoroutes du Sud de la France|ASF]] a lieu en 2017.
+
+=== Salles - Bordeaux ===
+Le projet de la mise en {{dunité|2|3|voies}} entre Salles et Bordeaux reste actuellement en phase de concertation depuis {{date|janvier 2023}}<ref>{{Lien web |titre=Mise à 2x3 voies de l’A63 : ouverture de la concertation préalable {{!}} La préfecture et les services de l'État en région Nouvelle-Aquitaine |url=https://www.prefectures-regions.gouv.fr/nouvelle-aquitaine/Actualites/Mise-a-2x3-voies-de-l-A63-ouverture-de-la-concertation-prealable |site=www.prefectures-regions.gouv.fr |consulté le=2023-03-22}}.</ref>.
+
+== Itinéraire alternatif gratuit ==
+
+Les sorties {{sortie|5.1}}, {{sortie|6}}, et le tronçon entre les sorties {{sortie|9}} à {{sortie|26b}} incluses ne disposent pas de péages indépendants, à l'inverse des autres sorties de l'autoroute. Deux péages seulement sont implantés près de [[Castets (Landes)|Castets]] et [[Saugnac-et-Muret]] sur ce dernier tronçon.
+
+Les conducteurs de véhicules de moins de {{unité|7.5|tonnes}} peuvent éviter de payer ces deux derniers péages en empruntant les sorties {{sortie|11 Magesq}}, {{sortie|12 Castets}}, {{sortie|17 Liposthey}} et {{sortie|18 Le Muret}} et en suivant les itinéraires de substitution désignées en S xx, écrites en jaune orangé sur encadré noir.
+
+== Références ==
+{{Références|taille=30}}
+
+== Voir aussi ==
+=== Articles connexes ===
+* [[Liste des autoroutes de France]]
+* [[Route européenne 5]]
+* [[Route européenne 70]]
+* [[Route européenne 80]]
+
+=== Liens externes ===
+* [http://saratlas.free.fr/index.php?page=autoroute&route=a63&lang=fr Autoroute A63 dans Saratlas]
+* [http://www.asf.fr/a63 Projet d'élargissement de l'A63 à 2×3 voies (section Pays Basque)]
+* [http://www.a63-atlandes.fr/ Site internet de l'A63 d'Atlandes]
+* [http://www.a63-landes.aquitaine.equipement.gouv.fr/ L'autoroute A63 dans les Landes]
+* [http://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A63 Article de l'A63 sur WikiSara]
+* [http://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A630 Article de l'A630 sur Wikisara]
+* [http://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A631 Article de l'A631 sur Wikisara]
+{{Liens}}
+
+{{Palette|Autoroutes de France}}
+
+{{Portail|route|Aquitaine}}
+
+[[Catégorie:Autoroute en Nouvelle-Aquitaine|063]]
+[[Catégorie:Transport à Bordeaux]]
+[[Catégorie:Autoroute A63 (France)|*]]

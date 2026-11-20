@@ -1,0 +1,574 @@
+{{Voir homonymes|A89}}
+{{Infobox Route/France
+| statut = A
+| numéro = 89
+| nom = 
+| autres_noms = La Transeuropéenne<br />Autoroute des présidents
+| image = A89 à Thiers.jpg
+| légende = L'autoroute A89 entre les sorties de [[Thiers]] et [[Lezoux]]
+| carte = France_A89b.svg
+| longueur = 527<ref>Le kilométrage de l'autoroute comporte une rupture sur le tronc commun avec l'A71 du km 358 au km 401 alors qu'il y a seulement 19km.</ref>
+| direction = ouest/est
+| direction 1 = ouest
+| direction 2 = est
+| ville 1 = {{route européenne|70}} {{route nationale|89|France}} à [[Arveyres]]
+| ville 2 = {{route européenne|70}} {{autoroute française|A6}} {{Route métropolitaine|6}} à [[Limonest]]
+| intersections = {{route européenne|9}} {{autoroute française|A20}} à [[Ussac]] et [[Saint-Pardoux-l'Ortigier]]<br />
+{{route européenne|11}} {{autoroute française|A71}} [[Bifurcation de Combronde]] et [[Clermont-Ferrand]]<br />
+{{autoroute française|A710|lien=Autoroute A71 (France)#Autoroute A710}} à [[Clermont-Ferrand]]<br />
+{{autoroute française|A711}} aux [[Les Martres-d'Artière|Martres-d'Artière]]<br />
+{{Autoroute française|A72}} à [[Nervieux]]
+| villes = [[Libourne]], [[Périgueux]], [[Brive-la-Gaillarde]], [[Tulle]], [[Clermont-Ferrand]], [[Thiers]], [[Tarare (Rhône)|Tarare]], [[Lyon]]
+| ouverture = de 1991 à 2018 (hors sections ayant ouvert sous un numéro différent)
+| réseau = Autoroute française, également {{Route européenne|70}}
+| régions = [[Nouvelle-Aquitaine]], [[Auvergne-Rhône-Alpes]]
+| départements = [[Gironde (département)|Gironde]], [[Dordogne (département)|Dordogne]], [[Corrèze (département)|Corrèze]], [[Puy-de-Dôme]], [[Loire (département)|Loire]], [[Rhône (département)|Rhône]], [[Métropole de Lyon]]<!--Pas un département, mais au vu de l'absence de catégorie spécifique et à l'instar de la loi, on l'assimile comme tel-->
+| nb_reg = 2
+| nb_dep = 7
+| collectivité = oui
+| nom_notes = 
+| concessionnaires = [[Autoroutes du Sud de la France|ASF]] (entre Libourne et Brive-la-Gaillarde ; Saint-Pardoux-l'Ortigier et Combronde ; Clermont-Ferrand et La Tour-de-Salvagny)<br/>[[Autoroutes Paris-Rhin-Rhône|APRR]] (entre La Tour-de-Salvagny et Limonest)
+}}
+
+L''''autoroute A89''' (aussi appelée '''La Transeuropéenne''') est une [[autoroute]] [[France|française]] qui relie [[Bordeaux]] (à hauteur de [[Libourne]]) à [[Lyon]] ([[Limonest]]) via [[Clermont-Ferrand]]
+
+Le projet a débuté en 1991 et s'est achevé en 2018. Il a été constitué en majeure partie par la construction d'une nouvelle voie et dans le réemploi d'une grande partie de l'[[Autoroute A72 (France)|A72]] construite dans les années 1970 et 1980.
+
+L'autoroute a pris le numéro de la route nationale qu'elle longe, la [[route nationale 89 (France)|route nationale 89]], et s'impose en tant que transversale, comme une alternative (payante) à la [[Route Centre-Europe Atlantique]]
+
+De ce fait, elle déroge au système de numérotation régional mis en place dans les années 1970. En effet, Lyon fait partie de la zone 4 (autoroutes 40 à 49), Bordeaux fait partie de la zone 6 (autoroutes 60 à 69), Clermont-Ferrand de la zone 7 (autoroutes 70 à 79) et les autoroutes numérotées de 80 à 88 sont censées être dans la zone 8, qui correspond à la région Ouest (Bretagne, Normandie, Pays de la Loire).
+
+Elle compte {{unité|544|kilomètres}} en service : {{unité|167|km}} entre [[Libourne]] et [[Brive-la-Gaillarde|Brive]], {{unité|175|km}} entre [[Saint-Germain-les-Vergnes]] et [[Combronde]] et {{unité|143|km}} entre [[Clermont-Ferrand]] et [[Limonest]] Il s'agit d'une concession des [[Autoroutes du Sud de la France]] à l'exception du dernier tronçon de {{unité|5|km}} entre [[La Tour-de-Salvagny]] et Limonest concédé à [[Autoroutes Paris-Rhin-Rhône|APRR]] Elle constitue la deuxième [[Liste des autoroutes de France|autoroute la plus longue de France]] derrière l'[[Autoroute A10 (France)|A10]] et ses {{unité|557|km}}
+
+Afin d'assurer la continuité du numéro, à la suite de l'ouverture de la section entre l'échangeur de Saint-Julien-Sancy et la bifurcation de Combronde début 2006, le tronc commun avec l'[[Autoroute A71 (France)|autoroute A71]] porte désormais les deux dénominations (A71-A89), tandis que les autoroutes [[Autoroute A71 (France)#Autoroute A710|A710]], et [[Autoroute A72 (France)|A72]] entre [[Clermont-Ferrand]] et [[Nervieux]], ont été renommées A89.
+
+== Histoire ==
+Cette autoroute transversale a été voulue comme un outil puissant de désenclavement du centre de la [[France]], relié jusqu'alors uniquement à [[Paris]], et de liaison plus rapide entre la deuxième et la sixième aire urbaine de France que sont [[Lyon]] et [[Bordeaux]] Son nom commercial est de ce fait ''La Transeuropéenne''. Elle est surnommée l'« Autoroute des présidents »<ref>{{Lien web|titre=A89: l'autoroute des Présidents |url=https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/2015/02/06/a89-l-autoroute-des-presidents-650021.html |auteur=Gaelle Fauquembergue |site=france3-regions.francetvinfo.fr |éditeur=France 3 Limousin |date=6 février 2015 |consulté le=17 janvier 2022}}</ref>{{,}}<ref>{{Lien web|titre=Jacques Chirac, "le président des autoroutes" : son rôle majeur dans les dossiers de l'A89 et de l'A20 |url=https://www.lamontagne.fr/brive-la-gaillarde-19100/actualites/jacques-chirac-le-president-des-autoroutes-son-role-majeur-dans-les-dossiers-de-l-a89-et-de-l-a20_11702006/ |site=lamontagne.fr |périodique=La Montagne |date=27 septembre 2019 |consulté le=17 janvier 2022 |accès url=libre}}</ref> car elle traverse les fiefs de plusieurs [[Président de la République française|présidents de la République]], [[Valéry Giscard d'Estaing]], [[Jacques Chirac]] et [[François Hollande]], et elle passe à proximité de celui de [[Georges Pompidou]] Compte tenu de la sensibilité environnementale du [[parc naturel régional des Volcans d'Auvergne]] et surtout de l'impact visuel d'un tel ouvrage, il a été choisi de ne pas traverser la [[chaîne des Puys]] en son plein milieu. À son approche, l'autoroute remonte donc franchement au nord pour contourner les volcans, privant ainsi [[Clermont-Ferrand]] d'un accès direct à l'autoroute par l'ouest.
+
+=== Tronçons ouverts ===
+L'autoroute A89 se décompose en plusieurs tronçons :
+* [[Libourne]] - [[Périgueux]] - [[Thenon]] - [[Terrasson-Lavilledieu]] - [[Brive-la-Gaillarde|Brive]] ;
+* [[Saint-Germain-les-Vergnes]] - [[Tulle]] - [[Ussel (Corrèze)|Ussel]] - [[Saint-Julien-Puy-Lavèze]] - [[Combronde]] ;
+* Combronde - [[Clermont-Ferrand]] : liaison commune (double numérotation) par l'[[Autoroute A71 (France)|A71]] ;
+* [[Clermont-Ferrand]] - [[Thiers]] - [[Nervieux]] (anciennement [[Autoroute A72 (France)|A72]], renommée A89 en 2006) ;
+* [[Nervieux]] – [[La Tour-de-Salvagny]] – [[Limonest]]
+
+Le tronçon d'[[Arveyres]] à [[Saint-Julien-Puy-Lavèze]], long de {{unité|288|km}}, a été déclaré d'utilité publique le {{date-|10|janvier|1996}}<ref name="decret_19960110" />. La section entre [[Peyrignac]] et [[Cublac]] l'est à son tour le {{date-|12|juillet|2005}}<ref name="decret_20050712" />.
+
+==== Tronçon entre l'A20 et Saint-Germain-les-Vergnes ====
+Un communiqué de la préfecture de la [[Corrèze (département)|Corrèze]], en date du {{date-|15 mai 2006}}<ref>{{Lien web|url=http://www.correze.pref.gouv.fr/Correze/special/actus/Continuite_autoroutiere_A89_A20|titre=Continuité autoroutière A89-A20|site=le site de la préfecture de la Corrèze|jour=15|mois=mai|année=2006|consulté le=7 juin 2006}}</ref>, confirmait le prolongement de l'A89, au nord de [[Brive-la-Gaillarde]], par la mise à {{dunité|2|2|voies}} de la RD 9 à l'horizon 2012-2013, puis la mise à {{dunité|2|3|voies}} de la section commune avec l'[[Autoroute A20 (France)|A20]] en fonction de l'évolution du trafic routier. Cela signifiait l'abandon définitif du tronçon entre [[Saint-Germain-les-Vergnes]] et [[Brive-la-Gaillarde|Brive]]-Nord qui faisait doublon avec l'[[Autoroute A20 (France)|A20]]
+
+Le tronçon de {{unité|4.5|km}} est inauguré le {{date-|7 février 2015}}<ref>{{Lien web|url=http://www.vinci-autoroutes.com/fr/system/files/pdf/2015/02/dossier_de_presse_vinci_autoroutes_-inauguration_du_bouclage_de_la89.pdf|titre=Dossier de presse : Inauguration du bouclage de l'A89|jour=7|mois=février|année=2015|site=Vinci Autoroutes|consulté le=10 février 2015}}</ref> par [[François Hollande]], [[Président de la République française|président de la République]], et mis en service le {{date-|17 avril 2015}}<ref>{{Lien web|url=http://www.lamontagne.fr/limousin/actualite/2015/04/16/le-barreau-a-2x2-voies-entre-a89-et-a20-mis-en-service-vendredi-17-avril_11407578.html|titre=Le barreau à 2x2 voies entre A89 et A20 mis en service vendredi 17 avril|date=16 février 2015|site=lamontagne.fr}}</ref>.
+
+==== Tronçon de Nervieux à La Tour-de-Salvagny ====
+
+<gallery mode="packed">
+A89rhô.JPG|À cheval sur deux départements : aperçu du chantier entre [[Violay]] (42) et [[Tarare (Rhône)|Tarare]] (69) - printemps 2010.
+Eboulement chantier A89 Joux.jpg|Automne 2011 : glissement de terrain ayant provoqué la mort d'un expert.
+A89n7.JPG|Aménagement du [[viaduc de Goutte Vignole]] au printemps 2010.
+A89pon1.JPG|[[Viaduc du Torranchin]] en voie d'achèvement au printemps 2010.
+A89viad.JPG|Sous le viaduc.
+</gallery>
+
+Les travaux commencent le {{date-|28 juin 2008}} par le creusement d'un premier [[Tunnel de Violay|tunnel]] de {{unité|3.9|km}} entre [[Violay]] ([[Loire (département)|Loire]]) et [[Joux]] ([[Rhône (département)|Rhône]]). D'une distance de {{unité|49.5|km}} dont 31,5 dans la Loire, cette portion autoroutière relie aussi [[Roanne]] à [[La Tour-de-Salvagny]] à l'entrée de [[Lyon]], ''via'' [[Balbigny]] Le chantier a coûté {{unité|1.5|milliard}} d'euros.
+
+En {{date-|septembre 2010}}, le [[viaduc du Torranchin]] à [[Saint-Marcel-l'Éclairé]] a été le premier [[ouvrage d'art]] achevé sur ce tronçon. Cet ouvrage de {{unité|196|m}} de long et d'une largeur de {{unité|21.55|m}}, d'un coût de {{unité|11|millions}} d'euros TTC, a été construit par [[Eiffage Infrastructures|Eiffage Travaux Publics]], [[Eiffage Métal|Eiffel Construction Métallique]] et la [[Eiffage Infrastructures|Forézienne d'entreprises]]
+
+Au total, dix [[ouvrages d'art]] exceptionnels ont été construits : sept [[viaduc]]s, dont le plus spectaculaire est le [[viaduc de Goutte Vignole]] ({{unité|618|mètres}})<ref>{{Lien web|url=http://www.cc-paysdetarare.fr/france/DT1184771120/annuaire/ZA-de-Goutte-Vignole-et-ZI-de-la-Turdine---Tarare---Saint-Loup---Saint-Forgeux---Saint-Marcel-l-Eclaire---Pontcharra-sur-Turdine-.html/typeid-6|titre=ZA de Goutte Vignole et ZI de la Turdine - Tarare - Saint-Loup - Saint-Forgeux - Saint-Marcel-l'Éclairé - Pontcharra-sur-Turdine|site=le site de la [[communauté de communes du Pays de Tarare]]|consulté le=15 février 2010}}</ref>, et trois tunnels : [[tunnel de Violay]] ({{unité|3900|m}}), tunnel de [[Tunnels de La Bussière et de Chalosset|La Bussière]] ({{unité|1050|m}}), tunnel de [[Tunnels de La Bussière et de Chalosset|Chalosset]] ({{unité|750|m}}).
+
+L'A89 est en {{dunité|2|3|voies}} sur {{unité|5|km}} de chaque côté du [[tunnel de Violay]]
+
+Ce tronçon fut pourtant inscrit au schéma directeur national des infrastructures dans les [[années 1970]], avant d'être abandonné en 1975 à la suite du [[Choc pétrolier de 1973|choc pétrolier]] ; la section traversant les secteurs de la basse vallée de l'[[Azergues]] et du [[Beaujolais]] était contestée avec un territoire agricole et une forte influence urbaine (proximité de [[Villefranche-sur-Saône]]). Malgré le refus d'associations dont le comité de coordination contre l'autoroute dans l'aire d'appellation du [[Beaujolais]] (3CAB) qui préfère l'aménagement d'une route nationale à {{dunité|2|2|voies}}, les études d'avant-projet sommaire eurent quand même lieu en 1997 ; l'enquête publique est lancée en {{Date-|juin 1997}} et la commission d'enquête émet un avis favorable pour la réalisation de cette section d'autoroute. La procédure menant à la déclaration d'utilité publique n'est pas poursuivie selon un communiqué du {{Date-|5 janvier 1999}}, à la suite de difficultés environnementales telles que tenues dans le [[Comité interministériel d'aménagement et de développement du territoire|CIADT]] du {{Date-|15 décembre 1998}} Le projet coûtait alors {{unité|11|milliards}} de francs<ref name="Geocarrefour2001" />. Vingt associations de riverains contre cette autoroute furent constituées entre 1987 et 1995<ref name="Geocarrefour2001" />. Ce tronçon, jusqu'à [[La Tour-de-Salvagny]], est déclaré d'utilité publique le {{date|17|avril|2003}}<ref name="decret_20030417" />.
+
+Sur ce tronçon, on trouve trois gares de péages (deux petites et une grande), la première (petite) se situe sur la commune de [[Joux]] et se nomme « Tarare-Centre ». Les deux autres se trouvent sur la commune de [[Saint-Romain-de-Popey]], la plus petite se nomme « Tarare-Est » et la grande se nomme comme le nom de la commune « Saint-Romain-de-Popey ».
+
+Le tronçon est inauguré le {{date-|19 janvier 2013}} et ouvert deux jours plus tard<ref>{{Lien web|titre=L'ouverture de l'A89 : Un progrès mais une impression d'inabouti |url=https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/2013/01/21/a89-184977.html |auteur=Ph.Bette |site=france3-regions.francetvinfo.fr |éditeur=France 3 Rhône-Alpes |date=21 janvier 2013 |consulté le=17 janvier 2022}}</ref>.
+
+==== Tronçon entre La Tour-de-Salvagny et Limonest ====
+Le {{date-|4 avril 2016}}, les travaux pour la réalisation du barreau de liaison de l'A89 à La Tour-de-Salvagny avec l'[[Autoroute A6 (France)|A6]] au niveau de [[Limonest]], déclaré d'utilité publique un an plus tôt<ref name="decret_20150401" />, commencent<ref>{{Lien web|titre=Bordeaux - Lyon: Les travaux d'aménagement de la liaison A89-A6 débutent lundi |url=https://www.20minutes.fr/lyon/1817083-20160331-bordeaux-lyon-travaux-amenagement-liaison-a89-a6-debutent-lundi |site=20minutes.fr |date=31 mars 2016}}</ref>. Ce barreau, ouvert le {{Date-|3 mars 2018}}, permet d'assurer la continuité avec non seulement l'A6 mais aussi l'[[Autoroute A46 (France)|A46]] ''via'' le [[Autoroute A466 (France)|barreau autoroutier A466]]<ref>{{Lien web|titre=Le chaînon manquant de la A89 Lyon-Clermont-Ferrand ouvre samedi |url=https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/rhone/lyon/chainon-manquant-a89-lyon-clermond-ferrand-ouvre-samedi-1433293.html |auteur=Philippe Bette |site=france3-regions.francetvinfo.fr |éditeur=France 3 Auvergne-Rhône-Alpes |date=2 mars 2018 |consulté le=17 janvier 2022}}</ref>.
+
+Des conseillers municipaux, associations<ref>[http://www.alcaly.org/ ALCALY]</ref>{{,}}<ref>[http://adela89.centerblog.net/ ADEL]</ref>, la [[communauté urbaine de Lyon]] présidée par [[Gérard Collomb]], le [[Rhône (département)|département du Rhône]] ainsi que d'autres organisations se sont opposés à ce raccordement en proposant une alternative, notamment vers [[Anse (Rhône)|Anse]]/[[Quincieux]] (A46N), ce qui aurait permis de ne pas rediriger tout le trafic de l'A89 sur le [[Tunnel de Fourvière|tunnel sous Fourvière]] déjà saturé.
+
+=== Tronçons en projet ===
+{{Projet de transport}}
+Bien que l'autoroute A89 soit achevée, d'autres projets sont prévus :
+* remodelage de l'[[Échangeur autoroutier|échangeur]] avec la [[Autoroute A630 (France)|rocade bordelaise]] ;
+* mise aux normes et statut autoroutier de la [[Route nationale 89 (France)|RN 89]] entre [[Bordeaux]] et [[Libourne]]
+
+Antenne de [[Saint-Beauzire (Puy-de-Dôme)|Saint-Beauzire]] (liaison [[Autoroute A71 (France)|A71]] – A89 pour le contournement nord de [[Clermont-Ferrand]]) - {{unité|7|km}}<ref group="Note">Dans une interview à France 3 Auvergne, le 27 juin 2007, selon le préfet du [[Puy-de-Dôme]] Dominique Schmitt, il n'y aura pas de projet autoroutier de contournement de Clermont-Ferrand mais une mise en 2×3 voies entre [[Gerzat]] et Pérignat-les-Sarliève. Par conséquent l'antenne de Saint-Beauzire est annulée à cause du caractère agricole de la [[Limagne]] L'autoroute A71 est déjà à 2×3 voies entre Gerzat et la fin de l'A71 depuis le 10 juillet 2014.</ref>.
+
+De plus, on peut observer qu'entre les sorties 35 et 38, les ouvrages d'arts (comme le viaduc de la Brévenne) et les terrassements ont été faits pour pouvoir élargir très facilement l'autoroute à 2x3 voies.
+
+=== Historique des mises en service ===
+{| class="wikitable centre" style="font-size:95%"
+|+Mise en service des tronçons de l'autoroute A 89
+! scope="col" | Déclaration d'utilité publique
+! scope="col" | Date de mise en service
+! scope="col" | Section
+! scope="col" | Longueur
+|-
+| colspan="4" align="center" | Le tronçon de [[Clermont-Ferrand]] à [[Thiers]], puis à [[Nervieux]] (B71 puis [[Autoroute A72 (France)|A72]]) a été ouvert dans les [[années 1970]]-[[Années 1980|1980]]
+|-
+| 
+| 
+| Nervieux (A72) – Balbigny (N 82)
+| align="center" | {{unité|5|km}}
+|-
+| {{date-|10 janvier 1996}}<ref name="decret_19960110" />
+| {{date-|4 mars 2000}}
+| [[Ussel (Corrèze)|Ussel]]-Ouest (éch. 23) – [[Saint-Julien-Puy-Lavèze|Saint-Julien-Sancy]] (éch. 25) (inaugurée par [[Jacques Chirac]])
+| align="center" | {{unité|40|km}}
+|-
+| {{date-|10 janvier 1996}}<ref name="decret_19960110" />
+| {{date-|11 juillet 2001}}<ref name="Ballesta2001_p38">{{harvsp|Ballesta|2001|p=38}}</ref>
+| [[Libourne]]-Sud – [[Mussidan]]
+| align="center" | {{unité|73|km}}<ref name="Ballesta2001_p38" />
+|-
+| {{date-|10 janvier 1996}}<ref name="decret_19960110" />
+| {{date-|22 février 2002}}
+| [[Tulle]]-Est – [[Ussel (Corrèze)|Ussel]]-Ouest
+| align="center" | {{unité|43|km}}
+|-
+| {{date-|10 janvier 1996}}<ref name="decret_19960110" />
+| {{date-|21 février 2003}}
+| [[Saint-Germain-les-Vergnes]] – [[Tulle]]-Est
+| align="center" | {{unité|40|km}}
+|-
+| {{date-|10 janvier 1996}}<ref name="decret_19960110" />
+| {{date-|9 janvier 2004}}
+| [[Périgueux]]-Est – [[Thenon]]
+| align="center" | {{unité|32|km}}
+|-
+| {{date-|10 janvier 1996}}<ref name="decret_19960110" />
+| {{date-|28 octobre 2004}}
+| [[Mussidan]] – [[Périgueux]]-Est
+| align="center" | {{unité|33|km}}
+|-
+| {{date-|9 janvier 1998}}
+| rowspan="3" | {{date-|11 janvier 2006}}
+| Saint-Julien-Sancy (éch. 25) – Combronde (éch. A89/A71)
+| align="center" | {{unité|52|km}}
+|-
+| 
+| [[Terrasson-Lavilledieu]] – [[Brive-la-Gaillarde|Brive]]-Nord
+| align="center" | {{unité|11|km}}
+|-
+| 
+| colspan="2" | Le tronçon [[Autoroute A71 (France)|A710]]/A711 – [[Nervieux]] (anciennement [[Autoroute A72 (France)|A72]]) renommé A89
+|-
+| 
+| {{date-|15 mai 2006}}
+| colspan="2" | Abandon définitif du tronçon [[Brive-la-Gaillarde|Brive]]-Nord – [[Saint-Germain-les-Vergnes]] ({{unité|16|km}}) pour la mise à {{dunité|2|2|voies}} de la RD 9 et la mise à {{dunité|2|3|voies}} de la section commune avec l'[[Autoroute A20 (France)|A20]]
+|-
+| {{date-|12 juillet 2005}}<ref name="decret_20050712" />
+| {{date-|16 janvier 2008}}
+| [[Thenon]] (entre les sorties 17 et 18)
+| align="center" | {{unité|18|km}}
+|-
+| 
+| {{date-|10 octobre 2012}}
+| Mise en service de l'échangeur avec le {{quoi|péage écologique}} de [[Balbigny]] Destruction du péage de [[Nervieux]]
+|-
+| {{date-|17 avril 2003}}<ref name="decret_20030417" />
+| {{date-|21 janvier 2013}}
+| [[Balbigny]] (éch. 33) – [[La Tour-de-Salvagny]] (éch. 39)
+| align="center" | {{unité|55|km}}
+|-
+| 
+| {{date-|7 février 2015}}
+| Liaison entre l'[[Autoroute A20 (France)|A20]] et [[Saint-Germain-les-Vergnes]]
+| align="center" | {{unité|4.5|km}}
+|-
+| {{date-|1 avril 2015}}<ref name="decret_20150401" />
+| {{date-|3 mars 2018}}
+| [[La Tour-de-Salvagny]] (éch. 39) - [[Limonest]] (éch. A89/A6)
+| align="center" | {{unité|5.5|km}}
+|}
+
+== Exploitation et services ==
+{{…}}
+[[Radio Vinci Autoroutes]] ({{nobr|107.7 FM}}) fonctionne sur le secteur [[Autoroutes du Sud de la France|ASF]] de l'A89. L'A89 fait partie de la zone Centre sur le réseau ASF.
+
+== Tracé ==
+=== [[Route nationale 89 (France)|RN 89]] ===
+'''Section non-concédée à [[Direction_interdépartementale_des_Routes#Direction_interdépartementale_des_Routes_Atlantique|DIR Atlantique]] et gratuite.'''
+* '''{{Carrefour à feux|RN 89|Avenue John Fitzgerald Kennedy|[[Rocade de Bordeaux|Rocade de Bordeaux (RN 230)]]}}''' '''({{échangeur autoroutier|[[Fichier:SU4 - Rocade France.svg|22x22px]] [[Rocade de Bordeaux|Rocade de Bordeaux (RN 230)]]|RN 89}} ('''{{sortie|26 (sortie de la Rocade)}}'''))''' : 
+** ''Rocade Intérieure'' : [[Toulouse]] ([[Autoroute A62 (France)|A62]]), [[Bayonne]], [[Bassin d'Arcachon]] ([[Autoroute A63 (France)|A63]]), [[Bordeaux]] - ''[[Quartiers_de_Bordeaux#Bordeaux_Centre|centre]]''
+** ''Rocade Extérieure'' : [[Paris]] ([[Autoroute A10 (France)|A10]]), ''[[File:France road sign ID2.svg|15px|alt]] [[aéroport de Bordeaux-Mérignac|Mérignac]]'', [[Carbon-Blanc]], [[Lormont]], ''[[File:France road sign ID13b.svg|15px|alt]] [[Grand port maritime de Bordeaux|Zone Portuaire]]''
+** Avenue John Fitzgerald Kennedy : [[Cenon]], ''[[File:France road sign ID3.svg|15px|alt]] Bordeaux Rive Droite''
+** [[Fichier:France road sign C107.svg|24x24px]] [[Fichier:Panneau-C24a-2.svg|22x22px]] [[Fichier:France road sign B14 (90).svg|22x22px]] Début de la  route à accès réglementée ([[Route nationale 89 (France)|RN 89]]), début de {{dunité|2|2|voies}} et limitation à {{unité|90|km/h}}.
+* {{Sortie|1 Artigues}} : [[Artigues-près-Bordeaux]]
+** {{Aire de service|du Relais de Moulinat|Bordeaux-Lyon}} 
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à 110 km/h. (sens Bordeaux-Lyon)
+* {{sortie|2 Poteau d'Yvrac}} : [[Yvrac]], [[Tresses]]
+** [[Fichier:France road sign B14 (90).svg|22x22px]] Limitation à 90 km/h. (sens Lyon-Bordeaux)
+* {{sortie|Yvrac - ''est''}} ''(quart-échangeur, depuis Lyon)'' : Yvrac
+* {{sortie|La Lagune}} ''(demi-échangeur, depuis et vers Lyon)'' : [[Montussan]]
+* {{sortie|3 Montussan - ''ouest''}} : [[Montussan]]
+* {{sortie|4 Montussan - ''est''}} : [[Saint-Loubès]], [[Pompignac]], Montussan, ''La Poste''
+* {{sortie|5 L'Intendant}}: [[Saint-Sulpice-et-Cameyrac]], [[Beychac-et-Caillau]] - ''Beychac'', [[Sallebœuf]], ''Planète Bordeaux''
+* {{sortie|6 Beychac-et-Caillau}} : Beychac-et-Caillau - ''Cailleau'', ''Z. A. Bos Plan''
+** {{Aire de service|du Relais de Canteloup|Lyon-Bordeaux}}
+* {{sortie|7 Grand-Cazau}} : [[Vayres (Gironde)|Vayres]], [[Izon (Gironde)|Izon]]
+* {{sortie|8 Senau}} : [[Libourne]] - ''centre'', [[Arveyres]], [[Saint-Germain-du-Puch]]
+* {{sortie|9 Libourne - ''est''}} ''(demi-échangeur, depuis et vers Bordeaux)'' : [[Périgueux]], [[Bergerac (Dordogne)|Bergerac]], [[Castillon-la-Bataille]], [[Saint-Émilion]], Libourne
+** [[Fichier:France_road_sign_C108.svg|22x22px]] Fin de la route à accès réglementée (RN 89).
+
+=== A89 ===
+'''Section concédée à [[Autoroutes du Sud de la France|ASF]] et payante (sauf les sorties 14 à 16).'''
+* [[Fichier:France_road_sign_C207.svg|22x22px]] Début de l'autoroute A89.
+* {{péage|Péage d'Arveyres (à système fermé)}}
+** [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à 130 km/h.
+** [[Fichier:AB-Brücke.svg]] ''[[Viaduc des Barrails]]'' (Longueur : 2x1460 m, construction en 1998-2000).
+** [[Fichier:AB-Brücke.svg]] ''[[Viaduc du Mascaret]]'' sur la [[Fichier:Panneau cours d'eau France.png|20px]] [[Dordogne (fleuve)|Dordogne]] (Longueur : 2x540 m, construction en 1997-1999). 
+** [[Fichier:AB-Brücke.svg]] Ponts sur [[Fichier:Panneau cours d'eau France.png|20px]] l'[[Isle (rivière)|Isle]].
+[[Fichier:Pont du Mascaret, Gironde.jpg|vignette|alt=Franchissement de la Dordogne près de Libourne|Le [[Viaduc du Mascaret]] sur la Dordogne, près de Libourne.|220x220px]]
+* {{sortie|10 Libourne - ''nord''}} : [[Royan]], [[Saintes]] ([[Autoroute A10 (France)|A10]]), [[Saint-André-de-Cubzac]], [[Saint-Denis-de-Pile]], [[Libourne]]
+** {{Aire de repos|des Vignes}}
+* {{sortie|11 Coutras}} : [[Coutras]], [[Saint-Émilion]]
+** {{Aire de service|des Palombières}}
+''Passage du département de la [[Gironde (département)|Gironde]] au département de la [[Dordogne (département)|Dordogne]]''
+* {{sortie|12 Montpon-Ménestérol}} : [[Ribérac]], Castillon-la-Bataille, [[Sainte-Foy-la-Grande]], [[Montpon-Ménestérol]]
+* {{sortie|13 Mussidan - ''sud''}} : [[Mussidan]], [[Bergerac (Dordogne)|Bergerac]], Ribérac
+** [[Fichier:AB-Brücke.svg]] ''Viaduc de la Crempse'' (Longueur : 307 m, construction en 2002-2004).
+* {{péage|Péage de Mussidan (à système fermé)}} + {{sortie|13.1 Mussidan - ''est''}} ''(demi-échangeur, depuis et vers Bordeaux)'' : [[Neuvic (Dordogne)|Neuvic]], Mussidan, [[Villamblard]]
+* {{sortie|14 Périgueux - ''ouest''}} : [[Bordeaux]], Libourne, [[Angoulême]], [[Coulounieix-Chamiers]], [[Saint-Astier (Dordogne)|Saint-Astier]], [[Périgueux]], Neuvic
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à 110 km/h.
+* {{sortie|15 Périgueux - ''sud''}} : [[Agen]], Bergerac, Périgueux - ''centre'', Coulounieix-Chamiers
+* {{sortie|16 Périgueux - ''est''}} : [[Limoges]], [[Brive-la-Gaillarde]], [[Sarlat-la-Canéda]], Angoulême, [[Les Eyzies-de-Tayac-Sireuil]], [[Trélissac]], [[Boulazac]], Périgueux + {{Aire de service|du Manoire}}
+** [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à 130 km/h.
+** [[Fichier:AB-Brücke.svg]] ''Viaduc du Douime'' (Longueur : 2x290 m, construction en 2001-2003).''
+* {{péage|Péage de Thenon (à système ouvert)}} + {{sortie|17 Thenon / La Bachellerie}} : [[Thenon]], [[Le Lardin-Saint-Lazare]], [[La Bachellerie]], [[Saint-Yrieix-la-Perche]], [[Montignac-Lascaux]], [[Terrasson-Lavilledieu]]
+** [[Fichier:France road sign C111.svg|25x25px]] ''[[Tunnel de la Crête]]'' (Longueur : 355 m, construction en 2006-2007).
+** [[Fichier:AB-Brücke.svg]] ''[[Viaduc de l'Elle]]'' (Longueur : 474 m, construction en 2005-2007).
+** [[Fichier:AB-Brücke.svg]] ''Viaduc du Ribeyrol'' (Longueur : 259 m, construction en 2005-2007).
+[[Fichier:Viaduc de l'Elle Ensemble 2008.JPG|vignette|220x220px|Viaduc de l'Elle]]
+''Passage du département de la [[Dordogne (département)|Dordogne]] au département de la [[Corrèze (département)|Corrèze]]''
+* {{sortie|18 Mansac / Terrasson}} : Terrasson-Lavilledieu, [[Larche (Corrèze)|Larche]], Sarlat-la-Canéda, Montignac-Lascaux
+** [[Fichier:France road sign C111.svg|25x25px]] ''Tranchée couverte de Gumond'' (Longueur : 171 m, construction en 2003-2005).
+** {{Aire de service|du Pays de Brive}}
+** [[Fichier:AB-Brücke.svg]] ''[[Viaduc de la Vézère-Corrèze]]'' (Longueur : 973 m (sens Bordeaux-Lyon) et 1002 m (sens Lyon-Bordeaux), construction en 2003-2005).
+* {{sortie|19 Brive-la-Gaillarde - ''ouest''}} ''(demi-échangeur, depuis et vers Bordeaux)'' : Brive-la-Gaillarde - ''centre'', [[Objat]], [[Allassac]]
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à 110 km/h.
+** [[Fichier:France_road_sign_C28-3.svg|20px]] Rétrécissement à {{dunité|2|1|voies}}
+** [[Fichier:France road sign B14 (90).svg|22x22px]] Limitation à 90 km/h.
+** [[Fichier:France road sign B14 (70).svg|22x22px]] Limitation à 70 km/h.
+** [[Fichier:AB-Brücke.svg]] ''Viaduc du Maumont'' (Longueur : 190 m, construction en 2004-2006).
+* '''{{échangeur autoroutier|[[Autoroute A20 (France)|A20 Sud]]|A89}}''' : [[Cahors]], [[Toulouse]], [[Montauban]]
+'''Section non-concédée à [[Direction_interdépartementale_des_Routes#Direction_interdépartementale_des_Routes_Centre-Ouest|DIR Centre-Ouest]] et gratuite.'''<br/>
+Début du tronc commun A20/A89<br/>
+* [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à 110 km/h.
+* {{Sortie|49 Ussac (sortie de l'A20)}} : [[Tulle]], [[Ussac]], [[Malemort-sur-Corrèze]], Brive-la-Gaillarde - ''est''
+** [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à 130 km/h. (sens Bordeaux-Lyon)
+* {{Sortie|48 Allassac (sortie de l'A20)}} : [[Donzenac]], [[Allassac]]
+* {{Sortie|47 Donzenac (sortie de l'A20)}} : Donzenac, [[Sadroc]]
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à 110 km/h. (sens Lyon-Bordeaux)
+* '''{{échangeur autoroutier|A20 Nord|A89}}''' : Paris, Limoges, [[Châteauroux]]
+Fin du tronc commun<br/>
+'''Section concédée à [[Autoroutes du Sud de la France|ASF]] et payante (sauf la sortie 19.1).'''
+* [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à 110 km/h.
+** [[Fichier:France_road_sign_C28-3.svg|20px]] [[Fichier:France road sign B14 (90).svg|22x22px]] Rétrécissement à {{dunité|2|1|voies}} et limitation à 90 km/h.
+** [[Fichier:France road sign B14 (70).svg|22x22px]] Limitation à 70 km/h.
+* {{sortie|19.1 Saint-Germain-les-Vergnes}} : [[Saint-Germain-les-Vergnes]], Malemort
+* {{péage|Péage de Saint-Germain-les-Vergnes (à système fermé)}}
+** [[Fichier:Panneau-C24a-2.svg|22x22px]] [[Fichier:France road sign B14 (130).svg|22x22px]] Passage à {{dunité|2|2|voies}} et limitation à 130 km/h.
+* {{sortie|20 Tulle - nord}} : Tulle - ''centre'', [[Uzerche]]
+** [[Fichier:AB-Brücke.svg]] ''[[Viaduc du Pays de Tulle]]'' sur [[Fichier:Panneau cours d'eau France.png|20px]] [[Corrèze (rivière)|la Corrèze]] (Longueur : 854 m, construction en 2000-2002)
+** [[Fichier:AB-Brücke.svg]] ''[[Viaduc du Chadon]]'' (Longueur : 530 m, construction en 2000-2002).
+* {{sortie|21 Tulle - ''est''}} : [[Aurillac]], [[Beaulieu-sur-Dordogne]], [[Argentat-sur-Dordogne]], Tulle - ''centre''
+** {{Aire de service|de la Corrèze}} ''(qui a la particularité d'être implantée entre des zigzags d'autoroute)''
+* {{sortie|22 Égletons}} : [[Aubusson (Creuse)|Aubusson]], [[Mauriac (Cantal)|Mauriac]], [[Égletons]]
+(en projet) {{sortie|22.1}} : [[Maussac]]
+* {{sortie|23 Ussel - ''ouest''}} : [[Bort-les-Orgues]], [[Meymac]], Mauriac, [[Ussel (Corrèze)|Ussel]] - ''centre''
+** {{Aire de repos|de la Loutre}}
+** [[Fichier:AB-Brücke.svg]] ''Viaduc de la Sarsonne'' (Longueur : 218 m, construction en 1997-1999).
+* {{sortie|24 Ussel - ''est''}} : Ussel - ''centre'', Aubusson, [[Eygurande]] 
+** [[Fichier:AB-Brücke.svg]] ''[[Viaduc des Bergères]]'' (Longueur : 218 m, construction en 1997-1999).
+** [[Fichier:AB-Brücke.svg]] ''[[Viaduc de la Barricade]]'' (Longueur : 420 m, construction en 1997-1999).
+** {{Aire de service|du Chavanon}} + [[Pont d'accès à l'aire de Chavanon|Pont d'accès à l'aire du Chavanon]] (Longueur : 54 m, construction en 2002)<ref group="Note">L'aire de repos du Chavanon est devenue une aire de service en juin 2014 avec l'implantation d'une station-service Avia et d'un restaurant Flunch. Jusqu'à présent il n'existait aucune aire de service entre celle de Corrèze et celle de Manzat. [http://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A89_%28Aires%29 Aires]</ref>
+** [[Fichier:AB-Brücke.svg]] ''[[Viaduc du Chavanon]]'' (Longueur : 360 m, construction en 1997-2000).
+[[Fichier:Merlines, le viaduc du Chavanon.jpg|vignette|330x220px|Le viaduc du Chavanon, entre la Corrèze et le Puy-de-Dôme.]]
+''Passage de la région [[Nouvelle-Aquitaine]] à la région [[Auvergne-Rhône-Alpes]].<br />Passage du département de la [[Corrèze (département)|Corrèze]] au département du [[Puy-de-Dôme]].''
+* [[Fichier:AB-Brücke.svg]] ''[[Viaduc de la Clidane]]'' (Longueur : 540 m, construction en 1996-1999).
+* {{sortie|25 Saint-Julien / Sancy}} : [[Clermont-Ferrand]] - ''sud'', [[Mont-Dore (Puy-de-Dôme)|Mont-Dore]], [[La Bourboule]]
+** {{Aire de repos|de Prondines|Lyon-Bordeaux|d'Heume-l'Église|Bordeaux-Lyon}}
+* {{sortie|26 Vulcania / Bromont}} : [[Guéret]], ''Sommet du [[Puy de Dôme]]'', ''[[Vulcania]]'', [[Pontgibaud]], [[Volvic]]
+** [[Fichier:AB-Brücke.svg]] ''[[Viaduc de la Sioule]]'' (Longueur : 990 m, construction en 2003-2005).
+* {{sortie|27 Manzat}} : [[Riom]], [[Châtel-Guyon]], [[Manzat]] + {{Aire de service|de Manzat}}
+** [[Fichier:AB-Brücke.svg]] ''Viaduc de Lalong'' (Longueur : 200 m, construction en 2004-2006).
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à 110 km/h.
+** [[Fichier:France road sign B14 (90).svg|22x22px]] Limitation à 90 km/h.
+** [[Fichier:France road sign B14 (70).svg|22x22px]] Limitation à 70 km/h.
+* '''{{échangeur autoroutier|[[Autoroute A71 (France)|A71 Nord]]|A89}}''' : Paris (A10), [[Montluçon]] (A714), [[Vichy]] (A719)
+'''Section concédée à [[Autoroutes Paris-Rhin-Rhône|APRR]] et payante.'''<br/>
+Début du tronc commun A71/A89 ''(double numérotation)''<br/>
+* [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à 130 km/h.
+** {{Aire de repos|de Montpertuis|Bordeaux-Lyon|de Pessat-Villeneuve|Lyon-Bordeaux}}
+* {{Sortie|13 Riom (sortie de l'A71)}} : Riom, Volvic, Châtel-Guyon
+* {{péage|Péage de Gerzat (ou de Clermont-Barrière) (à système fermé)}} + {{Sortie|14 Gerzat (sortie de l'A71)}} ''(à système ouvert de ou vers Clermont-Ferrand)'' : [[Gerzat]], ''Z. I. Ladoux''.
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à 110 km/h.
+* '''{{échangeur autoroutier|[[Autoroute A710 (France)|A710]]|A71 Sud|A89}}''' : 
+** A71 : [[Montpellier]] ([[Autoroute A75 (France)|A75]]), Clermont-Ferrand - ''est''  
+** A710 : Clermont-Ferrand - ''nord'', [[Aulnat]]
+Fin du tronc commun<br/>
+'''Section concédée à [[Autoroutes du Sud de la France|ASF]] et payante (sauf les sorties 36 à 39).'''
+* '''{{échangeur autoroutier|[[Autoroute A711 (France)|A711]]|A89}}''' : Clermont-Ferrand - ''sud'', Montpellier (A75), ''[[File:France road sign ID2.svg|15px|alt]] [[Aéroport de Clermont-Ferrand-Auvergne|Aulnat]]''
+* {{péage|Péage des Martres d'Artière (à système fermé)}}.
+** ''{{Aire de repos|du Branchilion|Bordeaux-Lyon|des Pacages|Lyon-Bordeaux}}''
+* {{sortie|28 Lezoux}} : [[Lezoux]], [[Billom]], [[Maringues]] ''(km 419).''
+** {{Aire de service|de Limagne}}
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à {{unité|110|km/h}}. ''(Profil de la route et forte déclivité) et ({{unité|100|km/h}} en temps de pluie).''
+* {{sortie|29 Thiers - ''ouest''}} : Vichy, [[Ambert]], [[Courpière]], [[Thiers]] - ''centre'' ''(km 429).''
+** {{Aire de repos|des Pins|Bordeaux-Lyon|du Lac|Lyon-Bordeaux}}
+* {{sortie|30 Thiers - ''est''}} : Thiers - ''centre'', [[Chabreloche]], [[Saint-Rémy-sur-Durolle]], [[La Monnerie-le-Montel]] ''(km 440,5).''
+** {{Aire de repos|des Suchères|Lyon-Bordeaux}}
+** ''Col de [[Cervières (Loire)|Cervières]]'' ({{unité|806|m}}) ''(km 453,5).''
+[[Fichier:Col de Cervières depuis le pont (sud) 2022-04-17.JPG|vignette|alt=Franchissement du col de Cervières|Franchissement du col de Cervières (altitude {{unité|806|m}}) en direction de Clermont-Ferrand.|220x220px]]
+''Passage du département du [[Puy-de-Dôme]] au département de la [[Loire (département)|Loire]]''
+* {{sortie|31 Noirétable}} : [[Roanne]], [[Saint-Just-en-Chevalet]], [[Noirétable]] ''(km 456).''
+** {{Aire de service|du Haut-Forez}}
+* {{sortie|32 Saint-Germain-Laval}} : [[Boën-sur-Lignon]], [[Saint-Germain-Laval (Loire)|Saint-Germain-Laval]] ''(km 477,5).''
+** {{Aire de repos|des Bruyères|Bordeaux-Lyon|des Ardilliers|Lyon-Bordeaux}}
+* '''{{échangeur autoroutier|[[Autoroute A72 (France)|A72]]|A89}}''' : [[Saint-Étienne]], [[Feurs]] ''(km 484).''
+** [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à 130 km/h.
+** [[Fichier:AB-Brücke.svg]] ''Viaduc de [[Balbigny]]'' sur [[Fichier:Panneau cours d'eau France.png|20px]] la [[Loire]].
+* {{sortie|33 Balbigny}} '''({{échangeur autoroutier|[[Route nationale 82 (France)|RN 82]]|A89}})''' : Roanne, [[Balbigny]], Feurs
+** [[Fichier:AB-Brücke.svg]] ''Viaduc du Bernand'' (Longueur : 225 m, construction en 2009-2012).
+** {{Aire de service|de la Loire}}
+** [[Fichier:AB-Brücke.svg]] ''Viaduc du Gonon'' (Longueur : 327 m, construction en 2009-2012).
+** [[Fichier:AB-Brücke.svg]] ''Viaduc de Rey'' (Longueur : 178 m, construction en 2009-2012).
+** [[Fichier:France road sign C111.svg|25x25px]] ''[[Tunnel de Violay]]'' (Longueur : 3900 m, construction en 2008-2012).
+''Passage du département de la [[Loire (département)|Loire]] au département du [[Rhône (département)|Rhône]]''
+* [[Fichier:AB-Brücke.svg]] ''Viaduc du Valletier'' (Longueur : 100 m, construction en 2010-2012).
+[[Fichier:A89 - Entrée est du tunnel de La Bussière 1.jpg|vignette|220x220px|L'entrée Est du Tunnel de la Bussière, près de Tarare.]]
+* {{sortie|34 Tarare - ''ouest''}} : [[Thizy-les-Bourgs]], [[Amplepuis]], [[Panissières]], [[Tarare (Rhône)|Tarare]] - ''centre''
+** [[Fichier:France road sign C111.svg|25x25px]] ''[[Tunnels de La Bussière et de Chalosset]]'' (Longueur : 1050 m et 750 m, construction en 2008-2012).
+** [[Fichier:AB-Brücke.svg]] ''[[Viaduc de Goutte Vignole]]'' (Longueur : 618 m, construction en 2008-2012).
+** [[Fichier:AB-Brücke.svg]] ''[[Viaduc du Torranchin]]'' (Longueur : 196 m, construction en 2009-2010).
+* {{péage|Péage de Saint-Romain-de-Popey (à système fermé)}} + {{sortie|35 Tarare - ''est''}} ''(deux demi-échangeurs)'' : [[Villefranche-sur-Saône]], [[Vindry-sur-Turdine|Pontcharra-sur-Turdine]], Tarare, ''Vallée d'Azergues''
+** {{Aire de repos|des Pierres Dorées}}
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à 110 km/h.
+** [[Fichier:AB-Brücke.svg]] ''Viaduc de la Brévenne'' (Longueur : 234 m, construction en 2009-2013).
+* {{sortie|36 L'Arbresle}} : Roanne, Thiers, [[L'Arbresle]]
+* {{sortie|37 Ponts-de-Dorieux}} : [[Chazay-d'Azergues]], ''Vallée d'Azergues''
+* {{sortie|38 Lentilly}} : [[Lentilly]], [[Dommartin (Rhône)|Dommartin]], [[Marcy-L'Étoile]], ''[[File:France road sign ID35.svg|15px|alt]] Charpenay''
+'''Section concédée à [[Autoroutes Paris-Rhin-Rhône|APRR]] et gratuite.'''
+* {{sortie|39 La Tour-de-Salvagny - ''ouest''}} ''(demi-échangeur, depuis et vers Lyon)'' : [[Lozanne]], Dommartin, [[La Tour-de-Salvagny]], ''[[File:France road sign ID35.svg|15px|alt]] Charpenay''
+* {{sortie|40 La Tour-de-Salvagny - ''est''}} ''(deux demi-échangeurs)'' : [[Tassin-la-Demi-Lune]], [[Charbonnières-les-Bains]], [[Dardilly]] - ''centre, Le Bourg'', La Tour-de-Salvagny, Marcy-L'Étoile
+** [[Fichier:France road sign B14 (90).svg|22x22px]] Limitation à 90 km/h.
+* {{sortie|41 Dardilly}} ''(demi-échangeur, depuis et vers Bordeaux)'' : [[Anse (Rhône)|Anse]], [[Lissieu]], Villefranche-sur-Saône, Dardilly - ''nord''
+** [[Fichier:AB-Brücke.svg]] ''Viaduc du Sémanet'' (Longueur : 220 m, construction en 2016-2017).
+** [[Fichier:France road sign B14 (70).svg|22x22px]] Limitation à 70 km/h.
+* '''{{échangeur autoroutier|M6|[[Autoroute A6 (France)|A6]]|A89}}''' : 
+** M6 : [[Lyon]], Dardilly - ''est''
+** A6 : Paris, Villefranche-sur-Saône, [[Genève]], [[Grenoble]], [[File:France road sign ID2.svg|15px|alt]] [[Aéroport de Lyon-Saint-Exupéry|Saint-Exupéry]]
+
+== Lieux sensibles ==
+<!-- uniquement les lieux à bouchons et les pentes dangereuses : à completer -->
+
+* Descente de [[Thiers]]-[[La Monnerie-le-Montel]]-[[Noirétable]] (7 % de pente et de nombreux virages dangereux).
+* Péage de [[Gerzat]] et tronçon en commun avec l'[[Autoroute A71 (France)|A71]] au nord de [[Clermont-Ferrand]] (bouchons fréquents en période estivale dus à sa sous-dimension) - Mise à {{dunité|2|3|voies}} depuis le {{date|10 juillet 2014}}
+* Tronc commun avec l'[[Autoroute A20 (France)|A20]] au nord de [[Brive-la-Gaillarde|Brive]], souvent embouteillé.
+
+== Ouvrages d'art ==
+{| class="wikitable centre" style="font-size:95%; text-align:center"
+|+Ouvrages d'art exceptionnels de l'autoroute A 89
+! scope="col" | Nom !! scope="col" | Longueur !! scope="col" | Date de construction !! scope="col" | Lieu
+|-
+| [[Viaduc des Barrails]]
+| 2 × {{formatnum:1460}} m
+| 1998-2000 
+| [[Arveyres]]
+|-
+| [[Viaduc du Mascaret]]
+| 2 × {{unité|540|m}}
+| 1997-1999
+| [[Libourne]]
+|-
+| Viaduc de la Crempse
+| {{unité|307|m}}
+| 2002-2004
+| [[Bourgnac]]
+|-
+| Viaduc du Douime
+| 2 × {{unité|290|m}}
+| 2001-2003
+| [[Azerat]]
+|-
+| [[Tunnel de la Crête]]
+| {{unité|355|m}}
+| 2006-2007
+| [[Beauregard-de-Terrasson]]
+|-
+| [[Viaduc de l'Elle]]
+| {{unité|474|m}}
+| rowspan="2" | 2005-2007
+| [[Villac]]
+|-
+| [[Viaduc de Ribeyrol]]
+| {{unité|259|m}}
+| [[Cublac]]
+|-
+| Tranchée couverte de Gumond
+| {{unité|169|m}}
+| 2003-2005
+| [[Saint-Pantaléon-de-Larche]]
+|-
+| Viaduc du Maumont
+| {{unité|190|m}}
+| 2004-2006
+| [[Saint-Viance]]
+|-
+| [[Viaduc de la Vézère-Corrèze]]
+| 973 et {{formatnum:1002}} m
+| 2003-2005
+| [[Brive-la-Gaillarde]]
+|-
+| [[Viaduc du Pays de Tulle]]
+| {{unité|854|m}}
+| rowspan="2" | 2000-2002
+| [[Naves (Corrèze)|Naves]], [[Les Angles-sur-Corrèze|Les Angles]] et [[Tulle]]
+|-
+| [[Viaduc du Chadon]]
+| {{unité|530|m}}
+| [[Gimel-les-Cascades]]
+|-
+| Viaduc de la Sarsonne
+| {{unité|218|m}}
+| rowspan="3" | 1997-1999
+| [[Ussel (Corrèze)|Ussel]]
+|-
+| [[Viaduc des Bergères]]
+| {{unité|282|m}}
+| [[Aix (Corrèze)]]
+|-
+| [[Viaduc de la Barricade]]
+| {{unité|420|m}}
+| Entre [[Aix (Corrèze)|Aix]] et [[Merlines]]
+|-
+| [[Pont d'accès à l'aire de Chavanon]]
+| {{unité|54|m}}
+| 2002
+| [[Merlines]]
+|-
+| [[Viaduc du Chavanon]]
+| {{unité|360|m}}
+| 1997-2000
+| Entre Merlines et [[Messeix]]
+|-
+| [[Viaduc de la Clidane]]
+| {{unité|540|m}}
+| 1996-1999
+| [[Bourg-Lastic]]
+|-
+| [[Viaduc de la Sioule]]
+| {{unité|990|m}} 
+| 2003-2005
+| [[Pontgibaud]]
+|-
+| Viaduc de Lalong 
+| {{unité|200|m}}
+| 2004-2006
+| [[Teilhède]]
+|-
+| Viaduc du Bernand
+| {{unité|225|m}}
+| rowspan="3" | 2009-2012
+| [[Balbigny]]
+|-
+| Viaduc du Gonon
+| {{unité|307 et 313|m}}
+| [[Sainte-Colombe-sur-Gand]]
+|-
+| Viaduc du Rey
+| {{unité|178|m}}
+| rowspan="2" |[[Violay]]
+|-
+| [[Tunnel de Violay]]
+| {{unité|3900|m}}
+| 2008-2012
+|-
+| Viaduc du Valletier
+| {{unité|100|m}}
+| 2010-2012
+| [[Joux]]
+|-
+| [[Tunnels de La Bussière et de Chalosset]]
+| {{unité|1050|m}} et {{unité|750|m}}
+| rowspan="2" | 2008-2012
+| [[Saint-Marcel-l'Éclairé]]
+|-
+| [[Viaduc de Goutte Vignole]]
+| {{unité|618|m}}
+| Entre [[Saint-Marcel-l'Éclairé]] et [[Saint-Forgeux]]
+|-
+| [[Viaduc du Torranchin]]
+| {{unité|195|m}}
+| 2009-2010
+| [[Pontcharra-sur-Turdine]]
+|-
+| Viaduc du Buvet
+| {{unité|235|m}}
+| rowspan="2" | 2009-2012
+| rowspan="2" | [[Fleurieux-sur-l'Arbresle]]
+|-
+| Viaduc de la Brévenne
+| {{unité|285|m}}
+|-
+| Viaduc du Sémanet
+| {{unité|210|m}}
+| 2016-2017
+| [[Limonest]]
+|}
+
+== Galerie d'images ==
+<gallery mode="packed">
+A89 Aire des Vignes nord (5).JPG|L'aire de repos des Vignes Nord en [[Gironde (département)|Gironde]]
+A89 aire services Manoire.JPG|L'aire de service du Manoire à l'est de [[Périgueux]]
+A89E Fr - Échangeur A89-A711.JPG|Échangeur entre les autoroutes A89 et A711.
+</gallery>
+
+== Notes et références ==
+=== Notes ===
+{{Références|groupe=Note}}
+
+=== Références ===
+{{Références|références=
+<!-- Décrets -->
+<ref name="decret_19960110">{{Article|titre=Décret du {{Date-|10 janvier 1996}} déclarant d'utilité publique et urgents les travaux de construction de la section Arveyres-Saint-Julien-Puy-Lavèze de l'autoroute A 89 et portant modification des plans d'occupation des sols des communes d'Abzac, Arveyres, Les Billaux, Camps-sur-l'Isle, Fronsac, Saint-Médard-de-Guizières, Libourne, Saint-Seurin-sur-l'Isle, Saint-Denis-de-Pile, dans le département de la Gironde, Atur, Bassilac, Le Lardin-Saint-Lazare, Montpon-Ménestérol, Neuvic, Razac-sur-l'Isle, Saint-Astier, Saint-Léon-sur-l'Isle, Saint-Médard-de-Mussidan, Thenon, Montrem, dans le département de la Dordogne, Meymac, Ussel, Egletons, Mansac, dans le département de la Corrèze, et Bourg-Lastic, dans le département du Puy-de-Dôme (NOR : EQUR9600002D) |périodique=Journal officiel de la République française |numéro=9 |date=11 janvier 1996 |lire en ligne=https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000740038 |consulté le=17 janvier 2022}}</ref>
+<ref name="decret_20030417">{{Article|titre=Décret du {{Date-|17 avril 2003}} déclarant d'utilité publique les travaux de construction de la section Balbigny-La Tour-de-Salvagny de l'autoroute A 89 et de l'antenne autoroutière de l'Arbresle et portant mise en compatibilité des plans locaux d'urbanisme des communes de Balbigny et Violay dans le département de la Loire et de Joux, Saint-Marcel-l'Eclairé, Tarare, Saint-Forgeux, Pontcharra-sur-Turdine, Les Olmes, Saint-Romain-de-Popey, Sarcey, Bully, Saint-Germain-sur-l'Arbresle, Châtillon-d'Azergues, Fleurieux-sur-l'Arbresle, Lentilly, Lozanne et La Tour-de-Salvagny dans le département du Rhône (NOR : EQUR0300001D) |périodique=Journal officiel de la République française |numéro=93, texte {{numéro|41}} |date=19 avril 2003 |lire en ligne=https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000419484 |consulté le=17 janvier 2022}}</ref>
+<ref name="decret_20050712">{{Article|titre=Décret du {{Date-|12 juillet 2005}} déclarant d'utilité publique les travaux de construction de l'autoroute A 89 entre Peyrignac, dans le département de la Dordogne, et Cublac, dans le département de la Corrèze, modifiant le décret du {{Date-|10 janvier 1996}} déclarant d'utilité publique les travaux de construction de la section Arveyres-Saint-Julien-Puy-Lavèze de l'autoroute A 89 et portant mise en compatibilité du plan local d'urbanisme de la commune du Lardin-Saint-Lazare, dans le département de la Dordogne (NOR : EQUR0500298D) |périodique=Journal officiel de la République française |numéro=162, texte {{numéro|30}} |date=13 juillet 2005 |lire en ligne=https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000451563 |consulté le=17 janvier 2022}}</ref>
+<ref name="decret_20150401">{{Article|titre=Décret {{numéro|2015-376}} du {{Date-|1 avril 2015}} déclarant d'utilité publique les travaux de construction et d'aménagement de la liaison autoroutière entre l'autoroute A 89 (commune de La Tour-de-Salvagny) et l'autoroute A 6 (commune de Limonest), conférant le statut d'autoroute à cette liaison et portant mise en compatibilité du schéma de cohérence territoriale de l'agglomération lyonnaise et du plan local d'urbanisme de la métropole de Lyon sur le territoire des communes de Dardilly, La Tour-de-Salvagny, Limonest et Lissieu (NOR : DEVT1425960D) |périodique=Journal officiel de la République française |numéro=0079, texte {{numéro|3}} |date=3 avril 2015 |lire en ligne=https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000030429857 |consulté le=17 janvier 2022}}</ref>
+<!-- Articles -->
+<ref name="Geocarrefour2001">« Participer à la vie publique : la contestation de l'autoroute A89 » ([[#CatherinGamon2001|voir dans la bibliographie]]).</ref>
+}}
+
+== Voir aussi ==
+{{autres projets|commons=Category:A89 autoroute|commons titre=L'autoroute A89}}
+
+=== Bibliographie ===
+{{Légende plume}}
+* {{Article|id=Ballesta2001 |auteur1=Olivier Ballesta |titre=Recompositions territoriales, enjeux politico-économiques et autoroute A 89 dans l'agglomération de Périgueux |périodique=Sud-Ouest Européen (Revue Géographique des Pyrénées et du Sud-Ouest) |date=décembre 2001 |numéro=12 |titre numéro=Autoroute et recompositions territoriales |pages=37-51 |lire en ligne=https://www.persee.fr/doc/rgpso_1276-4930_2001_num_12_1_2774 |accès url=libre |plume=oui}}{{Commentaire biblio|Stratégies de concertation territoriale en vue de l'arrivée de l'autoroute A89 autour de Périgueux.}}
+* {{Article|id=Bigando2001 |auteur1=Éva Bigando |titre=L'autoroute : un événement producteur de représentations paysagères ? |périodique=Sud-Ouest Européen (Revue Géographique des Pyrénées et du Sud-Ouest) |date=décembre 2001 |numéro=12 |titre numéro=Autoroute et recompositions territoriales |pages=61-72 |lire en ligne=https://www.persee.fr/doc/rgpso_1276-4930_2001_num_12_1_2776 |accès url=libre}}{{Commentaire biblio|Analyse des modifications paysagères liées à la construction d'une autoroute et cas particulier de l'autoroute A89 dans la basse vallée de l'Isle.}}
+* {{Article|id=CatherinGamon2001 |auteur1=Valérie Catherin-Gamon |titre=Participer à la vie publique : la contestation de l'autoroute A89 |périodique=Géocarrefour |année=2001 |volume=76 |numéro=3 |titre numéro=Les territoires de la participation |pages=211-216 |lire en ligne=https://www.persee.fr/doc/geoca_1627-4873_2001_num_76_3_2558 |doi=10.3406/geoca.2001.2558 |accès url=libre |plume=oui}}
+* {{Article|id=Tesson2002 |auteur1=Frédéric Tesson |titre=Autoroute et recompositions territoriales : la mise en lumière de quelques paradoxes à travers l'exemple de la Dordogne |périodique=Géocarrefour |volume=77 |numéro=2 |année=2002 |pages=55-64 |résumé=https://halshs.archives-ouvertes.fr/halshs-00145897/ |lire en ligne=https://halshs.archives-ouvertes.fr/halshs-00145897/document |accès url=libre |plume=oui}}{{Commentaire biblio|Problématiques liées à l'arrivée de l'autoroute A89 dans le département de la Dordogne.}}
+* {{article | auteur1=Marie-Christine Montano | auteur2=Pierre Coste | auteur3=Gabriel Blanchard | titre=Fonçage d'ouvrages écologiques sous l'A89 | périodique = Travaux. Revue technique des entreprises de travaux publics | date=juillet-août 2015 | numéro=916 | passage=104-108 }}
+
+=== Articles connexes ===
+* [[Route nationale 89 (France)|Route nationale 89]]
+* [[Route européenne 70]]
+* [[Liste des autoroutes de France]]
+
+=== Liens externes ===
+* [http://fr.structurae.de/projects/data/index.cfm?ID=p00078 L'autoroute A89 sur Structurae]
+* [http://saratlas.free.fr/index.php?page=autoroute&route=a89&lang=fr L'autoroute A89 dans Saratlas]
+* [http://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A89 L'autoroute A89 sur WikiSara]
+
+{{Palette|Autoroutes de France}}
+{{Portail|route|Gironde|Dordogne|Corrèze|Puy-de-Dôme|département de la Loire|département du Rhône}}
+
+[[Catégorie:Autoroute A89 (France)|*]]
+[[Catégorie:Autoroute en Nouvelle-Aquitaine|089]]
+[[Catégorie:Autoroute en Auvergne-Rhône-Alpes|089]]
+[[Catégorie:Transport à Bordeaux]]
+[[Catégorie:Transport à Clermont-Ferrand]]

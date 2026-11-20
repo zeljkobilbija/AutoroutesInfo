@@ -1,0 +1,226 @@
+{{Voir homonymes|A65}}
+{{Infobox Route/France
+| statut = autoroute
+| numéro = 65
+| image = A65, sens Pau-Bordeaux vue 26.jpg
+| légende = L'A65 au niveau de la sortie de [[Garlin]],<br />le dimanche 19 décembre 2010.
+| carte = France A6X A65.svg
+| autres_noms = Autoroute de Gascogne
+| ouverture = {{date|16|décembre|2010}} à {{heure|10}}<ref>{{Lien web|url=https://www.larepubliquedespyrenees.fr/2010/12/07/a65-l-aller-retour-pau-bordeaux-coutera-43-80-euros,169938.php|titre=A65 : l'aller-retour Pau-Bordeaux coûtera 43,80 euros|date=7 décembre 2010|site=La République des Pyrénées}}.</ref>
+| longueur = 150
+| direction = nord/sud
+| ville 1 = {{Autoroute française|A62}} {{Route européenne|72}} à [[Langon (Gironde)|Langon]]
+| direction 1 = nord
+| intersections = 
+| ville 2 = {{Autoroute française|A64}} {{Route européenne|7}} {{Route européenne|80}} à [[Lescar]]
+| direction 2 = sud
+| villes = Langon, Mont-de-Marsan, Aire-Sur-L'Adour, Pau
+| réseau = Autoroute française, également '''{{Route européenne|7}}'''
+| concessionnaire = [[A'lienor]]
+| régions = [[Nouvelle-Aquitaine]]
+| départements = [[Gironde (département)|Gironde]],  [[Landes (département)|Landes]] et [[Pyrénées-Atlantiques]]
+| nb_reg = 1
+| nb_dep = 3
+| nom_notes = 
+}}
+
+L''''autoroute A65''' (aussi appelée '''autoroute de Gascogne''' ou '''[[Route européenne 7|E7]]''' sous son nom européen) est une [[autoroute]] qui relie [[Langon (Gironde)|Langon]] en [[Gironde (département)|Gironde]] à [[Pau]] dans les [[Pyrénées-Atlantiques]], en [[France]], depuis le {{date|16 décembre 2010}}.
+
+À l'exception de la déviation gratuite de la commune d'[[Aire-sur-l'Adour]] entre les sorties 6 et 7, le reste de l'autoroute est payante, pour un total de {{euro|23.40}} sur l'ensemble du tronçon<ref>{{Lien web |langue=français |titre=Tarif des péages A65 |url=https://www.a65-alienor.com/tarifs |site=A'LIENOR |date=1e février 2018 |consulté le=04/04/2018}}.</ref>.
+
+Sur cette autoroute, l'information trafic était assurée par Autoroute de Gascogne FM qui diffuse le programme de [[Radio Vinci Autoroutes]] sur la fréquence [[107,7 MHz]].
+
+Depuis Décembre 2022 l'information trafic de l'A65 est diffusé sur les ondes 107.7 d'[[Autoroute Info]].
+
+== Utilité ==
+
+L'autoroute a fait l'objet d'une [[Déclaration d'utilité publique]] lui fixant divers objectifs: connecter les villes bordelaise et celle de Pau, désenclaver des territoires situés à l’intérieur de la maille A62/A63/A64, et enjeu d'aménagement du territoire du Grand Sud-Ouest<ref name="ref_auto_1">https://www.vie-publique.fr/files/rapport/pdf/174000621.pdf</ref>.
+
+== Concession ==
+L'autoroute fait l'objet d'un tracé neuf entièrement concédé pour 55 ans au groupement [[A'lienor]]<ref>[https://admi.net/jo/20061219/EQUR0602057D.html Décret {{numéro|2006-1619}} du 18 décembre 2006] approuvant la convention de concession passée entre l'État et la société A'liénor pour la conception, la construction, l'entretien, l'exploitation et la maintenance de la section Langon-Pau de l'autoroute A65 et le cahier des charges annexé à cette convention.</ref>, détenu à 65 % par [[Eiffage]] et à 35 % par [[Société des autoroutes du Nord et de l'Est de la France|Sanef]].
+
+Sanef, au sein de ce consortium, assurera l'exploitation de l'autoroute pour le compte d'A'lienor pendant toute la durée de la concession.
+
+En {{date|décembre 2021}}, [[Eiffage]] a finalisé l'acquisition des 35 % détenus par [[Société des autoroutes du Nord et de l'Est de la France|Sanef]] et de 100 % du capital de son exploitant.
+
+Ainsi, [[A'lienor]] est devenue la première concession autoroutière détenue à 100 % par le Groupe [[Eiffage]] en France.
+
+[[Bouygues Construction]], DTP Terrassement, [[Colas (société)|Colas]], Egis et [[HSBC]] infrastructure enfin – avaient été admis à présenter une offre.
+
+Depuis {{date|décembre 2022}}, l'A65 n'appartient plus à [[A'lienor]] mais appartient à [[Autoroutes Paris-Rhin-Rhône]]. A'lienor s'occupe toujours de l'exploitation de l'A65.
+
+== Financement ==
+[[Fichier:A65, sens Pau-Bordeaux vue 69 péage de Bazas.jpg|vignette|droite|Péage de [[Bazas]].]]
+[[Fichier:A65 sens Pau-Bordeaux, péage de Bazas.jpg|vignette|droite|Péage de [[Bazas]].]]
+[[Fichier:A65 sens Pau-Bordeaux, péage de Bazas, systèmes au péage.jpg|vignette|droite|Systèmes au péage de [[Bazas]] (caméras de sécurité, capteur de badge télé-péage, barrière et feux).]]
+
+Le coût est estimé à 1043 millions d'euros 2004 hors taxe, puis à 915 millions d'euros 2004 hors taxe<ref name="ref_auto_1" />.
+
+L'autoroute A65 est intégralement financée par le concessionnaire, sans recours à des fonds publics, hors apport en nature de la déviation d'[[Aire-sur-l'Adour]] (financée dans le cadre du Contrat de Plan État-Région 2000-2006<ref>{{Lien web |titre=Déviation d’Aire-sur-l'Adour |url=http://www.aquitaine.equipement.gouv.fr/article.php3?id_article=222 |site=Direction régionale de l'Équipement en Aquitaine |consulté le=5 mai 2008 |brisé le=8 octobre 2026 |archive-url=https://web.archive.org/web/20071030155410/http://www.aquitaine.equipement.gouv.fr/article.php3?id_article=222 |archive-date=30 octobre 2007}}.</ref>). Le coût de construction est évalué à 1,2 milliard d'euros supporté, d'une part, par les fonds propres des actionnaires (à hauteur de 20 %), et d'autre part par une dette bancaire de type financement de projet, souscrite auprès d'établissement bancaires.
+
+Néanmoins, une clause de déchéance pèse sur les collectivités qui devraient rembourser les coûts de construction à A'lienor si celle-ci se retirait du projet à cause d'un manque de rentabilité<ref>{{Lien web |titre=SNPTRI cite ''le Canard Enchaîné'' du 5/01/2011 |url=http://www.snptri.com/ile-de-france/2011/01/tres-chere-autoroute-a65/ |site=snptri.com |consulté le= |brisé le=8 octobre 2026 |archive-url=https://web.archive.org/web/20150603083129/http://www.snptri.com/ile-de-france/2011/01/tres-chere-autoroute-a65/ |archive-date=3 juin 2015}}.</ref>.
+
+Les travaux de l'A65, projet d'avant « Grenelle Environnement », ont démarré après le Grenelle avec 6 mois de retard afin de réévaluer le dossier environnement pour mieux répondre aux contraintes du milieu.
+
+== Construction ==
+[[Fichier:A 65 en construction, au niveau de Auriac vue 3 vers Pau.jpg|vignette|droite|A65 en construction, au niveau d'Auriac, vue 3 vers Pau, 6 juin 2010.]]
+[[Fichier:A 65 en construction au niveau de Garlin vue 1 vers Pau.jpg|vignette|droite|A65 en construction au niveau de Garlin, vue 1 vers Pau, 6 juin 2010.]]
+
+L'emprise globale de l'infrastructure couvre une superficie totale de {{Unité|1490|hectares}} de terrain. Plus de {{unité|160|ouvrages}} d'art dont {{unité|15|viaducs}} ont été construits<ref>''Le Moniteur'', {{numéro|5529}}, 13 novembre 2009, {{p.|61}}.</ref>. Le chantier qui a démarré en {{date|juillet 2008}}, avec six mois de retard pour intégrer les principes du [[Grenelle Environnement|Grenelle de l'environnement]], a employé au plus fort de son activité plus de {{unité|2000|personnes}} et mobilisé presque {{unité|700|machines}} pour rattraper les retards des premiers mois<ref>[http://kiosque.cg85.fr/repimg/docjoint/00524_a65-moniteur-opti.pdf ''Le Moniteur'', {{numéro|5524}}, {{p.|11}}]</ref>.
+
+Des aménagements spécifiques sont aussi prévus pour intégrer l'autoroute dans son environnement, tels que des dispositifs pour la protection acoustique ou les aménagements paysagers.
+
+;[[Conception-réalisation]]
+* Gie A65 
+* [[Eiffage Travaux Publics]]
+* [[A'lienor]] ([[Sociétés concessionnaires d'autoroutes en France|concessionnaire]])
+* Budget : 1,2 milliard d'euros
+* Mise en service : {{date|jeudi 16 décembre 2010}} à {{heure|10}}
+
+=== Entreprises ===
+Entreprises ayant participé à la construction de l'A65 :
+* [[Appia (entreprise)|Appia]]
+* [[Vinci (entreprise)|Dodin]]
+* [[Buesa Frères]]
+* [[Eiffage Travaux Publics]]
+* [[Eiffel (entreprise)|Eiffel Construction]]
+* ETP Grands Travaux
+* [[Eurovia]]
+* [[Eiffage Travaux Publics|Forézienne d’Entreprise]]
+* [[Eiffage Travaux Publics|Fougerolles-Ballot]]
+* [[Spie Batignolles|Mallet]]
+* [[Groupe NGE|NGE Génie civil]]
+* [[Colas (société)|Sacer]]
+* [[SCREG]]
+* [[Vinci (entreprise)|Vinci Construction Terrassement]]
+* [[Cognac TP]]
+* [[Bonna Sabla]]
+* [[Egis]]
+
+== Problèmes environnementaux ==
+[[Fichier:A65 sens Pau-Bordeaux, passage pour animaux.jpg|vignette|droite|Passage pour animaux.]]
+
+Le projet est controversé en Aquitaine par les associations écologistes : l'autoroute doit traverser les coteaux du [[Béarn]] ainsi que les zones humides des [[Landes (département)|Landes]] où vivent des [[espèce protégée|espèces protégées]] tels le [[vison]] ou l'[[écrevisse à pattes blanches]]<ref>{{Lien web|url=http://www.lepoint.fr/actualites-region/pau-se-rapproche-de-bordeaux/1556/0/220453|titre=Pau - A65 - Pau se rapproche de Bordeaux|date=24 janvier 2008|site=[[Le Point]]}}.</ref> – cette dernière ayant disparu en {{date|septembre 2008}} à la suite d'un incident. Aussi, il a été modifié pour éviter certaines zones sensibles, et le [[Ministère de l'Écologie, de l'Énergie, du Développement durable et de l'Aménagement du territoire]], dirigé par [[Jean-Louis Borloo]], n'a donné son feu vert qu'au début des travaux, le {{date|6 juin 2008}}<ref name="Can">« L'autoroute de l'après-Grenelle dérape », ''Le Canard enchaîné'', 8 octobre 2008, {{p.|5}}.</ref>.
+
+En {{date|décembre 2007}}, la [[SEPANSO]] Aquitaine a porté plainte pour « destruction d’espèces animales non domestiques et protégées » et « destruction du milieu particulier d’espèces animales non domestiques et protégées »<ref>{{Lien web|url=https://web.archive.org/web/0/https://www.actualites-news-environnement.com/13996-Autoroute-A65-SEPANSO-plainte-especes-protegees.html|titre=Autoroute A65, la SEPANSO porte plainte pour destruction d'espèces protégées|date=3 janvier 2008}}.</ref>. Le [[Conseil d'État (France)|Conseil d'État]] a rejeté en {{date|avril 2008}} les recours déposés par la SEPANSO et l'association Aquitaine alternatives et autres contre la construction de l'A65<ref name="FR3">{{Lien web |titre=Casse-tête régional pour les transports |url=http://aquitaine.france3.fr/info/43704787-fr.php |site=[[France 3 Aquitaine]] |date=6 juin 2008}}.</ref>. Le [[Conseil national de la protection de la nature]] (CNPN) avait rendu un avis négatif, mais [[Alain Rousset]] ([[Parti socialiste (France)|PS]]), président du [[Conseil régional d'Aquitaine]], avait envoyé une lettre au Premier ministre, signée par [[Henri Emmanuelli]] (PS), [[Martine Lignières-Cassou]] (PS), [[François Bayrou]] ([[Mouvement démocrate (France)|MoDem]]) et [[Alain Juppé]] ([[Union pour un mouvement populaire|UMP]]), défendant la construction de l'autoroute.
+
+Le prolongement entre [[Pau]] et [[Oloron (Pyrénées-Atlantiques)|Oloron]] a néanmoins été abandonné<ref name="FR3" />.
+
+À la suite du déversement, en {{date|septembre 2008}}, d'une mixture de chaux dans une rivière, lors de la construction de l'autoroute, dans le sud-ouest de la France, l'écrevisse à pattes blanches a failli disparaitre de cette région. Les Autoroutes du sud de la France (ASF) se sont vu imposer en 2008 une réintroduction de cette écrevisse dans le ruisseau du Peisselay à l'ouest de Lyon. Environ 300 écrevisses à pattes blanches issues d'un élevage conservatoire du Muséum d'histoire naturelle de Besançon, y ont été réintroduites début 2011. Pour cela, en 2008, environ 120 écrevisses avaient été collectées dans le Boussuivre et le Gand, deux des trois rivières impactées par cette nouvelle autoroute, afin de les élever à Besançon à destination de repeuplements en cas de pollution accidentelle<ref>{{Lien brisé |titre=L'autoroute qui élève des écrevisses |url=http://www.environnement-magazine.fr/presse/environnement/actualites/2204/biodiversite/l-autoroute-qui-eleve-des-ecrevisses |site=environnement-magazine.fr |brisé le=8 octobre 2026 |note=HTTP 404}}.</ref>. Près de 800 jeunes écrevisses sont nées dans l'élevage entre 2008 et 2011, ce qui a permis de réinsérer 300 juvéniles dans un ruisseau d'où l'espèce avait disparu. Un « comité Environnement » dédié aux impacts de l'autoroute fait se rencontrer périodiquement les ONG environnementales locales et les ingénieurs de l'ASF.
+
+Un [[écoduc]] dit « chiroptéroduc » a été créé pour les [[chiroptère|chauves-souris]] dans le cadre des [[Mesure conservatoire (droit de l'environnement)|mesures conservatoires]] mises en œuvre durant la construction de l'autoroute A65 Langon-Pau<ref>(voir photo {{p.}}8/24 dans le [http://www.cdc-biodiversite.fr/files/DOSSIER_DE_PRESSE_A65.pdf communiqué de presse : Concilier aménagement du territoire et préservation de la biodiversité]'')</ref>.
+
+== Historique ==
+En 1994, une décision ministérielle permet d'engager une première étude<ref name="ref_auto_1" />.
+* 20 janvier 1995 : lancement de la consultation sur les variantes de bandes de {{Unité|1000|m}}.
+* 29 mars 1996 : décision ministérielle sur le choix de la bande de {{unité|1000|mètres}}<ref>[http://www.a65.aquitaine.equipement.gouv.fr/IMG/pdf/DM_29-3-96_cle734ad9.pdf Décision ministérielle sur le choix de la bande de {{Unité|1000|m}}].</ref>.
+* 1997 à 2001 : différentes études techniques et rencontres avec les partenaires pour arrêter le choix des partis d'aménagement dans le cadre des études d'Avant-Projet-Sommaire (APS).
+* mai à juin 2001 : consultation des principales collectivités territoriales, chambres consulaires et associations représentatives pour la comparaison des différentes bandes de {{unité|300|mètres}}.
+* 7 janvier 2002 : décision ministérielle sur le choix de la bande de {{unité|300|mètres}}<ref>[http://www.a65.aquitaine.equipement.gouv.fr/IMG/pdf/DM_7-1-02_cle0335f4.pdf Décision ministérielle sur le choix de la bande de {{Unité|300|mètres}}].</ref>.
+* 18 juin 2003 : lancement de l'appel de candidatures pour la mise en concession. Dans un premier temps, les candidats ont été invités à formuler pour le 10 janvier 2005 un diagnostic sur les scénarios envisagés (tracé neuf ou avec aménagement de portions existantes) et à présenter éventuellement des variantes.
+* 30 juillet 2004 : consultation des candidats concessionnaires.
+* 18 décembre 2006 :
+** déclaration d'utilité publique (DUP) par décret<ref>[http://www.a65.aquitaine.equipement.gouv.fr/IMG/pdf/decret_DUP_A65_cle5819e3.pdf Déclaration d'utilité publique (DUP) par décret]</ref>.
+** signature du contrat de concession passé entre l'État et la société A’LIENOR pour la conception, la construction, l'entretien, l'exploitation et la maintenance. Cette concession s'applique sur la totalité de l'itinéraire en tracé neuf.
+** approbation de la convention de concession par décret 2006-1619<ref>[http://www.a65.aquitaine.equipement.gouv.fr/IMG/pdf/decret_concession_A65_cle6f7751.pdf Approbation de la convention de concession par décret 2006-1619].</ref>.
+* 2008 : acquisitions foncières et début des travaux pour une durée de 30 mois environ.
+* {{Date|16|décembre|2010}} à 10 heures : mise en service de l'autoroute.
+
+== Sorties ==
+'''Section concédée à [[A'lienor]] et payante.'''
+* '''{{échangeur autoroutier|[[Autoroute A62 (France)|A62]]|A65}}''' : [[Bordeaux]], [[Libourne]] ; [[Toulouse]], [[Agen]]
+** [[Fichier:France road sign C207.svg|24x24px]] [[Fichier:Panneau-C24a-2.svg|22x22px]] [[Fichier:France road sign B14 (130).svg|22x22px]] Début de l'autoroute, début de {{dunité|2|2|voies}} et limitation à 130 km/h.
+* {{Sortie|1 Bazas}} à {{unité|11|km}} : ''Domaine Départemental d'[[Hostens]]'', [[Bazas]], [[Villandraut]] + {{Aire de repos|de Bazas}}
+* {{Sortie|2 Captieux}} à {{unité|29|km}} : [[Casteljaloux]], [[Captieux]] + {{Aire de service|de Cœur d'Aquitaine}}
+''Passage du département de la [[Gironde (département)|Gironde]] à celui des [[Landes (département)|Landes]].''
+* {{Sortie|3 Roquefort}} à {{unité|58|km}} : ''[[File:France road sign ID15a14.svg|15px|alt]] [[Parc naturel régional des Landes de Gascogne|Parc des Landes de Gascogne]]'', [[Roquefort (Landes)|Roquefort]] + {{Aire de repos|de la Porte d'Armagnac}}
+* {{Sortie|4 Mont-de-Marsan}} à {{unité|70|km}} : [[Bayonne]], [[Dax]], [[Villeneuve-sur-Lot]], [[Mont-de-Marsan]], ''[[Barbotan-les-Thermes]]'' + {{Aire de repos|du Marsan}}
+(en projet) {{Sortie|5 Mont-de-Marsan}} : [[Auch]], Mont-de-Marsan, [[Villeneuve-de-Marsan]], [[Nogaro]], [[Grenade-sur-l'Adour]]
+* {{Sortie|6 Aire-sur-l'Adour - ''nord''}} à {{unité|98|km}} : [[Tarbes]], Auch, Mont-de-Marsan, [[Marciac]], Nogaro, [[Aire-sur-l'Adour]] + {{Aire de service|de l'Adour}}
+* {{Sortie|7 Aire-sur-l'Adour - ''sud''}} à {{unité|104|km}} ''(demi-échangeur, depuis et vers Bordeaux)'' : [[Pau]], [[Hagetmau]], Aire-sur-l'Adour
+''Passage du département des Landes à celui des [[Pyrénées-Atlantiques]].''
+* {{Sortie|8 Garlin}} à {{unité|116|km}} : [[Arzacq-Arraziguet]] [[Garlin]], [[Geaune]]
+* {{Sortie|9 Thèze}} à {{unité|128|km}} : Arzacq-Arraziguet, [[Morlaàs]], [[Thèze (Pyrénées-Atlantiques)|Thèze]] + {{Aire de repos|du Béarn Vert et Or}}
+** [[Fichier:France_road_sign_B14_(110).svg|20px]] [[Fichier:France road sign A1d.svg|22x22px]] Descente à 5,5% et limitation à 110 km/h à partir du km 134.
+** [[Fichier:France_road_sign_B14_(130).svg|20px]] Limitation à 130 km/h.
+(en projet) {{Sortie|10 Aéroport de Pau-Pyrénées}} : ''[[File:France road sign ID2.svg|15px|alt]] [[Aéroport de Pau-Pyrénées|Pau-Pyrénées]]''
+* [[Fichier:France_road_sign_B14_(110).svg|20px]] Limitation à 110 km/h.
+** [[Fichier:France_road_sign_B14_(90).svg|20px]] Limitation à 90 km/h.
+** [[Fichier:France_road_sign_C28-3.svg|20px]] Rétrécissement à {{dunité|2|1|voies}}.
+* '''{{échangeur autoroutier|[[Autoroute A64 (France)|A64]]|A65}}''' à {{unité|150|km}} : Bayonne, Dax, [[Saint-Sébastien (Espagne)|Saint-Sébastien (Donostia-San Sebastián)]] ; [[Saragosse|Saragosse (Zaragoza)]], Toulouse, Tarbes, [[Lourdes]], Pau
+
+== Temps de parcours ==
+D'après le moteur de recherche d'itinéraires de Google :
+;[[Langon (Gironde)|Langon]] - [[Mont-de-Marsan]] : 
+* {{heure|1|3|durée=oui}} avec l'A65
+* {{heure|1|17|durée=oui}} sans l'A65
+soit un gain de 14 minutes pour un péage de {{euro|9.00}}.
+;[[Pau]] - [[Langon (Gironde)|Langon]] :
+* {{heure|1|45|durée=oui}} avec l'A65 
+* {{heure|2|45|durée=oui}} sans l'A65
+soit un gain de 60 minutes moyennant un péage de {{euro|23.20}} et {{unité|14|km}} supplémentaires.
+;[[Pau]] - [[Mont-de-Marsan]] :
+* {{heure|1|19|durée=oui}} avec l'A65
+* {{heure|1|24|durée=oui}} sans l'A65
+soit un gain de 5 minutes pour un péage de {{euro|9.90}}.
+
+== Trafic ==
+En 2012, deux ans après son ouverture, l'A65 connaît une faible fréquentation relative : {{unité|5700|véhicules}} par jour au lieu des {{unité|7660|véhicules}} attendus<ref>{{Lien web |lang= fr |titre= L'A65, très chère nouvelle autoroute… en mal de fréquentation |éditeur= [[La Tribune (France)|La Tribune]] |date= 18 décembre 2012 |url= http://www.latribune.fr/regions/aquitaine/20121218trib000738002/l-a65-tres-chere-nouvelle-autoroute-en-mal-de-frequentation.html |consulté le= 12/2021 }}.</ref>.
+
+En 2013, les associations écologistes SEPANSO Aquitaine, ARLP, et LEA effectuent un comptage pendant 24 heures du trafic de l’autoroute A65. Elles comptabilisent {{unité|5436|véhicules}} en moyenne par jour. Elles déclarent que les prévisions données pour justifier l'autoroute étaient de {{unité|10397|véhicules}} par jour, soit presque deux fois plus que les chiffres effectifs<ref>{{Lien web |lang= fr |titre= L'autoroute A 65 Pau-Langon toujours aussi vide et inutile |éditeur= Reporterre |date= 20 juin 2013 |url= http://www.reporterre.net/spip.php?article4423 |consulté le= 12/2021 }}.</ref>. En 2014, les associations refont le même comptage et arrivent à un résultat de {{unité|5242|véhicules}} par jour, en baisse par rapport à l'année précédente, et ce alors que les poids lourds ne peuvent plus emprunter la route départementale<ref>{{Lien web |langue=fr |titre=Autoroute A65 Langon-Pau : trafic en baisse ! |description=communiqué de presse de l'association SEPANSO |url=http://www.sepanso.org/dossiers/a65/a65_article.php |site=sepanso.org |date=22 mai 2014 |brisé le=12/2021 |archive-url=https://archive.wikiwix.com/cache/index2.php?url=http%3A%2F%2Fwww.sepanso.org%2Fdossiers%2Fa65%2Fa65_article.php |archive-date=20 novembre 2014}}.</ref>.
+
+En {{date|avril 2014}}, Olivier de Guinaumont, président d'A'liénor, société concessionnaire de l'A65, donne des chiffres de fréquentation sensiblement différents. Il déclare : {{citation|Globalement, le trafic a augmenté de 6 % par rapport à 2012, [...] faisant suite à une augmentation de 4,2 % en 2012 par rapport à 2011. […] Il y a encore une  différence de 20 % entre les prévisions et la réalité des chiffres. […]}}<ref>{{Lien web |langue=fr |auteur1=Laurent Vissuzaine |titre=Autoroute A65 Pau - Langon : une progression lente mais continue |url=https://www.larepubliquedespyrenees.fr/2014/04/29/trafic-sur-l-a65-progression-lente-mais-continue,1191637.php |site=larepubliquedespyrenees.fr |date=29 avril 2014 |consulté le=12/2021}}.</ref>
+
+== Sécurité ==
+
+En 2006-1014, l'autoroute A65 compte 91 accidents corporels par milliard de véhicules kilomètres parcourus, résultant en 3 tués par milliard de véhicules kilomètres parcourus. Elle est donc plus accidentogènes que le réseau autoroutier français<ref name="ref_auto_1" />.
+
+En 2006-1014, l'apparition de l'autoroute a eu l'effet inverse sur les routes départementales parallèles: l'accidentalité corporelle a légèrement augmenté et la mortalité est passée de 13,5 à 21,9 par milliard de kilomètres parcourus. Dans l'ensemble, le trafic autoroutier étant supérieur aux trafic départemental, l'accidentalité corporelle a augmenté (86,6) mais la mortalité a baissé (10,5)<ref name="ref_auto_1" />.
+
+== Images de l'autoroute ==
+=== Images le 19 décembre 2010, en service ===
+
+<gallery>
+Fichier:A65, kilomètre 0.jpg|Kilomètre 0.
+Fichier:A65 sens Pau-Bordeaux, viaduc du Gabas.jpg|[[Viaduc]] du [[Gabas (rivière)|Gabas]] : le plus long de l'autoroute ({{Unité|444|m}}).
+Fichier:A65, sens Pau-Bordeaux vue 46.jpg|Viaduc de la Douze, autre viaduc majeur de l'A65.
+Fichier:A65, borne de paiement automatique (ici à Aire-sur-l'Adour Nord).jpg|Borne de paiement automatique à [[Aire-sur-l'Adour]] (Sortie {{Sortie|6}}).
+Fichier:A65 sens Pau-Bordeaux, panneau à messages variables.jpg|Panneau à messages variables de l'A65.
+Fichier:A65, sens Pau-Bordeaux vue 15.jpg|Mur anti-bruit.
+Fichier:A65, sens Pau-Bordeaux vue 5.jpg|Monticule de terre anti-bruit.
+Fichier:A65 sens Pau-Bordeaux, un centre de soutien technique.jpg|Un des deux points d'appui.
+</gallery>
+
+== Projet ==
+Il était prévu de prolonger l'A65 vers [[Oloron-Sainte-Marie]] (projet [[Autoroute A650 (France)|A650]] à l'horizon 2020). Le projet a été annulé pour cause environnementale.
+L'autoroute aurait sans doute été prolongée en [[vallée d'Aspe]] en direction du [[tunnel routier du Somport]] et la frontière espagnole, pour rejoindre l'[[autoroute espagnole A-23|autoroute A-23]] et la ville de [[Saragosse]]. Les travaux côté espagnol se poursuivent toujours.
+
+Le diffuseur d'[[Uzein]] (sortie 10) sera réalisé avant 2030, et le diffuseur des Arbouts (sortie 5) sera réalisé avant la fin de la concession (soit avant 2061).
+
+== Notes et références ==
+{{Références|taille=30}}
+
+== Voir aussi ==
+{{Autres projets|commons=Category:A65 autoroute}}
+=== Articles connexes ===
+* [[Liste des autoroutes de la France]]
+* [[Route européenne 7]]
+
+=== Liens externes ===
+{{Liens}}
+* {{Lien web |titre=Site d'A'LIENOR |url=http://www.a65-alienor.com |site=a65-alienor.com |consulté le=}}
+* {{Lien web |titre=Le site de l'A65, site officiel |url=http://www.a65.aquitaine.equipement.gouv.fr/ |site=a65.aquitaine.equipement.gouv.fr |consulté le= |brisé le=8 octobre 2026 |archive-url=https://archive.wikiwix.com/cache/index2.php?url=http%3A%2F%2Fwww.a65.aquitaine.equipement.gouv.fr%2F |archive-date=23 février 2011}}
+* [http://www.a65.aquitaine.equipement.gouv.fr/IMG/jpg/plan_general_travaux_72dpi_cle13bd4a.jpg Plan général des travaux] ([[Ministère des Transports et de l'Équipement (France)|ministère des Transports et de l'Équipement]])
+* [http://www.equipement.gouv.fr/article.php3?id_article=1677 Communiqué de presse du 2 juin 2006 relatif au choix du groupement A'LIENOR] (ministère des Transports et de l'Équipement)
+* [http://www.boursier.com/vals/FR/sanef-a-lienor-retenu-pour-la-mise-au-point-de-la-concession-de-l-a65-news-188656.htm Article ''Sanef : A'Lienor retenu pour la mise au point de la concession de l'A65''] (boursier.com)
+* [https://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A65 L'autoroute A65 sur WikiSara]
+* {{Lien web |titre=Vidéos de France 3 du 2 avril 2009 |url=http://aquitaine.france3.fr/dossiers/53101916-fr.php |site=France 3 Nouvelle-Aquitaine |consulté le=}}
+
+{{Palette|Autoroutes de France}}
+
+{{Portail|route|Aquitaine}}
+
+[[Catégorie:Autoroute en Nouvelle-Aquitaine|065]]
+[[Catégorie:Route dans les Pyrénées-Atlantiques]]
+[[Catégorie:Landes au XXIe siècle]]
+[[Catégorie:Pyrénées-Atlantiques au XXIe siècle]]

@@ -1,0 +1,260 @@
+{{voir homonymes|A1|Autoroute A1|Autoroute du Nord}}
+{{Confusion|texte=Ne doit pas être confondu avec l'[[Autoroute A1 (Martinique)|autoroute A1]] située en [[Martinique]].}}
+{{Infobox Route/France
+| statut = A
+| numéro = 1
+| autres_noms = Autoroute du Nord.
+| image = Autoroute A1 - Saint-Denis (FR93) - 2024-09-14 - 2.jpg
+| légende = L'A1 depuis une passerelle à [[Saint-Denis (Seine-Saint-Denis)|Saint-Denis]] ([[Seine-Saint-Denis]]), à l'approche de l'[[échangeur de la porte de la Chapelle|échangeur de la Porte de la Chapelle]].
+| carte = Carte Autoroute A1.svg
+| longueur = 211
+| direction = sud / nord
+| dir1 = sud
+| dir2 = nord
+| ville1 = {{Route européenne|19}} à [[Paris]] ([[Porte de la Chapelle]])
+| ville2 = {{Route nationale|356}} à [[Lille]]
+| villes_principales = [[Saint-Denis (Seine-Saint-Denis)|Saint-Denis]], ''[[Aéroport de Paris-Charles-de-Gaulle|Aéroport de Roissy-Charles-de-Gaulle]]'', [[Parc Astérix]] (Plailly), [[Chantilly]], [[Creil]], [[Senlis (Oise)|Senlis]], [[Pont-Sainte-Maxence]], [[Compiègne]], [[Péronne (Somme)|Péronne]], [[Arras]], [[Douai]], [[Hénin-Beaumont]], [[Carvin]], ''[[Aéroport de Lille-Lesquin|Aéroport de Lesquin]]'', [[Lille]]
+| intersections = [[Boulevard périphérique de Paris|Boulevard Périphérique]] à [[Paris]]<br>{{Autoroute française|A16}} ({{Autoroute française|A86}}) à [[La Courneuve]]<br>{{Route européenne|15}} {{Autoroute française|A3}} à [[Aulnay-sous-Bois]]<br>{{Autoroute française|A170}} à [[Gonesse]]<br>{{Autoroute française|A104}} / {{Route nationale|104|France}} à [[Épiais-lès-Louvres]]<br>{{Route européenne|44}} {{Autoroute française|A29}} à [[Ablaincourt-Pressoir]]<br>{{Route européenne|19}} {{Autoroute française|A2}} à [[Combles]]<br>{{Route européenne|15}} {{Route européenne|17}} {{Autoroute française|A26}} à [[Rœux]]<br>{{Autoroute française|A21}} à [[Dourges]]<br>{{Route européenne|17}} {{Route européenne|42}} {{Autoroute française|A22}} à [[Lesquin]]<br>{{Route européenne|42}} {{Autoroute française|A25}} à [[Lille]]
+| ouverture = De [[1954]] à [[1967]]
+| réseau = Autoroute française, également {{Route européenne|15}} {{Route européenne|17}} {{Route européenne|19}} {{Route européenne|42}}
+| régions = [[Île-de-France]], [[Hauts-de-France]]
+| départements = [[Seine-Saint-Denis]], [[Val-d'Oise]], [[Oise (département)|Oise]], [[Somme (département)|Somme]], [[Pas-de-Calais]], [[Nord (département français)|Nord]]
+| concessionnaire= [[Société des autoroutes du Nord et de l'Est de la France|SANEF]] (entre Roissy et Hénin-Beaumont)
+| gestionnaire   = [[Direction interdépartementale des Routes#Direction des routes d'Île-de-France (DIRIF)|DIR Île-de-France]] (entre Paris et Roissy)<br/>[[Direction interdépartementale des Routes#Direction interdépartementale des Routes Nord|DIR Nord]] (entre Hénin-Beaumont et Lille)
+}}
+{{maplink|frame=yes|plain=yes|frame-width=290|frame-height=600|frame-align=right|type=line|stroke-width=2| |stroke-color=#0000C0| id= }}
+L’'''autoroute A1''' est une voie rapide de type [[autoroute|autoroutier]] qui relie entre elles les villes [[France|françaises]] de [[Paris]] et de [[Lille]]. Elle est également appelée « autoroute du Nord » ou « autoroute Paris-Lille ». Commencée en 1950 entre [[Lille]] et [[Carvin]], l'autoroute est terminée en 1967 ; il s'agit de la première autoroute reliant Paris à une métropole française.
+
+Longue de {{unité|211|km}}, l'autoroute dessert la banlieue nord de Paris, notamment le [[Stade de France]], [[Le Bourget (Seine-Saint-Denis)|Le Bourget]], l'[[Aéroport de Paris-Charles-de-Gaulle|aéroport de Roissy-Charles-de-Gaulle]] et le [[parc Astérix]]. Ensuite, elle traverse la [[Picardie (ancienne région administrative)|Picardie]], en parallèle avec la [[LGV Nord]], sans rencontrer directement les grandes villes de cette région.
+
+À mi-chemin entre [[Amiens]] et [[Saint-Quentin]], à environ {{unité|120|km}} de Paris au niveau d'[[Ablaincourt-Pressoir]], elle croise l'[[Autoroute A29 (France)|autoroute A29]]. Vingt kilomètres plus loin, l'autoroute se scinde et donne naissance à l'[[Autoroute A2 (France)|autoroute A2]] (appelée [[Paris]]&nbsp;– [[Bruxelles]]). Elle se poursuit jusqu'à [[Lille]] croisée par l'[[Autoroute A26 (France)|autoroute A26]] vers [[Calais]] puis l'[[Autoroute A21 (France)|autoroute A21]] vers [[Douai]] et [[Lens (Pas-de-Calais)|Lens]] ; elle continue vers [[Villeneuve-d'Ascq]] grâce à l'[[Autoroute A22 (France)|autoroute A22]]. Enfin, elle croise, à son arrivée à [[Lille]], l’autoroute A25 vers [[Dunkerque]].
+
+== Historique ==
+=== Années 1930 : les différents projets ===
+Lors du premier congrès international des autoroutes à Genève du {{date|31|août}} au {{date|2|septembre|1931}}, un ingénieur des [[École nationale des ponts et chaussées|Ponts et Chaussées]] décrit une autoroute allant du [[Le Bourget (Seine-Saint-Denis)|Bourget]] à [[Lille]] avec une bifurcation vers [[Calais]] à hauteur de [[Breteuil (Oise)|Breteuil]]. Le tracé serait de {{unité|209.5|km}} dont {{unité|84.7|km}} sur le tronçon commun. Selon ses calculs, son projet d'autoroute aurait coûté pour les {{unité|209.5|km}} de route reliant Paris à Lille, {{unité|330|millions de francs}}, soit {{unité|1575000|francs par kilomètre}}<ref>{{Article |prénom1=Jacques |nom1=Thomas |titre=Congrès |périodique=Le Génie civil |numéro=2566 |année=1931 |mois=octobre |jour=17 |passage=399-400 |lire en ligne=https://gallica.bnf.fr/ark:/12148/bpt6k64936012/f19 |consulté le=5 septembre 2017}}.</ref>.
+
+Dans le [[plan Prost]], la route du Nord sert principalement à relier [[Paris]] à l'[[Aéroport de Paris-Le Bourget|aéroport du Bourget]]. Le tracé débute à l'est de l'aéroport, sur la [[route nationale 2 (France métropolitaine)|route nationale 2]] pour traverser [[La Courneuve]], [[Saint-Ouen-sur-Seine]] et rejoindre la [[porte Maillot]], à l'ouest de Paris. L'autoroute pourrait également recevoir le flux de véhicule venant de [[Belgique]] ou du [[Hauts-de-France|nord de la France]] par les routes nationales [[route nationale 2 (France métropolitaine)|2]] et [[route nationale 17 (France)|17]]<ref>{{Article |titre=La Route du Nord |périodique=Urbanisme |numéro=41 |année=1935 |mois=décembre |passage=46 |lire en ligne=http://catalogue.bnf.fr/ark:/12148/cb343493724 |consulté le=25 mars 2018}}.</ref>.
+
+=== Années 1950-1960 : la construction et l'inauguration de l'autoroute ===
+Le début de la construction d'une « autoroute sud de Lille » a lieu en {{date|septembre 1950}} entre l'embouchure sur la partie est de l'ancienne [[enceinte de Lille|zone fortifiée]] de [[Lille]] et [[Carvin]]<ref name="Gintzburger">{{Article|auteur=Jean-François Gintzburger|titre=…Et l'autoroute du sud de Lille devient l'autoroute A1
+|périodique=[[La Voix du Nord]] Cent ans de vie dans la région - Tome 3 - 1939-1958 : De la bataille du rail à la bataille du charbon
+|jour=17|mois=juin|année=1999|pages=82-84}}</ref>{{,}}<ref name="Lancelle368">{{Article |prénom1=C. |nom1=Lancelle |titre=Le réseau routier de la métropole du nord |périodique=Techniques et sciences municipales et revue de l'eau |numéro=10 |année=1971 |mois=octobre |pages=367-372 |passage=368 |lire en ligne=https://gallica.bnf.fr/ark:/12148/bpt6k96131440/f42.vertical |consulté le=5 septembre 2017}}.</ref>. À cette date, seule une portion de l'[[Autoroute A13 (France)|A13]] avait été réalisée en [[France]]<ref name="Lancelle368"/> ; il s'agit d'une des premières autoroutes « de dégagement »<ref name="Lancelle368"/>. Ce chantier est terminé le {{date|15|octobre|1954}} ; l'autoroute est inaugurée neuf jours plus tard, par [[Jacques Chaban-Delmas]], [[Liste des ministres français des Transports|ministre des Transports]], et est ouverte à la circulation le {{date|15 novembre}}<ref name="Gintzburger"/>. La route est prolongée en 1954 par le pont Saint-Sauveur construit sur les voies de sortie de la [[gare Saint-Sauveur]] vers la [[gare de Lille-Flandres]], en 1960, par le pont des Flandres construit sur la voie ferrée à proximité de la [[gare de Lille-Flandres]], au [[Grand Boulevard]] et en 1962 à la [[route nationale 17 (France)|route nationale 17]]<ref name="Lancelle368"/>. Ce tronçon terminal en bordure du centre-ville de Lille (boulevards Paul-Painlevé, du [[avenue du Président-Hoover|Président-Hoover]], Émile Dubuisson, pont des Flandres) qui comportait 3 traversées à niveau de voies de circulation avec feux de signalisation est remplacé en 1998 par le « petit contournement est » du [[boulevard périphérique de Lille]] à caractère autoroutier.
+
+Alors qu'il était envisagé à l'origine que l'A1 se termine Porte de Paris à Saint-Denis, il est décidé en 1960 de la prolonger jusqu'au [[Boulevard périphérique de Paris|boulevard périphérique]] par le quartier Bel-Air en partie démoli à cette occasion<ref>{{lien web|url=http://www.leparisien.fr/saint-denis-93200/le-jour-ou-le-quartier-de-jean-a-ete-rase-pour-laisser-passer-l-a1-a-saint-denis-04-05-2015-4744783.php|titre=Le jour où le quartier de Jean a été rasé pour laisser passer l’A1 à Saint-Denis|site=leparisien.fr|date=4 mai 2015|auteur=Jean-Gabriel Bontinck|consulté le=5 mai 2015}}</ref> puis par la Plaine Saint-Denis<ref name="PP"/>. Les travaux du tracé vers [[Paris]] sont réalisés à partir de 1961, via les tronçons [[Saint-Denis (Seine-Saint-Denis)|Saint-Denis]] – [[Paris]] (porte de la Chapelle), puis Le Bourget – Saint-Denis, l'ouverture à la circulation entre Saint-Denis et la [[porte de la Chapelle]] étant réalisée le {{date|17|décembre|1965}}<ref name="PP">{{lien web|url=http://www.leparisien.fr/aubervilliers-93300/il-y-a-50-ans-la-construction-de-l-a1-transformait-la-seine-saint-denis-03-05-2015-4741717.php|titre=Il y a 50 ans, la construction de l’A1 transformait la Seine-Saint-Denis|site=leparisien.fr|date=3 mai 2015|auteur=Jean-Gabriel Bontinck|consulté le=4 mai 2015}}</ref>. La section sud sur l'[[Avenue du Président-Wilson (Saint-Denis)|avenue Wilson]] a été construite dans une tranchée de six mètres afin de pouvoir passer sous les ponts ferroviaires, les {{unité|600000|mètres cubes}} de déblais servant notamment à l'aménagement du [[parc Georges-Valbon]]<ref name="Wilson"/>.
+
+En 1958, le tronçon entre Carvin et [[Gavrelle]] ([[Fresnes-les-Montauban]]) est réalisé<ref>{{Article
+|auteur1=Sarah Binet
+|photographe=Archives [[INA]]
+|titre=Autoroute A1 : pourquoi est-elle restée gratuite dans le Nord – Pas-de-Calais ?
+|périodique=''[[La Voix du Nord]]''
+|date=26 juin 2024
+|lire en ligne=https://www.lavoixdunord.fr/1477196/article/2024-06-26/autoroute-a1-pourquoi-est-elle-restee-gratuite-dans-le-nord-pas-de-calais#
+|consulté le=11 août 2024
+|accès url=payant
+}}.</ref>. Le {{date|30|décembre|1964}}, [[Marc Jacquet]], ministre des Transports, inaugure {{nobr|35 kilomètres}} de voies construites, entre [[Senlis (Oise)|Senlis]] et [[Le Bourget (Seine-Saint-Denis)|Le Bourget]], les premières à péage en France, qui doivent desservir le nouvel aéroport de [[Aéroport de Paris-Charles-de-Gaulle|Roissy]]<ref name="Gintzburger"/>. Le tronçon entre Senlis et [[Roye (Somme)|Roye]] est inauguré le {{date|29|novembre|1965}} par Marc Jacquet, et c'est à cette occasion que l'autoroute prend le nom d'A1<ref name="Gintzburger"/>. Le tracé s'achève par l'ouverture des tronçons reliant Roye à [[Bapaume]], le {{date|16|décembre|1966}}, puis Bapaume à [[Fresnes-lès-Montauban]] le {{date|29|novembre|1967}}<ref name="Gintzburger"/>{{,}}<ref>Il a fallu dix-sept ans depuis le premier coup de pioche en 1950.</ref>. René Chopin, le président de la [[Société des autoroutes du Nord et de l'Est de la France|SANEF]], la société qui gère la concession de l'autoroute, déclare alors que le chantier de l'autoroute du Nord a coûté au total {{unité|1172|millions}} de francs<ref name="Gintzburger"/>. Dès son achèvement, l'autoroute A1 est la voie routière française qui concentre le plus important trafic de marchandises, et un trafic de {{unité|10000|véhicules}} par jour est observé au niveau du péage de Fresnes-lès-Montauban<ref name="Gintzburger"/>. Il s'agit de la première autoroute qui relie [[Paris]] à une métropole de France<ref>{{Article |prénom1=Alain |nom1=Barré |titre=Quelques données statistiques et spatiales sur la genèse du réseau autoroutier français |périodique= Annales de Géographie |année=1997 |volume=106 |numéro=593-594 |pages=231 |url texte=http://www.persee.fr/web/revues/home/prescript/article/geo_0003-4010_1997_num_106_593_20775 |consulté le=23 février 2015}}.</ref>.
+
+=== Depuis les années 2000 : la modernisation et l'amélioration du réseau ===
+Depuis le début de [[2008]], dans la partie francilienne, l'autoroute A1 (ainsi que l'[[Autoroute A15 (France)|A15]], l'[[Autoroute A115 (France)|A115]] et une partie de la [[Route nationale 184|RN 184]]), n'est plus éclairée à la suite de vols de câbles<ref>L’Écho du Val-d'Oise du 5 juin 2009. Les voleurs coupaient les câbles des candélabres dont la tension atteint {{Unité|5000|volts}} ; ils ont été pris en flagrant délit sur l'autoroute A1. La seule autoroute A15 a été délestée de {{Unité|25000|mètres}} de câbles. Le coût de remise en état, évalué à plusieurs centaines de milliers d'euros ajouté à la consommation électrique d'environ {{nobr|cinq millions}} d'euros par an, laisse présager que pour des questions d'économie, l'éclairage ne soit jamais remis sur ces axes.</ref>. La seule partie qui restait éclairée sur l'autoroute A1 à la suite de ces vols était le viaduc au-dessus du [[canal Saint-Denis]]. La section de [[Roissy-en-France]] à [[Senlis (Oise)|Senlis]] (Oise) fut éclairée à partir de 1990 à l'initiative de la [[Société des autoroutes du Nord et de l'Est de la France|SANEF]] dans le but de renforcer la sécurité des automobilistes. Cependant en {{date|janvier 2012}}, la SANEF décide de couper l'éclairage principalement pour des raisons d'économie d'énergie mais en prétextant également que ceci incite les automobilistes à être plus prudents ce qui, selon elle, réduit les accidents de la route<ref>{{Lien web |auteur=Floriane Louison |url=https://www.leparisien.fr/oise-60/senlis-60300/a-1-un-an-apres-l-extinction-des-lumieres-05-02-2013-2540657.php |titre=A1 : un an après l’extinction des lumières |périodique=[[Le Parisien|leparisien.fr]] |date=5 février 2013 |consulté le=10 février 2023}}.</ref>.
+
+Depuis le {{date|22|avril|2009}}, une voie expérimentale dédiée aux taxis et aux bus a été mise en place entre l'aéroport de Roissy et [[Paris]].
+
+Entre [[Carvin]] et [[Lesquin]], la route a été réhabilitée durant les étés 2011, 2012 et 2013<ref>{{Lien web |url=http://www.dir-nord.developpement-durable.gouv.fr/construction-d-un-mur-anti-bruit-sur-l-a1-a244.html |titre=Construction d’un mur anti bruit sur l’A1 |jour=6 |mois=août |année=2014 |site=dir-nord.developpement-durable.gouv.fr |consulté le=27 février 2015}}.</ref>.
+
+Les péages de Chamant et de Fresnes-lès-Montauban ont été rénovés en 2013<ref>{{article |titre=La Sanef construit un péage plus écolo à Chamant |périodique=leparisien.fr |jour=7 |mois=juillet |année=2012 |pages= |url texte=http://www.leparisien.fr/espace-premium/oise-60/ca-bouge-07-07-2012-2080258.php |consulté le=21 août 2012}}</ref>{{,}}<ref>{{article |titre=A1 : le péage de Fresnes accueille quatre voies supplémentaires |périodique=lavoixdunord.fr |jour=20 |mois=août |année=2012 |pages= |url texte=http://www.lavoixdunord.fr/region/a1-le-peage-de-fresnes-accueille-quatre-voies-supplementaires-jna0b0n639570 |consulté le=21 août 2012}}</ref>.
+
+Depuis [[2017]], des améliorations ont été réalisés pour éviter des accidents ; les vieux lampadaires sont remplacés par des nouveaux équipements à [[diode électroluminescente]] (LED), les réseaux d’alimentation électrique sont réhabilités et sécurisés et les postes à haute tension sont également modernisés. De Paris jusqu'à la sortie {{Sortie|5}} au niveau du [[Le Bourget (Seine-Saint-Denis)|Bourget]], l'autoroute A1 est de nouveau éclairée. <br>
+Depuis juillet [[2024]], l'autoroute est éclairée de Paris jusqu'à l'[[aéroport de Paris-Charles-de-Gaulle]]<ref>{{Lien web |titre=LES GRANDS TRAVAUX DE L’ÉTÉ 2020 SUR LES AUTOROUTES ET ROUTES NATIONALES D’ÎLE-DE-FRANCE |url=https://www.dir.ile-de-france.developpement-durable.gouv.fr/IMG/pdf/dirif_dp_grands-travaux-ete-2020_vdef.pdf |format=pdf |site=dir.ile-de-france.developpement-durable.gouv.fr |page=page 5, RÉHABILITATION DE L’ÉCLAIRAGE DE L’AUTOROUTE A1 |citation=Depuis 2017, la DiRIF a lancé un vaste programme de réhabilitation de l’éclairage de l’autoroute A1. […] L’opération se poursuivra jusqu’en 2024 avec la rénovation de l’éclairage jusqu’au pied des pistes de l’aéroport de Paris-Charles-de-Gaulle. |date=2020 |consulté le=09-05-2023}}.</ref>.
+
+Entre [[Dourges]] et [[Lille]], des portiques de régulation de vitesse sont mis en place à partir du {{date|3|octobre|2022}}<ref>{{Lien web |auteur=DIR Nord |titre=A1 - Mise en service de la régulation des vitesses |url=https://www.dir.nord.developpement-durable.gouv.fr/a1-mise-en-service-de-la-regulation-des-vitesses-a1875.html |site=dir.nord.developpement-durable.gouv.fr |date=28 septembre 2022 |consulté le=8 octobre 2022}}.</ref>.
+
+Les bretelles d'accès de la sortie {{Sortie|2}} en direction de Lille et depuis Lille ont été fermées en {{date|décembre 2023}}, à la suite de travaux de complétude de l'échangeur Pleyel de l'A86 afin de faire cesser le trafic de transit par le boulevard Anatole France, qui doit maintenant se reporter sur la bretelle de liaison entre l'A1 et l'A86<ref name="Actu-dec23"/>, conformément à un schéma arrêté en 2019 dans le cadre de la préparation des [[Jeux olympiques d'été de 2024|Jeux olympiques de 2024]] <ref>{{lien web|url=https://www.leparisien.fr/seine-saint-denis-93/a-saint-denis-les-autoroutes-vont-reajuster-leurs-bretelles-05-05-2019-8065962.php|titre=À Saint-Denis, les autoroutes vont réajuster leurs bretelles |site=leparisien. fr | date=5 mai 2019|auteur=Gwenaël Bourdon |consulté le=10 août 2025}}</ref>. La démolition de la bretelle inutilisée est effectuée par la [[Direction interdépartementale des Routes#Direction des routes d'Île-de-France (DIRIF)|DIRIF]] à l'été 2025<ref name="DIRIF25"/>.
+
+À compter du {{date|3 mars 2025}}, une expérimentation de six mois est lancée pour réserver la voie de gauche au [[covoiturage]], taxis et véhicules prioritaires. Signalée par l’affichage d’un losange blanc, l'activation de cette voie réservée se fait du lundi au vendredi, entre {{heure|6|30}} et {{heure|10}} en direction de Paris du Bourget au tunnel du Landy puis entre {{heure|17}} et {{heure|18|30}} de la sortie du tunnel à La Courneuve. Après une période transitoire de non-verbalisation jusqu'au {{date|2 mai}}, l'infraction sera pénalisée {{unité|135|€}}. Avant cette expérimentation, chaque véhicule ne transporte en moyenne que 1,1 personne pour les trajets domicile-travail<ref>{{Lien web|url=https://www.leparisien.fr/info-paris-ile-de-france-oise/transports/voies-reservees-sur-le-periph-taxis-bus-vehicules-de-secours-covoiturage-top-depart-lundi-3-mars-28-02-2025-FS7OXWX5SJAUPNG4YOBOVKVJ6U.php |titre=Voies réservées au covoiturage sur le périphérique, l’A1 et l’A13 : tout ce qui vous attend à partir du lundi 3 mars |site=leparisien.fr|date=28 février 2025|auteur=Benoît Hasse |consulté le=4 mars 2025}}.</ref>.
+
+== Description ==
+=== Caractéristiques ===
+[[Fichier:Echangeur periph-Pte-Chapelle 01.jpg|vignette|droite|L'[[échangeur de la porte de la Chapelle]], à [[Paris]].|alt=Photo de routes.]]
+L'autoroute A1 relie la [[porte de la Chapelle]] sur le [[boulevard périphérique de Paris]] à l'[[autoroute A25 (France)|autoroute A25]] et à la [[route nationale 356]] à hauteur de [[Lille]]. Sa longueur est de {{unité|211|km}}<ref>[https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=48.9429%2C2.4349%3B49.1937%2C2.6034 Autoroute A1 Saint-Denis-Chantilly, sur openstreetmap.org].</ref>{{,}}<ref>[https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=49.1937%2C2.6034%3B50.3145%2C2.9001 Autoroute A1 Chantilly-Arras, sur openstreetmap.org].</ref>{{,}}<ref>[https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=50.3145%2C2.9001%3B50.5543%2C3.0627 Autoroute A1 Arras-Lille, sur openstreetmap.org].</ref>. Elle est longée par la [[LGV Nord]] entre [[Longueil-Sainte-Marie]] et [[Carvin]]. L'autoroute passe également sous l'[[aéroport de Paris-Charles-de-Gaulle]].
+
+Elle est concédée à la [[Société des autoroutes du Nord et de l'Est de la France]] (SANEF) sur la partie payante jusqu'au {{Date|31 décembre 2032}}. Entre l'échangeur de l'[[autoroute A21 (France)|autoroute A21]] et la [[route nationale 356]], elle fait partie du ressort de la [[Direction interdépartementale des Routes|Direction interdépartementale des Routes Nord]]<ref>{{Ouvrage|titre = Arrêté du 26 mai 2006 portant constitution des directions interdépartementales des routes (rectificatif)|lire en ligne = http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000788482|consulté le = 2016-02-01}}</ref>.
+
+L’autoroute A1 est aussi :
+* la [[route européenne 19|E19]] de l'[[échangeur de la porte de la Chapelle]] jusqu’à l’échangeur A1 / [[Autoroute A2 (France)|A2]] ;
+* la [[route européenne 15|E15]] de l’échangeur A1 / [[Autoroute A3 (France)|A3]] jusqu’à l’échangeur A1 / [[Autoroute A26 (France)|A26]] ;
+* la [[route européenne 17|E17]] de l’échangeur A1 / [[Autoroute A26 (France)|A26]] jusqu’à l'échangeur A1 / [[Autoroute A22 (France)|A22]] ;
+* la [[route européenne 42|E42]] de l’échangeur A1 / A1a ([[Autoroute A22 (France)|A22]]) jusqu’à l’échangeur A1 / [[Autoroute A25 (France)|A25]].
+
+La radio [[Sanef 107.7]] couvre l'ensemble de l'autoroute.
+
+=== Sorties ===
+'''Section non-concédée gérée par la [[Direction interdépartementale des Routes#Direction des routes d'Île-de-France (DIRIF)|DIR Île-de-France]] et gratuite.'''
+* '''{{échangeur autoroutier|[[Fichier:SU4 - Rocade France.svg|22x22px]] [[Boulevard périphérique de Paris]]|A1}}''' + {{Sortie|1 ''Porte de la Chapelle''}} '''(''[[Échangeur de la porte de la Chapelle]]'')''' à {{unité|0|km}} :
+** ''Périphérique Intérieur (Est)'' : [[Fichier:France_road_sign_C207.svg|22x22px]] [[Autoroute A4 (France)|A4]] - [[Autoroute A6 (France)|A6]], ''[[Fichier:France road sign ID2.svg|15px|alt]] [[Aéroport de Paris-Orly|Orly]]'', [[Paris]] - ''[[Porte d'Aubervilliers]]''
+** ''Périphérique Extérieur (Ouest)'' : [[Fichier:France_road_sign_C207.svg|22x22px]] [[Autoroute A13 (France)|A13]] - [[Autoroute A14 (France)|A14]], Paris - ''[[Porte de Clignancourt]]''
+** {{Sortie|1}} : Paris - ''centre, [[Porte de la Chapelle]]''
+** [[Fichier:France road sign C207.svg|24x24px]] [[Fichier:Panneau-C24a-4.svg|22x22px]] [[Fichier:France road sign B14 (70).svg|22x22px]] Début d'autoroute, début de {{dunité|2|4|voies}} et limitation à 70 km/h.
+''Passage du département de Paris à celui de la [[Seine-Saint-Denis]].
+* [[Fichier:France_road_sign_B14_(90).svg|22x22px]] Limitation à 90 km/h.
+** [[Fichier:France road sign C111.svg|22x22px]] [[Tunnel du Landy]] ({{Unité|1400|m}})
+[[Fichier:Démolition bretelle A1 Anatole France - 10 juillet 2025.jpg|vignette|Démolition de l'ancienne bretelle de l'A1 Porte-de-Paris en juillet 2025.]]
+* {{Sortie|2 Saint-Denis - ''[[Saint-Denis (Seine-Saint-Denis)#Porte de Paris|Porte de Paris]]''}} à {{unité|1,5|km}} ''(demi-échangeur, depuis et vers Paris)'' : [[Saint-Denis (Seine-Saint-Denis)|Saint-Denis]] - ''[[La Plaine Saint-Denis|La Plaine]]'', ''[[Stade de France]]'' (depuis et vers Lille fermée en décembre 2023<ref name="Actu-dec23">{{lien web|url=https://actu.fr/ile-de-france/saint-denis_93066/echangeur-pleyel-a-saint-denis-les-bretelles-historiques-de-l-autoroute-a1-definitivement-fermees_60456511.html |titre= Échangeur Pleyel à Saint-Denis : les bretelles historiques de l'autoroute A1 définitivement fermées  |site=actu.fr |date=14 décembre 2023|consulté le=10 août 2025}}</ref> et démolie à l'été 2025<ref name="DIRIF25">{{lien web|url=https://www.dir.ile-de-france.developpement-durable.gouv.fr/phase-travaux-de-l-echangeur-porte-de-paris-a1-a1859.html|titre=Lancement de la dernière étape des travaux de réaménagement des échangeurs de Pleyel et Porte de Paris !|site=[www.dir.ile-de-france.developpement-durable.gouv.fr DIRIF]|date=7 mai 2025|consulté le=10 août 2025}}</ref>)
+** [[Fichier:France road sign C24a.svg|22x22px]] Passage à {{dunité|2|3|voies}}.
+** [[Fichier:AB-Brücke.svg]] [[Viaduc de la Porte de Paris]] ({{unité|373|m}}) sur [[Fichier:Panneau cours d'eau France.png|20px]] le [[Canal Saint-Denis]].
+** [[Fichier:Panneau-C24a-4.svg|22x22px]] Passage à {{dunité|2|4|voies}}.
+* {{Sortie|3 Saint-Denis - ''[[Saint-Denis (Seine-Saint-Denis)#Centre_historique|centre]]'' ([[Route nationale 401|RD 940]] - [[Route nationale 186|RD 986]])}} à {{unité|3,5|km}} et {{unité|4,3|km}} ''(deux demi-échangeurs)'' : Saint-Denis - ''Porte de Paris, Universités, [[Pierrefitte-sur-Seine]]'', [[Villetaneuse]]
+** Passage à {{dunité|2|5|voies}}.
+* {{Sortie|4 La Courneuve ([[Route nationale 301|RD 901]])}} à {{unité|4,7|km}} ''(demi-échangeur, depuis et vers Paris)'' : [[Sarcelles]], [[La Courneuve]], [[Garges-lès-Gonesse]], [[Stains]], ''[[Parc Georges-Valbon|Parc Georges-Valbon (Parc départemental de La Courneuve)]]''
+** [[Fichier:France road sign C24a.svg|22x22px]] Passage à {{dunité|2|3|voies}}.
+** {{Aire de service|de La Courneuve}} à {{unité|5,5|km}}
+[[File:Autoroute A1 - La Courneuve (FR93) - 2024-09-22 - 2.jpg|thumb|L'A1 depuis le pont de l'avenue Waldeck Rochet, à [[La Courneuve]] ([[Seine-Saint-Denis]]).]]
+* '''{{échangeur autoroutier|[[Autoroute A16 (France)|A16]] ([[Fichier:SU4 - Rocade France.svg|22x22px]] [[Autoroute A86 (France)|A86]])|A1}} (''Barreau De Liaison A1/A86'')''' à {{unité|7|km}} ''(demi-échangeur, depuis et vers Lille)'' : [[Fichier:France_road_sign_C207.svg|22x22px]] [[Autoroute A15 (France)|A15]], [[Rouen]] (A14 [[Fichier:Péage.png|30 px]])), ''[[La Défense]]'' [[Aubervilliers]], Saint-Denis - ''La Plaine'', ''Stade de France''
+** [[Fichier:Panneau-C24a-4.svg|22x22px]] [[Fichier:France road sign B14 (110).svg|22x22px]] Passage à {{dunité|2|4|voies}} et limitation à 110 km/h.
+* {{Sortie|4bis ''[[Parc des expositions de Paris - Le Bourget|Parc des expositions du Bourget]]''}} à {{unité|7,7|km}} ''(demi-échangeur, depuis et vers Paris)'' : [[Dugny]], [[Le Bourget (Seine-Saint-Denis)|Le Bourget]], [[Salon international de l'aéronautique et de l'espace de Paris - Le Bourget|Salon du Bourget]] ''(Sortie ouverte seulement pendant le salon d'exposition)''.
+* {{Sortie|5 Le Bourget ([[Route nationale 2 (France métropolitaine)|RD 932]])}} à {{unité|8|km}} : ''[[Fichier:France road sign ID2.svg|15px|alt]] [[Aéroport de Paris - Le Bourget|Le Bourget]]'', Paris - ''[[Porte de la Villette]]'', [[Le Blanc-Mesnil]], Le Bourget, La Courneuve, [[Drancy]], Dugny, ''Parc des expositions du Bourget, Salon du Bourget''
+** [[Fichier:France road sign C111.svg|22x22px]] Tranchée couverte du Blanc-Mesnil ''({{Unité|750|m}}, sens Paris – Lille) ({{Unité|450|m}}, sens Lille – Paris)''
+* '''{{échangeur autoroutier|[[Autoroute A3 (France)|A3]]|A1}}''' à {{unité|11|km}} et {{unité|16|km}} ''(deux demi-échangeurs)'' :  ''[[Fichier:SU4 - Rocade France.svg|22x22px]] A86 (A4)'', Paris - ''[[Porte de Bagnolet]]'', [[Bobigny]], [[Aulnay-sous-Bois]], ''[[Fichier:France road sign ID35.svg|15px|alt]] [[Garonor]]'', ''[[Fichier:France road sign ID36.svg|15px|alt]] [[O'Parinor]]''
+''Passage du département de la Seine-Saint-Denis à celui du [[Val-d'Oise]].''
+* '''{{échangeur autoroutier|[[Autoroute A104 (France)#Autoroute A170|A170]]|[[Avenue du Parisis|RD 170]]|A1}}''' à {{unité|14|km}} : [[Soissons]], [[Marne-la-Vallée]] ([[Autoroute A104 (France)|A104]]), [[Meaux]], ''[[Fichier:France road sign ID35.svg|15px|alt]] [[Parc d'activités Paris-Nord 2|Paris-Nord 2 (Sud)]]'', ''[[Parc des expositions de Paris-Nord - Villepinte]]'' ; Sarcelles, [[Gonesse]]
+** [[Fichier:France road sign C24a.svg|22x22px]] Passage à {{dunité|2|3|voies}}.
+* {{Sortie|6 Roissy-en-France}} à {{unité|19|km}} : ''[[Fichier:France road sign ID2.svg|15px|alt]] [[Aéroport de Paris-Charles-de-Gaulle|Ch. De Gaulle]]'', [[Goussainville (Val-d'Oise)|Goussainville]], [[Roissy-en-France]], ''[[Fichier:France road sign ID35.svg|15px|alt]] Paris-Nord 2 (Nord)'', ''[[Fichier:France road sign ID36.svg|15px|alt]] [[Aéroville]]''
+'''Section concédée à [[Société des autoroutes du Nord et de l'Est de la France|SANEF]] et payante. (sauf entre l'échangeur 6 à l'échangeur RN104/A104 et la sortie du Parc Astérix)'''
+* [[Fichier:France road sign C111.svg|22x22px]] Tunnel de Roissy ({{Unité|800|m}})
+[[Fichier:Roissy-en-France - Autoroute du Nord 01.jpg|thumb|Autoroute A1 à hauteur de [[Roissy-en-France]].]]
+[[Fichier:Finnair OH-LXF on runway of Airport Charles-de-Gaulle, Autoroute A1-2183.jpg|vignette|[[Airbus A320]] de la compagnie [[Finnair]] passant sur une piste de l'[[aéroport de Paris-Charles-de-Gaulle]], au-dessus de l'autoroute A1.]]
+* '''{{échangeur autoroutier|[[Fichier:SU4 - Rocade France.svg|22x22px]] [[Francilienne]] ([[Autoroute A104 (France)|A104]], [[Route nationale 104 (France)|RN 104]])|A1}}''' à {{unité|21|km}} : [[Fichier:France_road_sign_C207.svg|22x22px]] ''A4'', [[Lyon]] ([[Autoroute A5 (France)|A5]]), Marne-la-Vallée, [[Mitry-Mory]], [[Le Mesnil-Amelot]] ; [[Amiens]] (A16), [[Cergy]]-[[Pontoise]] (A15), [[Senlis (Oise)|Senlis]], [[Louvres]], Goussainville
+** [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à 130 km/h.
+** {{Aire de repos|de [[Chennevières-lès-Louvres|Chennevières]]|Lille – Paris}} à {{unité|23|km}}
+** {{Aire de repos|de [[Villeron]]|Paris – Lille}} à {{unité|24|km}}
+** {{Aire de service|de [[Vémars]]-Est|Paris – Lille|de Vémars-Ouest|Lille – Paris}} à {{unité|26|km}}
+* {{Sortie|7 Survilliers}} à {{unité|28|km}} : [[Chantilly]], [[Ermenonville]], [[Fosses]], [[Survilliers]]
+** {{Aire de repos|de [[Survilliers]]-Est|Paris – Lille|de Survilliers-Ouest|Lille – Paris}} à {{unité|30|km}} ''(aires de repos uniquement accessible pour les poids-lourds)''
+''Passage de la région [[Île-de-France]] à la région des [[Hauts-de-France]].<br /> Passage du département du Val-d'Oise à celui de l'[[Oise (département)|Oise]].''
+* {{Sortie|Parc Astérix}} à {{unité|33|km}} : [[Parc Astérix]] ''(L'accès au Parc Astérix est gratuit depuis la région parisienne et la sortie n° 7.)''
+* {{Sortie|8 Senlis}} à {{unité|42|km}} et {{unité|44|km}} ''(deux demi-échangeurs)'' : [[Creil]], Meaux, Chantilly, Senlis, [[Crépy-en-Valois]], Ermenonville
+* {{Péage|Péage de [[Chamant]] (à système fermé)}}
+** {{Aire de repos|de [[Roberval (Oise)|Roberval]]-Est|Paris – Lille|de Roberval-Ouest|Lille – Paris}} à {{unité|54|km}}
+* {{Sortie|9 Pont-Sainte-Maxence}} à {{unité|58|km}} : Creil, [[Pont-Sainte-Maxence]], [[Compiègne]] - ''sud''
+** {{Aire de repos|de [[Chevrières (Oise)|Chevrières]]|Paris – Lille|[[Longueil-Sainte-Marie]]|Lille – Paris}} à {{unité|60|km}}
+* {{Sortie|10 Arsy}} à {{unité|66|km}} : Compiègne - ''ouest'', [[Beauvais]], [[Noyon]], [[Clermont (Oise)|Clermont]], [[Estrées-Saint-Denis]], [[Arsy]]
+** {{Aire de repos|de [[Remy (Oise)|Remy]]|Paris – Lille|Bois d'[[Arsy]]|Lille – Paris}} à {{unité|68|km}}
+* {{Sortie|11 Ressons}} à {{unité|80|km}} : Compiègne - ''nord'', [[Saint-Just-en-Chaussée]], [[Montdidier (Somme)|Montdidier]] ou {{Aire de service|de [[Ressons-sur-Matz|Ressons]]-Ouest|Lille – Paris|de Ressons-Est|Paris – Lille}} ''(sortie de l'autoroute impossible depuis l'aire de service)''
+''Passage du département de l'Oise à celui de la [[Somme (département)|Somme]].''
+* {{Aire de repos|de [[Tilloloy]]-Est|Paris – Lille|Tilloloy-Ouest|Lille – Paris}} à {{unité|92|km}}
+* {{Sortie|12 Roye}} à {{unité|101|km}} : [[Chauny]]-[[Tergnier]], Noyon, Montdidier, [[Roye (Somme)|Roye]]
+** {{Aire de repos|de [[Goyencourt]]-Est|Paris – Lille|Goyencourt-Ouest|Lille – Paris}} à {{unité|104|km}}
+** {{Aire de repos|de [[Fonches-Fonchette|Fonches]]|Paris – Lille|d'[[Hattencourt]]|Lille – Paris}} à {{unité|109|km}}
+* '''{{échangeur autoroutier|[[Autoroute A29 (France)|A29]]|A1}}''' à {{unité|118|km}} : [[Reims]] ([[Autoroute A26 (France)|A26]]), [[Saint-Quentin]], Rouen, [[Amiens]]
+* {{Sortie|13 Péronne / Vallée de la Somme ([[route nationale 29 (France)|RD 1029]])}} à {{unité|121|km}} : Saint-Quentin, [[Péronne (Somme)|Péronne]] - ''sud'', ''[[Fichier:France road sign ID12a.svg|15px|alt]] [[Gare TGV Haute-Picardie|Haute Picardie]]''
+** {{Aire de service|de Cœur des Hauts-de-France}} à {{unité|122|km}} ''(anc. [[Assevillers]])''
+** {{Aire de repos|de [[Feuillères]]|Paris – Lille}} à {{unité|129|km}}
+* {{Sortie|13.1 Albert}} à {{unité|132|km}} : [[Albert (Somme)|Albert]], Péronne - ''nord'' '''OU''' {{Aire de repos|de [[Maurepas (Somme)|Maurepas]]|Lille – Paris}} ''(sortie de l'autoroute impossible depuis l'aire de repos)'' 
+* '''{{échangeur autoroutier|[[Autoroute A2 (France)|A2]]|A1}}''' à {{unité|137|km}} ''(demi-échangeur, depuis et vers Paris)'' : [[Ville de Bruxelles|Bruxelles (Brussel)]], [[Liège|Liège (Luik/Lüttich)]], [[Valenciennes]], [[Cambrai]]
+''Passage du département de la Somme à celui du [[Pas-de-Calais]].''
+* {{Aire de repos|de [[Beaulencourt]]|Paris – Lille}} à {{unité|143|km}}
+* {{Sortie|14 Bapaume}} à {{unité|147|km}} : [[Bapaume]], Albert
+** {{Aire de service|de [[Saint-Léger (Pas-de-Calais)|Saint-Léger]]|Lille – Paris}} à {{unité|155|km}}
+** {{Aire de repos|de [[Croisilles (Pas-de-Calais)|Croisilles]]|Paris – Lille}} à {{unité|156|km}}
+* {{Sortie|15 Arras}} à {{unité|165|km}} : [[Arras]] - ''est'' + {{Aire de service|de [[Wancourt]]-Est|Paris – Lille|de Wancourt-Ouest|Lille – Paris}}
+* '''{{échangeur autoroutier|[[Autoroute A26 (France)|A26]]|A1}}''' à {{unité|170|km}} : [[Dunkerque]], [[Calais]], [[Béthune]], [[Boulogne-sur-Mer]], Lyon (A5), [[Metz]]-[[Nancy]] (A4), Reims, Cambrai
+* {{Péage|Péage de [[Fresnes-lès-Montauban]] (à système fermé)}}
+* {{Sortie|16 Fresnes-lès-Montauban}} à {{unité|174|km}} : [[Douai]] - ''centre'', Arras - ''centre'', [[Vitry-en-Artois]], [[Biache-Saint-Vaast]]
+* {{Sortie|16.1 ''Zone Commerciale''}} à {{unité|182|km}} : ''[[Fichier:France road sign ID35.svg|15px|alt]] [[Hénin-Beaumont]] - Z. I.'', [[Drocourt (Pas-de-Calais)|Drocourt]], [[Rouvroy (Pas-de-Calais)|Rouvroy]], ''[[Fichier:France road sign ID36.svg|15px|alt]] Parc Commercial Pour La Maison''
+* {{Sortie|17 Hénin-Beaumont / Noyelles-Godault}} à {{unité|184|km}} : [[Noyelles-Godault]], ''[[Fichier:France road sign ID36.svg|15px|alt]] [[Noyelles (centre commercial)|Centre-Commercial Noyelles-Godault]]''
+* '''{{échangeur autoroutier|[[Autoroute A21 (France)|A21]]|A1}} (''[[Échangeur d'Hénin-Beaumont-Lens]]'')''' à {{unité|185|km}} : Douai, [[Lens (Pas-de-Calais)|Lens]], Hénin-Beaumont - ''centre''
+'''Section non-concédée gérée par la [[Direction interdépartementale des Routes#Direction interdépartementale des Routes Nord|DIR Nord]] et gratuite.'''
+* [[Fichier:AB-Brücke.svg]] Pont sur [[Fichier:Panneau cours d'eau France.png|20px]] la [[Deûle]].
+* {{Sortie|17.1 ''Plateforme Delta 3''}} à {{unité|189|km}} : [[Dourges]], ''[[Plate-forme multimodale Delta 3]]'', ''[[Fichier:France road sign ID16a.svg|15px|alt]] [[Fichier:France road sign ID16c.svg|15px|alt]] [[Fosse no 9 - 9 bis des mines de Dourges|Site Minier 9 - 9 Bis]]''
+* {{Sortie|18 Libercourt}} à {{unité|192|km}} : [[Carvin]], [[Libercourt]], [[Oignies (Pas-de-Calais)|Oignies]]
+''Passage du département du Pas-de-Calais à celui du [[Nord (département français)|Nord]].''
+[[Fichier:Fin A1, A25-RN356 à 1300 m.JPG|thumb|Échangeur A1-A25/RN 356 à 1300 mètres.]]
+* {{Aire de service|de [[Phalempin]]-Est|Paris – Lille|de Phalempin-Ouest|Lille – Paris}} à {{unité|199|km}}
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à 110 km/h.
+* {{Sortie|19 Seclin ([[Route nationale 49 (France)|RM 549]])}} à {{unité|201|km}} : [[Seclin]], [[Pont-à-Marcq]]
+** [[Fichier:France road sign B14 (90).svg|22x22px]] Limitation à 90 km/h.
+* {{Sortie|20/20a/20b Faches-Thumesnil}} à {{unité|205|km}} : [[Faches-Thumesnil]], ''[[Fichier:France road sign ID2.svg|15px|alt]] [[Aéroport de Lille-Lesquin|Lesquin]]'', ''[[Fichier:France road sign ID3.svg|15px|alt]] S.O.S. Mains'', [[Ronchin]], ''Centre Régional de Transport''
+** [[Fichier:Panneau-C24a-4.svg|22x22px]] Passage à {{dunité|2|4|voies}}. ''(2 voies vers A1 et 2 voies vers A22)''
+Début du Tronc Commun A1 (TCA1)
+* '''{{échangeur autoroutier|[[Autoroute A22 (France)|TCA22 (A22)]]|TCA1 (A1a, A1)|A1}}''' à {{unité|207|km}} : Bruxelles (Brussel), [[Gand|Gand (Gent)]] ([[Autoroute A27 (France)|A27]]), [[Roubaix]], [[Villeneuve-d'Ascq]], Ronchin, ''[[Stade Pierre-Mauroy|Grand Stade]]'', ''[[Fichier:France road sign ID1b.svg|15px|alt]] [[Quatre Cantons - Stade Pierre-Mauroy (métro de Lille)|4 Cantons]]''
+** Passage à {{dunité|2|5|voies}}.
+Fin du Tronc Commun A1
+* '''{{échangeur autoroutier|[[Autoroute A25 (France)|A25]]|TCA1 (A1)|A1}}''' à {{unité|210|km}} : Calais, Dunkerque, [[Armentières]], ''[[Tunnel sous la Manche]]'', [[Lille]] - ''[[Lille-Sud|sud]]'', Faches-Thusmenil, ''[[Fichier:France road sign ID3.svg|15px|alt]] C.H.R.U Eurasanté''
+* '''{{échangeur autoroutier|[[Route nationale 356|RN 356]]|A1}}''' à {{unité|211|km}} : Gand (A22), [[Tourcoing]], [[La Madeleine (Nord)|La Madeleine]], ''[[Fichier:SU4 - Rocade France.svg|22x22px]] [[Boulevard périphérique de Lille]]'', Lille - ''[[Lille-Centre|centre]]'', ''[[Saint-Maurice Pellevoisin|Saint-Maurice]]'', ''[[Hellemmes-Lille]]'', ''[[Euralille]]'', ''[[Lille#Voies de communication et transports|Gares]]''
+** [[Fichier:France road sign C208.svg|22x22px]] Fin de l'autoroute A1
+
+=== Ouvrages d'art ===
+Un passage pour [[Cervidae|cervidés]] est mis en place en dessous de l'autoroute, dans la [[forêt d'Ermenonville]]<ref>{{Article|prénom1=Jean-Marie |nom1=Couderc |titre=Autoroutes et espaces forestiers |périodique=Norois |mois=janvier-mars |année=1980 |numéro=105 |pages=39 |url texte=http://www.persee.fr/web/revues/home/prescript/article/noroi_0029-182x_1980_num_105_1_3869 |consulté le=23 février 2015}}.</ref>.
+
+=== Fréquentation ===
+[[Fichier:Dourges - Nœud autoroutier et ferroviaire de Dourges (08).JPG|thumb|[[Échangeur d'Hénin-Beaumont-Lens]] au-dessus de l'A1 à proximité de [[Dourges]].|alt=Photo de l'échangeur d'Hénin-Beaumont-Lens au niveau de Dourges.]]
+
+C'est l’autoroute la plus fréquentée d'[[Europe]]<ref>{{Lien web |titre=Dans les coulisses de l’A1, l’autoroute la plus fréquentée d’Europe |url=https://www.tf1info.fr/vie-pro/dans-les-coulisses-de-l-a1-l-autoroute-la-plus-frequentee-d-europe-2069132.html |site=tf1info.fr |date=2017-11-01 |consulté le=2023-04-18}}.</ref>{{,}}<ref>{{Lien archive |url=http://www.lepoint.fr/actualites-societe/2008-06-04/ces-pilleurs-d-autoroute-qui-cisaillent-les-cables-electriques/920/0/250338|titre=Ces pilleurs d'autoroute qui cisaillent les câbles électriques|auteur=Jamila Aridj|année=2008|site=Le Point|citation=Le petit groupe agissait la nuit sur l'autoroute A1, la plus fréquentée de France |consulté le=28 mai 2009 |horodatage archive=20120311060132}}.</ref>.
+
+Au lancement de l'autoroute A1, les fréquentations de [[week-end]] entre [[Corbie]] et [[Péronne (Somme)|Péronne]] ont augmenté<ref>{{Article |prénom1=Émile |nom1=Flament |titre=Quelques remarques sur l'espace touristique |périodique=Norois |année=1975 |numéro=88 |pages=611 |url texte=http://www.persee.fr/web/revues/home/prescript/article/noroi_0029-182x_1975_num_88_1_3481 |consulté le=25 février 2015}}.</ref>. En 1995, sur le tronçon entre [[Roissy-en-France]] et [[Combles]], le trafic des [[véhicule utilitaire|véhicules utilitaires]] était composé de {{unité|14200|[[poids lourd]]}}, soit 25 % des véhicules<ref>{{Article |prénom1=Alain |nom1=Barré |titre=Le réseau autoroutier français |sous-titre=un outil rapidement valorisé, des effets controversés |périodique=Annales de Géographie |année=1997 |volume=106 |numéro=593-594 |pages=84 |url texte=http://www.persee.fr/web/revues/home/prescript/article/geo_0003-4010_1997_num_106_593_20766 |consulté le=25 février 2015}}.</ref>. En 2006, l'[[Institut national de la statistique et des études économiques]] (Insee) recense {{unité|19000|véhicules}} par jour au niveau de la [[plate-forme multimodale Delta 3]] ; le pourcentage de poids lourd n'excède pas les 25 %<ref name="insee_tome8"/>. En 2006, en direction de [[Lille]], le trafic est très dense aux heures de pointe. Les trafics moyens journaliers annuels sont ainsi compris entre {{unité|102300|véhicules}} à [[Dourges]] et {{unité|177200}} à [[Ronchin]]<ref name="insee_tome8">{{Lien web |url=http://insee.fr/fr/regions/nord-pas-de-calais/default.asp?page=themes/ouvrages/atlas/08_07_trafics_routiers.htm |titre=Atlas transfrontalier Tome 8 : Transports et infrastructures - Trafics routiers |site=insee.fr |consulté le=25 février 2015}}.</ref>.
+
+Depuis les années 2010, les aires de service de l'autoroute A1, comme celles de tout l'axe Calais - Barcelone, connaissent une recrudescence d'[[Escroquerie#Arnaque à l'irlandaise|arnaques à l'irlandaise]], notamment sur les aires où est installé un [[Guichet automatique bancaire|distributeur automatique de billets]], comme celles de Vémars<ref name="arnaque">{{Lien web |auteur=Esther Serrajordia |url=https://www.rtl.fr/actu/justice-faits-divers/video-comment-les-arnaques-a-l-irlandaise-se-multiplient-sur-les-aires-d-autoroute-7798235452 |titre=VIDÉO - Comment les arnaques à l'irlandaise se multiplient sur les aires d'autoroute |date=27 août 2019 |site=rtl.fr |consulté le=22 décembre 2019}}.</ref>.
+
+Les entrées et sorties de [[Lille]] en heures de pointe s'avèrent souvent délicates :
+* au mieux depuis/jusqu'à la sortie [[Carvin]]/[[Libercourt]] ;
+* au pire depuis/jusqu'à l'[[échangeur d'Hénin-Beaumont-Lens]] entre l'A1 et l'[[Autoroute A21 (France)|A21]].
+
+L'autoroute n'y est « qu'à » {{dunité|2|3|voies}}, sauf l'entrée de Lille qui est à {{dunité|2|5|voies}} entre la bifurcation A1/A22 et A1/A25/RN 356 et partiellement en {{dunité|2|4|voies}} dans la région parisienne.
+Les entrées et sorties de Paris sont de même « chargées » depuis/jusqu'au [[boulevard périphérique de Paris|boulevard périphérique]] depuis/jusqu'au [[Le Bourget (Seine-Saint-Denis)|Bourget]] (sortie {{sortie|5}}), voire [[Gonesse]] (nœud A1/A3/A170) en week-end.
+
+== Tourisme ==
+=== Lieux visitables situés à proximité ===
+[[Fichier:Basilique St Denis façade ouest St Denis Seine St Denis 20.jpg|vignette|upright=0.6| La [[basilique Saint-Denis]] en 2020.]]
+* [[Saint-Denis (Seine-Saint-Denis)|Saint Denis]] ([[Basilique Saint-Denis|basilique]], [[Stade de France]])
+* [[Le Bourget (Seine-Saint-Denis)|Le Bourget]] ([[musée de l'Air et de l'Espace]], [[Aéroport de Paris - Le Bourget#Parc des expositions de Paris - Le Bourget|parc des expositions]])
+* [[Roissy-en-France]] ([[Aéroport de Paris-Charles-de-Gaulle|aéroport de Roissy-Charles-de-Gaulle]])
+* [[Louvres]] (musée [[Archéa|ARCHÉA]])
+* [[Plailly]] ([[parc Astérix]])
+* [[Chantilly]] ([[musée Condé]], [[Musée vivant du cheval]], [[Hippodrome de Chantilly|hippodrome]])
+* [[Ermenonville]] ([[parc Jean-Jacques-Rousseau]] [jardin paysager du {{s-|XVIII}}])
+* [[Senlis (Oise)|Senlis]] ([[Cathédrale Notre-Dame de Senlis|cathédrale Notre-Dame]], [[Arènes de Senlis|arènes gallo-romaines]])
+* [[Pont-Sainte-Maxence]] ([[forêt d'Halatte]], [[Abbaye Saint-Jean-Baptiste du Moncel|abbaye royale du Moncel]], [[château de Beaurepaire]] [plus beau jardin du {{s-|XIV}}], [[Église Sainte-Maxence de Pont-Sainte-Maxence|église Sainte-Maxence]] [l'une des rares églises entièrement gothiques])
+* [[Compiègne]] ([[Château de Compiègne|château impérial)]]
+* [[Péronne (Somme)|Péronne]] ([[historial de la Grande Guerre]])
+* [[Bassin minier du Nord-Pas-de-Calais]] ([[Inscription du bassin minier du Nord-Pas-de-Calais sur la liste du patrimoine mondial|patrimoine mondial]])
+* [[Lille]]
+
+=== Départements, régions traversées ===
+* [[Île-de-France]]
+** [[Seine-Saint-Denis]] (93)
+** [[Val-d'Oise]] (95)
+* [[Hauts-de-France]]
+** [[Oise (département)|Oise]] (60)
+** [[Somme (département)|Somme]] (80)
+** [[Pas-de-Calais]] (62)
+** [[Nord (département français)|Nord]] (59)
+
+== Impact ==
+À l'époque de sa construction, l'autoroute fut considérée comme le « chantier du siècle ». Celle-ci a donné lieu à des scènes de grand intérêt de la part du public, alors que pour les personnels employés à la réalisation de l'ouvrage, les conditions de travail ont été particulières<ref name="Gintzburger" /> :
+{{Citation bloc|Sur certaines parties du chantier, il a même fallu poser des barbelés. Les gens venaient, le dimanche, visiter les sites et roulaient sur les couches avant la pose du bitume… L'ambiance était formidable. C'était le Far West. On ne comptait pas les heures. Travailler seize heures par jour sur ce genre d'ouvrage était courant… Depuis, pour un ouvrage comparable, on a fortement réduit le personnel et on met au moins deux fois moins de temps…}}
+En 1961, lors de la construction de l'autoroute en [[Artois (province)|Artois]], les [[agriculteur]]s [[Expropriation pour cause d'utilité publique en droit français|expropriés]] ont demandé un remembrement de leurs terres. Celui-ci a été accordé dès l'année suivante, dans la loi complémentaire à la [[loi d'orientation agricole]] avec [[rétroaction|effet rétroactif]]<ref>{{Article |prénom1=Philippe |nom1=Violier |titre=Les exploitations agricoles face aux expropriations |sous-titre=L'exemple de la communauté urbaine de Lille entre 1950 et 1980 |périodique=Études rurales |année=1990 |volume=118 |numéro=118-119 |pages=224 |url texte=http://www.persee.fr/web/revues/home/prescript/article/rural_0014-2182_1990_num_118_1_4688 |consulté le=25 février 2015}}.</ref>.
+
+La couverture de l'A1 à hauteur de [[Saint-Denis (Seine-Saint-Denis)|Saint-Denis]] est alors rejetée par l’État, ce qui précipite la dégradation des conditions de vie et fermeture des commerces de l'avenue<ref name="Wilson"/>. Elle n'est réalisée qu'au moment de la construction du [[Stade de France]]<ref name="Wilson">{{lien web|url=http://www.leparisien.fr/saint-denis-93200/le-tunnel-de-l-a1-a-raye-de-la-carte-les-champs-elysees-de-saint-denis-05-05-2015-4747439.php|titre=Le tunnel de l’A1 a rayé de la carte les «Champs-Elysées» de Saint-Denis|éditeur=leparisien.fr|auteur=Jean-Gabriel Bontinck|date=5 mai 2015|consulté le=6 mai 2015}}</ref>.
+
+== Notes et références ==
+{{Références}}
+
+== Annexes ==
+{{Autres projets|commons=Category:A1 autoroute}}
+
+=== Articles connexes ===
+* [[Liste des autoroutes de France]]
+* Boulevards périphériques de [[Boulevard périphérique de Paris|Paris]] et de [[Boulevard périphérique de Lille|Lille]]
+* Routes européennes [[Route européenne 15|15]], [[Route européenne 17|17]], [[Route européenne 19|19]], [[Route européenne 42|42]]
+
+=== Liens externes ===
+{{Liens}}
+* [http://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A1_(Historique) Histoire de l'autoroute A1]
+* [http://saratlas.free.fr/index.php?page=autoroute&route=a1&lang=fr Autoroute A1 dans Saratlas]
+* [http://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A1 Fiche autoroutière de l'A1 sur WikiSara]
+* [http://www.sanef.com/fr Site de la SANEF, concessionnaire chargée de l'entretien]
+
+{{Palette|Autoroutes de France}}
+{{Portail|route|Transports en Île-de-France|Picardie|Nord-Pas-de-Calais|Hauts-de-France}}
+
+[[Catégorie:Autoroute en Île-de-France|001]]
+[[Catégorie:Autoroute dans les Hauts-de-France|001]]
+[[Catégorie:Autoroute A1 (France)]]

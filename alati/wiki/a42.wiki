@@ -1,0 +1,102 @@
+{{Voir homonymes|A42}}
+{{Infobox Route/France
+| statut = A
+| numéro = 42
+| autres_noms = ''Autoroute de la Saône et du Rhône''
+| image = L'A42 à Beynost.JPG
+| légende = L'A42 à [[Beynost]].
+| carte = France_A4X_A42.svg
+| longueur = 53.3
+| direction = sud-ouest / nord-est
+| dir1 = sud-ouest
+| dir2 = nord-est
+| ville1 = [[Boulevard périphérique de Lyon]] à [[Villeurbanne]]
+| ville2 = {{Route européenne|21}} {{Route européenne|62}} {{Autoroute française|A40}} à [[Druillat]]
+| villes_principales = [[Lyon]], [[Villeurbanne]], [[Beynost]], [[Ambérieu-en-Bugey]]
+| intersections = {{Route européenne|15}} {{Autoroute française|A46}} à [[Vaulx-en-Velin]] puis à [[Neyron]]<br />{{Route européenne|70}} {{Autoroute française|A432}} à [[La Boisse]]
+| ouverture = définitive : [[1987]]
+| réseau = Autoroute française, également {{Route européenne|15}} {{Route européenne|611}}
+| régions = [[Auvergne-Rhône-Alpes]]
+| départements = [[Métropole de Lyon]], [[Ain (département)|Ain]]
+| nb_reg = 1
+| nb_dep = 2
+| collectivité = oui
+|concessionnaire   = [[Autoroutes Paris-Rhin-Rhône|APRR]] (entre Vaulx-en-Velin et Druillat)
+|gestionnaire      = [[Direction interdépartementale des Routes#Direction interdépartementale des Routes Centre-Est|DIR Centre-Est]] (entre Lyon et Vaulx-en-Velin)
+| nom_notes = 
+}}
+En [[France]], l''''autoroute A42''' relie [[Lyon]] à [[Pont-d'Ain]] (20 km au sud de [[Bourg-en-Bresse]]) et aux autoroutes [[Autoroute A40 (France)|A40]], vers [[Genève]] et [[Autoroute A39 (France)|A39]] vers [[Strasbourg]]. Elle a été mise en service définitivement en [[1987]].
+
+Elle sert aussi de desserte aux communes suburbaines du nord-est de Lyon.
+
+== Caractéristiques ==
+
+* {{dunité|2|2|voies}}
+* mise en {{dunité|2|3|voies}} entre [[Lyon]] et [[Pérouges]] ({{unité|25|km}})
+* {{unité|53,3|kilomètres}} de longueur
+* Aires de service
+
+== Historique ==
+
+* [[1983]] : Jonction Neyron-Chazey de {{unité|30|km}}
+* [[1988]] : Section Chazey-Pont-d'Ain de {{unité|19.5|km}}
+
+== Sorties ==
+'''Section non-concédée à [[Direction interdépartementale des Routes#Direction interdépartementale des Routes Centre-Est|DIR Centre-Est]] et gratuite.'''
+* '''{{échangeur autoroutier|[[Fichier:SU4 - Rocade France.svg|22x22px]] [[Boulevard périphérique de Lyon|Périphérique de Lyon]]|A42}}''' à {{unité|0|km}} : 
+** ''Périphérique Nord'' : [[Clermont-Ferrand]], [[Roanne]] ([[Autoroute A89 (France)|A89]]), [[Lyon]] - ''centre'', ''Porte de la Doua''
+** ''Péripherique Sud'' : [[Marseille]] ([[Autoroute A7 (France)|A7]]), [[Grenoble]] ([[Autoroute A43 (France)|A43]]), ''Porte de Cusset''
+** [[Fichier:France road sign C207.svg|24x24px]] [[Fichier:Panneau-C24a.svg|22x22px]] [[Fichier:France road sign B14 (70).svg|22x22px]] Début de l'autoroute, début de {{dunité|2|3|voies}} et limitation à {{unité|70|km/h}}.
+** [[Fichier:AB-Brücke.svg]] [[Pont de Croix-Luizet]] sur [[Fichier:Panneau cours d'eau France.png|20px]] le [[Canal de Jonage]]
+* {{Sortie|1/1a Vaulx-en-Velin}} à {{unité|0,5|km}} et {{unité|1,2|km}} : [[Vaulx-en-Velin]] - ''centre''
+** [[Fichier:Panneau-C24a-2.svg|22x22px]] [[Fichier:France road sign B14 (90).svg|22x22px]] Passage à {{dunité|2|2|voies}} et limitation à 90 km/h.
+* {{Sortie|1b Villeurbanne}} à {{unité|0,9|km}} ''(quart-échangeur, depuis Bourg-en-Bresse)'' : [[Villeurbanne]] - ''Croix-Luizet'', ''Saint-Jean''
+* '''{{échangeur autoroutier|[[Fichier:SU4 - Rocade France.svg|22x22px]] [[Route nationale 346|RN 346]] ([[Autoroute A46 (France)|A46 Sud]])|A42}}'''  à {{unité|3|km}} : Marseille (A7), Grenoble (A43)
+Début du tronc commun avec la RN 346.
+* '''{{échangeur autoroutier|[[Fichier:SU4 - Rocade France.svg|22x22px]] A46 Nord|A42}}''' à {{unité|4|km}} : [[Paris]] ([[Autoroute A6 (France)|A6]]), [[Villefranche-sur-Saône]], Clermont-Ferrand (A89)
+Fin du tronc commun avec la RN 346.<br>
+''Passage du département du [[Rhône (département)|Rhône]] au département de l'[[Ain (département)|Ain]].''<br>
+'''Section concédée à [[Autoroutes Paris-Rhin-Rhône|APRR]] et payante (sauf entre l'A46 et la sortie 5 et entre les sorties 6 et 7).''' <br/>
+* {{Sortie|4 ''Parc de Miribel-Jonage''}} à {{unité|5|km}} : ''[[Grand Parc de Miribel-Jonage|Parc de Miribel-Jonage]]''
+* {{Sortie|5 Beynost}} à {{unité|9|km}} : [[Genève]], [[Miribel (Ain)|Miribel]], [[Saint-Maurice-de-Beynost]], [[Beynost]]
+* {{Péage|Péage de Beynost (à système fermé)}} à {{unité|10|km}}
+** [[Fichier:Panneau-C24a.svg|22x22px]] [[Fichier:France road sign B14 (130).svg|22x22px]] Passage à {{dunité|2|3|voies}} et limitation à 130 km/h (sens Lyon - Bourg-en-Bresse).
+* '''{{échangeur autoroutier|[[Autoroute A432 (France)|A432]]|A42}}''' à {{unité|13|km}} ''(trois-quarts-échangeurs, pas accessible depuis et vers Paris) '' : ''[[File:France road sign ID2.svg|15px|alt]] [[Aéroport de Lyon-Saint-Exupéry|Saint-Exupéry]]'', Grenoble ([[Autoroute A48 (France)|A48]]), [[Chambéry]], Paris, Villefranche-sur-Saône, [[Saint-Étienne]] ([[Autoroute A47 (France)|A47]]), Marseille (A7), Clermont-Ferrand (A89)
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à 110 km/h. (sens Bourg-en-Bresse - Lyon)
+* {{Sortie|5.1 La Boisse - Montluel}} à {{unité|14|km}} : [[La Boisse]], [[Montluel]]
+** {{Aire de service|de Lyon - Montluel|Bourg-en-Bresse - Lyon|Lyon - Dagneux|Lyon - Bourg-en-Bresse}} à {{unité|16|km}}
+* {{Sortie|6 Balan}} à {{unité|19|km}} : [[Balan (Ain)|Balan]], [[Dagneux]]
+* {{Sortie|7 Pérouges}} à {{unité|25|km}} : [[Pérouges]], [[Meximieux]], [[Lagnieu]], ''[[File:France road sign ID35.svg|15px|alt]] Z. I. Plaine de l'Ain''
+** {{Aire de repos|de Brotteaux|Bourg-en-Bresse - Lyon|Chazey-sur-Ain|Lyon - Bourg-en-Bresse}}
+* {{Sortie|8 Ambérieu-en-Bugey}} à {{unité|43|km}} : Chambéry, [[Ambérieu-en-Bugey]], [[Lagnieu]]
+* {{Sortie|9 Pont-d'Ain}} à {{unité|50|km}} : [[Pont-d'Ain]]
+* '''{{échangeur autoroutier|[[Autoroute A40 (France)|A40]]|A42}}''' à {{unité|53|km}} : Paris (A6), [[Strasbourg]] (A39) ; [[Milan]], Genève, [[Oyonnax]], [[Bourg-en-Bresse]]
+
+== Lieux sensibles ==
+(uniquement les lieux à bouchons et les pentes dangereuses) :
+
+* Avant les arrivées de Lyon, il y a des ralentissements entre la [[Route nationale 346|N346]] et Lyon.
+{{...}}
+
+== Départements traversés ==
+
+L'autoroute '''A42''' traverse deux départements.
+
+La liste suivante répertorie les villes desservies et les sites à visiter à proximité de l'autoroute :
+* [[Rhône (département)|Rhône]] : [[parc de Miribel-Jonage]] ;
+* [[Ain (département)|Ain]] : Village du Mas-Rillier, à [[Miribel (Ain)|Miribel]], [[Pérouges]], [[Ain (rivière)|La rivière d'Ain]].
+
+== Voir aussi ==
+{{autres projets|commons=Category:A42 autoroute|commons titre=Autoroute A42}}
+
+=== Articles connexes ===
+* [[Liste des autoroutes de France]]
+
+=== Liens externes ===
+* [http://saratlas.free.fr/index.php?page=autoroute&route=a42&lang=fr Autoroute A42 dans Saratlas]
+* [http://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A42 Article de l'A42 sur WikiSara]
+
+{{Palette|Autoroutes de France}}
+{{Portail|Rhône-Alpes|route}}
+
+[[Catégorie:Autoroute A42 (France)|*]]

@@ -1,0 +1,202 @@
+{{Voir homonymes|A35}}
+{{Infobox Route/France
+| statut = A
+| numéro = 35
+| autres_noms = Autoroute des cigognes<br/>L'Alsacienne
+| image = 150614-Autoroute-A36-16.jpg
+| légende = Intersections entre l'A35 et l'A36.
+| carte = Autoroute 35.png
+| longueur = 172
+| direction = nord / sud
+| dir1 = nord
+| dir2 = sud
+| ville1 = {{Cartouche route|DE|B|9}} à [[Scheibenhard]]
+| ville2 = {{Cartouche route|CH|E|25}} {{Cartouche route|CH|E|60}} {{Cartouche route|CH|A|3}} à [[Saint-Louis (Haut-Rhin)|Saint-Louis]]
+| villes_principales = [[Strasbourg]], [[Sélestat]], [[Colmar]], [[Mulhouse]], [[Saint-Louis (Haut-Rhin)|Saint-Louis]]
+| intersections = {{Route européenne|25}} {{Autoroute française|A4}} à [[Vendenheim]]<br />{{Route européenne|25}} {{Autoroute française|A355}} à [[Vendenheim]] et à [[Duttlenheim]]<br />{{Route métropolitaine A|A351|351}} à [[Strasbourg]]<br/>{{Autoroute française|A352}} à [[Duttlenheim]]<br/>{{Route européenne|25}} {{Route départementale|83|Haut-Rhin}} à [[Saint-Hippolyte (Haut-Rhin)|Saint-Hippolyte]] et [[Houssen]]<br />{{Route européenne|54}} {{Route européenne|60}} {{Autoroute française|A36}} à [[Sausheim]]
+| ouverture = [[1965]]
+| réseau = Autoroute française, également {{Route européenne|25}} {{Route européenne|60}}
+| régions = [[Grand Est]]
+| départements = [[Bas-Rhin]], [[Haut-Rhin]] ([[Collectivité européenne d'Alsace]])
+| nb_reg = 1
+| nb_dep = 2
+|gestionnaire      = [[Collectivité européenne d'Alsace]]<br>[[Eurométropole de Strasbourg]]
+| nom_notes = 
+}}
+
+L’'''autoroute A35''', aussi appelée '''autoroute des cigognes''' ou '''l'Alsacienne''', est une [[autoroute]] traversant l'[[Alsace]] du sud au nord. Sa longueur est d'environ {{unité|180|km}}, à 2×2 voies, sauf pour la partie qui dessert [[Strasbourg]] où elle est à 2×3 voies et 2×4 voies. L'A35 a un tronc commun de {{unité|9|km}} avec l'[[Autoroute A4 (France)|A4]] au nord de Strasbourg.
+
+Elle commence au poste [[Frontière entre la France et la Suisse|frontière franco-suisse]] de [[Saint-Louis (Haut-Rhin)|Saint-Louis]] dans le prolongement de l'[[autoroute suisse A3]] puis dessert [[Mulhouse]], [[Colmar]], [[Sélestat]], [[Obernai]], [[Strasbourg]] et enfin [[Lauterbourg]]. Elle se connecte à la [[Bundesstraße 9|B9]] allemande près de [[Lauterbourg]].
+
+== Caractéristiques ==
+L'A35 est inachevée, car il manque un tronçon entre [[Houssen]] et [[Guémar]] (la continuité du tracé étant assurée par la [[Route départementale 83 (Haut-Rhin)|D83]], [[route pour automobiles]]). La section entre [[Ebersheim]] et [[Entzheim]], dite '''voie rapide du piémont des Vosges''' ('''VRPV'''), a été mise en service de façon définitive en {{date|janvier 2011}} après une longue période de travaux.
+
+L'A35 est une autoroute non concédée, elle est donc gratuite. L'A35 est parallèle à l'[[Bundesautobahn 5|A5 allemande]]. De ce fait, de nombreux poids lourds en transit préfèrent passer par l'A35 plutôt que par l'A5 afin de ne pas avoir à payer la taxe allemande ''LKW-Maut''. Face à ce problème, la [[collectivité européenne d'Alsace]] souhaite mettre en place une [[écotaxe]] pour limiter ce trafic<ref>[http://www.francebleu.fr/amp/infos/transports/vers-un-retour-de-l-ecotaxe-en-alsace-les-elus-doivent-enfin-avoir-le-courage-de-la-mettre-en-oeuvre-1551338795 Vers une écotaxe en Alsace ? "les élus doivent enfin avoir le courage de la mettre en œuvre" Yves Bur], article ''France Bleu'' du 28 février 2019.</ref>.
+
+Depuis le {{date|1 janvier 2021}}, la portion de l'A35 située sur le territoire de l'[[Eurométropole de Strasbourg]] se nomme M35 ([[Route métropolitaine en France|métropolitaine]])<ref>{{Lien web |langue=FR-fr |auteur1=Olivier CLAUDON |titre=Strasbourg. M35 : bientôt une voie réservée aux transports en commun |url=https://www.dna.fr/environnement/2021/03/11/m35-bientot-une-voie-reservee-aux-transports-en-commun |site=www.dna.fr |périodique=[[Dernières Nouvelles d'Alsace]] |date=11-03-2021 |consulté le=2021-03-15}}.</ref>.
+
+Depuis le {{date|17 décembre 2021}}, l'[[Autoroute A355 (France)|A355]] (Grand contournement ouest de Strasbourg) relie l'intersection entre l'A35 et l'[[Autoroute A352 (France)|A352]] à [[Duttlenheim]] jusqu'à la jonction entre l'A35 Nord et l'[[Autoroute A4 (France)|A4]] à [[Vendenheim]]. Le transit des poids-lourds est désormais interdit sur la M35. Aux heures de pointe, la vitesse y est réduite à {{unité|70|km/h}} et une voie est réservée aux transports en commun et au covoiturage<ref>{{Lien web |titre=ÉVOLUTION DES MODALITÉS DE CIRCULATION SUR LA M35 |url=https://www.strasbourg.eu/evolution-modalites-circulation-m35 |site=Strasbourg.eu |consulté le=18 décembre 2021}}.</ref>. Un mois après l’ouverture de l’A355, le trafic des poids lourds sur la M35 a fortement baissé. Seuls 10 à 20 % d’entre eux ne respectent pas l’interdiction de transit<ref>{{Lien web |auteur1=Antoine Balandra |titre=Contournement ouest de Strasbourg : un mois après l'ouverture, trafic timide des voitures sur l'A355 |url=https://www.francebleu.fr/infos/transports/strasbourg-un-mois-apres-l-ouverture-trafic-timide-des-voitures-sur-l-a355-1642696058 |site=francebleu.fr |périodique=ici.fr |date=23-01-2022 |consulté le=}}.</ref>.
+
+Huit mois après la mise en service de l'A355, le nombre de poids lourds sur la M35 a diminué de 33 % et le nombre de voitures de 6 %<ref>{{Article |auteur1=Gilles Varela |titre=Moins de poids lourds, moins de bouchons, l’autoroute A355 soulage Strasbourg |périodique=[[20 Minutes (France)|20 Minutes]] |date=30-08-2022 |lire en ligne=https://www.20minutes.fr/strasbourg/3343655-20220830-moins-poids-lourds-moins-bouchons-autoroute-a355-soulage-strasbourg |consulté le=}}.</ref>.
+
+* La chaussée est déformée de la sortie 18 à la 14 : la vitesse est limitée à {{unité|110|km/h}}.
+* L'A35 devient la [[Route départementale 83 (Haut-Rhin)|route départementale 83]] de la sortie 23 à la 18 : la vitesse limite reste à {{unité|110|km/h}}.
+* Interdiction de doubler pour les poids-lourds de plus de 3,5 t entre Colmar et Sélestat de 7 h à 20 h. Leur vitesse est dorénavant limitée à {{unité|80|km/h}}, également sur la rocade est de Colmar.
+
+== Gestion ==
+De {{date|2006}} à {{date|2021}}, l'autoroute A35 était gérée par la [[Direction interdépartementale des Routes|DIR Est]]. Depuis {{date|2021}}, la [[Collectivité européenne d'Alsace]] assure la gestion de l'autoroute excepté la portion située sur le territoire de l'[[Eurométropole de Strasbourg]].
+
+== Sorties ==
+
+Les sorties sur l'autoroute sont numérotées en partant du nord, de la frontière allemande vers Strasbourg, du {{numéro|59}} en diminuant jusqu'au {{numéro|49}}. Après avoir eu un tracé en commun avec l'A4, la première sortie vers le sud porte le {{numéro|1}} et la numérotation est croissante jusqu'à la frontière suisse où la dernière sortie porte le {{numéro|37}}. Cette particularité est due au fait qu'au moment de l'ouverture de son tracé au sud de Strasbourg, le tronçon situé au nord, entre Strasbourg et la frontière allemande, ne devait pas être classé comme autoroute : ce tronçon avait été tout d'abord classé route industrielle (RI 2) jusqu'en 1980, desservant la [[Petroplus Raffinage Reichstett|raffinerie de Reichstett]], puis avait été classé dans le réseau départemental (RD 300) jusque vers 1994. Transformée en autoroute et désignée A35 Nord, les sorties de l'ex-RD 300 ont été numérotées dans le prolongement des sorties de l'A4 en provenance de Paris.
+
+Voici le détail :
+
+=== A35 Nord ===
+[[Fichier:140530-Autoroute-A35-01.jpg|thumb|Autoroute A35 de la frontière allemande]]
+'''Section non-concédée gérée par la [[Collectivité européenne d'Alsace]] et gratuite.'''<br/>
+* La route [[Bundesstraße 9|allemande B9]] devient la route express française [[Route nationale 363|RD 1363]].
+* [[Fichier:Traffic_sign_of_border_with_France.svg|25x25px]] ''Entrée dans le territoire français, entrée dans la région [[Grand Est]], dans la [[Collectivité européenne d'Alsace]].
+** [[Fichier:Panneau-C24a-2.svg|22x22px]] [[Fichier:France road sign B14 (90).svg|22x22px]] Début de la route express RD 1363, début de {{dunité|2|2|voies}} et limitation à {{unité|90|km/h}}.
+* {{Sortie|59 Scheibenhard}} à {{unité|0.5|km}} : [[Lauterbourg]], [[Wissembourg]], [[Scheibenhard]]
+** [[Fichier:France road sign C107.svg|24x24px]] [[Fichier:France road sign B14 (110).svg|22x22px]] Fin de la route express RD 1363, début de la route à accès réglementée A35 et limitation à {{unité|110|km/h}}.
+** [[Fichier:France road sign C108.svg|24x24px]] [[Fichier:France road sign C207.svg|24x24px]] [[Fichier:France road sign B14 (130).svg|22x22px]] Fin de la route à accès réglementée A35, début de l'autoroute A35 et limitation à {{unité|130|km/h}}.
+* {{Sortie|58 Schaffhouse}} à {{unité|7|km}} ''(demi-échangeur, depuis et vers Strasbourg)'' : [[Munchhausen]], [[Mothern]], [[Wintzenbach]]
+* {{Sortie|57 Seltz}} à {{unité|10|km}} : [[Seltz]], [[Niederrœdern]], [[Hatten]], [[Betschdorf]]
+* {{Sortie|56 Forstfeld}} à {{unité|16|km}} : [[Roppenheim]], [[Beinheim]], [[Baden-Baden]], [[Rastatt]], [[Karlsruhe]], [[Bâle|Bâle (Basel)]] ([[Bundesautobahn 5|A5]])
+** {{Aire de repos|de Rœschwoog|Strasbourg-Allemagne}}
+* {{Sortie|55 Rountzenheim}} à {{unité|21|km}} : [[Haguenau]], [[Rountzenheim]], [[Rœschwoog]], [[Soufflenheim]]
+* {{Sortie|54 Sessenheim}} à {{unité|25|km}} ''(demi-échangeur, depuis et vers Strasbourg)'' : [[Sessenheim]], [[Soufflenheim]], [[Schirrhoffen]]
+* {{Sortie|53 Rohrwiller}} à {{unité|32|km}} : [[Herrlisheim]], [[Drusenheim]], [[Bischwiller]], Haguenau, [[Rohrwiller]]
+* {{Sortie|52 Offendorf}} à {{unité|36|km}} : Rastatt, Baden-Baden, [[Achern]], Karlsruhe, Bâle (Basel) (A5)
+* {{Sortie|51 Gambsheim}} à {{unité|38|km}} : [[Gambsheim]], [[Weyersheim]]
+** {{Aire de repos|du Landgraben|Allemagne-Strasbourg|de la Pfeffermatt|Strasbourg-Allemagne}}
+* {{Sortie|50 La Wantzenau}} à {{unité|43|km}} : [[La Wantzenau]], [[Kilstett]]
+* {{Sortie|49 Hœrdt}} à {{unité|45|km}} : [[Reichstett]], [[Hœrdt]]
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Avant échangeur. Limitation à 110 km/h.
+** [[Fichier:France road sign C24b.svg|22x22px]] [[Fichier:France road sign B14 (90).svg|22x22px]] Sur l'échangeur. Séparation de la 2 voies. Limitation à 90 km/h.
+* '''{{échangeur autoroutier|[[Autoroute A4 (France)|A4]]|[[Autoroute A355 (France)|A355]] ([[Fichier:Péage.png|30 px]])|A35}}''' : 
+** A4 : ([[Paris]], [[Metz]]-[[Nancy]], [[Sarrebruck|Sarrebruck (Saarbrücken)]] ([[Autoroute A320 (France)|A320]])) [[Fichier:Péage.png|30 px]], Haguenau, [[Schiltigheim]]
+** A355 : [[Mulhouse]] (A35), [[Strasbourg]], ''[[File:France road sign ID13b.svg|15px|alt]] [[Port autonome de Strasbourg|Port de Strasbourg]], [[File:France road sign ID2.svg|15px|alt]] [[Aéroport de Strasbourg-Entzheim|Strasbourg-Entzheim]]''
+
+=== M35 ===
+'''Section non-concédée gérée par l'[[Eurométropole de Strasbourg]] et gratuite.'''
+* [[Fichier:France road sign C208.svg|25x25px]] Fin de l'Autoroute A4
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Début de la route métropolitaine M35 et entrée dans la périphérie de [[Strasbourg]].
+* {{Sortie|48 Reichstett}} : [[Reichstett]], [[Mundolsheim]], [[Vendenheim]], ''[[Fichier:France road sign ID36.svg|15px|alt]] Zone Commerciale Nord''
+** [[Fichier:Panneau de début de voie réservée aux véhicules à occupation multiple.svg|22x22px]] [[Fichier:France road sign C24a.svg|22x22px]] [[Fichier:France road sign B14 (90).svg|22x22px]] Début de {{dunité|2|3|voies}} avec la voie de gauche dédiée au covoiturage. Entrée dans l'agglomération de [[Strasbourg]].
+* {{Sortie|49 Hœnheim}} : [[Hœnheim]], [[Souffelweyersheim]], [[Niederhausbergen]]
+* {{Sortie|50 Bischheim}} : [[Bischheim]], [[Schiltigheim]], [[Mittelhausbergen]], ''[[Espace européen de l'entreprise]]''
+* {{Sortie|51 Place de Haguenau}} ''(demi-échangeur, depuis et vers Paris)'' : [[Strasbourg]] - ''[[Centre-ville (Strasbourg)|centre]], [[Avenue des Vosges]], [[La Robertsau|Robertsau]], [[Institutions européennes à Strasbourg|Institutions Européennes]]''
+** [[Fichier:Panneau de fin de voie réservée aux véhicules à occupation multiple en France.svg|22x22px]] [[Fichier:France road sign C24b-2.svg|22x22px]] Fin de la voie de covoiturage, fin de {{dunité|2|3|voies}}.
+** [[Fichier:Panneau-C24a-2.svg|22x22px]] [[Fichier:France road sign B14 (70).svg|22x22px]] Passage à {{dunité|2|2|voies}} et limitation à 70 km/h.
+* {{Sortie|1 [[échangeur de Cronenbourg|Cronenbourg]]}} à {{unité|58|km}} : ''[[Wacken (Strasbourg)|Wacken]], [[Cronenbourg]], [[Place des Halles (Strasbourg)|Place des Halles]]''
+* '''{{Échangeur autoroutier|[[Autoroute A350 (France)|RM 2350]]|RM 35}}''' : ''Robertsau, ''Wacken'', ''Cronenbourg, Place des Halles, Avenue des Vosges, Institutions Européennes''
+** [[Fichier:Panneau-C24a-4.svg|22x22px]] Passage à {{dunité|2|4|voies}}
+* {{Sortie|2 Place des Halles}} à {{unité|59|km}} ''(quart échangeur, depuis Saint-Louis)'' : ''Place des Halles''
+* '''{{échangeur autoroutier|[[Autoroute A351 (France)|RM 351]]|RM 35}}''' : Nancy-Metz, [[Saverne]], ''[[Hautepierre]], [[Koenigshoffen]]''
+* {{Sortie|3 Porte Blanche}} à {{unité|60|km}} ''(demi-échangeur, depuis et vers Saint-Louis)'' : ''Porte Blanche''
+* {{Sortie|4 Porte de Schirmeck ([[Route nationale 4 (France métropolitaine)|RN 4]])}} à {{unité|61|km}} : [[Kehl]], Strasbourg - ''centre, [[Parc de l'Étoile]], [[Meinau]], [[Montagne Verte]], [[Elsau (Strasbourg)|Elsau]]'', [[Lingolsheim]], ''Z. I. Plaine des Bouchers''
+** [[Fichier:France road sign C24a.svg|22x22px]] [[Fichier:France road sign B14 (90).svg|22x22px]] Passage à {{dunité|2|3|voies}} et limitation à 90 km/h.
+* {{Sortie|5 Baggersee}} à {{unité|64|km}} : [[Illkirch-Graffenstaden]] - ''nord'', Strasbourg - ''Meinau, Parc d'Innovation''
+** {{Aire de service|de Ostwald}}
+* {{Sortie|6 [[échangeur de la Vigie|La Vigie]] ([[Route nationale 83 (France)|RM 83]])}} à {{unité|67|km}} : Illkirch-Graffenstaden, [[Ostwald]]
+** [[Fichier:Panneau-C24a-2.svg|22x22px]] Passage à {{dunité|2|2|voies}}.
+* {{Sortie|7 Geispolsheim ([[Route nationale 353|RM 353]])}} à {{unité|70|km}} : [[Offenbourg|Offenbourg (Offenburg)]], [[Geispolsheim]], [[Fegersheim]], Lingolsheim, ''[[File:France road sign ID13b.svg|15px|alt]] [[Port de Strasbourg]], [[File:France road sign ID2.svg|15px|alt]] [[Aéroport de Strasbourg-Entzheim|Strasbourg-Entzheim]]''
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à 110 km/h.
+* {{Sortie|8 Entzheim}} à {{unité|75|km}} : [[Duppigheim]], [[Duttlenheim]], [[Entzheim]], ''Parc d'Activités Économiques''
+
+=== A35 Sud ===
+'''Section non-concédée gérée par la [[Collectivité européenne d'Alsace]] et gratuite.'''
+* '''{{échangeur autoroutier|[[Autoroute A352 (France)|A352]]|A355|A35}}''' : 
+** A352 ''(demi-échangeur, depuis et vers Strasbourg)'' : [[Schirmeck]], [[Molsheim]], [[Saint-Dié-des-Vosges]] ''par [[Col de Saales|Col]]''
+** A355 ([[Fichier:Péage.png|30 px]]) : Paris, Nancy-Metz (A4), Karlsruhe (A35 Nord), Strasbourg
+** [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à 130 km/h.
+* {{Sortie|9 Innenheim}} à {{unité|78|km}} : [[Innenheim]], Duttlenheim
+* {{Sortie|10 Bischoffsheim}} à {{unité|81|km}} : [[Bischoffsheim]], ''[[File:France road sign ID35.svg|15px|alt]] Z. I. Obernai'', [[Krautergersheim]]
+* {{Sortie|11 Obernai}} à {{unité|84|km}} ''(demi-échangeur, depuis et vers Strasbourg)'' : [[Obernai]], [[Niedernai]], ''[[File:France road sign ID16a.svg|15px|alt]] [[Mont Sainte-Odile]]''
+* {{Sortie|11.1 Schirmeck}} à {{unité|85|km}} ''(demi-échangeur, depuis et vers Saint-Louis)'' : Schirmeck, Molsheim, [[Rosheim]], ''[[File:France road sign ID35.svg|15px|alt]] Z. I. Obernai''
+* {{Sortie|12 Benfeld}} à {{unité|87|km}} : [[Benfeld]], [[Barr (Bas-Rhin)|Barr]], [[Valff]], [[Goxwiller]], Obernai, Niedernai
+* {{Sortie|13 Barr}} à {{unité|92|km}} : Barr, [[Epfig]], [[Mittelbergheim]], [[Zellwiller]], Barr - ''Z. A., [[File:France road sign ID16a.svg|15px|alt]] Mont-Sainte-Odile''
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à 110 km/h.
+* {{Sortie|14 Erstein}} à {{unité|101|km}} ''(demi-échangeur, depuis et vers Saint-Louis)'' : [[Erstein]], Benfeld, [[Kogenheim]]
+* {{Sortie|15 Ebersheim}} à {{unité|102|km}} ''(demi-échangeur, depuis et vers Strasbourg)'' : [[Scherwiller]], [[Dambach-la-Ville]], [[Ebersheim]]
+* {{Sortie|16 Sélestat - ''nord''}} à {{unité|106|km}} : [[Sélestat]] - ''centre'', [[Ebersmunster]], Ebersheim, Epfig, Dambach-la-Ville, Scherwiller, ''[[File:France road sign ID35.svg|15px|alt]] Z. I. Nord''
+* {{Sortie|17 Sélestat - ''ouest''}} à {{unité|109|km}} : [[Fribourg-en-Brisgau|Fribourg-en-Brisgau (Freiburg im Breisgau)]], Nancy, Saint-Dié-des-Vosges ''par [[Tunnel Maurice-Lemaire|Tunnel]]'' ([[Fichier:Péage.png|30 px]]), [[Sainte-Marie-aux-Mines]], [[Villé]], Sélestat
+** {{Aire de service|du Haut-Koenigsbourg}}
+[[Fichier:20140530 Aire-Koenigsbourg-cigogne.jpg|vignette|Aire de service du « Haut-Koenigsbourg cigognes ».]]
+* {{Sortie|18 Saint-Hippolyte}} à {{unité|115|km}} : Sélestat - ''centre'', [[Saint-Hippolyte (Haut-Rhin)|Saint-Hippolyte]], ''[[File:France road sign ID16a.svg|15px|alt]] [[château du Haut-Koenigsbourg|Haut-Koenigsbourg]]''
+** [[Fichier:France_road_sign_C208.svg|22px]] [[Fichier:France_road_sign_C107.svg|22px]] Fin de l'autoroute A35 et début de la route à accès réglementée RD 83.
+
+=== [[Route départementale 83 (Haut-Rhin)|RD 83]] ===
+'''Section non-concédée gérée par la [[Collectivité européenne d'Alsace]] et gratuite.'''
+* {{Sortie|19 Bergheim}} ''(demi-échangeur, depuis Strasbourg et vers Saint Louis)'' : [[Bergheim]]
+* {{Sortie|20 Guémar}} à {{unité|118|km}} : [[Ribeauvillé]], [[Illhaeusern]], [[Guémar]], Bergheim, [[Marckolsheim]]
+* {{Sortie|21 Ostheim - ''nord''}} à {{unité|121|km}} ''(quart-échangeur, depuis Strasbourg)'' : [[Riquewihr]], [[Beblenheim]], [[Ostheim]]
+* {{Sortie|22 Ostheim - ''sud''}} à {{unité|123|km}} : Ribeauvillé, Riquewihr, Beblenheim, Ostheim
+* {{Sortie|23 Houssen}} à {{unité|126|km}} : [[Colmar]], [[Munster (Haut-Rhin)|Munster]], [[Kaysersberg]], [[Bennwihr]], [[Houssen]], ''[[Fichier:France road sign ID2.svg|15px|alt]] [[Aéroport de Colmar - Houssen|Aérodrome]]''
+** [[Fichier:France_road_sign_C108.svg|22px]] [[Fichier:France_road_sign_C207.svg|22px]] Fin de la route à accès réglementée RD 83 et redevient l'autoroute A35.
+
+=== A35 Sud ===
+'''Section non-concédée gérée par la [[Collectivité européenne d'Alsace]] et gratuite.'''
+* {{Sortie|24 Colmar - ''nord''}} ''(demi-échangeur, depuis et vers Saint-Louis)'' à {{unité|132|km}} : Nancy, Saint-Dié-des-Vosges ''par [[Col du Bonhomme (massif des Vosges)|Col]]'', [[Épinal]], [[Kaysersberg]], ''Zones économiques''
+* {{Sortie|25 Colmar - ''est''}} à {{unité|133|km}} : Fribourg-en-Brisgau (Freiburg im Breisgau), [[Neuf-Brisach]], [[Horbourg-Wihr]], Colmar - ''sud, Semm''
+** [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à 130 km/h.
+* {{Sortie|26 Colmar - ''sud''}} ''(demi-échangeur, depuis et vers Saint-Louis)'' à {{unité|138|km}} : Colmar - ''centre''
+** {{Aire de repos|du Fronholtz|Strasbourg - Saint-Louis}}
+* {{Sortie|27 Sainte-Croix-en-Plaine}} à {{unité|139|km}} : [[Sainte-Croix-en-Plaine]], [[Herrlisheim-près-Colmar]], [[Sundhoffen]]
+* {{Sortie|28 Niederhergheim}} à {{unité|142|km}} : [[Niederhergheim]], Herrlisheim-près-Colmar, Munster, [[Gérardmer]]
+** {{Aire de repos|La Plaine|Saint-Louis - Strasbourg}}
+* {{Sortie|29 Niederentzen}} : [[Guebwiller]], [[Rouffach]], [[Niederentzen]]
+* {{Sortie|30 Meyenheim}} à {{unité|149|km}} ''(demi-échangeur, depuis et vers Strasbourg)'' : [[Meyenheim]]
+* {{Sortie|31 Ensisheim}} à {{unité|155|km}} : [[Ensisheim]], Meyenheim, Guebwiller, Neuf-Brisach, ''[[Écomusée d'Alsace|Écomusée]]''
+** {{Aire de service|de Battenheim|Saint-Louis - Strasbourg}}
+* {{Sortie|32 Sausheim}} à {{unité|164|km}} : [[Sausheim]], [[Kingersheim]], [[Wittenheim]]
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à 110 km/h, sur la sortie de l'échangeur, vers A35.
+* '''{{échangeur autoroutier|[[Autoroute A36 (France)|A36]]|A35}}''' : Fribourg-en-Brisgau (Freiburg im Breisgau), [[Mulhouse]], [[Lyon]] ([[Autoroute A39 (France)|A39]]), Paris (A6), [[Lörrach]] (A5), ''[[Usine Stellantis de Mulhouse|Usine Peugeot-Citroën de Mulhouse]]''
+** [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à 130 km/h, après l'échangeur.
+* {{Sortie|33 Rixheim}} à {{unité|170|km}} : [[Habsheim]], [[Rixheim]]
+* {{Sortie|34 Sierentz}} à {{unité|180|km}} : [[Sierentz]], [[Kembs]]
+[[Fichier:A35 S-35 1.JPG|thumb|{{Sortie|35 Bartenheim}} vers [[Mulhouse]]]]
+* {{Sortie|35 Bartenheim}} à {{unité|184|km}} : [[Bartenheim]]
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à 110 km/h.
+* {{Sortie|36 ''EuroAirport''}} à {{unité|188|km}} : ''[[Fichier:France road sign ID2.svg|15px|alt]] [[Aéroport international Basel-Mulhouse-Freiburg|EuroAirport]]'', [[Blotzheim]]
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à 110 km/h, sens Saint-Louis - Strasbourg. <br>[[Fichier:France road sign B14 (90).svg|22x22px]] Limitation à 90 km/h, (sens Strasbourg - Saint-Louis).
+* {{Sortie|37 Saint-Louis}} à {{unité|192|km}} : Lörrach, [[Saint-Louis (Haut-Rhin)|Saint-Louis]], [[Huningue]], [[Hésingue]], [[Altkirch]], Blotzheim
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à 110 km/h, sens Saint-Louis - Strasbourg. <br>[[Fichier:France road sign B14 (70).svg|22x22px]] Limitation à 70 km/h, (sens Strasbourg - Saint-Louis).
+** [[Fichier:France_road_sign_C208.svg|22px]] Fin de l'autoroute A35.
+* [[Fichier:CH-Vorschriftssignal-Zollhaltestelle-1.svg|22x22px]] Douane de Saint-Louis
+'''{{France}} / {{Suisse}}''', [[Frontière entre la France et la Suisse|Frontière franco-suisse]]
+* [[Fichier:Swiss border sign.svg|22x22px]] Entrée sur le territoire suisse : [[Fichier:CH-Hinweissignal-Autobahn.svg|22px]] L'[[Autoroute A3 (Suisse)|autoroute suisse A3]] en direction de [[Bâle|Bâle (Basel)]], [[Zurich|Zurich (Zürich)]], [[Berne|Berne (Bern)]], [[Delémont]], [[Lucerne|Lucerne (Luzern)]] ([[Autoroute A2 (Suisse)|A2]])
+
+== Lieux sensibles ==
+(uniquement les lieux à bouchons et les pentes dangereuses) :
+
+[[Fichier:A35 S35 2.jpg|vignette|{{Sortie|35|Bartenheim}} vers [[Bâle]].]]
+
+* Frontière franco-suisse : l'accès à la Suisse étant fermé aux poids-lourds les week-ends et jours fériés, ceux-ci stationnent souvent le long de l'autoroute, sur la bande d'arrêt d'urgence, dans le sens Mulhouse > Bâle.
+* {{Sortie|35|[[Bartenheim]]}} : Bouchons, le soir à cause du retour en France des travailleurs frontaliers.
+* Traversée de [[Strasbourg]] : comme dans toutes les grandes villes, les autoroutes desservant l'agglomération strasbourgeoise (A4, A35, A350 et A351) sont saturées le matin et en fin d'après-midi. La traversée strasbourgeoise de l'A35 est l'un des axes les plus fréquentés de France avec {{unité|160000|véhicules}} par jour (dont 10 % de poids lourds)<ref>{{Article |auteur1=O.C. |titre=L’ A 35 à Strasbourg : 160 000 véhicules par jour, 10 % de poids lourds |périodique=[[Dernières Nouvelles d'Alsace]] |date=01-03-2013 |lire en ligne=http://www.dna.fr/economie/2013/03/01/l-a-35-a-strasbourg-160-000-vehicules-par-jour-10-de-poids-lourds |consulté le=12-10-2020}}.</ref>. La vitesse y est limitée à 70 km/h.
+* {{Sortie|5|Baggersee}} ([[Illkirch-Graffenstaden]]) : La présence d'un feu de circulation et d'un tram dans la prolongation de cette sortie génère tous les jours une saturation de la bande d'arrêt d'urgence sur près d'{{Unité|1|km}} avant cette même sortie. Cela provoque fréquemment des accidents entre les véhicules cherchant à s'insérer (de force) en début de sortie et ceux présents sur la bande d'arrêt d'urgence, dans l'attente de pouvoir prendre cette sortie.
+
+== Travaux futurs ==
+[[Fichier:VRPV Blaesheim.JPG|vignette|Nouvelle section nord-sud à Blaesheim.]]
+* Mise aux normes autoroutières à l'étude pour la section de [[Colmar]] à [[Sélestat]], dont une section à 2×3 voies entre l'échangeur du Rosenkranz à Colmar et la commune d'[[Ostheim]] (plus de 50 000 véhicules quotidiens, dont un nombre de poids-lourds en hausse constante).
+
+== Voir aussi ==
+{{Autres projets|commons=Category:A35 autoroute|commons titre=L'autoroute A35}}
+=== Articles connexes ===
+* [[Liste des autoroutes de France]]
+* [[Route européenne 25]]
+=== Liens externes ===
+* [http://saratlas.free.fr/index.php?page=route&route=a35&lang=fr Autoroute A35 dans Saratlas]
+* [http://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A35 Fiche autoroutière de l'A35 sur WikiSara]
+
+== Notes et références ==
+<references/>
+
+{{Palette Autoroutes de France}}
+{{Portail|route|Alsace}}
+
+[[Catégorie:Autoroute dans le Grand Est|035]]
+[[Catégorie:Autoroute A35 (France)]]

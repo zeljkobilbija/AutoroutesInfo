@@ -1,0 +1,138 @@
+{{Voir homonymes|A83}}
+{{Infobox Route/France
+| statut = A
+| numéro = 83
+| nom = 
+| autres_noms = [[Route des Estuaires]]
+| image = A83_aux_Essarts_(vue_2,_13_septembre_2015,_Éduarel).jpg
+| légende = L'autoroute A83 à hauteur d'[[Essarts-en-Bocage]] ([[Vendée (département)|Vendée]]).
+| carte = Carte Autoroute A83.svg
+| longueur = 152.5
+| direction = nord / sud-est
+| dir1 = nord
+| dir2 = sud-est
+| ville1 = {{Route européenne|3}} {{Route nationale|844|France}} à [[Vertou]]
+| ville2 = {{Route européenne|5}} {{Autoroute française|A10}} à [[La Crèche]]
+| villes_principales = [[Nantes]], [[Fontenay-le-Comte]], [[Niort]]
+| intersections = {{Autoroute française|A87}} aux [[Les Essarts (Vendée)|Essarts]]
+| ouverture = [[2001]]
+| réseau = [[Liste des autoroutes de France|Autoroute française]] {{Route européenne|3}}
+| régions = [[Pays de la Loire]], [[Nouvelle-Aquitaine]]
+| départements = [[Loire-Atlantique]], [[Vendée (département)|Vendée]], [[Deux-Sèvres]]
+| nb_reg = 2
+| nb_dep = 3
+|concessionnaire   = [[Autoroutes du Sud de la France|ASF]] (entre La Cour Neuve et Niort)
+|gestionnaire      = [[Direction_interdépartementale_des_Routes#Direction_interdépartementale_des_Routes_Ouest|DIR Ouest]] (entre Vertou et La Cour Neuve)
+| nom_notes = 
+}}
+L''''autoroute A83''', appelée [[route européenne 3|E3]] au niveau européen, est une autoroute des [[Pays de la Loire]] et de [[Nouvelle-Aquitaine]] ; concédée aux [[Autoroutes du Sud de la France]] (ASF, [[zone ouest]]), elle relie [[Nantes]] à [[Niort]] via [[Fontenay-le-Comte]] et rejoint l'[[Autoroute A10 (France)|A10]] au niveau de [[Niort]] qu'elle contourne par le nord, permettant la liaison [[Nantes]]-[[Bordeaux]].
+
+D'une longueur totale de {{Unité|152.5|km}}, l'A83 fait partie de la [[route des Estuaires]].
+
+[[Radio Vinci Autoroutes]] ([[107,7 MHz]]) fonctionne sur l'A83, secteur ASF.
+
+== Problèmes de tracé ==
+L'A83 n'est inaugurée en sa totalité qu'en [[2001]] avec l'ouverture de son dernier tronçon, entre [[Oulmes]] et Niort, mettant fin à une longue polémique commencée en [[1987]].
+
+À l'origine, l'A83 devait rejoindre l’A10 en contournant Niort par le sud, passant près de [[Coulon (Deux-Sèvres)|Coulon]] et de [[Magné (Deux-Sèvres)|Magné]]. Ce tracé était plus direct entre [[Nantes]] et [[Bordeaux]] mais devait alors traverser le [[Marais poitevin]], risquant de perturber la faune, la flore et les paysages de ce marais mouillé. L'A83 est ouverte entre Nantes et Oulmes en attendant de trouver un tracé présentant moins de risque pour l'environnement. La recherche d'un tracé sud passant plus près de Niort se heurtait à la double proximité du marais mouillé et du quartier urbanisé de Saint-Liguaire.
+
+Finalement, en [[1992]], le tracé contournant [[Niort]] par le nord (plus long) est choisi, décision rejoignant l'opinion de certains milieux économiques du département des [[Deux-Sèvres]] qui voyait dans cette option une meilleure desserte du département.
+
+Les {{nombre|34.4}} derniers kilomètres, entre Oulmes et Niort, sont inaugurés par [[Ségolène Royal]], en 2001, alors député des Deux-Sèvres, après un conflit contre certains élus locaux et les services de l'équipement pour que le Marais poitevin soit épargné. Elle avait alors sollicité l'arbitrage du président [[François Mitterrand]].
+
+== Création ultérieure de la sortie 3 ==
+
+La création de la sortie 3 de l'autoroute A83 était prévue initialement dans le contrat entre l’[[Autoroutes du Sud de la France|ASF]] et l’État. L’ASF avait jusqu’en 2032 pour la créer. Cette sortie est finalement financée par le département de [[Loire-Atlantique]]. Elle est inaugurée en 2016. S’ensuivent les travaux de contournement d’[[Aigrefeuille-sur-Maine]]. Par contre, le contournement de [[Montbert]] est abandonné. De nombreux camions et voitures passent par [[Montbert]], pour rejoindre la route de [[La Roche-sur-Yon]] et l'autoroute, augmentant les nuisances sonores.
+
+== Projet [[Autoroute A831 (France)|A831]] ==
+{{Article détaillé|Autoroute A831 (France)}}
+Cet ancien projet d'[[Autoroute A831 (France)|autoroute]] : Fontenay-le-Comte-[[Rochefort (Charente-Maritime)|Rochefort]] était un des maillons de la [[route des Estuaires]], permettant de rejoindre l'A83 au niveau de Fontenay-le-Comte. Il est abandonné en {{date-|juillet 2015}} à l'expiration de sa déclaration d'utilité publique.
+Bien que le projet autoroutier soit abandonné, des études sont lancées pour la réalisation du contournement de la ville de Marans.
+
+== Sorties ==
+'''Section concédée à [[Direction_interdépartementale_des_Routes#Direction_interdépartementale_des_Routes_Ouest|DIR Ouest]] et gratuite'''
+* '''{{échangeur autoroutier|[[Fichier:SU4 - Rocade France.svg|22x22px]] [[Boulevard périphérique de Nantes|Périphérique de Nantes (RN 844)]]|Boulevard de Vendée|A83}} (Porte des Sorinières)''' (<small>{{Sortie|48 du Périphérique}}</small>) : 
+** ''Périphérique Intérieur'' : [[Île de Noirmoutier|Noirmoutier]], [[Brest]], [[Vannes]], [[Rennes]], [[Rezé]], [[Les Sorinières]], ''[[File:France road sign ID2.svg|15px|alt]] [[Aéroport de Nantes-Atlantique|Nantes-Atlantique]]''
+** ''Périphérique Extérieur'' : [[Poitiers]], [[Paris]] ([[Autoroute A11 (France)|A11]]), [[Vertou]]
+** Boulevard de Vendée : [[Nantes]] - ''centre'', [[Rezé]] - ''Blordière'', [[Saint-Sébastien-sur-Loire]] - ''ouest''
+** [[Fichier:France road sign C107.svg|24x24px]] [[Fichier:Panneau-C24a-2.svg|22x22px]] [[Fichier:France road sign B14 (90).svg|22x22px]] Début de la route à accès réglementée A83, début de {{dunité|2|2|voies}} et limitation à {{unité|90|km/h}}. Début de la Périphérie de Nantes.
+** {{Aire de service|de la Grassinière}}
+* {{Sortie|1 La Roulière}} à {{Unité|4|km}} ''(demi-échangeur, depuis et vers Nantes)'' : [[La Roche-sur-Yon]], [[Saint-Philbert-de-Grand-Lieu]], Les Sorinières - ''sud''
+** [[Fichier:France_road_sign_B14_(110).svg|22x22px]] Limitation à {{unité|110|km/h}}, sur 4 km. Fin de la périphérie de Nantes.
+** [[Fichier:France_road_sign_C108.svg|22x22px]] Fin de la route à accès réglementée A83.
+'''Section concédée à [[Autoroutes du Sud de la France|ASF]] et payante (sauf la sortie 2).'''
+*[[Fichier:France_road_sign_C207.svg|22x22px]] [[Fichier:France_road_sign_B14_(130).svg|22x22px]] Début de l'autoroute A83 et limitation à {{unité|130|km}} (km 0 de l'A83).
+* {{Sortie|2 La Cour Neuve}} à {{Unité|6|km}} : [[La Rochelle]], [[Niort]], [[Aigrefeuille-sur-Maine]], Les Sorinières - ''sud''
+* {{Péage|Péage du Bignon (à système fermé)}} à {{Unité|2|km}}
+* {{Sortie|3 Aigrefeuille}} à {{Unité|9|km}} : [[Aigrefeuille-sur-Maine]], [[Montbert]], [[Saint-Philbert-de-Grand-Lieu]], [[Clisson]]
+** {{Aire de repos|de Remouillé-Est|Niort - Nantes|de Remouillé-Ouest|Nantes - Niort}} à {{Unité|15|km}}
+''Passage du département de la [[Loire-Atlantique]] à celui de la [[Vendée (département)|Vendée]].
+* {{Sortie|4 Montaigu}} à {{Unité|22|km}} : La Roche-sur-Yon, [[Les Sables-d'Olonne]], [[Montaigu (Vendée)|Montaigu]]
+** {{Aire de service|des Brouzils|Nantes - Niort|de Chavagnes-en-Paillers|Niort - Nantes}} à {{Unité|33 et 34|km}}
+* '''{{échangeur autoroutier|[[Autoroute A87 (France)|A87]]|A83}} ''(Échangeur des Essarts)''''' à {{Unité|44|km}} : La Roche-sur-Yon, Les Sables-d'Olonne, [[Angers]], [[Cholet]], [[Les Herbiers]]
+* {{Sortie|5 Les Essarts}} à {{Unité|45|km}} : [[Les Essarts (Vendée)|Les Essarts]]
+** {{Aire de repos|de Grissay|Nantes - Niort|de Sainte-Florence-Est|Niort - Nantes}} à {{Unité|49|km}}
+**  [[Fichier:AB-Brücke.svg]] Viaduc sur [[Fichier:Panneau cours d'eau France.png|20px]] la [[Vouraie]]. 
+* {{Sortie|6 Chantonnay}} à {{Unité|65|km}} : La Roche-sur-Yon, Les Sables-d'Olonne, [[Bournezeau]], [[Chantonnay]], [[Pouzauges]]
+** [[Fichier:AB-Brücke.svg]] Pont sur [[Fichier:Panneau cours d'eau France.png|20px]] le [[Lay (fleuve)|Lay]].
+** {{Aire de service|de la Vendée}} à {{Unité|72|km}}
+** [[Fichier:AB-Brücke.svg]] Pont sur [[Fichier:Panneau cours d'eau France.png|20px]] la [[Smagne]].
+* {{Sortie|7 Sainte-Hermine}} à {{Unité|76|km}} : La Rochelle, [[Luçon (Vendée)|Luçon]], [[Sainte-Hermine]]
+* {{Sortie|7.1 Fontenay-le-Comte - ''ouest''}} à {{Unité|94|km}} : [[Fontenay-le-Comte]], [[la Châtaigneraie]], Luçon, Pouzauges
+** {{Aire de repos|d’Auzay-Est|Niort - Nantes|d’Auzay-Ouest|Nantes - Niort}} à {{Unité|95 et 97|km}}
+** Pont sur [[Fichier:Panneau cours d'eau France.png|20px]] la Vendée.
+* {{Sortie|8 Fontenay-le-Comte - ''centre''}} à {{Unité|100|km}} : [[Marans (Charente-Maritime)|Marans]], Fontenay-le-Comte
+* {{Sortie|9 Niort - ''ouest''}} à {{Unité|113|km}} : Niort - ''centre, [[Marais poitevin|Marais Poitevin]]''
+''Passage de la région des [[Pays de la Loire]] à celui de la [[Nouvelle-Aquitaine]].<br /> Passage du département de la Vendée à celui des [[Deux-Sèvres]].''
+* {{Aire de service|des Deux-Sèvres|Nantes - Niort|de la Parthenaise|Niort - Nantes}} à {{Unité|126|km}}
+** [[Fichier:AB-Brücke.svg]] Viaduc de [[Fichier:Panneau cours d'eau France.png|20px]] l'[[Égray]].
+* {{Sortie|10 Niort - ''nord''}} à {{Unité|135|km}} : Angers, [[Saumur]], Niort, [[Parthenay]]
+** Pont sur [[Fichier:Panneau cours d'eau France.png|20px]] la [[Sèvre niortaise]].
+* {{Sortie|11 Niort - ''est''}} à {{Unité|143|km}} : Niort, [[Saint-Maixent-l'École]], [[La Crèche]], [[Chauray]]
+** [[Fichier:France_road_sign_B14_(110).svg|22x22px]] Limitation à {{unité|110|km/h}}.
+** [[Fichier:France_road_sign_B14_(90).svg|22x22px]] Limitation à {{unité|90|km/h}}.
+** [[Fichier:France road sign C24b.svg|22x22px]] [[Fichier:France_road_sign_B14_(70).svg|22x22px]] Séparation de la {{dunité|2|2|voies}} et limitation à {{unité|70|km/h}} avant échangeur.
+* '''{{échangeur autoroutier|[[Autoroute A10 (France)|A10]]|A83}}''' à {{Unité|145|km}} : Paris, Poitiers, [[Bordeaux]], [[Saintes]], [[Limoges]], [[Angoulême]]
+** [[Fichier:France_road_sign_C208.svg|22x22px]] Fin de l'autoroute A83.
+
+== Galerie ==
+<gallery mode="packed">
+Autoroute A83 - entrée en Pays de la Loire.JPG|L'autoroute A83 entre les sorties 9 et 10, à hauteur de la limite territoriale de la région des [[Pays de la Loire]].
+FileBifurcation A83 -- A10.JPG|Échangeur entre les autoroutes [[Autoroute A10 (France)|A10]] et A83 : [[Paris]], [[Poitiers]], [[Bordeaux]], [[Saintes]].
+WV0007-A83 S1RdPtViais-A844-S50PteRetz-D823Airbus.ogv|L'A83, de l'échangeur avec la {{nobr|[[Route nationale 178|D 178]]}} au site [[Airbus Commercial Aircraft|Airbus]] (Domaine d'activités aéronautiques), ''via'' le [[Boulevard périphérique de Nantes|périphérique nantais]] (sorties 48 à 50).
+</gallery>
+
+== Lieux touristiques ==
+{{...}}
+* Par la sortie 4 : Nord de la [[côte vendéenne]], [[Historial de la Vendée]] et Logis de [[la Chabotterie]] ;
+* Par la sortie 7 : Sud de la côte vendéenne ;
+* Par la sortie 7.1 : [[Forêt de Mervent-Vouvant|Massif forestier de Mervent-Vouvant]] ;
+* Par les sorties 7.1 et 8 : [[Fontenay-le-Comte]] cité [[Renaissance]], ville d'Art et d'Histoire ;
+* Par la sortie 8 : [[Abbaye de Maillezais]], [[Abbaye Saint-Vincent de Nieul-sur-l'Autise|Abbaye Royale de Nieul-sur-l'Autise]] ;
+* Par la sortie 9 : [[Marais poitevin]].
+
+== Lieux sensibles ==
+(Uniquement les lieux à bouchons et les pentes dangereuses) :
+Après la [[gare de péage]] du [[Le Bignon|Bignon]], vers Nantes, la circulation se charge et il peut y avoir des ralentissements importants avant l'entrée sur le périphérique nantais, en particulier aux heures de pointe.
+
+Le croisement A83/[[Autoroute A10 (France)|A10]], le trafic peut rapidement se saturer sur l'A83 puisque l'A10 est souvent saturée à cet échangeur, surtout durant les grands weekends.
+
+== Notes et références ==
+{{Références|colonnes=2}}
+
+== Voir aussi ==
+=== Articles connexes ===
+* [[Liste des autoroutes de France]]
+* [[Route européenne 3]]
+
+=== Liens externes ===
+{{autres projets |Commons=Category:A83 autoroute}}
+* [http://saratlas.free.fr/index.php?page=autoroute&route=a83&lang=fr Autoroute A83 dans Saratlas]
+* [http://www.ac-poitiers.fr/hist_geo/ressources/poitouch/pages/page4.htm Les problèmes de tracé]
+* [http://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A83 Article de l'A83 sur WikiSara]
+
+{{Palette Autoroutes de France}}
+{{Portail|route|Pays de la Loire|Nouvelle-Aquitaine}}
+
+[[Catégorie:Autoroute dans les Pays de la Loire|083]]
+[[Catégorie:Autoroute en Nouvelle-Aquitaine|083]]

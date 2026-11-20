@@ -1,0 +1,143 @@
+{{Voir homonymes|A36}}
+{{Infobox Route/France|statut=A|numéro=36
+|autres_noms       = La Comtoise
+|image             = 150614-Autoroute-A36-03.jpg
+|légende           = L'A36 à [[Besançon]].
+|carte             = Autoroute 36.png
+|longueur          = 237
+|direction         = ouest / est
+|dir1              = ouest
+|dir2              = est
+|ville1            =  {{Route européenne|17}} {{Route européenne|21}} {{Route européenne|60}}{{Autoroute française|A31}} Carrefour autoroutier de [[Beaune]] à [[Ladoix-Serrigny]]
+|ville2            = {{Route|DE|E|54}} {{Route|DE|A|5}} à [[Ottmarsheim]]
+|villes_principales= [[Dole (Jura)|Dole]], [[Besançon]], [[Montbéliard]], [[Belfort]], [[Mulhouse]]
+|intersections     = {{autoroute française|A39}} à [[Dole (Jura)|Dole]]<br />{{Route européenne|27}} {{Route européenne|54}} {{Route nationale|19|France}} à [[Botans]]<br/>{{route européenne|25}} {{route européenne|60}} {{autoroute française|A35}} à [[Sausheim]]
+|ouverture         = à partir de [[1986]]
+|réseau            = Autoroute française, également {{Route européenne|27}} {{Route européenne|54}} {{Route européenne|60}}
+|régions           = [[Bourgogne-Franche-Comté]], [[Grand Est]]
+|départements      = [[Côte-d'Or]], [[Jura (département)|Jura]], [[Doubs (département)|Doubs]], [[Territoire de Belfort]], [[Haut-Rhin]] ([[Collectivité européenne d'Alsace]]) 
+|nb_reg=2|nb_dep=5
+|concessionnaire   = [[Autoroutes Paris-Rhin-Rhône|APRR]] (entre Beaune et Mulhouse <small>({{sortie|16}})</small>)
+|gestionnaire      = [[Collectivité européenne d'Alsace]] (entre Mulhouse <small>({{sortie|16}})</small> et Ottmarsheim)
+}}
+
+L''''autoroute A36''', surnommée '''La Comtoise''', est une [[Liste des autoroutes de France|autoroute]] reliant [[Beaune]] à [[Ottmarsheim]] ([[frontière entre la France et l'Allemagne]]). Elle dessert principalement les villes de [[Dole (Jura)|Dole]], [[Besançon]], [[Montbéliard]], [[Belfort]] et [[Mulhouse]] et permet l'accès à l'[[Allemagne]] vers [[Fribourg-en-Brisgau]] et à la [[Suisse]] vers [[Bâle]].
+
+== Caractéristiques ==
+Signalétique de référence :
+* sens ouest-est : [[Besançon]] — [[Mulhouse]] — [[Strasbourg]] puis [[Fribourg-en-Brisgau|Fribourg]] ;
+* sens est-ouest : à partir de l'Allemagne, Mulhouse, puis [[Lyon]] — [[Paris]], puis [[Dijon]].
+
+Elle comprend trois sections gratuites :
+* section service public entre l'Allemagne et Mulhouse-Ouest ;
+* section hors péage entre [[Mulhouse]]-Ouest et {{page h'|Burnhaupt}}<ref>La sortie 15 est juste entre les deux villages de [[Burnhaupt-le-Haut]] au nord et [[Burnhaupt-le-Bas]] au sud</ref> ;
+* section hors péage entre [[Belfort]]-Nord et [[Voujeaucourt]].
+
+Pour la section hors péage, il n'y a pas de perception, mais le tarif du péage est répercuté sur le tronçon à péage qui suit (ou précède). L'usager qui n'emprunte que la section payante de la concession est donc pénalisé.
+
+La traversée urbaine de [[Mulhouse]] est délicate (entièrement en {{dunité|2|3|voies}}) et le trafic est dense entre [[Belfort]] et [[Montbéliard]] (entièrement en {{dunité|2|3|voies}}).
+
+Elle croise l'autoroute [[Autoroute A35 (France)|A35]] à [[Sausheim]] (axe nord-sud alsacien reliant [[Lauterbourg]] à [[Saint-Louis (Haut-Rhin)|Saint-Louis]], autoroute non concédée) et rejoint l'[[HaFraBa]] en Allemagne (axe [[Hambourg]]-[[Francfort]]-[[Bâle]]), via le pont sur le [[Grand canal d'Alsace]] et le [[pont sur le Rhin d'Ottmarsheim]] réalisés tous deux par [[Jean-Paul Teyssandier]] en 1979<ref>[http://fr.structurae.de/structures/data/index.cfm?id=s0003088 pont sur le Grand canal d'Alsace]</ref>{{,}}<ref>[http://fr.structurae.de/structures/data/index.cfm?id=s0008261 pont sur le Rhin d'Ottmarsheim]</ref>.
+
+En [[Franche-Comté]], à [[Dole (Jura)|Dole]], se situe une connexion avec l'[[Autoroute A39 (France)|A39]] reliant [[Dijon]] à [[Bourg-en-Bresse]].
+
+[[Fichier:140614-Autoroute-A36-02.jpg|vignette|Autoroute A36, la ligne de partage des eaux.]]
+
+== Gestion ==
+L'autoroute A36 est concédée aux [[Autoroutes Paris-Rhin-Rhône|APRR]] entre [[Beaune]] et [[Mulhouse]].
+
+De {{date-|2006}} à {{date-|2021}}, la section entre Mulhouse et la frontière allemande était gérée par la [[Direction interdépartementale des Routes|DIR Est]]. Depuis {{date-|2021}}, la [[Collectivité européenne d'Alsace]] assure la gestion de cette section.
+
+== Sorties ==
+'''Section concédée à [[Autoroutes Paris-Rhin-Rhône|APRR]] et payante (sauf entre les sorties 6.1 à 14 et 15).
+* '''{{échangeur autoroutier|[[Autoroute A31 (France)|A31]]|A36}}''' à {{unité|0|km}} ''(demi-échangeur, depuis et vers Beaune)'' : [[Paris]], [[Lyon]] ([[Autoroute A6 (France)|A6]]), [[Beaune]]
+** [[Fichier:France road sign C207.svg|24x24px]] [[Fichier:Panneau-C24a-2.svg|22x22px]] [[Fichier:France road sign B14 (130).svg|22x22px]] Début de l'autoroute, début de {{dunité|2|2|voies}} et limitation à {{unité|130|km/h}}.
+** {{Aire de repos|de Villy le Moûtier|Beaune-Ottmarsheim|d'Argilly|Ottmarsheim-Beaune}}
+** {{Aire de service|du Bois Guillerot|Beaune-Ottmarsheim|de Glanon|Ottmarsheim-Beaune}}
+* {{Sortie|1 Seurre}} à {{unité|21|km}} : [[Nuits-Saint-Georges]], [[Saint-Jean-de-Losne]], [[Seurre]]
+** {{Aire de repos|des Noues|Beaune-Ottmarsheim|de Saint Jean de Losne|Ottmarsheim-Beaune}}
+* '''{{échangeur autoroutier|[[Autoroute A39 (France)|A39]]|A36}}''' à {{unité|40|km}} : Paris ([[Autoroute A5 (France)|A5]]), [[Dijon]], [[Metz]]-[[Nancy]] (A31), Lyon, [[Grenoble]] ([[Autoroute A42 (France)|A42]]), [[Genève]] ([[Autoroute A40 (France)|A40]]), [[Lons-le-Saunier]], [[Dole (Jura)|Dole]] - ''[[Choisey]]''
+''Passage du département de la [[Côte-d'Or]] à celui du [[Jura (département)|Jura]].''
+* {{Aire de repos|de Sampans|Beaune-Ottmarsheim|du Bois des Potets|Ottmarsheim-Beaune}}
+* {{Sortie|2 Dole}} à {{unité|50|km}} : Dole - ''centre, [[Authume]]'', [[Gray (Haute-Saône)|Gray]]
+** {{Aire de service|de Dole Audelange|Beaune-Ottmarsheim|de Dole Romange|Ottmarsheim-Beaunee}}
+* {{Sortie|2.1 Gendrey}} à {{unité|67|km}} ''(gare de péage acceptant seulement les cartes bancaires.)'' : [[Arc-et-Senans]], [[Dampierre (Jura)|Dampierre]], [[Gendrey]]
+** {{Aire de repos|d'Hyombre|Ottmarsheim-Beaune}}
+''Passage du département du Jura à celui du [[Doubs (département)|Doubs]].''
+* {{Aire de repos|du Bois de Servole|Beaune-Ottmarsheim}}
+* {{Sortie|3 Besançon - ''ouest''}} à {{unité|83|km}} : [[Lausanne]], [[Pontarlier]], [[Besançon]] - ''centre, [[Planoise]]'', Gray
+** {{Aire de repos|du Bois de Frachère|Beaune-Ottmarsheim|de Pelousey|Ottmarsheim-Beaune}}
+* {{Sortie|4 Besançon - ''nord''}} à {{unité|92|km}} : Lausanne, [[Vesoul]], Besançon - ''centre, [[Saint-Claude (Besançon)|Saint-Claude]]''
+** {{Aire de service|de Besançon - Marchaux|Beaune-Ottmarsheim|de Besançon - Champoux|Ottmarsheim-Beaune}}
+* {{Sortie|4.1 Besançon - ''est''}} à {{unité|107|km}} : Besançon - ''[[Palente]]'', [[Marchaux]], [[Roulans]]
+** {{Aire de repos|de Chevaney|Beaune-Ottmarsheim|des Grands Brocards|Ottmarsheim-Beaune}}
+* {{Sortie|5 Baume-les-Dames}} à {{unité|126|km}} : [[Valdahon]], [[Baume-les-Dames]], [[Lure]]
+** {{Aire de repos|de la Combe de Fougère|Beaune-Ottmarsheim|du Boulet|Ottmarsheim-Beaune}}
+** {{Aire de repos|du Charme|Beaune-Ottmarsheim|du Galiot|Ottmarsheim-Beaune}}
+* {{Sortie|6 L'Isle-sur-le-Doubs}} à {{unité|143|km}} : [[Clerval (Doubs)|Clerval]], [[L'Isle-sur-le-Doubs]]
+* {{Péage|Péage de Saint-Maurice (à système fermé)}}
+** {{Aire de service|d'Écot}}
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à {{unité|110 km/h}}.
+* {{Sortie|6.1 Voujeaucourt}} à {{unité|159|km}} : Pontarlier, [[Pont-de-Roide-Vermondans|Pont-de-Roide]], [[Bavans]], [[Voujeaucourt]], [[Mathay]]
+** [[Fichier:France road sign C24a.svg|22x22px]] Passage à {{dunité|2|3|voies}}.
+* {{Sortie|7 Valentigney}} à {{unité|163|km}} : [[Audincourt]], [[Valentigney]], Bavans, Voujeaucourt, Besançon
+* {{Sortie|8 Montbéliard}} à {{unité|165|km}} : [[Montbéliard]]
+* {{Sortie|9 Sochaux - Exincourt}} à {{unité|167|km}} : [[Sochaux]], [[Étupes]], [[Exincourt]], Audincourt, ''[[Usine Stellantis de Sochaux|Usine Peugeot-Citroën de Sochaux]], [[Musée de l'Aventure Peugeot]]''
+* {{Sortie|10 Grand-Charmont}} à {{unité|169|km}} : [[Grand-Charmont]], ''Technoland''
+** {{Aire de repos|de Dambenois|Ottmarsheim-Beaune}}
+''Passage du département du Doubs à celui du [[Territoire de Belfort]].''
+* {{Sortie|11/11a/11b [[échangeur de Sevenans|Sevenans]]}} à {{unité|177|km}} : [[Delémont]] ({{Suisse}}), Vesoul, [[Épinal]], [[Delle]], ''[[File:France road sign ID12a.svg|15px|alt]] [[Gare de Belfort - Montbéliard TGV|Belfort - Montbéliard T.G.V]], [[File:France road sign ID3.svg|15px|alt]] [[Hôpital Nord Franche-Comté]]'', [[Héricourt (Haute-Saône)|Héricourt]]
+* {{Sortie|12/12a/12b Belfort - ''sud''}} à {{unité|180|km}} : [[Belfort]] - ''centre, Les Résidences, La Pépinière'', [[Bavilliers]], [[Danjoutin]]
+** [[Fichier:Panneau-C24a-2.svg|22x22px]] Passage à {{dunité|2|2|voies}}.
+* {{Sortie|13 Belfort - ''centre''}} à {{unité|183|km}} : Belfort - ''Glacis du Château'' 
+** [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à {{unité|130 km/h}}.
+* {{Sortie|14 Bessoncourt}} à {{unité|186|km}} : [[Mulhouse]], [[Colmar]], [[Bessoncourt]], [[Denney]]
+** {{Aire de repos|de La Forêt|Beaune-Ottmarsheim|des Grands Prés|Ottmarsheim-Beaune}}
+* {{Sortie|14.1 Fontaine}} à {{unité|192|km}} : [[Fontaine (Territoire de Belfort)|Fontaine]], [[Masevaux]], [[Giromagny]]
+* {{Péage|Péage de Fontaine - Larivière (à système ouvert)}}
+** {{Aire de repos|du Haut Bois|Beaune-Ottmarsheim|d'Angeot|Ottmarsheim-Beaune}}
+''Passage de la région [[Bourgogne-Franche-Comté]] à celle du [[Grand Est]].<br /> Passage du département du Territoire de Belfort à celui du [[Haut-Rhin]] de la [[Collectivité européenne d'Alsace]].''
+* {{Aire de service|de la Porte d'Alsace}}
+* {{Sortie|15 Burnhaupt}} à {{unité|208|km}} : Colmar, [[Guebwiller]], Belfort, Masevaux, [[Thann]]-[[Cernay (Haut-Rhin)|Cernay]], [[Altkirch]], [[Burnhaupt-le-Bas]], [[Burnhaupt-le-Haut]]
+'''Section non-concédée gérée par la [[Collectivité européenne d'Alsace]] et gratuite.'''
+* {{Sortie|16/16a/16b Mulhouse - ''Les Côteaux''}} à {{unité|217|km}} : Mulhouse, [[Brunstatt]], [[Morschwiller-le-Bas]], Altkirch, Épinal, Thann, Cernay, [[Wittelsheim]], [[Lutterbach]]
+** [[Fichier:France road sign C24a.svg|22x22px]] [[Fichier:France road sign B14 (110).svg|22x22px]] Passage à {{dunité|2|3|voies}} et limitation à {{unité|110 km/h}}.
+* {{Sortie|17 Mulhouse - ''Dornach''}} à {{unité|219|km}} : Mulhouse, [[Pfastatt]], [[Lutterbach]]
+* {{Sortie|18/18a/18b Mulhouse - ''Bourtzwiller''}} à {{unité|222|km}} : Mulhouse - ''centre'', Guebwiller, [[Wittenheim]], [[Kingersheim]], [[Illzach]] - ''centre'', [[Riedisheim]], ''Parc des Expositions''
+* {{Sortie|19 Mulhouse - centre}} à {{unité|223|km}} ''(demi-échangeur, depuis et vers Ottmarsheim)'' : Mulhouse, Riedisheim, ''Parc des Expositions''
+* {{Sortie|20 ''[[Île Napoléon]]''}} à {{unité|225|km}} : [[Sausheim]], Illzach - ''Modenheim''
+* '''{{échangeur autoroutier|[[Autoroute A35 (France)|A35]]|A36}}''' à {{unité|227|km}} : [[Strasbourg]], Colmar, [[Bâle|Bâle (Basel)]], ''[[File:France road sign ID2.svg|15px|alt]] [[Euroairport]]''
+** [[Fichier:Panneau-C24a-2.svg|22x22px]] [[Fichier:France road sign B14 (130).svg|22x22px]] Passage à {{dunité|2|2|voies}} et limitation à {{unité|130 km/h}}.
+* {{Sortie|21 Usine Peugeot-Citroën}} à {{unité|229|km}} : ''[[Usine Stellantis de Mulhouse|Usine Peugeot-Citroën de Mulhouse]]''
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à {{unité|110 km/h}}. 
+* {{Sortie|22 Ottmarsheim}} à {{unité|235|km}} : [[Ottmarsheim]]
+** [[Fichier:AB-Brücke.svg]] Viaduc sur le [[Fichier:Panneau cours d'eau France.png|20px]] [[Grand Canal d'Alsace]]
+** [[Fichier:AB-Brücke.svg]] Viaduc sur le [[Fichier:Panneau cours d'eau France.png|20px]] [[Rhin]] + [[Fichier:France road sign C208.svg|22x22px]] Fin de l'autoroute A36 + '''{{France}} / {{Allemagne}}''' : [[Frontière entre la France et l'Allemagne|Frontière franco-allemande]]
+* [[File:Germany EU border.svg|22x22px]] Entrée sur le territoire [[Allemagne|allemand]].
+* '''{{Échangeur autoroutier|[[Bundesautobahn 5|A5 (Allemagne)]]|A36}} ([[Échangeur de Neuenburg|Échangeur de Neuenburg / Autobahndreieck Neuenburg]]) <small>(sortie {{sortie d'Allemagne|66}} de l'A5)</small>''' à {{unité|237|km}} : [[Fribourg-en-Brisgau|Fribourg-en-Brisgau (Freiburg im Breisgau)]], [[Stuttgart]], [[Karlsruhe]], [[Lörrach]], Bâle (Basel)
+** [[File:Zeichen 330.1 - Autobahn, StVO 2013.svg|22x22px]] Entrée sur l'[[Bundesautobahn 5|autoroute allemande A5]].
+
+== Lieux sensibles ==
+* Au niveau de Mulhouse ({{unité|110|km/h}})
+* Au niveau de Belfort-Montbéliard ({{unité|110|km/h}})
+
+== Notes et références ==
+{{Références}}
+
+== Voir aussi ==
+{{Autres projets|commons=Category:A36 autoroute|commons titre=L'autoroute A36}}
+=== Articles connexes ===
+* [[Liste des autoroutes de France]]
+
+=== Liens externes ===
+* [http://saratlas.free.fr/index.php?page=autoroute&route=a36&lang=fr Autoroute A36 dans Saratlas]
+* [http://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A36 L'autoroute A36 sur WikiSara]
+
+{{Palette Autoroutes de France}}
+{{Portail|route|Haut-Rhin|Territoire de Belfort|Doubs|département du Jura|Côte-d'Or}}
+
+{{DEFAULTSORT:036}}
+[[Catégorie:Autoroute en Bourgogne-Franche-Comté|036]]
+[[Catégorie:Autoroute dans le Grand Est|036]]
+[[Catégorie:Transport à Besançon]]
+[[Catégorie:Route Centre-Europe Atlantique|A 036]]

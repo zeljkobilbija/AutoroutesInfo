@@ -1,0 +1,122 @@
+{{Voir homonymes|A68}}
+{{Infobox Route/France
+ | statut             = A
+ | numéro             = 68
+ | autres_noms        = Autoroute du Pastel
+ | image              = A68 - panoramio (1).jpg
+ | légende            = L'A68 à [[Rouffiac-Tolosan]]
+ | carte              = France A6X A68.svg
+ | longueur           = 62
+ | direction          = Sud-ouest / nord-est
+ | dir1               = sud-ouest
+ | dir2               = nord-est
+ | ville1             = {{Route européenne|9}} {{Autoroute française|A61}} {{Autoroute française|A62}} à [[Toulouse]]
+ | intersections      = {{Autoroute française|A69}} à [[Castelmaurou]]
+ | ville2             = {{Route nationale|88|France}} à [[Marssac-sur-Tarn]]
+ | villes_principales = [[Toulouse]], [[Gaillac]], [[Saint-Sulpice-la-Pointe]]
+ | ouverture          = À partir de [[1992]]
+ | réseau             = [[Liste des autoroutes de France|Autoroute française]]
+ | régions            = [[Occitanie (région administrative)|Occitanie]]
+ | départements       = [[Haute-Garonne]], [[Tarn (département)|Tarn]]
+ | nb_reg             = 1
+ | nb_dep             = 2
+|concessionnaire   = [[Autoroutes du Sud de la France|ASF]] (entre Toulouse et Gémil)
+|gestionnaire      = [[Direction interdépartementale des Routes#Direction interdépartementale des Routes Sud-Ouest|DIR Sud-Ouest]] (entre Gémil et Marssac-sur-Tarn)
+}}
+L''''autoroute A68''', est une [[autoroute]] [[France|française]] reliant [[Toulouse]], sur le [[Périphérique de Toulouse|périphérique Est]], à [[Marssac-sur-Tarn]], près d'[[Albi]].
+
+Longue de {{unité|61|km}}, elle est en partie concédée aux [[Autoroutes du Sud de la France]] (ASF) entre Toulouse et l'échangeur 4 de [[Gémil]].
+
+== Histoire ==
+
+La concrétisation du projet d'une autoroute entre Toulouse et le Tarn a été difficile, d'abord pour des raisons politiques et financières<ref name="Cohou2000_p28">« Un calendrier révélateur des difficultés rencontrées », dans {{harvsp|Cohou|2000|p=28}}.</ref>. L'ouverture routière de la partie nord du département du Tarn n'a pas été considérée comme prioritaire et la création d'une autoroute dans ce secteur relevait plus d'une politique locale que d'une politique nationale, malgré un programme de désenclavement du [[Massif central]] initiée par [[Valéry Giscard d'Estaing]] en 1975<ref>{{harvsp|Cohou|2000|p=31}}.</ref>.
+
+Dès les années 1960, un premier projet de liaison rapide entre Toulouse et Carmaux a été envisagé par le ministère de l'Équipement ; dans le Tarn, le tronçon entre Albi et Marssac-sur-Tarn (qui fait partie de la route nationale 88) est doublé dans les années 1970. Il est prolongé dans les années 1980 jusqu'à Gaillac, avant d'être doublé en 1997<ref name="Cohou2000_p28" />.
+
+Le tracé de l'autoroute A68 est arrêté en empruntant la rive gauche du [[Tarn (rivière)|Tarn]] alors que la [[Route nationale 88 (France)|route nationale 88]] passe en rive droite en desservant les villes<ref name="Cohou2002_p46-47">{{harvsp|Cohou|2002|p=46-47}}.</ref> (entre Marssac-sur-Tarn et Saint-Sulpice). La concession des premiers kilomètres de l'A68 aux [[Autoroutes du Sud de la France]] est acceptée après négociation du [[conseil régional de Midi-Pyrénées]] en même temps que la construction du [[Périphérique de Toulouse|périphérique Est de Toulouse]]<ref name="Cohou2002_p46-47" />. Le département du Tarn souhaitait voir une liaison entièrement gratuite, ce qui n'a finalement pas été le cas, et participe au financement des travaux de l'autoroute, qui compte six échangeurs au lieu de deux prévus<ref name="Cohou2002_p46-47" />.
+
+== Exploitation ==
+L'autoroute A68 est concédée à la société des [[Autoroutes du Sud de la France]] (ASF) entre Toulouse et l'échangeur de Gémil. [[Radio Vinci Autoroutes]] est captée sur {{unité|107.7|MHz}} [[Modulation de fréquence|FM]]. L'A68 fait partie de la zone Centre du réseau ASF.
+
+Le tronçon non concédé (de Gémil à Marssac-sur-Tarn) est quant à lui géré par la [[Direction interdépartementale des Routes]] Sud-Ouest, district Est<ref>{{Lien web|titre=District Est |url=http://www.dir.sud-ouest.developpement-durable.gouv.fr/les-districts-r951.html?page=rubrique&id_rubrique=951&id_article=3103&masquable=OK |site=dir.sud-ouest.developpement-durable.gouv.fr |éditeur=Direction interdépartementale des Routes Sud-Ouest |date=1 août 2014 |consulté le=18 janvier 2022}}.</ref>. Le {{Date-|6 janvier 2023}}, le gouvernement a annoncé le transfert de {{unité|360|km}} de routes nationales situées en [[Occitanie (région administrative)|région Occitanie]]. Initialement prévu le {{Date-|1 janvier 2024}}<ref name="bleu-declassement">{{Lien web|auteur=Sandrine Morin (France Bleu Occitanie) |titre=En Occitanie, les routes nationales RN88, RN125, RN20 sont désormais des routes régionales |url=https://www.francebleu.fr/infos/transports/en-occitanie-les-routes-nationales-rn88-rn125-rn20-sont-desormais-des-routes-regionales-6084676 |site=francebleu.fr |date=6 janvier 2023 |consulté le=9 janvier 2023}}.</ref>, la mise à disposition de la partie non concédée se fera au plus tôt le {{Date|1er janvier 2025}}<ref>{{Lien web |titre=Convention relative à l'expérimentation de gestion de portions du réseau routier national par la région Occitanie |url=https://laregion-webdelib.digitechcloud.fr/webdelibplus/jsp/showFile.jsp?datePub=15/12/2023&dateRetLega=15/12/2023&pdf=jp9jerF24hS1ivvIMigQOfPKcB3KcHGx2NHT34Abd4rEudxktLCuH6lDc6T4iJhXDTZMfk6kp%2BjXAqBLwH6I6SYox5X%2Fj0DZ8h59m7KGZ4A8Qdh1oDyfv7cYgmTIPNHzZVrLt2gSnUJsbh9sRuKyWjJqH%2BrpOCUgiKvp2cjiJzXlIp6C1R1H6H%2Fh%2ByOpwoFDGYhjKWCWBupS%2Fmbt%2FR0EJ7cYb1%2BytdIsCFXm5OxE9mDp5T2YP5QiFA%3D%3D}}</ref>.
+
+== Parcours ==
+'''Section concédée à [[Autoroutes du Sud de la France|ASF]] et payante (sauf la sortie 3).'''
+* '''{{Échangeur autoroutier|[[Fichier:SU4 - Rocade France.svg|22x22px]] [[Périphérique de Toulouse|Périphérique de Toulouse (A61 / A62)]]|A68}}''' à {{unité|0|km}} : 
+** ''Périphérique Intérieur'' ([[Autoroute A61 (France)|A61]]) : [[Toulouse]] - ''centre, sud'', [[Montpellier]], [[Foix]], [[Tarbes]], [[Lourdes]] ([[Autoroute A64 (France)|A64]]), ''[[Gramont (Balma)|Gramont]]''
+** ''Périphérique Extérieur'' ([[Autoroute A62 (France)|A62]]) : [[Bordeaux]], [[Auch]], [[Paris]], Toulouse - ''ouest, [[File:France road sign ID2.svg|15px|alt]] [[Aéroport de Toulouse-Blagnac|Blagnac]], [[Quartier Croix-Daurade|Croix-Daurade]]''
+** [[Fichier:France road sign C207.svg|24x24px]] [[Fichier:Panneau-C24a-2.svg|22x22px]] [[Fichier:France road sign B14 (90).svg|22x22px]] Début de l'autoroute, début de {{dunité|2|2|voies}} et limitation à 90 km/h.
+* {{Sortie|1 L'Union}} à {{unité|2|km}} : [[L'Union (Haute-Garonne)|L'Union]], [[Montrabé]]
+* {{Péage|Péage de Toulouse-Est (à système ouvert)}}
+** [[Fichier:Panneau-C24a.svg|22x22px]] [[Fichier:France road sign B14 (130).svg|22x22px]] Passage à {{dunité|2|3|voies}} (sens Toulouse - Albi) et limitation à 130 km/h.
+** [[Fichier:France road sign C28-2.svg|22x22px]] Réduction à {{dunité|2|2|voies}}.
+* '''{{échangeur autoroutier|[[Autoroute A69 (France)|A69]]|A68}}''' à {{unité|10|km}} ''(demi-échangeur, depuis et vers Toulouse)'' : [[Castres]], [[Mazamet]], [[Verfeil (Haute-Garonne)|Verfeil]]
+** [[Fichier:France_road_sign_C24a.svg|20px]] Passage à {{dunité|2|3|voies}} (sens Toulouse - Albi)
+* {{Sortie|3 Garidech}} à {{unité|13|km}} : Toulouse ''par RD'', [[Castelmaurou]], [[Montastruc-la-Conseillère]]
+** [[Fichier:France_road_sign_B14_(110).svg|20px]] Limitation à 110 km/h.
+** [[Fichier:France_road_sign_C28-2.svg|22x22px]] Réduction à {{dunité|2|2|voies}}
+** [[Fichier:France_road_sign_B14_(130).svg|20px]] Limitation à 130 km/h.
+'''Section non-concédée gérée par la [[Direction interdépartementale des Routes#Direction interdépartementale des Routes Sud-Ouest|DIR Sud-Ouest]] et gratuite.'''
+* {{Sortie|4 Gémil}} à {{unité|16|km}} ''(demi-échangeur, depuis et vers Toulouse)'' : [[Bessières (Haute-Garonne)|Bessières]], [[Buzet-sur-Tarn]]
+''Passage du département de la [[Haute-Garonne]] au département du [[Tarn (département)|Tarn]].''
+* {{Sortie|5 Portes-du-Tarn}} à {{unité|22|km}} : [[Villemur-sur-Tarn]], [[Montauban]], [[Saint-Sulpice-la-Pointe|Saint-Sulpice]], ''P. A. Les Portes du Tarn'' + {{Aire de service|des Portes du Tarn}}
+* {{Sortie|6 Saint-Sulpice}} à {{unité|26|km}} : Castres, Saint-Sulpice, [[Lavaur (Tarn)|Lavaur]], ''Zone d'activités''
+* {{Sortie|7 Rabastens}} à {{unité|32|km}} : [[Graulhet]], [[Rabastens]]
+* {{Sortie|8 Lisle-sur-Tarn}} à {{unité|41|km}} : [[Lisle-sur-Tarn]]
+** {{Aire de repos|de Sanbatan|Albi-Toulouse|des Issarts|Toulouse-Albi}}
+* {{Sortie|9 Gaillac}} à {{unité|47|km}} : Montauban ''par RD'', [[Rabastens]], [[Graulhet]], [[File:France road sign ID16b.svg|15px|alt]] [[Cordes-sur-Ciel]], [[Gaillac]]
+* {{Sortie|10 Cadalen}} à {{unité|52|km}} : [[Lagrave]]
+* [[Fichier:France road sign C208.svg|22x22px]] [[Fichier:France road sign C107.svg|20px]] Fin de l'autoroute et début de la [[Route nationale 88 (France)|route nationale 88]].
+<!--*  [[Fichier:France_road_sign_B14_(110).svg|20px]]  et limitation à 110 km/h.
+* {{Sortie|11 Marssac}} à {{unité|61|km}} : [[Marssac-sur-Tarn]] 
+* {{Sortie|12 Terssac}} : [[Terssac]]
+* {{Sortie|13 Zones d'Activités}} : [[Albi]], Parc des Expositions, Z. A. Albipôle'', [[File:France road sign ID36.svg|15px|alt]] La Baule-Portes d'Albi
+''Début de la [[Route nationale 88 (France)#Rocade_d'Albi|Rocade d'Albi]]'' + [[Fichier:France road sign B14 (90).svg|20px]] Limitation à 90 km/h.
+* {{Sortie|14 Albi - Université}} : Albi, [[Le Séquestre]], [[File:France road sign ID36.svg|15px|alt]] La Baule-Portes d'Albi, Parc des Expositions
+* {{Sortie|15 Castres}} : Castres, [[Graulhet]], [[File:France road sign ID36.svg|15px|alt]] Garban
+* {{Sortie|16 Albi - centre}} : Albi, [[File:France road sign ID16b.svg|15px|alt]] [[Cité épiscopale d'Albi]], [[File:France road sign ID16d.svg|15px|alt]] [[Musée Toulouse-Lautrec]], [[File:France road sign ID3.svg|15px|alt]] Centre hospitalier
+* {{Sortie|17 Fréjairolles}} : [[Teillet]], [[Fréjairolles]], Parc Albi-Innoprod, [[Stadium municipal (Albi)|Stadium]]
+* {{Sortie|18 Millau}} : [[Millau]], [[Saint-Juéry (Tarn)|Saint-Juéry]], Z. A. Montplaisir-Jarlard, [[File:France road sign ID3.svg|15px|alt]] Clinique Claude Bernard, [[File:France road sign ID36.svg|15px|alt]] Caussels-Mazars
+* {{Sortie|19 Saint-Juéry}} : Saint-Juéry, [[File:France road sign ID36.svg|15px|alt]] Caussels-Mazars ''(demi-échangeur, depuis et vers Rodez)''
+* {{Sortie|20 Albi - Cantepau}} : Albi, Base de loisirs de Cantepau, Espace Aquatique Atlantis
+** [[Fichier:France_road_sign_B14_(70).svg|20px]] Limitation à 70 km/h.
+** [[Fichier:France_road_sign_B14_(50).svg|20px]] Limitation à 50 km/h.
+''Fin de la Rocade d'Albi''
+* {{Carrefour giratoire|[[Route nationale 99 (France)|RD 988]] ([[Cagnac-les-Mines]], [[File:France road sign ID16b.svg|15px|alt]] Cordes-sur-Ciel, [[File:France road sign ID36.svg|15px|alt]] Portes de Lescure)|RN 88 ([[Rodez]], [[Carmaux]], [[Lescure-d'Albigeois]], cap découverte, Z. A. Solviel)}}-->
+
+== Lieux touristiques ==
+[[Toulouse]], [[Lavaur (Tarn)|Lavaur]], [[Gaillac]], [[Albi]], [[Castres]]
+
+== Lieux sensibles ==
+* De [[Toulouse]] à la sortie 4, succession de collines à fortes déclivités.
+
+== Futur ==
+Il est prévu de prolonger l'A68 pour relier [[Toulouse]] à [[Lyon]]. Cependant, sur la RN 88 entre l'[[Autoroute A75 (France)|A75]] et [[Saint-Étienne]], aucun projet n'est envisagé.
+
+À partir de 2024, la gestion de l'autoroute devrait être transférée à la région Occitanie entre la sortie 3 et la fin actuelle de l'autoroute à l'ouest d'Albi<ref>{{Lien web|auteur1=Ophélie Le Piver|titre=Occitanie : 360 kilomètres de routes nationales deviennent des routes régionales|site=[[France 3 Occitanie]]|date=08/01/2023|lire en ligne=https://france3-regions.francetvinfo.fr/occitanie/haute-garonne/toulouse/occitanie-360-kilometres-de-routes-nationales-deviennent-des-routes-regionales-2689206.html|accès url=libre}}.</ref>{{,}}<ref name="bleu-declassement" />. Ce déclassement résulte d'une décision gouvernementale du {{Date-|4 janvier 2023}}, en application de l'article 40 de la [[Loi relative à la différenciation, la décentralisation, la déconcentration et portant diverses mesures de simplification de l'action publique locale|loi {{numéro|2022-217}} du {{Date-|21 février 2022}} relative à la différenciation, la décentralisation, la déconcentration et portant diverses mesures de simplification de l'action publique locale, dite « loi 3DS »]]<ref>{{Lien web|titre=Décision du {{Date-|4 janvier 2023}} déterminant la liste des autoroutes, routes et portions de voies qui sont transférées ou mises à disposition en application des articles 38 et 40 de la loi {{numéro|2022-217}} du {{Date-|21 février 2022}} relative à la différenciation, la décentralisation, la déconcentration et portant diverses mesures de simplification de l'action publique locale (NOR : TRET2236986S) |url=https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000046949953 |site=Légifrance |éditeur=Journal officiel de la République française {{numéro|7}}, texte {{numéro|33}} |date=8 janvier 2023 |consulté le=10 janvier 2023}}.</ref>.
+
+== Notes et références ==
+{{Références}}
+
+== Voir aussi ==
+=== Bibliographie ===
+{{Légende plume}}
+* {{Ouvrage|auteur1=Michel Cohou |titre=Le destin d'une voie rapide : jeu d'acteurs, enjeu de développement |lieu=Toulouse |éditeur=Presses universitaires du Mirail |collection=Villes et Territoires |année=2000 |isbn=2-85816-500-9 |issn=1140-2296 |lire en ligne=https://books.google.fr/books?id=eL5qk8YNGxgC |plume=oui}}{{Commentaire biblio|Cet ouvrage détaille l'implication des collectivités territoriales dans le projet de l'aménagement de l'autoroute A68 et son impact dans les domaines économiques et démographiques.}}
+* {{Article|auteur1=Michel Cohou |titre=Acteurs sociaux et processus d'aménagement autoroutier dans le département du Tarn |périodique=Géocarrefour |volume=77 |numéro=1 |titre numéro=Autoroutes, acteurs et dynamiques territoriales |année=2002 |pages=45-53 |lire en ligne=https://www.persee.fr/doc/geoca_1627-4873_2002_num_77_1_6261 |doi=10.3406/geoca.2002.6261 |plume=oui}}
+
+=== Articles connexes ===
+* [[Liste des autoroutes de France]]
+* Réseaux routiers [[Réseau routier de la Haute-Garonne|de la Haute-Garonne]] et [[Réseau routier du Tarn|du Tarn]]
+
+=== Liens externes ===
+{{Liens}}
+* [http://saratlas.free.fr/index.php?page=autoroute&route=a68&lang=fr Autoroute A68 dans Saratlas]
+* [http://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A68 L'A68 sur WikiSara]
+* [http://autorout.free.fr/2_Pdf/6_Sud_Ouest/A68.pdf Panneaux directionnels de l'autoroute A68]
+
+{{Palette Autoroutes de France}}
+
+{{Portail|route|Haute-Garonne|Tarn}}
+
+[[Catégorie:Autoroute en région Occitanie|068]]
+[[Catégorie:Autoroute à Toulouse|068]]

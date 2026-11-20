@@ -1,0 +1,211 @@
+{{Voir homonymes|A41}}
+{{Infobox Route/France
+| statut = A
+| numéro = 41
+| autres_noms = LIANE <small>(de l'A40 au péage de Saint-Martin-Bellevue)</small><br>L’Alpine <small>(tout l’A41)</small>
+| image = Autoroutes A41 & A43.JPG
+| légende = Fin de l'A41 Sud, arrivée sur l'[[Autoroute A43 (France)|A43]] vers [[Montmélian]].
+| carte = France_A4X_A41.svg
+| longueur = 112
+| direction = nord-est / sud-ouest
+| dir1 = nord-est
+| dir2 = sud-ouest
+| ville1 = {{Cartouche route|CH|E|21}} {{Cartouche route|CH|E|62}} {{Cartouche route|CH|A|1}} à [[Saint-Julien-en-Genevois]]
+| ville2 = {{route départementale N|90 (France)|1090}} à [[Meylan]]
+| villes_principales = [[Annecy]], [[Aix-les-Bains]], [[Chambéry]], [[Grenoble]]
+| intersections = {{Route européenne|21}} {{Route européenne|25}} {{Route européenne|62}} {{Autoroute française|A40}} à [[Saint-Julien-en-Genevois]]<br/> {{Route européenne|712}} {{Autoroute française|A410}} à [[Villy-le-Pelloux]]<br/> {{Route européenne|70}} {{Autoroute française|A43}} à [[La Motte-Servolex]] puis à [[Francin]]
+| ouverture = 1975-2008
+| réseau = Autoroute française, également {{Route européenne|21}} {{Route européenne|62}} {{Route européenne|70}} {{Route européenne|712}}
+| régions = [[Auvergne-Rhône-Alpes]]
+| départements = [[Haute-Savoie]], [[Savoie (département)|Savoie]], [[Isère (département)|Isère]]
+| nb_reg = 1
+| nb_dep = 3
+| concessionnaire = [[Autoroutes et tunnel du Mont-Blanc|ATMB]] (entre frontière suisse et A40)<br/>[[ADELAC]] (entre A40 et Saint-Martin-Bellevue)<br/>[[AREA (société d'autoroutes)|AREA]] (entre Saint-Martin-Bellevue et La Motte-Servolex ; La Ravoire et Grenoble)
+|gestionnaire      = [[Direction interdépartementale des Routes#Direction interdépartementale des Routes Centre-Est|DIR Centre-Est]] (entre La Motte-Servolex et La Ravoire / RN 201)
+}}
+
+En [[France]], l''''autoroute A41''' relie [[Meylan]] dans l'agglomération [[Grenoble|grenobloise]] à la [[Frontière entre la France et la Suisse|frontière suisse]] au niveau de [[Saint-Julien-en-Genevois]], au sud-ouest de [[Genève]], via [[Chambéry]] et [[Annecy]]. Elle est divisée en deux sections distinctes, nord et sud, reliées par la [[Route nationale 201|RN 201]] et l'[[Autoroute A43 (France)|A43]] au niveau de Chambéry.
+
+Elle a été mise en service progressivement de 1975 à 2008. À l'origine, l'extrémité nord entre [[Villy-le-Pelloux]] et [[Scientrier]] était connectée à l'[[Autoroute A40 (France)|A40]] près de [[La Roche-sur-Foron]]. Depuis {{Date||décembre|2008}}, l'extrémité nord est connectée à l'[[Autoroute A1 (Suisse)|autoroute suisse A1]], au sud du [[canton de Genève]]. Cette section de {{unité|19.6|km}} est payante. Elle est concédée à l'[[ADELAC]] mais exploitée par l'[[AREA (société d'autoroutes)|Area]]. En raison de ses nombreux ouvrages d'art ([[viaduc des Usses]], [[tranchée couverte]] du Noiret, viaduc du Nant de Saint-Martin, [[tunnel du Mont-Sion]], viaduc du Nant de la Folle), elle est une des plus chères de France: au {{date|1er|2|2025}} le tarif pour parcourir ses {{unité|19.6|km}}, entre la porte dite de [[Saint-Martin-Bellevue]] et [[Saint-Julien-en-Genevois]], était de {{euro|8.20}} soit {{euro|0.42}} le kilomètre<ref>{{Lien web |titre=Tarifs de péage |url=https://www.a41-adelac.com/tarifs-de-peage-au-1er-fevrier-2025-sur-la-liane-adelac |site=Adelac |consulté le=23 août 2026}}.</ref> (en 2020, le tarif était de {{euro|5.10}} soit {{euro|0.26}}le kilomètre pour la même distance<ref>{{Lien web |titre=Liane, tarifs et abonnement autoroute A41 Nord |url=https://web.archive.org/web/20210411063702/https://www.liane-autoroute.com/le_reseau_liane/les_tarifs |site=liane-autoroute.com via [[Internet Archive]] |consulté le=23 août 2026}}.</ref>). La vitesse y est limitée à {{unité|110|km/h}} en raison de son profil accidenté. ; l'ancienne section de Villy-le-Pelloux à Scientrier constitue désormais l'[[autoroute A410 (France)|A410]].
+
+L'autoroute A41 (Nord-Sud) est l'une des composantes de la [[route européenne]] [[Route européenne 712|E712]], reliant [[Genève]] ([[Suisse]]) à [[Marseille]] ([[France]]). Au niveau du [[Cluse de Chambéry|bassin chambérien]], elle traverse et est reliée au grand axe européen [[Route européenne 70|E70]] (Est-Ouest) qui relie alors [[Poti]] ([[Géorgie (pays)|Géorgie]]) à [[La Corogne]] ([[Espagne]]).
+
+== Caractéristiques ==
+L'autoroute A41 est constituée de deux sections :
+* l'A41 Nord : {{unité|71|km}} de longueur ; principalement {{dunité|2|2|voies}} avec une {{3e|voie}} pour véhicules lents dans les montées raides, {{dunité|2|3|voies}} de l'A40 à la [[Frontière entre la France et la Suisse|frontière suisse]] et également de l'échangeur 17 d'Annecy Nord a l'échangeur 18 et la gare de péage de St Martin Bellevue -jonction A41-A410).
+* l'A41 Sud : {{unité|41|km}} de longueur ; principalement {{dunité|2|2|voies}}, {{dunité|2|3|voies}} vers Grenoble ;
+
+== Histoire ==
+* 1967 : ouverture de la section [[Grenoble]] – [[Le Touvet]] pour les [[Jeux olympiques d'hiver de 1968]] de 1×2 voies mis en double sens, sur une seule chaussée. C'est le précurseur de l'autoroute. Gratuit.
+* 1975 : ouverture de la section [[Annecy]]-Sud – [[Saint-Félix (Haute-Savoie)|Saint-Félix]].
+* 1976 : mise en double de la section Grenoble – Le Touvet et ouverture jusqu'à [[Pontcharra]]. Mise en place de la barrière de péage de [[Crolles]]. Il y a aussi des cabanes de péage sur les entrées/sorties {{Sortie||Crolles - [[Brignoud]]}} en direction de Grenoble, rendant l'autoroute payante jusqu'à {{Sortie||[[Domène]], [[Montbonnot-Saint-Martin]]}}.
+* 1977 : ouverture de la section [[Saint-Félix (Haute-Savoie)|Saint-Félix]] – [[Chambéry]]-Nord.
+* 1978 : ouverture de la section [[Pontcharra]] – [[Chambéry]]-Sud - [[La Ravoire]]. Mise en place de la barrière de péage de Chambéry-Sud. La [[Route nationale 201|VRU]] n'étant pas achevée, une circulation à double sens en {{dunité|1|2|voies}} est mise en place sur une seule chaussée jusqu'à la [[Route nationale 6 (France métropolitaine)|RN6]], à l'entrée de [[Barberaz]].
+* 1978 : ouverture de la section Annecy-sud - Annecy-nord.
+* 1979 : ouverture de la section [[Annecy]]-nord - [[Villy-le-Pelloux]]. Ouverture de la sortie [[Rumilly (Haute-Savoie)|Rumilly]].
+* 1981 : ouverture de la section [[Villy-le-Pelloux]] – [[Scientrier]] (A40).
+* 1982 : abolition du péage depuis Crolles - Brignoud vers Grenoble et inversement.
+* 1985 : jonction de la [[Rocade sud (Grenoble)|Rocade Sud de Grenoble]] et réorganisation des entrées/sorties de Meylan dans le même secteur dont création d'une bretelle vers Chambéry. Ajout de l'entrée Meylan-mi-plaine en direction de Grenoble.
+* 1987 : ouverture de la sortie Aix-les-Bains-sud.
+* 1989 : mise en service de l'échangeur de [[Francin]] pour l'ouverture de la section de l'[[Autoroute A43 (France)|A43]] entre l'échangeur de [[Francin]] et [[Montmélian]]. Le tronçon de l'A41 entre Chambéry/[[Route nationale 201|RN 201]] et [[Francin]] est renuméroté A43.
+* 1993 : ajout d'une troisième voie entre l'entrée Montbonnot-Saint-Martin et l'embranchement de la Rocade Sud.
+* 1995 : ajout d'une troisième voie entre l'embranchement de la Rocade Sud et la sortie Montbonnot-Saint-Martin. Mise en service du demi-diffuseur de la Bâtie depuis et vers Grenoble. Le {{date|5 décembre 1994}}, lors des travaux de goudronnage de la bretelle, une pluie s'abat sur le chantier, créant un épais brouillard. Un carambolage s'ensuit, causant la mort de 5 personnes<ref>{{Lien brisé |titre=Le Dauphiné Libéré, du 5 décembre 2019 |url=https://www.ledauphine.com/edition-grenoble-vercors/2019/12/04/vingt-cinq-apres-le-drame-de-l-a41-hante-toujours-les-familles-des-victimes |brisé le=23 août 2026}}.</ref>.
+* 1996 : au niveau de la commune de [[Méry (Savoie)|Méry]], le virage serré prévu pour l'embranchement du contournement autoroutier est de Chambéry (devant rejoindre la section sud à la Ravoire) est reprofilé pour permettre un passage à pleine vitesse.
+* vers 2000 : dédoublement de la sortie 24 pour séparer les flux venant de Grenoble et allant à Brignoud (sortie 24b) et à Crolles (sortie 24a) respectivement.
+* 2002 : modification de l'échangeur avec la Rocade sud: la sortie Meylan en venant de Grenoble n'est plus accessible depuis l'A41.
+* 2006 : ouverture de la sortie vers [[Bernin (Isère)|Bernin]] en venant de Grenoble.
+* 2008 : ouverture de la section Annecy – Genève directe ({{unité|19.7|km}} construite en {{nobr|38 mois}} pour {{unité|871.5|millions d’euros}})<ref>Le Moniteur {{numéro|5485}} du 9 janvier 2009 {{p.}}16</ref> permettant de mettre Annecy à 30 minutes du centre de Genève. Cette section se nomme Liane ('''''LI'''aison '''A'''nnecy '''N'''ord '''E'''xpress''). Mise en service le {{Date|22|décembre|2008}} à 14 heures. Trafic attendu : {{unité|23000|véhicules}} par jour. <br/>L'ancienne section qui part de la barrière de [[Saint-Martin-Bellevue]] jusqu'à l'A40 (par la Roche-sur-Foron) se nomme dorénavant [[Autoroute A410 (France)|A410]]<ref name="inauguration">« Inauguration officielle de Liane, l'autoroute A41 Nord », [[8 Mont-Blanc]]. {{YouTube|VnN03BlYNSo}}</ref>. L'autoroute [[Autoroute A401 (France)|A401]] qui reliait l'A40 au poste frontière de [[Bardonnex]] et qui se trouve maintenant connectée à l'extrémité de l'A41, est intégrée à cette dernière.
+* 2010 : ouverture de la sortie 15.1 de [[Seynod]]-Sud, relié à la RD&nbsp;1201.
+* 2015 : ouverture de l'entrée depuis Bernin vers Grenoble.
+* 2018 : depuis septembre, travaux d'aménagement et d'élargissement avec mise en {{dunité|2|3|voies}} entre le péage {{Sortie|17|Annecy Nord|}} et le péage de Saint-Martin-Bellevue.
+* 2019 : l'échangeur de la Bâtie est complété en direction de Chambéry.
+* 2023 : la bretelle d'accès à l'autoroute A41 depuis Chambéry par l'A43 / VRU(N201) a été déplacée dans la [[Chamnord (centre commercial)|zone commerciale des Landiers]] (secteur Pré Pagnon) afin de réduire le trafic routier au niveau du péage historique de l'A43 et de fluidifier la traversée de l'[[Grand Chambéry|agglomération de Chambéry]] lors des grands chassé/croisé hivernaux à destination des stations de ski savoyardes et italiennes. Cette nouvelle bretelle d'accès est équipée d'un innovant système de péage sans barrière enregistrant les plaques d'immatriculation par caméras lors du passage de tous les véhicules.
+
+== Contournement de Chambéry ==
+Il était prévu à l'origine de connecter les deux sections Nord et Sud de l'autoroute au niveau de la traversée de [[Chambéry]]{{Refnec|date=15 juillet 2024}}. Le tronçon autoroutier manquant devait démarrer au sud d'[[Aix-les-Bains]], entre les villages de [[Méry (Savoie)|Méry]] et [[Sonnaz]]{{Refnec|date=15 juillet 2024}}. Un [[échangeur autoroutier]] était prévu dans la courbe décrite par la section Nord de l'A41, un espace entre les deux chaussées ayant été aménagé dès la construction de cette section de l'autoroute mise en service en 1977{{Refnec|date=15 juillet 2024}}. Se dirigeant vers le sud, l'autoroute devait passer à l'est de Sonnaz disposant d'un diffuseur connecté à la D211, franchir la [[colline de Lémenc]] en tunnel sous le [[col de Saint-Saturnin]], passer entre [[Bassens (Savoie)|Bassens]] et [[Saint-Alban-Leysse]] et se connecter à la section Sud de l'A41 entre [[Barberaz]] et [[la Ravoire]]{{Refnec|date=15 juillet 2024}}. Au total, la section prévue à péage devait mesurer dix kilomètres de longueur{{Refnec|date=15 juillet 2024}}.
+
+Ce projet est abandonné dans les années 1980{{Refnec|date=15 juillet 2024}}, notamment avec l'aménagement de la [[Route nationale 201|RN 201]] (passage progressif à 2x2 voies puis 2x3 voies et ouverture du [[tunnel des Monts]]), et l'emprise de l'échangeur à Méry est modifiée en 1996 par le reprofilage de la chaussée sud qui est depuis collée à la chaussée nord. Un nouveau projet de contournement de Chambéry, cette fois-ci par le sud, proposé en 2007 à lui aussi été abandonné en 2014<ref>{{Lien web |langue=fr-FR |titre=Abandon du contournement autoroutier de l'agglomération de Chambéry |url=https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/savoie/abandon-du-contournement-autoroutier-de-l-agglomeration-de-chambery-471503.html |site=France 3 Auvergne-Rhône-Alpes |date=2014-05-05 |consulté le=2025-09-05}}</ref>.
+
+== Sorties ==
+=== A41 Nord (A41N) ===
+'''Section concédée à [[Autoroutes et tunnel du Mont-Blanc|ATMB]] et gratuite.'''
+* [[Fichier:Swiss border sign.svg|22x22px]] Entrée ou sortie du territoire suisse ({{CH}}) : [[Fichier:CH-Hinweissignal-Autobahn.svg|20px]] L'[[autoroute A1 (Suisse)|autoroute suisse A1]] vers / depuis [[Lausanne]], [[Genève]] - ''centre'', ''[[File:France road sign ID2.svg|15px|alt]] [[Aéroport international de Genève|Genève]]''
+* [[Fichier:CH-Vorschriftssignal-Zollhaltestelle-1.svg|22x22px]] Douane Suisse de Bardonnex
+'''{{France}} / {{Suisse}}''', [[Frontière entre la France et la Suisse|Frontière franco-suisse]] à {{unité|130|km}}
+* [[File:France road sign B4.svg|22x22px]] Douane Française de Bardonnex
+* [[Fichier:Traffic_sign_of_border_with_France.svg|25x25px]] ''Entrée dans le territoire français, entrée dans la région [[Auvergne-Rhône-Alpes]], département de la [[Haute-Savoie]]''.
+** [[Fichier:France road sign C207.svg|24x24px]] [[Fichier:Panneau-C24a.svg|22x22px]] [[Fichier:France road sign B14 (110).svg|22x22px]] Début de l'autoroute, début de {{dunité|2|3|voies}} et limitation à {{unité|110|km/h}}.
+* '''{{échangeur autoroutier|[[Autoroute A40 (France)|A40]]|A41N}}''' à {{unité|128|km}} : [[Paris]], [[Lyon]], [[Bourg-en-Bresse]], [[Turin]] - [[Milan]] par le ''[[Tunnel du Mont-Blanc]]'', [[Chamonix-Mont-Blanc]], [[Annemasse]], Genève - ''Vallard'' + {{Sortie|13 Saint-Julien-en-Genevois (sortie de l'A40)}} : [[Annecy]], [[Saint-Julien-en-Genevois]]
+'''Section concédée à [[ADELAC]] et payante ''(LIANE : LI'''aison '''A'''nnecy '''N'''ord '''E'''xpress''')''.'''
+* [[Fichier:AB-Brücke.svg]] Viaduc du Nant de la Folle sur [[Fichier:Panneau cours d'eau France.png|20px]] Le Ruisseau de la Folle. ''({{unité|264|m}})''
+** [[Fichier:France road sign C111.svg|22x22px]] Tunnel de Mont-Sion ''(3 065 m)''
+* {{Sortie|19 Copponex}} à {{unité|118|km}} ''(demi-échangeur depuis et vers Genève)'' : [[Copponex]], [[Cruseilles]]
+** [[Fichier:AB-Brücke.svg]] Viaduc du Nant de Saint-Martin sur [[Fichier:Panneau cours d'eau France.png|20px]] Le Ruisseau de la Saint-Martin. ''({{unité|264|m}} sens Genève – Grenoble, {{unité|270|m}} sens Grenoble – Genève)''
+** [[Fichier:AB-Brücke.svg]] Viaduc du Nant de Pesse-Vieille sur [[Fichier:Panneau cours d'eau France.png|20px]] Le Ruisseau de la Saint-Martin. ''({{unité|212|m}})''
+** [[Fichier:France road sign C111.svg|22x22px]] Tranchée Couverte de Noiret ''(290 m)''
+** {{Aire de repos|des Ponts de la Caille|Genève – Grenoble|de la Ravoire|Grenoble – Genève}} à {{unité|113|km}}
+** [[Fichier:AB-Brücke.svg]] Viaduc des Usses sur [[Fichier:Panneau cours d'eau France.png|20px]] [[Les Usses]]. ''({{unité|360|m}})''
+[[Fichier:A41 - 2014-08-25 - IMG-9625.jpg|vignette|{{Sortie|18 Cruseilles}} en direction d'Annecy.]]
+* {{Sortie|18 Allonzier}} à {{unité|112|km}} et {{unité|110|km}} ''(deux demi-échangeurs)'' : Cruseilles, [[Allonzier-la-Caille]]
+* {{Péage|Péage de Saint-Martin-Bellevue (à système ouvert)}}
+* '''{{échangeur autoroutier|[[Autoroute A410 (France)|A410]]|A41N}}''' à {{unité|111|km}} ''(demi-échangeur, depuis et vers Grenoble)'' : Milan, Chamonix-Mont-Blanc (A40), [[Thonon-les-Bains]] - [[Évian-les-Bains]], Annemasse, [[La Roche-sur-Foron]]
+'''Section concédée à [[AREA (société d'autoroutes)|AREA]] et payante'''
+* {{Sortie|17 Annecy - ''nord''}} à {{unité|103|km}} : Annecy, [[Thônes]], ''[[Annecy-le-Vieux]]'', ''Massif des Aravis''
+** [[Fichier:Panneau-C24a-2.svg|22x22px]] Passage à {{dunité|2|2|voies}}.
+* {{Sortie|16 Annecy - ''centre''}} à {{unité|98|km}} : [[Albertville]], Annecy, ''[[Seynod]] - centre'', ''[[Cran-Gevrier]]''
+** [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à 130 km/h. (sens Genève – Grenoble)
+** {{Aire de service|des Fontanelles|Genève – Grenoble|de la Ripaille|Grenoble – Genève}} à {{unité|95|km}}
+* {{Sortie|15.1 Seynod - ''sud''}} à {{unité|92|km}} : Annecy, ''Seynod'', [[Quintal (Haute-Savoie)|Quintal]], Vieugy, [[Chapeiry]], [[Montagny-les-Lanches]]
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à 110 km/h. (sens Grenoble – Genève)
+* {{Sortie|15 Rumilly}} à {{unité|86|km}} : [[Alby-sur-Chéran]], [[Rumilly (Haute-Savoie)|Rumilly]]
+''Passage du département de la Haute-Savoie au département de la [[Savoie]].''
+[[Fichier:Autoroute A41 - St-Girod.JPG|vignette|L'A41 Nord pour Annecy à [[Entrelacs (Savoie)|Saint-Girod]] en [[Savoie (département)|Savoie]], à 2 kilomètres de la [[Haute-Savoie]].]]
+* {{Aire de repos|d'Albens|Genève – Grenoble|de Saint-Girod|Grenoble – Genève}} à {{unité|81|km}}
+* {{Sortie|14 Aix-les-Bains - ''nord''}} à {{unité|72|km}} : [[Grésy-sur-Aix]], [[Aix-les-Bains]] - ''[[Mont Revard]]''
+** {{Aire de service|de Drumettaz|Genève – Grenoble|de Mouxy|Grenoble – Genève}} à {{unité|67|km}}
+* {{Sortie|13 Aix-les-Bains - ''sud''}} à {{unité|65|km}} : Aix-les-Bains, ''[[Lac du Bourget]]'', [[Drumettaz-Clarafond]], [[Viviers-du-Lac]]
+* '''{{échangeur autoroutier|[[Autoroute A43 (France)|A43]]|A41N}}''' à {{unité|58|km}} : [[Marseille]], [[Valence (Drôme)|Valence]], Lyon
+* {{Péage|Péage de Chambéry - nord (à système fermé)}} à {{unité|58|km}}
+* '''{{échangeur autoroutier|[[Route nationale 201|RN 201]]|A43/A41N}}''' à {{unité|56|km}} : [[Bourg-en-Bresse]], Annecy, Aix-les-Bains, Lyon, ''[[Savoie Technolac]]'', ''[[Fichier:France road sign ID2.svg|15px|alt]] [[Aéroport de Chambéry - Savoie-Mont-Blanc|Chambéry - Savoie]]''
+
+=== [[Route nationale 201|RN 201]] (VRU de Chambéry) ===
+[[Fichier:Panoramique VRU Chambéry.JPG|vignette|alt=La route nationale 201|La [[route nationale 201]] sortant du [[tunnel des Monts]] et continuant en direction des [[Autoroute A43 (France)|A43]] et A41 Sud.]]
+L'A43 est absorbée par la {{nobr|RN 201}} ('''V'''oie '''R'''apide '''U'''rbaine) pour la traversée de Chambéry.<br>
+'''Section non-concédée à [[Direction interdépartementale des Routes#Direction interdépartementale des Routes Centre-Est|DIR Centre-Est]] et gratuite.'''
+* [[Fichier:Panneau-C24a-2.svg|22x22px]] Passage à {{dunité|2|2|voies}}.
+** [[Fichier:France_road_sign_C208.svg|20px|Symbole Fin d'autoroute]] [[Fichier:France_road_sign_C107.svg|20px|Symbole Début de route à accès réglementé]] Fin des autoroutes (A41N/A43) et début de route à accès réglementé ({{nobr|RN 201}}) à {{unité|57|km}}
+* {{Sortie|14 La Motte-Servolex}} à {{unité|57|km}} : [[La Motte-Servolex]], ''[[File:France road sign ID35.svg|15px|alt]] Les Landiers - sud''
+** [[Fichier:Panneau-C24a.svg|22x22px]] [[Fichier:France road sign B14 (90).svg|22x22px]] Passage à {{dunité|2|3|voies}} et limitation à {{unité|90|km/h}}.
+* {{Sortie|15 Chambéry - ''[[Hauts-de-Chambéry|Le Haut]]''}} '''''([[Échangeur de la Boisse]])''''' à {{unité|55|km}} : [[Chambéry]] - ''ouest'', [[Les Échelles]], [[Cognin]], ''[[File:France road sign ID3.svg|15px|alt]] [[Centre hospitalier Métropole Savoie|Centre Hospitalier]]''
+* {{Sortie|16 Chambéry - ''La Cassine''}} à {{unité|54|km}} : Chambéry - ''centre'', ''[[File:France road sign ID12a.svg|15px|alt]] [[Gare de Chambéry - Challes-les-Eaux|Gare]]''
+** [[Fichier:France road sign C111.svg|22x22px]] [[Tunnel des Monts]] (880 m)
+* {{Sortie|17 Bassens}} à {{unité|52|km}} : Chambéry - ''centre'', [[Bassens (Savoie)|Bassens]]
+* {{Sortie|18 Barberaz}} à {{unité|51|km}} : [[Albertville]], Grenoble, Chambéry - ''sud'', [[Barberaz]], ''[[Massif des Bauges]], [[Massif de la Chartreuse]]''
+* {{Sortie|19 La Ravoire}} à {{unité|50|km}} : [[La Ravoire]], Barberaz
+
+=== [[Autoroute A43 (France)|A43]] (Tronc commun) ===
+'''Section concédée à [[AREA (société d'autoroutes)|AREA]] et payante (sauf la sortie 20).'''
+* [[Fichier:France_road_sign_C108.svg|20px|Symbole Début de route à accès réglementé]] [[Fichier:France road sign C207.svg|22x22px]] [[Fichier:France road sign B14 (110).svg|22x22px]] Fin de route à accès réglementé et début du statut autoroutier de l'A43 (toujours en tronc commun avec l'A41) et limitation à {{unité|110|km/h}}.
+* {{Sortie|20 Saint-Baldoph}} à {{unité|48|km}} : [[Saint-Baldoph]], [[Challes-les-Eaux]], [[Myans]]
+** {{Aire de service|Le Granier|Genève – Grenoble|L'Abis|Grenoble – Genève}}
+* {{Péage|Péage de Chignin (à système fermé)}} à {{unité|44|km}}
+* {{Sortie|21 Chignin / Les Marches}} à {{unité|43|km}} : [[Chignin]], Les Marches
+** [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à 130 km/h.
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à 110 km/h.
+* '''{{échangeur autoroutier|[[Autoroute A43 (France)|A43]]|A41S}}''' à {{unité|41|km}} : Turin - Milan par le ''[[Tunnel routier du Fréjus|Tunnel du Fréjus]]'', Albertville ([[Autoroute A430 (France)|A430]]), [[Saint-Jean-de-Maurienne]], [[Montmélian]]
+
+=== A41 Sud (A41S) ===
+[[Fichier:Bifurcation A43-A41S au sud de Chambéry au matin (juillet 2024).JPG|vignette|Échangeur entre l'A43 et l'A41 Sud, l'A41 longe l'[[Isère (rivière)|Isère]] en direction de Grenoble vers le haut de la photo.]]
+[[Fichier:Autoroute A41 (France).JPG|vignette|En direction de Grenoble et longeant la [[chaîne de Belledonne]] ([[Isère (département)|Isère]]).]]
+'''Section concédée à [[AREA (société d'autoroutes)|AREA]] et payante (sauf de la sortie 24c à la fin de l'autoroute).'''<br>
+* [[Fichier:France road sign C207.svg|24x24px]] [[Fichier:Panneau-C24a-2.svg|22x22px]] [[Fichier:France road sign B14 (130).svg|22x22px]] Début de l'autoroute A41S, début de {{dunité|2|2|voies}} et limitation à {{unité|130|km/h}}.
+''Passage du département de la Savoie au département de l'[[Isère (département)|Isère]].''
+* {{Aire de repos|de Chapareillan|Genève – Grenoble|des Marches|Grenoble – Genève}} à {{unité|37|km}}
+* {{Sortie|22 Pontcharra}} à {{unité|33|km}} : [[Allevard]], [[Pontcharra]], [[Valgelon-La Rochette|La Rochette]]
+* {{Sortie|23 Le Touvet}} à {{unité|23|km}} : [[Le Touvet]], Allevard
+** {{Aire de repos|de la Terrasse|Genève – Grenoble|de Chonas|Grenoble – Genève}} à {{unité|21|km}}
+* {{Sortie|24/24a/24b Brignoud}} à {{unité|14|km}} : Chambéry, [[Crolles]], [[Froges]], [[Brignoud]], [[Villard-Bonnot]]
+* {{Péage|Péage de Crolles (à système fermé)}} à {{unité|14|km}}
+* {{Sortie|24c Bernin}} à {{unité|12|km}} ''(demi-échangeur, depuis et vers Grenoble)'' : [[Bernin (Isère)|Bernin]]
+** {{Aire de service|du Bois-Claret|Genève – Grenoble|de Saint-Nazaire-les-Eymes|Grenoble – Genève}} à {{unité|10|km}}
+* {{Sortie|24.1 La Bâtie}} à {{unité|8|km}} : [[Saint-Ismier]] - ''Z. A'', Villard-Bonnot
+* {{Sortie|25 Montbonnot}} à {{unité|5|km}} : [[Domène]], [[Montbonnot-Saint-Martin]], Saint-Ismier - ''centre''
+** [[Fichier:Panneau-C24a-2.svg|22x22px]] [[Fichier:France road sign B14 (110).svg|22x22px]] Passage à {{dunité|2|3|voies}} et limitation à {{unité|110|km/h}}.
+* {{Sortie|26 Meylan - ''est''}} à {{unité|3|km}} ''(trois-quarts-échangeur, non-accessible depuis Grenoble)'' : [[Meylan]]
+* '''{{échangeur autoroutier|[[Route nationale 87 (France)|RN 87]] ([[Fichier:SU4 - Rocade France.svg|22x22px]] [[Rocade sud (Grenoble)|Rocade Sud]])|A41S}}''' à {{unité|2|km}} :'' [[Fichier:France road sign C207.svg|24x24px]] [[Autoroute A480 (France)|A480]]'', [[Sisteron]], [[Gap]], [[Briançon]] ([[Autoroute A51 (France)|A51]]), Lyon ([[Autoroute A48 (France)|A48]]), [[Valence (Drôme)|Valence]] ([[Autoroute A49 (France)|A49]]), [[Saint-Martin-d'Hères]], [[Gières]], ''Domaine Universitaire''
+** [[Fichier:Panneau-C24a-2.svg|22x22px]] Passage à {{dunité|2|2|voies}}.
+** [[Fichier:France road sign B14 (90).svg|22x22px]] Limitation à 90 km/h.
+* {{Sortie|27 Meylan - ''ouest''}} à {{unité|1|km}} ''(demi-échangeur, depuis Genève et vers Grenoble)'' : Meylan - ''Mi-Plaine'', [[La Tronche]] - ''centre'', [[Corenc]]
+** [[Fichier:France road sign B14 (70).svg|22x22px]] Limitation à 70 km/h.
+** [[Fichier:France_road_sign_C208.svg|20px|Symbole Fin d'autoroute]] Fin de l'autoroute A41S à {{unité|0|km}}. (Carrefour de ''La Carronerie'', [[Route nationale 90 (France)|RD 1090]] à Meylan.)
+
+== Ouvrages d’art ==
+Ils sont tous situés sur la section Nord, la section Sud se situant intégralement en plaine dans le [[Grésivaudan]]. Ils sont, du nord au sud :
+* le [[viaduc du Nant de la Folle]], à proximité de [[Beaumont (Haute-Savoie)|Beaumont]], long de {{unité|260|m}} et haut de {{unité|31|m}}.
+* le [[tunnel du Mont-Sion]], à proximité d'[[Andilly (Haute-Savoie)|Andilly]], long de {{unité|3.1|km}}.
+* le [[viaduc du Nant de Saint-Martin]], à proximité de [[Cruseilles]], long de {{unité|260|m}} et haut de {{unité|43|m}}.
+* le viaduc franchissant le Nant de Pesse-Vieille, à proximité de Cruseilles, long de {{unité|210|m}} et haut de {{unité|35|m}}.
+* la [[tranchée couverte]] du Noiret, à proximité de Cruseilles, longue de {{unité|290|m}}.
+* le [[viaduc des Usses]], à proximité d'[[Allonzier-la-Caille]], long de {{unité|360|m}} et haut de {{unité|60|m}}.
+* le viaduc franchissant le [[Fier (rivière)|Fier]], à proximité d'[[Annecy]], long de {{unité|202|m}}.
+* le [[viaduc des Éparis]], à proximité d'[[Alby-sur-Chéran]], long de {{unité|274|m}}.
+* le [[viaduc du Chéran]], à proximité d'Alby-sur-Chéran, long de {{unité|400|m}}.
+
+[[Fichier:A41 panneau H13 Aix-les-Bains.jpg|alt=Panneau sur le bord d'une autoroute indiquant la ville d'Aix-les-Bains|vignette|Un panneau indiquant la proximité d'Aix-les-Bains sur l'A41.]]
+
+== Départements traversés ==
+L'autoroute A41 traverse trois départements. La liste suivante répertorie les villes desservies et sites remarquables à proximité de l'autoroute :
+* [[Isère (département)|Isère]]: Grenoble, [[Saint-Ismier]], [[Crolles]], [[Le Touvet]] et [[Pontcharra]] ;
+* [[Savoie (département)|Savoie]] : Chambéry et Aix-les-Bains ;
+* [[Haute-Savoie]] : Annecy, Cruseilles et [[Saint-Julien-en-Genevois]].
+
+== Travaux en 2021 ==
+En 2021, des travaux sont en cours au niveau de la gare de péage de Chambéry-Nord et de l'échangeur A41-A43-VRU, avec en particulier la création d'une [[Bretelle (transport)|bretelle autoroutière]] depuis la VRU vers l'A41 en direction d'Aix-les-Bains et Annecy afin de réduire les cisaillements des différents flux automobiles<ref>https://www.ledauphine.com/transport/2021/08/17/la-bretelle-d-autoroute-vers-aix-les-bains-et-annecy-ouvrira-mi-2022</ref>.
+
+Le {{date|15 septembre 2022}}, le nouvel échangeur ouvre après 1 an et demi de travaux.
+
+== Notes et références ==
+{{Références}}
+
+== Voir aussi ==
+=== Articles connexes ===
+* [[Liste des autoroutes de France]]
+* [[Route européenne 70]]
+* [[Route européenne 712]]
+
+=== Liens externes ===
+{{Autres projets|commons=Category:A41 autoroute}}
+{{Liens}}
+* {{Légifrance|base=JORF|numéro=EQUR0501534D|texte=Convention de concession passée entre l'État et la société ADELAC}} sur Légifrance
+* [http://www.adelac-a41.com/ Site internet d'ADELAC]
+* {{pdf}} [http://www.haute-savoie.equipement.gouv.fr/IMG/pdf/plaquette_A41_cle078921.pdf Plaquette A41] Sur le site haute-savoie.equipement.gouv.fr (lien rompu)
+* [http://saratlas.free.fr/index.php?page=autoroute&route=a41&lang=fr Autoroute A41 dans Saratlas] Sur le site saratlas.free.fr
+* [http://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A41 Autoroute française A41] Sur le site routes.wikia.com
+
+{{Palette|Autoroutes de France|Transports en commun en Auvergne-Rhône-Alpes|Transport à Grenoble}}
+{{Portail|Transport en commun|route|Isère|Savoie}}
+
+[[Catégorie:Autoroute en Auvergne-Rhône-Alpes|041]]
+[[Catégorie:Transport à Chambéry]]
+[[Catégorie:Transport à Annecy]]
+[[Catégorie:Périphérie routière de Grenoble]]

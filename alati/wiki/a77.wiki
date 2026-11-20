@@ -1,0 +1,252 @@
+{{Voir homonymes|A77}}
+{{Infobox Route/France
+|statut            = A
+|numéro            = 77
+|autres_noms       = Autoroute de l'[[Arbre]]
+|image             = A77.jpg
+|légende           = L'autoroute A77 près de [[Varennes-Vauzelles]].
+|carte             = France_Autoroutes_CC_A77.svg
+|longueur          = 161
+|longueur_notes    = 
+|direction         = nord / sud
+|dir1              = nord
+|dir2              = sud
+|ville1            = {{Route européenne|15}} {{Autoroute française|A6}} à [[Poligny (Seine-et-Marne)|Poligny]] 
+|ville2            = {{Route nationale|7|France}} à [[Sermoise-sur-Loire]]
+|villes_principales= [[Montargis]], [[Gien]], [[Cosne-Cours-sur-Loire]], [[Nevers]]
+|intersections     = {{Autoroute française|A19}} à [[Montargis]]
+|ouverture         = Entre [[1971]] et [[2012]] (tracés en service)
+|réseau            = Autoroute française
+|régions           = [[Île-de-France]], [[Centre-Val de Loire]], [[Bourgogne-Franche-Comté]]
+|départements      = [[Seine-et-Marne]], [[Loiret (département)|Loiret]], [[Nièvre (département)|Nièvre]]
+|nb_reg            = 3
+|nb_dep            = 3
+|nom_notes         =
+| concessionnaire = [[Autoroutes_Paris-Rhin-Rhône|APRR]] (entre Poligny et Saint-Père)
+|gestionnaire = [[Direction interdépartementale des Routes#Direction interdépartementale des Routes Centre-Est|DIR Centre-Est]] (entre Saint-Père et Sermoise-sur-Loire)
+}}
+
+L’'''autoroute A77''' est une autoroute française commençant à [[Poligny (Seine-et-Marne)|Poligny]] en [[Seine-et-Marne]], au [[Échangeur autoroutier|demi-échangeur]] avec l'[[Autoroute A6 (France)|autoroute A6]] et se terminant à [[Sermoise-sur-Loire]] dans la [[Nièvre (département)|Nièvre]], où elle est prolongée par la [[route nationale 7 (France métropolitaine)|Route nationale 7]]. Elle permet ainsi de relier [[Paris]] à [[Nevers]].
+
+Surnommée l’« '''''Autoroute de l’Arbre''''' », elle fait l'objet d'un grand soin paysager. Chacune des aires de repos porte le nom d'une espèce. L'intégration paysagère a été très étudiée et des zooducs permettent le passage des animaux (sauvages ou bétail) d'un bord à l'autre de la chaussée (comme en [[forêt d'Orléans]]), atténuant ainsi la coupure de l'infrastructure.
+
+== Historique ==
+* [[1996]] : L'A77 reprend l'ancien raccordement autoroutier [[Autoroute A6 (France)|A6]] ↔ [[Route nationale 7 (France métropolitaine)|RN 7]] entre [[Poligny (Seine-et-Marne)|Poligny]] et [[Dordives]]. La barrière de péage du Val de Loing a été reconstruite et élargie à cette occasion. Cette section avait d’autres noms : G6<ref>Carte Michelin France 989 1/{{formatnum:1000000}}, édition 1980</ref> en [[1971]], A70<ref>Carte Michelin France 916 1/{{formatnum:1000000}} recto-verso, édition 1986</ref> en [[1982]], ou A67 en [[1990]].
+* De [[1999]] à [[2004]] : Mise en service progressive de la section de [[Cosne-Cours-sur-Loire]] à [[Nevers]]-Sud.
+* [[1999]] : Mise en service de la section [[Dordives]] – [[Briare]] de {{unité|68|km}}.
+* [[2000]] : Mise en service de la section ''Briare'' – ''Cosne-Cours-sur-Loire'' de {{unité|33|km}}.
+* [[2004]] : Mise en service complète de la section ''Cosne-Cours-sur-Loire'' – ''Nevers''.
+* [[2009]] : Mise en service de l'échangeur A19/A77, le {{date+|16 juin}}.
+* [[2012]] : Intégration du tronçon [[Pouilly-sur-Loire]] - [[Pougues-les-Eaux]] de la [[Route nationale 7 (France métropolitaine)|N7]].
+
+== Tracé ==
+Dans cet article, le tracé est divisé en sections, en fonction de son avancement et des gestionnaires de voirie chargés de son entretien.
+
+Les sorties sont numérotées à partir de « 17 » (et non de « 1 »), par continuité avec la numérotation des sorties de l'[[Autoroute A6 (France)|A6]] depuis [[Paris]] (périphérique). Le [[Point kilométrique|PK]] zéro de cette autoroute se situe à {{Unité|80|km}} environ du [[boulevard périphérique de Paris]].
+
+L'autoroute est gérée par la société des [[Autoroutes Paris-Rhin-Rhône]]<ref>{{Lien web |langue=fr |titre=Autoroutes APRR et AREA : Découvrez notre réseau |url=https://voyage.aprr.fr/nos-autoroutes |site=voyage.aprr.fr |consulté le=2024-08-14}}</ref> et par la [[Direction interdépartementale des Routes Centre-Est]]<ref>{{Lien web |langue=fr |prénom=D. I. R. |nom=Centre-Est |titre=DIR Centre-Est |url=https://www.dir.centre-est.developpement-durable.gouv.fr/ |site=DIR Centre-Est |date=2024-08-14 |consulté le=2024-08-14}}</ref>. C'est une autoroute {{dunité|2|2|voies}} de {{unité|160|km}} environ, payante de l'[[Autoroute A6 (France)|A6]] à la sortie 18, de la sortie 21 à la sortie 22 (Cosne-Cours-sur-Loire) et ensuite gratuite de la sortie 22 à la sortie 37 (Nevers).
+=== Sorties ===
+'''Section concédée à [[Autoroutes Paris-Rhin-Rhône|APRR]] et payante (sauf entre les sorties 19 à 21, 22 et 22.1).'''
+* '''{{échangeur autoroutier|[[Autoroute A6 (France)|A6]]|A77}}''' (demi-échangeur, depuis et vers Paris) à {{unité|0|km}} : [[Paris]], [[Fontainebleau]], [[Nemours]]
+** [[Fichier:France road sign C207.svg|24x24px]] [[Fichier:Panneau-C24a.svg|24x24px]] [[Fichier:France road sign B14 (130).svg|22x22px]] Début de l'autoroute, début de {{dunité|2|2|voies}} et limitation à {{unité|130|km/h}}.
+* {{Péage|Péage du Val de Loing (à système fermé)}} à {{unité|5.5|km}}
+* {{Sortie|17 Dordives}} à {{unité|6|km}} : [[Souppes-sur-Loing]], [[Dordives]]
+''Passage de la région [[Île-de-France]] à celui du [[Centre-Val de Loire]].<br /> Passage du département de [[Seine-et-Marne]] à celui du [[Loiret (département)|Loiret]].'' 
+* [[Fichier:AB-Brücke.svg]] Pont franchissant le [[Fichier:Panneau cours d'eau France.png|20px]] [[Loing]] à {{unité|8|km}}
+** {{Aire de repos|du Hêtre Pourpre|Paris-Nevers|du Sophora|Nevers-Paris}} à {{unité|11|km}}
+* '''{{échangeur autoroutier|[[Autoroute A19 (France)|A19]]|A77}}''' à {{unité|19|km}} : [[Orléans]] ([[Autoroute A10 (France)|A10]]), [[Metz]] - [[Nancy]] ([[Autoroute A5 (France)|A5]]), [[Sens (Yonne)|Sens]], [[Montargis]] - ''nord''
+** [[Fichier:AB-Brücke.svg]] ''[[Viaduc de Pannes]]'' sur [[Fichier:Panneau cours d'eau France.png|20px]] ''le [[Canal d'Orléans]]'' et ''La [[Bézonde]]'' à {{unité|27.5|km}}
+* {{Sortie|18 Le Tourneau}} à {{unité|28|km}} : [[Montargis]] - ''centre'', [[Sully-sur-Loire]], [[Châteauneuf-sur-Loire]] 
+** {{Aire de repos|du Cèdre|Paris-Nevers|du Liquidambar|Nevers-Paris}} à {{unité|30|km}}
+* {{Sortie|18.1 Varennes-Changy}} à {{unité|44|km}} ''(demi-échangeur, depuis et vers Paris)'' : [[Nogent-sur-Vernisson]], [[Varennes-Changy]]
+** {{Aire de service|du Jardin des Arbres}} à {{unité|45|km}}
+* {{Sortie|19 Gien}} à {{unité|54|km}} : [[Bourges]], [[Vierzon]], [[Gien]], [[Nogent-sur-Vernisson]]
+**{{Aire de repos|du Ginkgo|Paris-Nevers|du Tulipier|Nevers-Paris}} à {{unité|64|km}}  
+* {{Sortie|20 Briare}} à {{unité|68|km}} : Orléans, [[Châtillon-sur-Loire]], [[Briare]], Gien 
+** [[Fichier:AB-Brücke.svg]] ''[[Viaduc de Briare]] ''sur [[Fichier:Panneau cours d'eau France.png|20px]] ''le [[canal de Briare]]'' et ''la [[Trézée]]'' à {{unité|69.5|km}}
+[[Fichier:A77 Canal de Briare.jpg|vignette|Pont sur le canal de Briare.]]
+* {{Sortie|21 Saint-Fargeau}} à {{unité|81|km}} : [[Auxerre]], [[Saint-Fargeau (Yonne)|Saint-Fargeau]], [[Bonny-sur-Loire]]
+''Passage du département du Loiret à celui de la [[Nièvre (département)|Nièvre]].<br /> Passage de la région Centre-Val de Loire à celui du [[Bourgogne-Franche-Comté]].''
+* {{Aire de repos|du Caule|Paris-Nevers|du Séquoia|Nevers-Paris}} à {{unité|88|km}}
+* {{Péage|Péage de Myennes (à système ouvert)}} à {{unité|97|km}}
+* {{Sortie|22 Cosne-Cours-sur-Loire - ''nord''}} à {{unité|98|km}} : [[Cosne-Cours-sur-Loire]], [[Saint-Amand-en-Puisaye]]
+* {{Sortie|22.1 Cosne-Cours-sur-Loire - ''est''}} à {{unité|100|km}} ''(demi-échangeur, depuis et vers Nevers)'' : Cosne-Cours-sur-Loire, [[Alligny-Cosne|Alligny]], [[Saint-Père (Nièvre)|Saint-Père]]<br>
+'''Section non-concédée gérée par la [[Direction interdépartementale des Routes#Direction interdépartementale des Routes Centre-Est|DIR Centre-Est]] et gratuite.'''
+[[Fichier:A77 Direction Paris à Neuvy-sur-Loire (juillet 2025).JPG|thumb|À [[Neuvy-sur-Loire]] en direction de [[Paris]].]]
+* {{Sortie|23 Cosne-Cours-sur-Loire - ''sud''}} à {{unité|103|km}} : Cosne-Cours-sur-Loire - ''Z. I. Sud'', [[Donzy]] 
+* {{Sortie|24 Sancerre}} à {{unité|108|km}} : [[Sancerre]], [[Saint-Laurent-l'Abbaye]], [[Tracy-sur-Loire]] + {{Aire de service|des Vignobles}}
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à {{unité|110|km/h}}.
+* {{Sortie|25 Pouilly-sur-Loire - ''nord''}} à {{unité|113|km}} : [[Pouilly-sur-Loire]], [[Saint-Andelain]]
+** {{Aire de repos|de Pouilly|Paris-Nevers}} à {{unité|115|km}}
+* {{Sortie|26 Pouilly-sur-Loire - ''sud''}} à {{unité|117|km}} : Pouilly-sur-Loire, [[Narcy (Nièvre)|Narcy]]
+**{{Aire de repos|de Pouilly|Nevers-Paris}} à {{unité|119|km}}
+* {{Sortie|27 Mesves-sur-Loire}} à {{unité|122|km}} : [[Mesves-sur-Loire]], [[Bulcy]], Narcy
+* {{Sortie|28 La Charité-sur-Loire - ''nord''}} à {{unité|125|km}} : Bourges, [[La Charité-sur-Loire]]
+**{{Aire de repos|de La Charité-sur-Loire|Paris-Nevers}} à {{unité|127|km}}
+[[Fichier:A77 pour Paris près de Pougues-les-Eaux (juillet 2025).JPG|thumb|L'A77 à [[Chaulgnes]].]]
+* {{Sortie|29 La Charité-sur-Loire - ''Z. I.''}} à {{unité|128|km}} : Auxerre, La Charité-sur-Loire, [[Varzy]], [[Clamecy (Nièvre)|Clamecy]], [[Prémery]] 
+** {{Aire de repos|de la Marche|Nevers-Paris}} à {{unité|132|km}}
+* {{Sortie|30 La Marche}} à {{unité|134|km}} : [[Tronsanges]], [[La Marche (Nièvre)|La Marche]]
+** [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à {{unité|130|km/h}}.
+* {{Sortie|31 Pougues-les-Eaux - ''nord''}} à {{unité|140|km}} : [[Pougues-les-Eaux]], [[Chaulgnes]]
+** {{Aire de repos|de Pougues}} à {{unité|144|km}}
+* {{Sortie|32 Pougues-les-Eaux - ''sud''}} à {{unité|147|km}} : Pougues-les-Eaux, [[Garchizy]], [[Fourchambault]]
+* {{Sortie|33 Nevers - ''nord''}} à {{unité|148|km}} : [[Nevers]] - ''centre'', [[Varennes-Vauzelles]]
+* {{Sortie|34 Nevers - ''centre''}} à {{unité|154|km}} : Auxerre, Clamecy, [[Guérigny]], Nevers, [[Saint-Éloi (Nièvre)|Saint-Éloi]], [[Coulanges-lès-Nevers]]
+* ''Pas de sortie 35''
+* {{Sortie|36 Nevers - ''est''}} à {{unité|158|km}} : [[Autun]], [[Château-Chinon (Ville)]], [[Decize]], [[jardins maraîchers de la Baratte|Les jardins maraîchers de la Baratte]], [[Imphy]], Nevers, Saint-Éloi
+** [[Pont Pierre-Bérégovoy]] ({{unité|420|m}}) sur [[Fichier:Panneau cours d'eau France.png|20px]] ''la [[Loire (fleuve)|Loire]]'' à {{unité|158.6|km}} 
+* {{Sortie|37 Nevers - ''sud''}} à {{unité|161|km}} : Bourges, Nevers - ''centre'', [[La Guerche-sur-l'Aubois]], [[Sermoise-sur-Loire]], [[Challuy]]
+** [[Fichier:France_road_sign_C208.svg|20px]] Fin de l'autoroute.
+** [[Fichier:France_road_sign_C107.svg|20px]] Début de la route à accès réglementé ([[Route nationale 7 (France métropolitaine)|RN 7]]) à {{unité|161.4|km}} vers : [[Saint-Étienne]] ([[Autoroute A72 (France)|A72]]), [[Roanne]], [[Moulins (Allier)|Moulins]]
+
+== Prolongement N7 et N82 de Nevers à Balbigny ==
+{{Projet de transport}}
+=== État d'avancement ===
+L'A77 est prolongée jusqu'à [[Balbigny]] par la [[Route nationale 7 (France métropolitaine)|N7]] et la [[Route nationale 82 (France)|N82]] dont la mise à {{dunité|2|2|voies}} est réalisée progressivement depuis la fin des [[années 1970]].
+[[Fichier:RN 7 à St-Parize-le-Châtel (juillet 2025).JPG|thumb|2 x 2 voies de la RN 7 au sud de [[Nevers]].]]
+* A77 - [[Saint-Parize-le-Châtel|Moiry]] ({{unité|9.8|km}}) : en service depuis [[2011]].
+* Moiry - ''Maison-Rouge'' ({{unité|3.3|km}}) : en service depuis [[2014]].
+* ''Maison-Rouge'' - [[Saint-Pierre-le-Moûtier]] ({{unité|2.2|km}}) : en service depuis le {{date|18 juillet 2016}}.
+* Contournement de Saint-Pierre-le-Moûtier ({{unité|5|km}}) : en service depuis [[1986]] (mise aux normes autoroutières déprogrammée pour restrictions budgétaires).
+* Traversée de [[Chantenay-Saint-Imbert]] ({{unité|4|km}}) : en service depuis le {{date|27 septembre 2022}} (échangeur 41 compris).
+* Chantenay-Saint-Imbert - Limite [[Nièvre (département)|Nièvre]] / [[Allier (département)|Allier]] ({{unité|6|km}}) : en service depuis le {{date|7 août 2026}}.
+* Limite Nièvre / Allier - [[Villeneuve-sur-Allier]] ({{unité|5,2|km}}) : en service depuis le {{date|20 novembre 2019}}.
+* Villeneuve-sur-Allier - [[Trévol]] ({{unité|1,9|km}}) : en service depuis le {{date|12 juillet 2021}}<ref>{{Lien web |prénom=Centre |nom=France |titre=Transports - Ouverture progressive à la circulation de l'échangeur de Villeneuve-sur-Allier, sur la RN7, à partir du lundi 14 juin |url=https://www.lamontagne.fr/moulins-03000/actualites/ouverture-progressive-a-la-circulation-de-lechangeur-de-villeneuve-sur-allier-a-partir-du-lundi-14-juin_13965737/ |site=www.lamontagne.fr |date=2021-06-12 |consulté le=2021-09-25}}.</ref>.
+* Trévol - [[Avermes]] ({{unité|1.8|km}}) : section non inscrite au CPER 2023-2027 (travaux possibles à partir de 2027).
+* Avermes - [[Moulins (Allier)|Moulins]] ({{unité|3.5|km}}) : en service depuis [[2008]].
+* Contournement de Moulins ({{unité|14|km}}) : en service depuis [[1996]].
+* Moulins - [[Toulon-sur-Allier]] ({{unité|3|km}}) : en service depuis [[2000]].
+* Toulon-sur-Allier - [[Autoroute A79 (France)|A79]] ({{unité|1|km}}) : en service depuis le {{date|4 novembre 2022}} 
+* Contournement de [[Bessay-sur-Allier]] ({{unité|7.2|km}}) : section non inscrite au CPER 2023-2027 (travaux possible à partir de 2027).
+* [[La Ferté-Hauterive|Bessay-sur-Allier]] (sud) - [[Varennes-sur-Allier]] (nord) ({{unité|11.3|km}}) : non programmé.
+* Contournement de Varennes-sur-Allier ({{unité|4.6|km}}) : en service depuis le {{date|21 décembre 2016}}<ref>{{Lien web|url=http://www.lamontagne.fr/vichy/transport/2016/12/20/le-contournement-de-varennes-sur-allier-est-ouvert-a-la-circulation_12212383.html|titre=Le contournement de Varennes-sur-Allier est ouvert à la circulation|jour=20|mois=décembre|année=2016|site=La Montagne|consulté le=20 décembre 2016}}.</ref>.
+* Varennes-sur-Allier - [[Lapalisse]] ({{unité|17|km}}) : non programmé.
+* Lapalisse - [[Saint-Prix (Allier)|Saint-Prix]] ({{unité|6.3|km}}) : en service depuis [[2006]].
+* Saint-Prix - Limite Allier / [[Loire (département)|Loire]] ({{unité|9.2|km}}) : en service depuis [[2014]].
+* Contournement de [[Saint-Martin-d'Estréaux]] ({{unité|2.8|km}}) : mise à {{dunité|2|2|voies}} non programmée.
+* [[Saint-Martin-d'Estréaux]] (est) - [[La Pacaudière]] ({{unité|4.2|km}}) : non programmé.
+* La Pacaudière - [[Changy (Loire)|Changy]] ({{unité|7.5|km}}) : en service depuis [[2010]].
+* [[Changy (Loire)|Changy]] - [[Roanne|Saint-Germain-Lespinasse]] ({{unité|7.4|km}}) : non programmé.
+* [[Saint-Germain-Lespinasse]] - [[Roanne]] ({{unité|7.6|km}}) : non programmé (mais secteur jugé prioritaire dans le département de la [[Loire (département)|Loire]]).
+* [[Roanne]] - ''[[Saint-Cyr-de-Favières#Géographie|L'Hôpital-sur-Rhins]]'' ({{unité|13.5|km}}) : en service entre [[1978]] et [[2006]].
+* ''L'Hôpital-sur-Rhins'' - [[Neulise]] ({{unité|10|km}}) : en service entre [[1998]] et [[2006]].
+* Neulise - [[Autoroute A89 (France)|A89]] : en service depuis le {{date|6 juillet 2018}}.
+
+=== De Nevers à Moulins ===
+Sorties réalisées<ref name="sorties-A77">[http://autorout.free.fr/2_Pdf/7_Massif_Central/A77.pdf Sorties de l’A77 et de la RN 7]</ref> :
+* à {{unité|163|km}} : {{Aire de repos|des Faïenciers|Province-Paris}}
+* {{sortie|38}} à {{unité|171|km}} : [[Magny-Cours]], [[circuit de Nevers Magny-Cours]]
+**  à {{unité|171|km}} : {{Aire de service|de Magny-Cours}} 
+* {{sortie|39}} à {{unité|179|km}} : villes desservies [[Bourges]], [[Sancoins]]
+* {{sortie|40}} à {{unité|180|km}} : [[Saint-Pierre-le-Moûtier]] (demi-échangeur côté Nevers)
+* à {{unité|181|km}} : {{Aire de repos|de Saint-Pierre}}
+* {{sortie|40}} à {{unité|182|km}} : Saint-Pierre-le-Moûtier (demi-échangeur côté Moulins)
+
+* {{sortie|41}} à {{unité|187|km}} : ville desservie [[Chantenay-Saint-Imbert]]
+** à {{unité|197|km}} : {{Aire de repos|de Villeneuve-sur-Allier (Clayeux)|Paris-Province}}
+** à {{unité|198|km}} : {{Aire de repos|de Villeneuve-sur-Allier (Pilets)|Province-Paris}}
+* {{sortie|42}} à {{unité|200|km}} : ville desservie [[Villeneuve-sur-Allier]] 
+* [[Fichier:France_road_sign_C108.svg|20px]] Fin de route à accès réglementé à {{unité|201|km}}
+
+*[[Fichier:France_road_sign_C107.svg|20px]] Début de route à accès réglementé ([[Route nationale 7 (France métropolitaine)|N7]]) à {{unité|203|km}}
+* {{sortie|43}} à {{unité|207|km}} : Moulins, Trévol, [[Bourbon-l'Archambault]], Avermes par RD 707
+* {{sortie|44}} à {{unité|208|km}} : Les Portes de l'Allier (quart-échangeur depuis Nevers)
+* {{sortie|45}} à {{unité|210|km}} : [[Decize]], [[Dornes]], [[Saint-Ennemond]], [[Moulins (Allier)|Moulins]]-''Les Chartreux'' par [[Route nationale 479|RD 979<sup>A</sup>]]
+* {{sortie|46}} à {{unité|213|km}} : [[Yzeure]], [[Autun]], [[Bourbon-Lancy]], [[Chevagnes]] par [[Route nationale 79 (France)|RD 779]]
+* {{sortie|47}} à {{unité|217|km}} : [[Montbeugny]], Yzeure-''Centre'' et ''Le Plessis'' par RD 12 
+** à {{unité|219|km}} {{Aire de repos|de Millepertuis ([[poids lourd]]s)|Province-Paris}}
+* {{sortie|48}} à {{unité|220|km}} : Toulon-sur-Allier, Yzeure-Z.A. par RD 707
+* {{sortie|49}} à {{unité|222|km}} : [[Neuilly-le-Réal]], [[Toulon-sur-Allier]]
+**  à {{unité|222|km}} : {{Aire de service|du Bourbonnais}} 
+* [[Fichier:France_road_sign_C108.svg|20px]] [[Fichier:France_road_sign_C207.svg|20px]]  Fin de route à accès réglementé et début d'autoroute ([[Autoroute A79 (France)|A79]]) à {{unité|223|km}}
+* {{échangeur autoroutier|RN 7|[[Autoroute A79 (France)|A79]]}} à {{unité|223|km}} : [[Chalon-sur-Saône]], [[Mâcon]], [[Montluçon]], [[Clermont-Ferrand]], [[Saint-Pourçain-sur-Sioule]]
+
+=== De Moulins à Balbigny ===
+Sorties réalisées<ref name="sorties-A77" /> :
+
+*[[Fichier:France_road_sign_C107.svg|20px]] Début de route à accès réglementé ([[Route nationale 7 (France métropolitaine)|N7]]) à {{unité|242|km}}
+* [[Fichier:France_road_sign_C108.svg|20px]] Fin de route à accès réglementé à {{unité|247|km}}
+** à {{unité|264|km}} : {{Aire de service|des Vérités}} 
+*[[Fichier:France_road_sign_C107.svg|20px]] Début de route à accès réglementé (N7) à {{unité|264|km}}
+* {{sortie|57}} à {{unité|269|km}} : villes desservies [[Digoin]], [[Le Donjon]], Saint-Prix
+* {{sortie|58}} à {{unité|278|km}} : ville desservie [[Saint-Martin-d'Estréaux]]
+* [[Fichier:France_road_sign_C108.svg|20px]] Fin de route à accès réglementé à {{unité|279|km}}
+*[[Fichier:France_road_sign_C107.svg|20px]] Début de route à accès réglementé ([[Route nationale 7 (France métropolitaine)|N7]]) à {{unité|285|km}}
+* {{sortie|59}} à {{unité|285|km}} : ville desservie [[La Pacaudière]] 
+* {{sortie|60}} à {{unité|291|km}} : villes desservies [[Saint-Forgeux-Lespinasse]], [[Ambierle]], [[Changy (Loire)|Changy]]
+* [[Fichier:France_road_sign_C108.svg|20px]] Fin de route à accès réglementé à {{unité|292|km}}
+*[[Fichier:France_road_sign_C107.svg|20px]] Début de route à accès réglementé ([[Route nationale 7 (France métropolitaine)|N7]]) à {{unité|307|km}}
+* {{sortie|64}} à {{unité|307|km}} : villes desservies [[Mably (Loire)|Mably]]-bourg, [[Riorges]]-''La Valette'' (demi-échangeur vers [[Balbigny]])
+* {{sortie|65}} à {{unité|308|km}} : villes desservies [[Riorges]]-centre, ''[[Aéroport de Roanne|Aéroport]] [[Arsenal de Roanne|Arsenal]]'', ''Boulevard Ouest''
+* {{sortie|66}} à {{unité|308|km}} : villes desservies [[Roanne]]-Centre Port, [[Charlieu]], [[Paray-le-Monial]]
+* {{sortie|67}} à {{unité|310|km}} : villes desservies [[Thizy (Rhône)|Thizy]], [[Perreux (Loire)|Perreux]], [[Le Coteau]], [[Commelle-Vernay]]
+* {{sortie|68}} à {{unité|314|km}} : villes desservies [[Le Coteau]], ''[[Lac de Villerest]]'' (demi-échangeur vers Balbigny)
+* {{sortie|69}} à {{unité|315|km}} : villes desservie [[Notre-Dame-de-Boisset]] (demi-échangeur vers Roanne)
+* {{sortie|70}} à {{unité|318|km}} : villes desservies [[Amplepuis]], [[Regny]], L’Hôpital-sur-Rhins (demi-échangeur vers Roanne)
+* {{sortie|71}} à {{unité|319|km}} : villes desservies [[Lyon]], [[Tarare (Rhône)|Tarare]], [[Saint-Symphorien-de-Lay]]
+* {{sortie|72}} à {{unité|326|km}} : villes desservies [[Neulise]], [[Vendranges]] ([[Route nationale 82 (France)|RN 82]])
+** à {{unité|327|km}} : {{Aire de repos|de Neulise}} 
+* {{sortie|73}} à {{unité|329|km}} : ville desservie Neulise-''Les Jacquins'' ([[Route nationale 82 (France)|RN 82]])
+* {{sortie|74}} à {{unité|334|km}} : Balbigny, [[Saint-Étienne]] par [[Route nationale 82 (France)|RD 1082]] (RN 82)
+* [[Fichier:France_road_sign_C108.svg|20px]] [[Fichier:France_road_sign_C207.svg|20px]]  Fin de route à accès réglementé et début d'autoroute ([[Autoroute A89 (France)|A89]]) à {{unité|334|km}}
+* {{Péage|Péage de Balbigny}} à {{unité|334|km}} 
+* {{échangeur autoroutier|RN 82|[[autoroute A89 (France)|A89]]}} à 335 km : Lyon - [[Clermont-Ferrand]] / Saint-Étienne
+
+Sorties en projet<ref name="sorties-A77" /> :
+
+* {{sortie|51}} à {{unité|228|km}} : [[Bessay-sur-Allier]]
+* {{sortie|52}} à {{unité|235|km}} : [[Châtel-de-Neuvre]], [[La Ferté-Hauterive]]
+* {{sortie|53}} à {{unité|242|km}} : [[Montmarault]], [[Saint-Pourçain-sur-Sioule]], [[Varennes-sur-Allier]] Nord, par [[Route nationale 146|RD 46]] ; [[Autoroute A71 (France)|A 71]] Clermont-Ferrand, [[Riom]]
+* {{sortie|54}} à {{unité|247|km}} : [[Varennes-sur-Allier]] Sud, [[Rongères]] ; par la [[Route nationale 209|RN 209]] : [[Vichy]], [[Saint-Germain-des-Fossés]], [[Billy (Allier)|Billy]]
+* {{sortie|55}} à {{unité|257|km}} : [[Saint-Gérand-le-Puy]]
+* {{sortie|56}} à {{unité|264|km}} : [[Vichy]] par [[Route départementale 907 (Allier)|RD 907]], Lapalisse
+* {{sortie|61}} à {{unité|296|km}} : [[Charlieu]], [[Saint-Romain-la-Motte]], [[Saint-Germain-Lespinasse]] 
+* {{sortie|62}} à {{unité|299|km}} : Mably-bourg, ''les Tuileries'', ''Les Baraques''
+* {{sortie|63}} à {{unité|306|km}} : Mably-''Les Tuileries'', Parc de la Villette
+
+== Sites remarquables ==
+{{...}}
+
+* [[Arboretum national des Barres]] (sortie {{Numéros|18.1 et 19}}).
+* Jardin des Arbres (accessible par l’aire du Jardin des Arbres)<ref>[https://www.ina.fr/video/2331117001032 « Autoroute arborée »], journal télévisé de [[France 2]] du 30 juin 2003. Vidéo disponible sur le site de l’[[Institut national de l'audiovisuel|Ina]]</ref>.
+* [[Château de La Bussière (Loiret)|Château de la Bussière]] (sortie {{n°|19}}).
+* [[Canal de Briare]] et [[Pont-canal de Briare]] (sortie {{n°|20}}).
+* [[Guédelon|Chantier médiéval de Guédelon]] (sortie {{Numéros|21 et 22}}).
+* Château de la Rocherie (sortie {{n°|33}}).
+* [[Apremont-sur-Allier]] (sortie {{n°|37}}).
+* [[Circuit de Nevers Magny-Cours|Circuit de Nevers-Magny-Cours]] (sortie {{n°|38}}).
+* [[Arboretum de Balaine]] à [[Villeneuve-sur-Allier]].
+* [[Château d'Avrilly]] à [[Trévol]].
+
+== Lieux sensibles ==
+* Traversée de [[Bessay-sur-Allier]].
+* Traversée de [[Saint-Loup (Allier)|Saint-Loup]].
+* Traversée de [[Saint-Gérand-le-Puy]].
+* Traversée de [[Périgny (Allier)|Périgny]].
+* Traversée de [[Mably (Loire)|Mably]].
+
+== Notes et références ==
+{{Références}}
+
+== Voir aussi ==
+{{Autres projets
+|Commons=Category:A77 autoroute
+}}
+=== Articles connexes ===
+* [[Liste des autoroutes de France]]
+* [[Route nationale 7 (France métropolitaine)|Route nationale 7]]
+* [[Route nationale 82 (France)|Route nationale 82]]
+
+=== Liens externes ===
+* {{Lien web |titre=APRR, site officiel |url=https://www.aprr.com/ |site=APRR}}
+* {{PDF}} [http://www.developpement-durable.gouv.fr/IMG/pdf/Autoroute_A77_Dordives-Cosne_sur_Loire.pdf Avis du Conseil Général des Ponts et Chaussées sur le bilan LOTI de l'autoroute A 77 (section Dordives - Cosne-sur-Loire)]
+* [http://saratlas.free.fr/index.php?page=autoroute&route=a77&lang=fr Autoroute A77 dans Saratlas]
+* [https://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A77 Article détaillé de l'A77 sur WikiSara]
+{{Palette Autoroutes de France}}
+{{Portail|route|Transports en Île-de-France|Seine-et-Marne|Loiret|Nièvre}}
+
+[[Catégorie:Autoroute en Île-de-France|077]]
+[[Catégorie:Autoroute en Centre-Val de Loire|077]]
+[[Catégorie:Autoroute en Bourgogne-Franche-Comté|077]]
+[[Catégorie:Autoroute A77 (France)|*]]

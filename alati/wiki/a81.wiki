@@ -1,0 +1,76 @@
+{{Voir homonymes|A81|F11}}
+{{Infobox Route/France|statut=A|numéro=81
+|autres_noms       = L'Armoricaine 
+|image             = 2013-02-18 Travaux LGV BPL - traversées de l'A81.JPG
+|légende           = Travaux de création d'un [[pont-rail]] sur l'A81 en 2013 pour le passage de la [[LGV Bretagne-Pays de la Loire]].
+|carte             = Carte A81.png
+|longueur          = 93
+|direction         = est / ouest
+|dir1              = est
+|dir2              = ouest
+|ville1            = {{Route européenne|50}} {{Route européenne|501}} {{Autoroute française|A11}} à [[La Chapelle-Saint-Aubin]]
+|ville2            = {{Route européenne|50}} {{Route nationale|157}} à [[La Gravelle]]
+|villes_principales= [[Le Mans]], [[Laval (Mayenne)|Laval]]
+|intersections     = 
+|ouverture         = [[1980]]
+|réseau            = [[Liste des autoroutes de France|Autoroute française]], également {{Route européenne|50}}
+|régions           = [[Pays de la Loire]]
+|départements      = [[Sarthe (département)|Sarthe]], [[Mayenne (département)|Mayenne]]
+|nb_reg=1|nb_dep=2
+| concessionnaire  = [[Cofiroute]]
+|nom_notes         =
+}}
+
+L''''autoroute A81''' est une [[Liste des autoroutes de France|autoroute]] de 93 kilomètres qui relie [[Le Mans]] au péage de [[La Gravelle]], situé aux portes de la [[Bretagne (région)|région Bretagne]]. Elle est surnommée ''l'Armoricaine'' et a brièvement porté l'appellation '''F11''' à sa mise en service en 1980<ref>[https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000655333] Journal officiel du 13 mars 1980. </ref>.
+
+Tronçon autoroutier en service :
+* [[Le Mans]] - [[La Gravelle]].
+
+Deux routes nationales poursuivent jusqu'à [[Brest]] :
+* [[Route nationale 157|RN 157]] : [[La Gravelle]] - [[Rennes]] ;
+* [[Route nationale 12 (France)|RN 12]] : [[Rennes]] - [[Brest]].
+
+== Gestion ==
+L’A81 est gérée par la société VINCI autoroutes. Cette autoroute est couverte par [[Radio Vinci Autoroutes|Radio VINCI Autoroutes]] (107.7FM).
+
+== Sorties ==
+'''Section concédée à [[Cofiroute]] et payante'''
+* '''{{échangeur autoroutier|[[Autoroute A11 (France)|A11]]|A81}}''' : [[Paris]], [[Tours]], [[Alençon]] ([[Autoroute A28 (France)|A28]]), [[Le Mans]], [[Nantes]], [[Angers]]
+** [[Fichier:France road sign C207.svg|24x24px]] [[Fichier:Panneau-C24a-2.svg|22x22px]] [[Fichier:France road sign B14 (130).svg|22x22px]] Début de l'autoroute A81, début de {{dunité|2|2|voies}} et limitation à {{unité|130|km/h}}.
+** {{Aire de repos|de La Landrière|Le Mans - Rennes|de La Chevallerie|Rennes - Le Mans}}
+** {{Aire de repos|des Gripperies|Le Mans - Rennes|de La Coire|Rennes - Le Mans}}
+* {{Sortie|1 Sillé-le-Guillaume / Sablé}} à {{unité|28|km}} : [[Sillé-le-Guillaume]], [[Sablé-sur-Sarthe]], [[Loué]]
+** {{Aire de service|de Saint-Denis d'Orques|Le Mans - Rennes|de la vallée de l'Erve|Rennes - Le Mans}}
+* {{Sortie|2 Évron}} à {{unité|50|km}} : [[Château-Gontier]], [[Évron]], [[Sablé-sur-Sarthe]]
+** {{Aire de repos|de Villeray|Le Mans - Rennes|de Loriolet|Rennes - Le Mans}}
+** {{Aire de service|de la Mayenne}}
+* {{Sortie|3 Laval - ''est''}} à {{unité|70|km}} : [[Laval (Mayenne)|Laval]], [[Mayenne (commune)|Mayenne]], Château-Gontier
+** {{Aire de repos|du Château de Ricourdet|Rennes - Le Mans}}
+* {{Sortie|4 Laval - ''ouest''}} à {{unité|77|km}} : Laval, [[Fougères]], [[Ernée]], [[Craon (Mayenne)|Craon]], [[Saint-Berthevin (Mayenne)|Saint-Berthevin]]
+** {{Aire de repos|de la Paplonnière|Le Mans - Rennes|de la Sorinière|Rennes - Le Mans}}
+* {{Péage|Péage de La Gravelle (à système fermé)}}
+* {{Sortie|5 La Gravelle / Le Relais}} à {{unité|94|km}} : Laval, [[Vitré (Ille-et-Vilaine)|Vitré]] - ''est'', [[La Gravelle]], [[Argentré-du-Plessis]]
+** [[Fichier:France_road_sign_C208.svg|22x22px]] [[Fichier:France_road_sign_C107.svg|22x22px]] Fin de l'autoroute A81 et début la [[Route nationale 157|Route nationale 157 (RN 157)]] vers : [[Rennes]], [[Châteaubriant]], [[Châteaubourg (Ille-et-Vilaine)|Châteaubourg]], Vitré - ''sud''
+
+== Abandon du projet La Gravelle-Brest ==
+Dans les [[années 1990]], il était prévu de mettre l'intégralité des RN 157 et RN 12 aux normes autoroutières jusqu'à [[Brest]] par [[Rennes]] et [[Saint-Brieuc]]. Une fois ces travaux terminés, les RN 157 et RN 12 devenaient partie intégrante de l'A81. Pour cela, les bandes d'arrêt d'urgence auraient été élargies ou créées, certains virages corrigés, certaines sorties remodelées (voies d'insertion  et de décélération trop courtes). De même, la voie express aurait adopté une signalisation conforme aux normes autoroutières (sorties numérotées, panneaux bleus, cartouches « A81 » et panneaux « entrée/sortie d'autoroute » sur les diffuseurs et échangeurs...). Des aires auraient aussi été créées. 
+
+Fin [[2014]], le projet est abandonné. La préfecture de Bretagne déclare en {{date-|septembre 2014}} que {{citation|la mise aux normes autoroutières des routes nationales bretonnes est un projet qui avait été étudié dans les années 80 - 90 mais qui n'est plus à l'ordre du jour.}}<ref>[http://www.letelegramme.fr/bretagne/autoroutes-un-discours-a-deux-vitesses-24-09-2014-10354188.php RN 165 à 130 km/h. Un discours à deux vitesses], Sarah morio, ''[[Le Télégramme]]'', 24 septembre 2014.</ref>. En {{date-|octobre 2014}}, la Direction régionale des routes de l'Ouest enterre définitivement le projet : {{citation|On continue de réaliser des travaux mais cela ne fait plus partie d'une ambition globale. [...] Pas question de faire de la RN 165 et de la RN 12 des autoroutes, à quelque horizon que ce soit (2017, 2020 ou 2025).}}<ref>[http://www.letelegramme.fr/bretagne/a81-et-a82-projet-abandonne-13-10-2014-10383075.php "A81 et A82 abandonnées"], ''[[Le Télégramme]]'', 13 octobre 2014</ref>
+
+== Voir aussi ==
+
+{{Autres projets|commons=Category:A81 autoroute}}
+=== Articles connexes ===
+* [[Route européenne 50]]
+
+=== Liens externes ===
+* [http://saratlas.free.fr/index.php?page=autoroute&route=a81&lang=fr Autoroute A81 dans Saratlas]
+* [http://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A81 Article de l'A81 sur WikiSara]
+
+== Références ==
+{{Références}}
+
+{{Palette Autoroutes de France}}
+{{Portail|route}}
+
+[[Catégorie:Autoroute dans les Pays de la Loire|081]]

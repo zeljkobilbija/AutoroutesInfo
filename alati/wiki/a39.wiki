@@ -1,0 +1,134 @@
+{{Voir homonymes|A39}}
+{{coord|46.87055|5.58138|region:FR_scale:300000|format=dec|display=title}}
+{{Infobox Route/France|statut=A|numéro=39
+|autres_noms       = Autoroute Verte
+|image             = Autoroute A39 Péage de Dole-Choisey.jpg
+|légende           = Gare de péage de Dole [[Choisey]].
+|carte             = Carte A39.png
+|longueur          = 144
+|direction         = nord / sud
+|dir1              = nord
+|dir2              = sud
+|ville1            = {{Route métropolitaine N|274|274}} et {{Route métropolitaine N|5|905|France métropolitaine}} à [[Dijon]]
+|ville2            = {{Route européenne|21}} {{Route européenne|62}} {{Autoroute française|A40}} à [[Viriat]]
+|villes_principales= [[Dijon]], [[Dole (Jura)|Dole]], [[Lons-le-Saunier]], [[Bourg-en-Bresse]]
+|intersections     = {{Route européenne|17}} {{Route européenne|21}}{{Autoroute française|A31}} à [[Fauverney]]<br />{{Route européenne|60}} {{Autoroute française|A36}} à [[Saint-Seine-en-Bâche]]<br />{{Autoroute française|A391}} à [[Bersaillin]]
+|ouverture         = de [[1992]] à 1998
+|réseau            = Autoroute française
+ | régions        = [[Bourgogne-Franche-Comté]], [[Auvergne-Rhône-Alpes]]
+ | départements   = [[Côte-d'Or]], [[Jura (département)|Jura]], [[Saône-et-Loire]], [[Ain (département)|Ain]]
+ | nb_reg         = 2
+ | nb_dep         = 4
+|concessionnaire   = [[Autoroutes Paris-Rhin-Rhône|APRR]]
+| nom_notes      =  
+}}
+
+L’'''autoroute A39''', aussi appelée l’'''autoroute verte''', est une [[autoroute]] française de l'Est de la France. Elle dessert notamment [[Dijon]], [[Dole (Jura)|Dole]] et [[Bourg-en-Bresse]].
+
+Suivant un axe principalement nord-sud, elle permet de relier l'[[Autoroute A31 (France)|autoroute A31]] (trafic de ou vers le Nord de la France), l'[[Autoroute A36 (France)|autoroute A36]] (trafic de ou vers le Nord-Est de la France) à Lyon et aux autoroutes alpines sans passer par l'[[Autoroute A6 (France)|A6]], déchargeant le trafic important de cette dernière.
+
+== Caractéristiques ==
+* Autoroute à péage gérée par [[Autoroutes Paris-Rhin-Rhône|APRR]]
+* {{unité|142|km}} de longueur.
+* 3 aires de service
+
+== Historique ==
+
+* [[1992]] : Mise en service de la section Dijon-Crimolois de {{unité|6|km}} 
+* [[1994]] : Mise en service de la section Crimolois-Dole de {{unité|34|km}}
+* [[1998]] : Mise en service de la section Dole-Bourg-en-Bresse de {{unité|110|km}} + l'autoroute A391 de 4.5 km (Antenne de Poligny) 
+
+== Sorties ==
+'''Section concédée à [[Autoroutes Paris-Rhin-Rhône|APRR]] et payante (sauf entre Dijon et la sortie 3).'''
+* '''{{échangeur autoroutier|[[Rocade de Dijon|RM 274]]|[[Route nationale 5 (France métropolitaine)|RM 905]]|A39}}''' : 
+** RM 274 : Dijon - ''nord, sud'', [[Paris]] ([[Autoroute A38 (France)|A38]]), [[Quetigny]], [[Lyon]], [[Beaune]] ([[Autoroute A31 (France)|A31]])
+** RM 905 : Dijon - ''centre, Université''
+** [[Fichier:France road sign C207.svg|24x24px]] [[Fichier:Panneau-C24a-2.svg|22x22px]] [[Fichier:France road sign B14 (90).svg|22x22px]] Début de l'autoroute, début de {{dunité|2|2|voies}} et limitation à {{unité|90|km/h}}.
+* {{Sortie|2 Neuilly-lès-Dijon}} à {{unité|2|km}} ''(demi-échangeur, depuis et vers Dijon)'' : [[Sennecey-lès-Dijon]], [[Neuilly-Crimolois]]
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à {{unité|110 |km/h}}.
+* {{Sortie|3 Crimolois}} à {{unité|7|km}} : [[Dole (Jura)|Dole]], [[Besançon]], [[Chevigny-Saint-Sauveur]], [[Genlis]], [[Auxonne]], Quetigny
+[[Fichier:Début autoroute A39 à partir de l'A31 - Dijon, France.jpg|vignette|Échangeur A39-A31 en provenance du nord de l'[[Autoroute A31 (France)|A31]]]]
+* {{Péage|Péage de [[Crimolois]] (à système fermé)}}
+* '''{{échangeur autoroutier|[[Autoroute A31 (France)|A31]]|A39}}''' ''(sens Dijon - Bourg-en-Bresse et vers Bourg-en-Bresse)'' : Paris, [[Lille]] ([[Autoroute A5 (France)|A5]]), [[Metz]]-[[Nancy]], [[Troyes]], [[Chaumont (Haute-Marne)|Chaumont]], [[Beaune]]
+** [[Fichier:Panneau-C24a.svg|22x22px]] [[Fichier:France road sign B14 (130).svg|22x22px]] Passage à {{dunité|2|3|voies}} et limitation à {{unité|130|km}}.
+** [[File:France road sign C28-2.svg|22px]] Réduction à {{dunité|2|2|voies}}
+** [[Fichier:AB-Brücke.svg]] Pont sur [[Fichier:Panneau cours d'eau France.png|20px]] la [[Tille]].
+** {{Aire de repos|du Bois Défendu|Dijon - Bourg-en-Bresse|de Beire-le-Fort|Bourg-en-Bresse - Dijon}}
+[[Fichier:Viaduc d'Auxonne et des Maillys sur la Saône.jpg|vignette|Viaduc d'Auxonne et des Maillys, passage sur la [[Saône]]]]
+[[Fichier:Échangeur A39-A36 sur A39 en provenance de la ville de Dijon.jpg|vignette|Échangeur A39-[[Autoroute A36 (France)|A36]] vu depuis l'A39 en provenance de la ville de [[Dijon]]]]
+* {{Sortie|5 Soirans}} à {{unité|23|km}} : Auxonne, Genlis, [[Saint-Jean-de-Losne]]
+** {{Aire de service|de Pont Chêne d'Agent|Dijon - Bourg-en-Bresse|de Pont Val de Saône|Bourg-en-Bresse - Dijon}}
+** [[Fichier:AB-Brücke.svg]] Viaduc d'Auxonne et des Maillys sur [[Fichier:Panneau cours d'eau France.png|20px]] la [[Saône]]. ({{unité|552|m}})
+* '''{{échangeur autoroutier|[[Autoroute A36 (France)|A36]]|A39}}''' : Paris ([[Autoroute A6 (France)|A6]]), [[Strasbourg]], [[Mulhouse]], Beaune, Besançon, Dole - ''[[Authume]]''
+''Passage du département de la Côte-d'Or à celui du [[Jura (département)|Jura]].''
+[[Fichier:A39 - sortie 7 vers Lausanne Pontarlier - en provenance de Dijon.jpg|vignette|Sortie 7 en provenance de [[Dijon]]]] 
+* {{Sortie|6 Choisey}} à {{unité|41|km}} : Dole - ''centre, [[Choisey]], [[File:France road sign ID2.svg|15px|alt]] [[Aéroport de Dole-Jura|Dole-Jura]]''
+** [[Fichier:AB-Brücke.svg]] Pont sur [[Fichier:Panneau cours d'eau France.png|20px]] le [[Canal du Rhône au Rhin]].
+** {{Aire de repos|de La Vouivre|Dijon - Bourg-en-Bresse|Louis Pasteur|Bourg-en-Bresse - Dijon}}
+** {{Aire de repos|de La Jument Verte|Dijon - Bourg-en-Bresse|du Chat Perché|Bourg-en-Bresse - Dijon}}
+* {{Sortie|7 Bersaillin}} '''({{échangeur autoroutier|A391|A39}})''' à {{unité|69|km}} : [[Lausanne]] ({{Suisse}}), [[Pontarlier]], [[Lons-le-Saunier]], [[Poligny (Jura)|Poligny]]
+* {{Sortie|7.1 Arlay}} à {{unité|78|km}} : [[Bletterans]] + {{Aire de service|du Jura}}
+* {{Sortie|8 Beaurepaire-en-Bresse}} à {{unité|94|km}} : Lons-le-Saunier, [[Louhans]], [[Montmorot]]
+''Passage du département du Jura à celui de [[Saône-et-Loire]].''
+* {{Aire de repos|de La Vallière|Dijon - Bourg-en-Bresse|de Savigny|Bourg-en-Bresse - Dijon}}
+* {{Sortie|9 Le Miroir}} à {{unité|109|km}} : [[Cuiseaux]], Louhans, [[Cousance]]
+** {{Aire de service|du Poulet de Bresse}} 
+[[Fichier:Aire-Poulet-de-Bresse.jpg|vignette|alt=Aire du Poulet de Bresse|Aire du Poulet de Bresse.]]
+''Passage du département de Saône-et-Loire à celui de l'[[Ain (département)|Ain]] et de la région [[Bourgogne-Franche-Comté]] à celui de l'[[Auvergne-Rhône-Alpes]].''
+* {{Sortie|10 Beaupont}} à {{unité|122|km}} : [[Saint-Amour (Jura)|Saint-Amour]], [[Saint-Trivier-de-Courtes]], [[Coligny (Ain)|Coligny]]
+** {{Aire de repos|de Marmont|Dijon - Bourg-en-Bresse|de Beny|Bourg-en-Bresse - Dijon}}
+* '''{{échangeur autoroutier|[[Autoroute A40 (France)|A40]]|A39}}''' à {{unité|143|km}} : [[Mâcon]], [[Bourg-en-Bresse]], [[Genève]] ({{Suisse}}), [[Grenoble]], Lyon ([[Autoroute A42 (France)|A42]])
+** [[Fichier:France_road_sign_C208.svg|22x22px]] Fin de l'autoroute A39.
+
+=== Autoroute A391 ===
+Voie rapide de {{unité|4.5|km}}<br />'''Section concédée à [[Autoroutes Paris-Rhin-Rhône|APRR]] et payante.'''
+* '''{{échangeur autoroutier|A39|A391}}''' : [[Strasbourg]], [[Dijon]], [[Dole (Jura)|Dole]], [[Lyon]], [[Bourg-en-Bresse]]
+* {{Péage|Péage de [[Bersaillin]] (à système fermé)}}
+** [[Fichier:France road sign C207.svg|24x24px]] [[Fichier:Panneau-C24a-2.svg|22x22px]] [[Fichier:France road sign B14 (110).svg|22x22px]] Début de l'autoroute, début de {{dunité|2|2|voies}} et limitation à {{unité|110|km/h}}.
+* {{Sortie|1 Sellières}} à {{unité|1|km}} ''(demi-échangeur, depuis et vers A39)'' : [[Lons-le-Saunier]], [[Sellières]]
+** [[Fichier:France road sign B14 (90).svg|22x22px]] Limitation à {{unité|90|km/h}}. 
+** [[Fichier:France road sign C28-3.svg|22x22px]] Réduction à 1 voie
+** [[Fichier:France road sign B3.svg|20x20px]] Interdiction de doubler.
+** [[Fichier:France road sign A18.svg|23x23px]] Passage à {{dunité|2|1|voies}}, sans séparation centrale.
+** [[Fichier:France_road_sign_C208.svg|22x22px]] Fin de l'autoroute A391.
+* '''{{Carrefour giratoire|[[Route nationale 83 (France)|RN 83 et RD 1083]]|A391}}''' à {{unité|4|km}} : 
+** RD 1083 : [[Lons-le-Saunier]], [[Bletterans]], [[Voiteur]], [[Sellières]]
+** RN 83 : [[Besançon]], [[Pontarlier]], [[Lausanne]] ({{Suisse}}), [[Poligny (Jura)|Poligny]], [[Arbois]], [[Champagnole]], [[Salins-les-Bains]]
+
+== Lieux sensibles ==
+(uniquement les lieux à bouchons et les pentes dangereuses):
+
+L'autoroute A39 est une autoroute qui ne comporte aucune pente dangereuse. Il y a quelquefois des embouteillages sur la section Dole – Bourg-en-Bresse pendant l'hiver à cause du trafic important dû aux touristes qui partent dans les Alpes.
+{{...}}
+
+== Croisements autoroutiers ==
+
+* [[Autoroute A31 (France)|A31]]
+* [[Autoroute A311 (France)|A311]]
+* [[Autoroute A40 (France)|A40]]
+* [[Autoroute A36 (France)|A36]]
+* N274
+
+== Départements traversés ==
+
+* [[Côte-d'Or]]
+* [[Jura (département)|Jura]]
+* [[Ain (département)|Ain]]
+* [[Saône-et-Loire]]
+
+== Voir aussi ==
+{{Autres projets|commons=Category:A39 autoroute|commons titre=L'autoroute A39}}
+=== Article connexe ===
+* [[Liste des autoroutes de la France]]
+
+=== Liens externes ===
+
+* [http://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A39 Article de l'A39 sur WikiSara]
+* [http://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A391 Article de l'A391 sur WikiSara]
+
+{{Palette Autoroutes de France}}
+{{Portail|route|Côte-d'Or|département du Jura|Saône-et-Loire|Ain}}
+
+[[Catégorie:Autoroute en Bourgogne-Franche-Comté|039]]
+[[Catégorie:Autoroute en Auvergne-Rhône-Alpes|039]]
+[[Catégorie:Route dans l'Ain]]

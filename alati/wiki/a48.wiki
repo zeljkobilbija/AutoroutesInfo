@@ -1,0 +1,136 @@
+{{Voir homonymes|A48}}
+{{Infobox Route/France
+ | statut        = autoroute
+ | numéro        = 48
+ | image         = 
+ | légende       = 
+ | carte         = France_A4X_A48.svg
+ | autres_noms   = Autoroute du Dauphiné
+ | ouverture     = de 1968 à 1975
+ | fermeture     = 
+ | déclassement  = 2011 : à l'entrée de Grenoble
+ | longueur      = 51,4
+ | direction     = nord-ouest / sud-est
+ | ville 1       = {{Route européenne|70}} {{Route européenne|711}} {{Autoroute française|A43}} à [[Cessieu]]
+ | direction 1   = nord-ouest
+ | intersections = {{Route européenne|713}} {{Autoroute française|A49}} à [[Voreppe]]
+ | ville 2       = {{Autoroute française|A480}} à [[Saint-Égrève]]
+ | direction 2   = sud-est
+ | villes        = [[Voiron]]<br />[[Grenoble]]
+ | réseau        = Autoroute<br />Dénomination européenne : {{Route européenne|711}} {{Route européenne|713}}
+ | concessionnaire = [[AREA (société d'autoroutes)|AREA]]
+ | gestionnaire  = 
+ | régions       = [[Auvergne-Rhône-Alpes]]
+ | départements  = [[Isère (département)|Isère]]
+ | nb_reg        = 1
+ | nb_dep        = 1
+ | nom_notes     = 
+}}
+[[Fichier:Télébenne Vicat P1740057.jpg|vignette|Un téléphérique industriel franchit l'A48 à hauteur de [[Saint-Égrève]].]]
+L''''autoroute A48''' est une [[autoroute]] permettant la liaison de [[Lyon]] à [[Grenoble]]. Elle se connecte à l'[[Autoroute A43 (France)|A43]] au niveau de Coiranne ([[Bourgoin-Jallieu]]) et se termine à [[Saint-Égrève]] à proximité du centre de Grenoble au niveau de l'échangeur avec l'[[Autoroute A480 (France)|A480]]. Elle est surnommée « l'Autoroute du [[Dauphiné]] ». Elle est concédée à l'[[AREA (société d'autoroutes)|AREA]].
+
+== Caractéristiques ==
+
+* {{dunité|2|2|voies}} avec des voies véhicules lents supplémentaires dans certaines montées (env. {{unité|9|km}}) ;
+* {{dunité|2|3|voies}} entre l'[[Autoroute A49 (France)|A49]] et [[Autoroute A480 (France)|A480]] ({{unité|10|km}}) ;
+* {{unité|51|kilomètres}} de longueur ;
+* {{unité|2|aires}} de service et {{unité|6|aires}} de repos.
+
+=== La voie spécialisée partagée ===
+
+Une Voie Spécialisée Partagée (VSP) est aménagée entre l'entrée de Voreppe (sortie 12) et la sortie Grenoble-Gares (sortie 16, maintenant sur la N481). Cette voie, prise sur la [[bande d'arrêt d'urgence]], est ouverte dynamiquement à la circulation des bus lorsque la circulation est trop ralentie sur les voies normales (vitesse inférieure à {{unité|50|km/h}})<ref>[https://www.rse-egis.fr/solution_egis/la-gestion-dynamique-des-voies-gdv/ La gestion dynamique des voies], egis</ref>. Elle permet de maintenir de bonnes performances pour les transports en commun quelles que soient les conditions de circulation. La VSP a été mise en service progressivement entre 2004 et 2014.
+
+== Historique ==
+* 1967 : ouverture de la section entre [[Bastille (Grenoble)|La Bastille]] (sortie [[Grenoble]] Centre) et Pont-de-[[Veurey]]|[[Voreppe]] pour les [[Jeux olympiques d'hiver de 1968|Jeux olympiques de Grenoble]]. {{dunité|2|3|voies}} entre l'embranchement de l'[[Autoroute A480 (France)|A480]] et la [[Vicat (société)|cimenterie Vicat]] de Saint-Égrève, le reste en {{dunité|2|2|voies}}.
+Accès gratuit.
+* 1971 : mise en service du demi-diffuseur de Saint-Égrève-nord en direction de Grenoble (en {{dunité|2|3|voies}}).
+* 1975 : ouverture de la section entre le Pont-de-Veurey et l'[[Autoroute A43 (France)|A43]] à Coiranne, sous concession de l'AREA. Section payante. L'AREA récupère aussi la concession entre le Pont-de-Veurey et la sortie Saint-Égrève-Nord, section qui reste gratuite.
+* 1975 : ouverture de la sortie de Z.I. de [[Saint-Martin-le-Vinoux]] depuis Grenoble.
+* 1982 : le diffuseur de Saint-Égrève-nord est complété en direction de Lyon.
+* 1989 : passage en {{dunité|2|3|voies}} entre Saint-Égrève-nord et le Pont-de-Veurey.
+* 1991 : ouverture de l'entrée depuis la Z.I. de [[Saint-Martin-le-Vinoux]] vers Grenoble. Ouverture du demi-diffuseur du [[Pont d'Oxford]] en direction de Lyon.
+* 1993 : ouverture du diffuseur de Voiron.
+* 2011 : pour la réalisation de la [[Ligne_E_du_tramway_de_Grenoble|ligne E du tram]] qui nécessite de réduire la largeur de la chaussée, la section entre l'échangeur de l'A480 et la [[Porte de France (Grenoble)|Porte de France]] à [[Grenoble]] a été déclassée le {{date|23 février 2011}} et a été reclassée dans le domaine public routier national sous la dénomination [[Route nationale 481|RN 481]]<ref>[http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000023628270&dateTexte=&oldAction=rechJO&categorieLien=id Décret du 23 février 2011]</ref>.
+* 2014 : mise en service du demi-diffuseur de Mauvernay ({{numéro|11}}), dans le Pays Voironnais, raccordant l'autoroute et la RD 121, évitant désormais aux automobilistes de [[La Buisse]] ou de la zone d'activités Centr'Alp de rejoindre les diffuseurs de [[Rives (Isère)|Rives]] ou de [[Voreppe]] pour rejoindre Lyon ; le diffuseur étant alors orienté uniquement vers Grenoble. Les travaux ont coûté {{unité|8|millions}} d'euros, financés par la société d'autoroutes AREA, le Pays Voironnais et le [[Conseil départemental de l'Isère|Conseil général de l'Isère]]<ref>{{Lien web|url=https://france3-regions.francetvinfo.fr/alpes/2014/09/26/un-nouvel-echangeur-inaugure-sur-l-autoroute-a48-entre-grenoble-et-lyon-hauteur-de-moirans-559426.html|titre=Un nouvel échangeur inauguré sur l'autoroute A48 entre Grenoble et Lyon à hauteur de Moirans|prénom1=Anne|nom1=Hédiard|jour=26|mois=septembre|année=2014|éditeur=France 3 Alpes}} (consulté le {{date|1 novembre 2014}}).</ref>.
+* 2015 : la section restant à la charge de l'État (Saint-Égrève-nord - Saint-Égrève-sud) est concédée à l'AREA, en même temps que l'A480, en vue de l'élargissement de cette dernière.
+* 2020 : mise en service d'une [[voie réservée aux véhicules à occupation multiple]] (exemple [[covoiturage]]) entre le péage de Voreppe et Saint-Égrève. Cette voie spéciale, qui incite les gens à utiliser le covoiturage pour faire diminuer les bouchons responsables de la [[pollution de l'air]], n'est activée par un opérateur du poste de régulation du trafic routier qu’aux heures de forte affluence (embouteillages) en direction de Grenoble<ref>{{Lien web |langue=fr-FR |titre=VIDEO. Grenoble : la nouvelle voie dédiée au covoiturage vient d'ouvrir sur l'autoroute A48 |url=https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/isere/grenoble/video-grenoble-nouvelle-voie-dediee-au-covoiturage-vient-ouvrir-autoroute-a48-1879192.html |site=France 3 Auvergne-Rhône-Alpes |consulté le=2020-11-13}}</ref>{{,}}<ref>{{Lien web |langue=fr |titre=La nouvelle voie réservée au covoiturage sur l'A48 ouvrira le 30 septembre selon APRR |url=https://www.francebleu.fr/infos/transports/la-nouvelle-voie-reservee-au-covoiturage-sur-l-a48-ouvrira-entre-le-28-et-le-30-septembre-selon-ap2r-1600719765 |site=France Bleu |date=2020-09-22 |consulté le=2020-11-13}}</ref>{{,}}<ref>{{lien web |url= https://presse.aprr.com/voie-reservee/ |titre=Autoroute A48, la voie réservée au covoiturage s’ouvre ! |site= presse.aprr.com |date= 30/09/2020 |consulté le=2020-11-13}}</ref>.
+
+== Développements ==
+Un projet d'extension de l'autoroute A48 a existé : il aurait relié [[Bourgoin-Jallieu]] à [[Ambérieu-en-Bugey]], rejoignant l'[[Autoroute A42 (France)|A42]]. Ce segment aurait été long de {{unité|50|km}} et aurait permis d'éviter l'agglomération lyonnaise. Le coût de la réalisation se serait élevé à {{unité|722.6|millions d'euros}} à raison de {{unité|15|millions}} d'euros par kilomètre par décision ministérielle du {{date|30 avril 2002}}, avec un trafic de {{unité|25000|véhicules}} par jour à l'horizon 2020<ref>[http://www.scot-nordisere.fr/La-liaison-A48-Amberieu-Bourgoin.html La liaison A48 Ambérieu-Bourgoin], [[Schéma de cohérence territoriale]] Nord-Isère</ref>{{,}}<ref>[http://www.symbord.fr/fictel/A48.pdf L'autoroute A48] {{pdf}}, Syndicat mixte de la Boucle du Rhône en Dauphiné</ref>. Au jour de {{date|décembre 2013}}, il est considéré comme mis à l'abandon pour des raisons budgétaires, une décision matérialisée par le non-renouvellement du [[projet d'intérêt général]]<ref>{{Lien web|langue=fr|auteur=Albane Pommereau|titre=L’A48 et la ligne LGV mises à l’arrêt|url=http://www.ledauphine.com/isere-nord/2013/12/11/l-a48-et-la-ligne-lgv-mises-a-l-arret|date=12 décembre 2013|site=[[Le Dauphiné libéré]]|consulté le=17 février 2016}}.</ref>.
+== Evolution de la concession autoroutière ==
+* La première concession est accordée à AREA en 1971<ref>JO du 14/04/1971 [http://images3.wikia.nocookie.net/__cb20091122181752/routes/images/5/56/AREA_-_C1_-_1971.pdf] {{pdf}}</ref>, et prévoit notamment une rétrocession selon les termes suivants (Article 36) : {{citation|La concession prendra fin le 31 décembre de la trente-septième année suivant l'année de la mise en service de la moitié de la longueur de l'autoroute, compte non tenu des sections conditionnelles […].}} ;
+* La concession de la section de l'A48 entre Bourgoin-Est et Saint-Égrève est modifiée en 1988 par le deuxième contrat de concession, avec une rétrocession prévue en 2015<ref>JO du 10/05/1988 [http://images3.wikia.nocookie.net/__cb20091122181752/routes/images/b/b6/AREA_-_C2_-_1988.pdf] {{pdf}}</ref> ;
+* Le {{7e|avenant}} de 1997 modifie la date de fin de concession de 2015 à 2017<ref>JO du 31/12/1997 [http://images3.wikia.nocookie.net/__cb20091122181650/routes/images/a/a9/AREA_-_C2_-_A7_-_1997.pdf] {{pdf}}</ref> ;
+* Le {{10e|avenant}} du deuxième contrat de concession d'autoroute paru dans le Journal Officiel le {{date|7 novembre 2004}} modifie, notamment, la date de rétrocession de 2017 à 2032 (article 36 du contrat de concession)<ref>JO du 7/11/2004 p. 15/41 [http://images1.wikia.nocookie.net/__cb20091122181651/routes/images/4/48/AREA_-_C2_-_A10_-_2004.pdf] {{pdf}}</ref>.
+La vue d'ensemble sur les concessions AREA est détaillée sur la page ad-hoc : [[AREA_(société_d'autoroutes)#Historique]]
+== Sorties ==
+'''Section concédée à [[AREA (société d'autoroutes)|AREA]] et payante (sauf entre les sorties 12 à 15).'''
+[[Fichier:Autoroute A48 - IMG 0011.jpg|vignette|alt=La barrière de péage de Rives|La barrière de péage de Rives.]]
+[[Fichier:A48-Viaduc de la Fure - IMG 3487.jpg|vignette|alt=Le viaduc de la Fure|Le viaduc de la [[Fure]].]]
+* '''{{échangeur autoroutier|[[Autoroute A43 (France)|A43]]|A48}}''' à {{unité|0|km}} : [[Paris]] ([[Autoroute A6 (France)|A6]]), [[Strasbourg]] ([[Autoroute A39 (France)|A39]]), [[Bourg-en-Bresse]] ([[Autoroute A42 (France)|A42]]), [[Lyon]], ''[[File:France road sign ID2.svg|15px|alt]] [[Aéroport de Lyon-Saint-Exupéry|Saint-Exupéry]]'', [[Bourgoin-Jallieu]] ; [[Genève]] ([[Autoroute A41 (France)|A41]]), [[Chambéry]], [[La Tour-du-Pin]]
+** [[Fichier:France road sign C207.svg|24x24px]] [[Fichier:Panneau-C24a-2.svg|22x22px]] [[Fichier:France road sign B14 (110).svg|22x22px]] Début de l'autoroute, début de {{dunité|2|2|voies}} et limitation à {{unité|110|km/h}}.
+** [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à 130 km/h.
+** {{Aire de repos|de Ponteray|Lyon – Grenoble|de Chanses|Grenoble – Lyon}}
+** {{Aire de repos|de Burcin|Lyon – Grenoble|d'Oyeu|Grenoble – Lyon}}
+* {{Sortie|9 Rives}} à {{unité|25|km}} : [[Vienne (Isère)|Vienne]], [[La Côte-Saint-André]], [[Rives (Isère)|Rives]], ''[[File:France road sign ID2.svg|15px|alt]] [[Aéroport de Grenoble-Alpes-Isère|Grenoble-Alpes-Isère]]'', ''[[Lac de Paladru]]''
+** [[Fichier:AB-Brücke.svg]] Viaduc de La Fure sur [[Fichier:Panneau cours d'eau France.png|20px]] la [[Fure]]
+** {{Aire de repos|du Châtelard|Lyon – Grenoble|de Réaumont|Grenoble – Lyon}}
+* {{Sortie|10 ''Champfeuillet''}} à {{unité|34|km}} : [[Voiron]], [[Les Abrets en Dauphiné]]
+** [[Fichier:AB-Brücke.svg]] Viaduc de La Morge sur [[Fichier:Panneau cours d'eau France.png|20px]] la [[Morge (affluent de l'Isère)|Morge]]
+* {{Sortie|11 ''Mauvernay''}} à {{unité|38|km}} : Voiron - ''centre'', [[Coublevie]], [[Moirans]], [[Voreppe]], ''Centr'Alp''
+* '''{{échangeur autoroutier|[[Autoroute A49 (France)|A49]]|A48}}''' à {{unité|41|km}} : [[Marseille]] ([[Autoroute A7 (France)|A7]]), [[Valence (Drôme)|Valence]]
+** [[Fichier:Panneau-C24a-4.svg|22x22px]] Passage à {{dunité|2|4|voies}}.
+* {{Péage|Péage de Voreppe (à système fermé)}}
+** [[Fichier:Panneau-C24a-2.svg|22x22px]] [[Fichier:France road sign B14 (110).svg|22x22px]] Passage à {{dunité|2|2|voies}} et limitation à 110 km/h.
+* {{Sortie|12 Voreppe}} à {{unité|43|km}} : Valence, Voreppe + {{Aire de service|de l'Île Rose|Lyon – Grenoble|de Voreppe|Grenoble – Lyon}}
+* {{Sortie|13 Pont-de-Veurey}} à {{unité|44|km}} ''(demi-échangeur, depuis et vers Grenoble)'' : Lyon, Voiron, Voreppe
+** [[Fichier:Panneau-C24a.svg|22x22px]] Passage à {{dunité|2|3|voies}} + [[Fichier:France road sign B27a.svg|22x22px]] 1 voie de bus (sens Lyon – Grenoble).
+* {{Sortie|14 Saint-Égrève}} à {{unité|49|km}} : [[Villard-de-Lans]], [[Saint-Égrève]] - ''nord'', [[Autrans-Méaudre en Vercors]], [[Fontanil-Cornillon]]
+** [[Fichier:France road sign B14 (90).svg|22x22px]] Limitation à 90 km/h.
+* {{Sortie|15 ''Presqu'Île''}} '''({{échangeur autoroutier|[[Route nationale 481|RN 481]]|A48}})''' à {{unité|51|km}} ''(demi-échangeur, depuis et vers Lyon)'' : [[Saint-Martin-le-Vinoux]], [[Grenoble]] - ''Bastille'', ''Hôpital Nord''
+* Fin de l'autoroute A48 et continue sur l'autoroute [[Autoroute A480 (France)|A480]] : [[Turin]] - [[Milan]] (A41), [[Sisteron]] ([[Autoroute A51 (France)|A51]]), Grenoble - ''centre'', [[Fichier:SU4 - Rocade France.svg|22x22px]] [[Rocade sud (Grenoble)|Rocade Sud]]
+
+== Lieux sensibles ==
+Le principal point sensible de l’autoroute est le [[col de Rossatière]] (altitude {{unité|573|m}}), situé au niveau du PK&nbsp;57. Bien que d'altitude modeste, le col est situé au cœur des Terres Froides, lesquelles sont sujettes à de brusques abats de neige. Par exemple, il est tombé plus d'un mètre de neige du 8 au {{date|13 décembre 1990}}<ref>[https://le-blog-de-pierre-fassbind.over-blog.com/article-8-decembre-1990-chute-de-neige-exceptionnelle-sur-l-isere-42623070.html 8 décembre 1990, chute de neige exceptionnelle sur l'Isère], blog de FMarmotte5</ref>. L'autoroute passe aussi, quelques kilomètres au sud du col, par la [[Colombe (Isère)|trouée de Colombe]], qui, en canalisant les vents, favorise très localement les précipitations. Ces éléments conjugués aux fortes pentes ({{nobr|5 %}}) de l'autoroute dans le secteur sont sources de situations de blocage<ref>{{Lien web|url=https://www.francebleu.fr/infos/neige-route-perturbations-intemperies/automobilistes-bloques-sur-l-a48-la-polemique-apres-la-pagaille-de-mercredi-1038812|titre=Automobilistes bloqués sur l'A48 par la neige : la polémique après la pagaille de mercredi|site=le site internet de la radio France Bleu|jour=21|mois=novembre|année=2013|consulté le=4 novembre 2014}}.</ref>.
+
+== Croisements autoroutiers ==
+* [[Autoroute A43 (France)|A43]] ([[Lyon]] et [[Chambéry]]), {{unité|4|km}} après l'échangeur de [[Bourgoin-Jallieu]] à hauteur du [[point kilométrique]] 41
+* vers [[Autoroute A49 (France)|A49]] ([[Valence (Drôme)|Valence]])
+* vers [[Autoroute A480 (France)|A480]] ([[Grenoble]] centre - [[Sisteron]] et [[Gap]]/[[Briançon]])
+
+<gallery mode="packed">
+Séparation A48-A49 (France).JPG|alt=Bifurcation vers l'autoroute A49 depuis l'A48 vers Lyon|Bifurcation vers l'[[Autoroute A49 (France)|A49]] depuis l'A48 (sens Grenoble - Lyon).
+A48 - 2019-09-19 - IMG 3572.jpg|alt=Bifurcation vers l'A43 vers Lyon depuis l'A48|Bifurcation vers l'[[Autoroute A43 (France)|A43]] depuis l'A48 (sens Grenoble - Lyon).
+L'A48 près du col de la Rossatière.jpg|L'A48 près du [[col de Rossatière]] (Châbons).
+Autoroute A48.jpg|L'A48 vers Voiron en direction de Voreppe et Grenoble.
+Autoroute A48 près de Réaumont côté Grenoble (mai 2025).JPG|L'A48 à [[Réaumont]] en direction de Grenoble.
+</gallery>
+
+== Département traversé ==
+L'autoroute A48 traverse uniquement le département de l'[[Isère (département)|Isère]] selon un axe nord-sud.
+
+La liste suivante répertorie les villes desservies et sites à visiter à proximité d'une sortie autoroutière.
+* [[Bourgoin-Jallieu]]
+* [[Rives (Isère)|Rives]] - [[La Côte-Saint-André]]
+* [[Voiron]] - [[Moirans]]
+* [[Voreppe]]
+* [[Saint-Égrève]]
+* [[Grenoble]]
+
+== Notes et références ==
+<references />
+
+== Voir aussi ==
+{{autres projets|commons=Category:A48 autoroute|commons titre=l’autoroute A48}}
+=== Articles connexes ===
+* [[Liste des autoroutes de France]]
+* [[Route européenne 711]]
+
+=== Liens externes ===
+* [http://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A48 L'autoroute A48 sur WikiSara]
+* [http://saratlas.free.fr/index.php?page=autoroute&route=a48&lang=fr L'autoroute A48 dans Saratlas]
+
+{{Palette|Autoroutes de France|Transport à Grenoble}}
+{{Portail|route|Isère}}
+
+[[Catégorie:Autoroute en Auvergne-Rhône-Alpes|048]]

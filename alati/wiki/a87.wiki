@@ -1,0 +1,157 @@
+{{Voir homonymes|A87}}
+{{Infobox Route/France
+| statut = A
+| numéro = 87
+| autres_noms = 
+| image = W2395-Cholet PeageA87 97796.JPG
+| légende = Péage {{Sortie|27|entrée [[Cholet]]-''sud''}}, {{Route nationale|249}} ([[Route Centre-Europe Atlantique|RCEA]]).
+| carte = Carte Autoroute A87.svg
+| longueur = 142
+| direction = nord / sud-ouest
+| dir1 = nord
+| dir2 = sud-ouest
+| ville1 = {{Route européenne|60}} {{Autoroute française|A11}} à [[Écouflant]]
+| ville2 = {{route départementale N|160|160}} à [[La Roche-sur-Yon]]
+| villes_principales = [[Angers]], [[Cholet]], [[La Roche-sur-Yon]]
+| intersections = {{Route européenne|3}} {{Autoroute française|A83}} aux [[Les Essarts (Vendée)|Essarts]]
+| ouverture = [[2002]] à [[2014]]
+| réseau = Autoroute française
+| régions = [[Pays de la Loire]]
+| départements = [[Maine-et-Loire]], [[Vendée (département)|Vendée]]
+| nb_reg = 1
+| nb_dep = 2
+|concessionnaire   = [[Autoroutes du Sud de la France|ASF]]
+| nom_notes = 
+}}
+{{maplink|frame=yes|plain=yes|frame-width=290|frame-height=360|frame-align=right|type=line|stroke-width=2| |stroke-color=#0000C0| id= }}
+L''''autoroute A87''' est une [[autoroute]] des [[Pays de la Loire]], gérée par les [[Autoroutes du Sud de la France]], qui relie [[Angers]] à [[la Roche-sur-Yon]] via [[Cholet]]. Cette autoroute est raccordée à l'[[Autoroute A11 (France)|A11]], permettant de relier directement [[Paris]] à la [[Vendée (département)|Vendée]] ce qui présente un avantage pour le tourisme et le dynamisme économique de ce département.
+
+[[Radio Vinci Autoroutes|Radio VINCI Autoroutes]] (107.7FM) émet sur l'A87 secteur [[Autoroutes du Sud de la France|ASF]]. L'A87 fait partie du réseau ASF de la [[zone ouest|zone OUEST]].
+
+Avant, cet intitulé devait être le nom d'un [[Projet d'autoroute A87 (France)|contournement de Paris]] mais ce projet fut abandonné.
+
+L'aire de repos de Trémentines a été aménagée en une aire de service, ce qui en fait la deuxième aire de service après celle de  [[Les Herbiers]]. Désormais l'autoroute contient deux aires de services, celle de [[Les Herbiers]] et de [[Trémentines]].
+
+== Tracé ==
+L'A87 suit un tracé parallèle à celui de la [[Route nationale 160|D 160]] (ancienne RN 160), départementale qui relie [[les Sables-d'Olonne]] à [[Angers]] via [[la Roche-sur-Yon]] et [[Cholet]]. Cependant l'A87 ne va pas jusqu'aux Sables-d'Olonne, la D 160 ayant déjà été aménagée en {{dunité|2|2|voies}} entre [[la Roche-sur-Yon]] et [[les Sables-d'Olonne]]. Néanmoins, ce dernier tronçon possède toutes les caractéristiques autoroutières de sécurité (bande d'arrêt d'urgence).
+
+Cette autoroute sert également de contournement de la partie Est de l'agglomération d'[[Angers]] (A87 Nord), contourne [[Cholet]] par l'est et fait partie de la [[Rocade de Cholet]], ainsi que de contournement Sud de [[La Roche-sur-Yon]] afin de désengorger la rocade nord de la ville qui arrive aujourd'hui à saturation, notamment l'été.
+
+De {{unité|129|km}} de long, l'ouverture de l'A87 s'est effectuée en 4 étapes :
+* [[Angers]] ⇔ [[Cholet]], {{unité|57|km}}, inaugurée en [[2002]] ;
+* [[Cholet]]-Sud ⇔ [[Les Essarts (Vendée)|Les Essarts]] (échangeur avec la [[Autoroute A83 (France)|A83]]), {{unité|36|km}}, inaugurée en {{date+|juin 2003}} ;
+* [[Les Essarts (Vendée)|Les Essarts]] ⇔ [[La Roche-sur-Yon]], {{unité|20|km}}, inaugurée en {{date+|janvier 2005}} ;
+* Contournement Sud de [[La Roche-sur-Yon]], {{unité|16|km}}, ouvert depuis le {{date|4 juillet 2008}} (tronçon sans péage).
+Depuis la mise en service du contournement Sud de [[La Roche-sur-Yon]], l'A87 rejoint la [[Route nationale 160|D 160]] au niveau des [[Les Clouzeaux|Clouzeaux]].
+
+== Aménagements au nord ==
+[[Fichier:WV0036-A87 Angers S23MursErigne-A11-S14.ogg|vignette|gauche|A87-Nord, vers l'[[Autoroute A11 (France)|A11]].]]
+Au nord, l'enquête publique relative à la mise aux normes autoroutières de la section [[Sorges]]/[[Mûrs-Erigné]] de l'ancienne [[Route nationale 260 (France)|RN 260]] rebaptisée A87-Nord, qui a été ainsi intégrée à l'A87, et à son élargissement à {{dunité|2|3|voies}} sur ses {{unité|5|km}} les plus chargés, s'est achevée le {{date|22 décembre 2005}}. La déclaration d'utilité publique est intervenue le {{date|15 juin 2007}}. Quelques travaux préparatoires ont débuté en 2007, la mise aux normes autoroutières entre l'[[échangeur de Haute-Perche]] et [[Mûrs-Erigné]] est terminée, les travaux de doublement du viaduc de la Loire ont débuté en 2009.
+
+Un viaduc a vu le jour et est affecté à la circulation pour le sens Nord-Sud<ref>{{lien web |url=https://www.admi.net/jo/20070619/DEVR0755944D.html |site=admi.net |titre=Décret du 15 juin 2007 déclarant d'utilité publique, d'une part, les travaux de mise aux normes autoroutières de la section de la RN 260 entre Mûrs-Erigné et Sorges et, d'autre part, de l'élargissement à {{dunité|2|3|voies}} de la section autoroutière Haute-Perche-Sorges et de la section de route express RN 260 entre Sorges et La Monnaie retirant le caractère de route express à la section entre Mûrs-Erigné et Sorges de la RN 260 et la classant dans la catégorie des autoroutes |sous-titre=DUP de la section Sorges/Mûrs-Erigné |date=15 juin 2007}}</ref>. Décembre 2012 les travaux du viaduc sont finis, les {{unité|6|voies}} sont ouvertes à la circulation.
+
+En {{date|juin 2014}}, la refonte de l'[[échangeur de Gâtignolle]] entre l'A87-Nord et l'[[Autoroute A11 (France)|A11]] est terminée.
+{{clr}}
+
+== Sorties ==
+=== A87 ===
+'''Section concédée à [[Autoroutes du Sud de la France|ASF]] et payante (sauf entre les sorties 14 à 23, 30 à 33).'''  
+* '''{{échangeur autoroutier|[[Autoroute A11 (France)|A11]]|A87}} (''[[Échangeur de Gâtignolle]]'')''' à {{Unité|0|km}} : [[Rennes]], [[Nantes]], [[Angers]] - ''centre'', [[Paris]], [[Le Mans]], [[Saumur]], [[Tours]] + {{Sortie|14 Tiercé}} : [[Tiercé (Maine-et-Loire)|Tiercé]], [[Écouflant]]
+** [[Fichier:France road sign C207.svg|24x24px]] [[Fichier:Panneau-C24a.svg|22x22px]] [[Fichier:France road sign B14 (70).svg|22x22px]] Début de l'autoroute, début de {{dunité|2|3|voies}} et limitation à {{unité|70|km/h}}.
+* {{Sortie|15 Parc des Expositions}} : Angers - est, [[Verrières-en-Anjou]], ''[[File:France road sign ID35.svg|15px|alt]] Pôle 49''
+** [[Fichier:Panneau-C24a-2.svg|22x22px]] Passage à {{dunité|2|2|voies}}.
+** [[Fichier:France road sign B14 (90).svg|22x22px]] Limitation à {{unité|90|km/h}}.
+* {{Sortie|16 La Bouvinerie}} : [[Le Plessis-Grammoire]], [[Saint-Barthélemy-d'Anjou]] - ''Z. I.'', ''[[File:France road sign ID2.svg|15px|alt]] Z. A. Pôle 49''
+* {{Sortie|17 Saint-Barthélemy-d'Anjou}} : [[Saumur]], [[Beaufort-en-Anjou]], Saint-Barthélemy-d'Anjou - ''centre, Z. I.''
+* {{Sortie|18a Angers - ''centre''}} : Angers - ''centre, est''
+* {{Sortie|18b Angers - ''sud''}} ''(demi-échangeur, depuis et vers Tiercé)'' : Angers, ''[[Fichier:France road sign ID3.svg|15px|alt]] Clinique de l'Anjou'', ''[[Fichier:France road sign ID1b.svg|15px|alt]] [[La Roseraie (Angers)|Parking Relais Tramway (La Roseraie)]]''
+* {{Sortie|19 La Foucaudière}} : [[Trélazé]] - ''Z. I.''
+* {{Sortie|20 La Monnaie}} ''(demi-échangeur, depuis et vers La Roche-sur-Yon)'' : Angers - ''sud, centre'', ''[[Fichier:France road sign ID3.svg|15px|alt]] Clinique de l'Anjou'', ''[[Fichier:France road sign ID1b.svg|15px|alt]] Parking Relais Tramway (La Roseraie)''
+** [[Fichier:Panneau-C24a.svg|22x22px]] Passage à {{dunité|2|3|voies}} 
+* {{Sortie|21 Sorges}} : [[Les Ponts-de-Cé]], [[Sainte-Gemmes-sur-Loire]], [[Bouchemaine]], ''Moulin Marcille''
+** [[Fichier:AB-Brücke.svg]] [[Viaduc de la Loire]]
+* {{Sortie|22/22a/22b [[Échangeur de Haute-Perche|Haute-Perche]]}} : [[Poitiers]], [[Niort]], [[Brissac Loire Aubance]], [[Mûrs-Erigné]] - ''Loire'', [[Doué-en-Anjou]], Les Ponts-de-Cé
+** [[Fichier:Panneau-C24a-2.svg|22x22px]] [[Fichier:France_road_sign_B14_(110).svg|22x22px]] Passage à {{dunité|2|2|voies}} et limitation à {{unité|110|km/h}}
+* {{Sortie|22.1 Grand Clos}} ''(trois-quarts d'échangeur, non-accessible depuis La Roche-Sur-Yon)'' : Mûrs-Erigné - ''centre ''
+* {{Sortie|23 Mûrs-Erigné}} : [[Cholet]], [[Chemillé-en-Anjou]], Mûrs-Erigné - ''Aubance''
+** [[Fichier:France_road_sign_B14_(130).svg|22x22px]] Limitation à {{unité|130|km/h}}
+* {{Sortie|24 Thouarcé}} : [[Bellevigne-en-Layon]], [[Chalonnes-sur-Loire]]
+* {{péage|Péage de Beaulieu-sur-Layon (à système fermé)}}
+** [[Fichier:AB-Brücke.svg]] [[Viaduc du Layon]]
+** [[Fichier:AB-Brücke.svg]] [[Viaduc de l'Hyrôme]]
+* {{Sortie|25 Chemillé-en-Anjou}} : [[Beaupréau-en-Mauges]], [[Lys-Haut-Layon]], [[Chalonnes-sur-Loire]], Chemillé-en-Anjou
+** {{Aire de service|de Trémentines}}
+* {{Sortie|26 Cholet - ''nord''}} : [[Saumur]], Cholet - ''centre'', Lys-Haut-Layon
+* {{Sortie|27 Cholet - ''sud ''([[Route nationale 249|RN 249]])}} : Poitiers, Nantes, Niort, Cholet - ''centre'', [[Mauléon (Deux-Sèvres)|Mauléon]], [[Mortagne-sur-Sèvre]], [[Bressuire]]
+''Passage du département du [[Maine-et-Loire]] à celui de la [[Vendée (département)|Vendée]]
+* [[Fichier:AB-Brücke.svg]] Viaduc sur la [[Sèvre Nantaise]] 
+* {{Sortie|28 La Verrie}} : [[Pouzauges]], [[Mortagne-sur-Sèvre]], [[Chanverrie]], ''[[Le Puy du Fou]]''
+* {{Sortie|29 Les Herbiers}} : [[Les Herbiers]] + {{Aire de service|des Herbiers}}
+* '''{{échangeur autoroutier|[[Autoroute A83 (France)|A83]]|A87}}''' : [[Bordeaux]] ([[Autoroute A10 (France)|A10]]), [[La Rochelle]], Niort, [[Essarts-en-Bocage|Les Essarts]], Nantes
+* {{péage|Péage de La Roche-sur-Yon (à système fermé)}}
+* {{Sortie|30 La Roche-sur-Yon - ''est''}} : [[La Roche-sur-Yon]] - ''nord, centre'', Nantes, Cholet, [[Noirmoutier-en-l'Île|Noirmoutier]], [[La Chaize-le-Vicomte]], [[Saint-Gilles-Croix-de-Vie|Saint-Gilles]] - [[Saint-Hilaire-de-Riez|Saint-Hilaire]], Niort (A83)
+* {{Sortie|31 La Roche-sur-Yon - ''centre''}} : [[Luçon (Vendée)|Luçon]], La Rochelle, La Roche-sur-Yon - ''[[Le Bourg-sous-la-Roche-sur-Yon|Le Bourg-sous-la-Roche]]''
+* {{Sortie|32 La Roche-sur-Yon - ''sud''}} : [[La Tranche-sur-Mer]], La Roche-sur-Yon
+* {{Sortie|33 La Roche-sur-Yon - ''ouest''}} : Nantes, [[Aubigny-Les Clouzeaux]], La Roche-sur-Yon - ''centre, nord, [[Saint-André-d'Ornay]]'', [[Venansault]]
+** [[Fichier:France_road_sign_C208.svg|22x22px]] [[Fichier:France_road_sign_C107.svg|22x22px]] Fin de l'autoroute A87 et début de la [[Route nationale 160|Route départementale 160 (RD 160)]] (route à accès réglementée) : vers [[Les Sables-d'Olonne]], [[Talmont-Saint-Hilaire]], [[Bretignolles-sur-Mer]], [[Achard|La Mothe-Achard]]
+
+=== [[Route nationale 160|RD 160]] ===
+* {{sortie|L'Aumondière}} : [[Saint-Georges-de-Pointindoux]], [[Sainte-Flaive-des-Loups]], [[Les Achards|La Motte-Achard]] - ''centre'', [[Bretignolles-sur-Mer]], [[Landeronde]]
+* {{sortie|Les Landes}} : La Motte-Achard, [[Talmont-Saint-Hilaire]], Bretignolles-sur-Mer, [[Beaulieu-sous-la-Roche]], [[Aizenay]], ''Zones d'Activités Les Achards''
+* {{sortie|La Léonière}} : [[Saint-Mathurin]], [[Île-d'Olonne]]
+* {{sortie|La Goulpière}} ''(demi-échangeur, depuis et vers La Roche-sur-Yon)'' : [[Les Sables-d'Olonne]] - [[Olonne-sur-Mer]], [[Sainte-Foy (Vendée)|Sainte-Foy]]
+** [[Fichier:France road sign C28-3.svg|22x22px]] [[Fichier:France road sign B14 (90).svg|22x22px]] Réduction à 1 voie, avant giratoire.
+** [[Fichier:France_road_sign_C108.svg|22x22px]] [[Fichier:France road sign AB25.svg|23x23px]] Fin de route à accès réglementée, avant giratoire.
+* Entrée dans l'agglomération des [[Les Sables-d'Olonne|Sables d'Olonne]].
+* '''{{Carrefour giratoire|RD 160|RD 949|RD 32}}''' :
+** RD 32 : [[Saint-Nazaire]], [[Noirmoutier-en-l'Île|Noirmoutier]], [[Challans]], [[Saint-Gilles-Croix-de-Vie|Saint-Gilles]] - [[Saint-Hilaire-de-Riez|Saint-Hilaire]], L'[[Île-d'Olonne]], Les Sables-d'Olonne - Olonne-sur-Mer
+** RC 0 : ''Pôle Santé'', ''Numerimer''
+** RD 949 : [[Niort]] ''par RD'', [[La Rochelle]], [[Grosbreuil]], [[Le Château-d'Olonne]], [[Talmont-Saint-Hilaire]], ''Usine de TMB Trivalonne''
+** RD 160 : Les Sables-d'Olonne - centre, Les Sables-d'Olonne - Les Ports, Les Sables-d'Olonne - La Chaume, ''Z. A. d'Olonne'', ''Zoo des Sables''
+** [[Fichier:Panneau-C24a-2.svg|22x22px]] [[Fichier:France road sign B14 (90).svg|22x22px]] Portion en {{dunité|2|2|voies}}, périphérie des Sables-d'Olonnes et portion courte.
+** [[Fichier:France road sign C28-3.svg|22x22px]] [[Fichier:France road sign B14 (70).svg|22x22px]] Réduction à 1 voie, avant giratoire. Fin de {{dunité|2|2|voies}}.
+* '''{{Carrefour giratoire|RD 160|RD 949|RD 760}}''' :
+** Boulevard du Vendée Globe : [[Le Château-d'Olonne]], ''Déchetterie'', ''Aquarium Le Septième Continent'', ''Zoo des Sables'', ''Centre Aqualudique Aqualonne''
+** RD 760 : [[Sainte-Foy (Vendée)|Sainte-Foy]], ''Château de Pierre Levée'', ''Golf des Olonnes'' 
+** RD 949 : Les Sables-d'Olonne - La Chaume, Les Sables-d'Olonne - Les Ports, ''Z.A.E : Actilonne, Fruchardière, Tabarly'', ''Centres Commerciaux''
+** RD 160 : Les Sables-d'Olonne - centre
+
+== Particularités ==
+L'autoroute comporte, au niveau du kilomètre 54, une zone inondable en cas de rupture du [[barrage du Verdon]].
+
+Ce risque est minime mais pris au sérieux. Si le barrage cède, une procédure rapide est mise en place. Des sirènes et des panneaux lumineux sont activés par fibre optique : « Autoroute fermée à {{unité|600|m}} », puis la vitesse est limitée à {{unité|110|km/h}}, un deuxième panneau : « Autoroute inondée à {{unité|200|m}} », vitesse réduite à {{unité|90|km/h}}. Enfin, deux feux rouges et une barrière du même type que celles équipant des passages à niveau. On ne passe plus. L'autoroute est bloquée.
+
+C'est le seul système de ce type en France. D'après les techniciens l'autoroute peut être vide en une heure et demie<ref>{{lien web |url=https://www.cholet.maville.com/actu/actudet_-L-A87-securisee-si-le-barrage-du-Verdon-cede-_loc-466331_actu.Htm |site=cholet.maville.com |auteur=Anne-Céline FRESNEAU |lien éditeur=Ouest-France |titre=L'A87 sécurisée si le barrage du Verdon cède |date=14 novembre 2007 |consulté le=}}</ref>.
+
+== Ouvrages d'art ==
+[[Fichier:Viaduc A87 Sèvre Nantaise.jpg|vignette|Viaduc sur la [[Sèvre Nantaise]].]]
+* [[Viaduc de la Loire]] aux [[Les Ponts-de-Cé|Ponts-de-Cé]]
+* [[Viaduc du Layon]] à [[Beaulieu-sur-Layon]]
+* [[Viaduc de l'Hyrôme]] à [[Chemillé-en-Anjou]]
+* Viaduc sur la [[Sèvre Nantaise]] à [[Saint-Laurent-sur-Sèvre]]
+
+== Ouvrage sur l'autoroute ==
+La construction du tronçon entre [[Angers]] et [[Cholet]] est le sujet principal de la [[bande dessinée]] d'[[Étienne Davodeau]], ''[[Rural !]]''.
+
+== Lieux sensibles ==
+* La traversée de la Loire sur l'A87-N (forts ralentissements en début et fin de journée, pire le weekend), absence de BAU (Bande d'Arrêt d'Urgence).
+* Au niveau de la ZI Saint-Barthélémy sur l'A87-N sens Sud-Nord vers A11 : Dispositif automatique de contrôle des distances de sécurité entre les véhicules.
+* [[Échangeur de Gâtignolle]] au PK0 en direction de Nantes : forts ralentissements quotidiens.
+* [[Échangeur de la Haute-Perche]] en venant d'Angers, risque de véhicules à l'arrêt en fin de journée
+
+== Notes et références ==
+{{Références|taille=30}}
+
+== Voir aussi ==
+=== Liens externes ===
+{{Autres projets |commons=Category:A87 autoroute |commons titre=L'autoroute A87}}
+* [http://saratlas.free.fr/index.php?page=autoroute&route=a87&lang=fr Autoroute A87 dans Saratlas]
+* [http://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A87 Article de l'A87 sur WikiSara]
+* [https://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A87_(Ancien_num%C3%A9ro) L'ancien A87 sur WikiSara]
+
+{{Palette|Autoroutes de France}}
+{{Portail|route}}
+
+[[Catégorie:Transport à La Roche-sur-Yon]]
+[[Catégorie:Autoroute dans les Pays de la Loire|087]]
+[[Catégorie:Autoroute A87 (France)|*]]

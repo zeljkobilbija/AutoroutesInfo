@@ -1,0 +1,307 @@
+{{Voir homonymes|A71}}
+{{Infobox Route/France
+ | statut         = autoroute
+ | numéro         = 71
+ | image          = AutorouteA71Cher.jpg
+ | légende        = L'autoroute A71 près de [[Saint-Amand-Montrond]].
+ | carte          = Autoroute A71 France map-fr.svg
+ | autres_noms    = L'Arverne
+ | ouverture      = de 1973 à 1989
+ | fermeture      = 
+ | déclassement   = 
+ | longueur       = 290.5
+ | direction      = nord / sud
+ | ville 1        = {{route européenne|5}}{{route européenne|60}}{{Autoroute française|A10}} à [[Ingré]]
+ | direction 1    = nord
+ | intersections  = <poem>
+{{route européenne|60}}{{route européenne|604}}{{Autoroute française|A85}} à [[Theillay]]
+{{route européenne|9}}{{Autoroute française|A20}} à [[Vierzon]]
+{{route européenne|62}}{{Autoroute française|A714|lien=#Autoroute A714}} à [[Bizeneuille]]
+{{route européenne|62}}{{Autoroute française|A79}} à [[Montmarault]]
+{{Autoroute française|A719}} à [[Gannat]]
+{{route européenne|70}}{{Autoroute française|A89}} à [[Combronde]]
+{{route européenne|70}}{{Autoroute française|A89}} {{Autoroute française|A710|lien=#Autoroute A710}} au nord-est de Clermont-Ferrand</poem>
+ | ville 2        = {{Autoroute française|A711}} {{route européenne|11}}{{Autoroute française|A75}} à [[Clermont-Ferrand]]
+ | direction 2    = sud
+ | villes         = [[Orléans]], [[Vierzon]], [[Bourges]], [[Montluçon]], [[Gannat]], [[Riom]], [[Clermont-Ferrand]]
+ | réseau         = Autoroute française<br />Dénominations européennes : {{route européenne|9}} {{route européenne|11}} {{route européenne|62}} {{route européenne|70}} {{Route européenne|604}}
+ | concessionnaire= [[Cofiroute]] (entre Orléans et Bourges)<br />[[Autoroutes Paris-Rhin-Rhône|APRR]] (entre Bourges et Clermont-Ferrand)
+ | régions        = [[Centre-Val de Loire]], [[Auvergne-Rhône-Alpes]]
+ | départements   = [[Loiret (département)|Loiret]], [[Loir-et-Cher]], [[Cher (département)|Cher]], [[Allier (département)|Allier]], [[Puy-de-Dôme]]
+ | nb_reg         = 2
+ | nb_dep         = 5
+}}
+L''''autoroute A71''' (appelée aussi '''L'Arverne''') est une [[autoroute]] reliant [[Orléans]] dans le [[Loiret (département)|Loiret]] à [[Clermont-Ferrand]] dans le [[Puy-de-Dôme]]. Elle est longue de {{unité|290|kilomètres}}.
+
+== Caractéristiques ==
+L'autoroute A71 est à péage. Elle est gérée par [[Cofiroute]] entre Orléans et l'échangeur de Bourges inclus (couverture 107.7 FM [[Radio Vinci Autoroutes]]) et par [[Autoroutes Paris-Rhin-Rhône]] de Bourges à Clermont-Ferrand (couverture Autoroute Info). Seule la portion entre les sorties 15 et 16 est gratuite mais gérée par APRR.
+
+Elle est intégralement à {{dunité|2|2|voies}}, sauf sur la déviation d'Orléans, sur la portion entre l'échangeur de l'autoroute A20 et A85 au nord de Vierzon et au sud du péage de Clermont-Barrière (Gerzat) où ces sections sont aménagées à {{dunité|2|3|voies}}.
+
+La vitesse limite maximale est de {{unité|130|km/h}} sauf après le péage de Gerzat où elle est limitée à {{unité|110|km/h}} et au niveau d'Orléans où un radar automatique a été implanté et au franchissement la vitesse maximale à ne pas dépasser est {{unité|110|km/h}}.
+
+L'autoroute se scinde au niveau de l'[[Autoroute A711 (France)|A711]], où elle est prolongée par l'[[Autoroute A75 (France)|A75]] jusqu'à Béziers.
+
+En parcourant l'autoroute entière sans prendre de sortie, l'A71 est très pauvre en péage de pleine voie (seulement un péage, celui de Gerzat en direction de Clermont-Ferrand), mais très fournie en aire de repos / service.
+
+L'autoroute A71 fait partie de trois routes européennes :
+* la [[route européenne 9]] entre Orléans et Vierzon ;
+* la [[route européenne 11]] entre Vierzon et Clermont-Ferrand ;
+* la [[route européenne 62]] entre l'échangeur avec l'A714 et l'A79 (tronc commun avec la [[Route Centre-Europe Atlantique|RCEA]]).
+* la [[route européenne 70]] entre Combronde et Gerzat.
+
+== Historique ==
+=== Les variantes de tracé entre Bourges et Clermont-Ferrand ===
+Dans les années 1970, plusieurs variantes de tracé ont été établies entre Bourges et Clermont-Ferrand. Certaines variantes passaient au plus près de Montluçon tandis que d'autres, écartées, auraient pu améliorer les dessertes de Nevers, Moulins et Vichy.
+
+=== Mise en service des tronçons ===
+La toute première section de l'autoroute a été mise en service en 1973 (entre l'autoroute A10 et [[La Chapelle-Saint-Mesmin]]). Son prolongement jusqu'à l'actuelle sortie 2 l'est à son tour le {{date|26 mars 1980}}<ref name="cofiroute-a71">{{Lien web|url=http://www.cofiroute.fr/cofiroute.nsf/fr/travaux-a71-accueil.htm|titre=Travaux de l'élargissement de l'autoroute A71|site=Cofiroute|consulté le=26 septembre 2009}}.</ref>.
+
+Le tronçon d'[[Orléans]] à [[Salbris]] est inauguré le {{date|24 octobre 1986}} et mis en service le même jour<ref name="Legifrance-14oct1986">{{Lien web |url=https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000000340075 |titre= Arrêté du 14 octobre 1986 portant autorisation de mise en service de la section Orleans-sud-Salbris de l'autoroute A71 Orléans-Bourges-Clermont-Ferrand |date = |site =legifrance.gouv.fr |consulté le= 25 avril 2016}}.</ref> même s'il a été ouvert du {{date|27 juin}} au {{1er|juillet}} de cette même année pour les départs en vacances.
+
+Côté auvergnat, l'autoroute A71 est mise en service entre Montmarault et Clermont-Ferrand (entre les sorties 11 et 17<ref group="Note">Actuellement échangeur avec les autoroutes A75 et A711.</ref>) le {{date|29|octobre|1987|en France}}. Elle est prolongée jusqu'à la sortie 9 (Vallon-en-Sully) le {{date|11|décembre|1988|en France}}.
+
+La section de Salbris à Bourges ouvre le {{date|29|juin|1989|en France}} ; la dernière section ouvre le {{date|11|décembre|1989|en France}}.
+
+La construction de l'autoroute, sur la section concédée à APRR, a entraîné le remembrement de {{unité|50000|hectares}} de terres agricoles dont {{formatnum:34000}} pris en charge par la société d'autoroutes<ref>{{Article|prénom1=Alain|nom1=Barre|titre=Le réseau autoroutier français : un outil rapidement valorisé, des effets controversés|périodique=Annales de Géographie|année=1997|tome=106|numéro=593-594|pages=94-95|lire en ligne=http://www.persee.fr/web/revues/home/prescript/article/geo_0003-4010_1997_num_106_593_20766|doi=10.3406/geo.1997.20766}}.</ref>.
+
+'''Mise en service des tronçons'''
+* {{date|26 mars 1980}} : Orléans (A10) – Olivet (sortie 2)<ref name="cofiroute-a71" /> 
+* [[1986]] : Orléans (sortie 2) – Salbris (sortie 4)
+* [[1987]] : Montmarault (sortie 11) – Clermont-Est (sortie 17) ({{unité|71|km}})
+* [[1988]] : Forêt-de-Tronçais (sortie 9) – Montmarault (sortie 11) ({{unité|38|km}})
+* [[1989]] : Bourges (sortie 7) – Forêt-de-Tronçais (sortie 9) ({{unité|70|km}})
+
+=== Après l'ouverture ===
+Début 2006, la section comprise entre l'échangeur avec l'[[Autoroute A89 (France)|autoroute A89]] (au niveau de la [[bifurcation de Combronde]]) et l'échangeur avec cette même autoroute, peu avant la sortie 15, est double-numérotée A71-A89, à la suite de l'ouverture de l'A89 entre les échangeurs de [[Saint-Julien-Puy-Lavèze|Saint-Julien-Sancy]] et de [[Combronde]]. Les kilométrages sont inchangés sur l'autoroute A71.
+
+La portion comprise entre les sorties 7 et 8 ([[Bourges]] et [[Saint-Amand-Montrond]]), longue de {{unité|41.5|kilomètres}}, est la plus longue portion autoroutière de France sans entrée ni sortie ni échangeur autoroutier.
+
+Dans le cadre du plan de relance autoroutier de 2015, l'échangeur 11 de Montmarault est modifié afin de permettre un accès direct à l'[[Autoroute A79 (France)|autoroute A79]] en direction de Moulins et de Mâcon. Un avenant à la concession, publié dans un décret du {{Date|21 août 2015}}<ref name="decret_2015-1044">{{Article|titre=Décret {{numéro|2015-1044}} du {{Date|21 août 2015}} approuvant des avenants aux conventions passées entre l'Etat et la société des Autoroutes Paris-Rhin-Rhône (APRR) et entre l'Etat et la société des Autoroutes Rhône-Alpes (AREA) pour la concession de la construction, de l'entretien et de l'exploitation d'autoroutes et aux cahiers des charges annexés à ces conventions (NOR : DEVT1513533D) |périodique=Journal officiel de la République française |numéro=0194, texte {{numéro|1}} |date=23 août 2015 |lire en ligne=https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000031074777 |consulté le=8 octobre 2022}}.</ref>, confie la construction de l'échangeur direct à APRR, qui en assure l'entretien depuis le {{Date|27 mars 2018}}<ref name="FBleu-concessionM-2018">{{Lien web |auteur=Emmanuel Moreau |auteur institutionnel=France Bleu Pays d'Auvergne |titre=Un petit bout de la RCEA repris par APRR ce mardi matin |url=https://www.francebleu.fr/infos/transports/un-petit-bout-de-la-rcea-repris-par-aprr-ce-mardi-matin-1522170212 |site=francebleu.fr |date=27 mars 2018 |consulté le=8 octobre 2022}}.</ref>. Cet échangeur est inauguré le {{Date|5 août 2021}}. Les travaux ont coûté {{nobr|90 millions d'euros}}<ref name="A71-ech-Montmarault-2021" />.
+
+=== Élargissements ===
+[[Fichier:Elargissement de l'A71.JPG|vignette|alt=Troisième voie en construction au droit de la sortie 1 en mars 2010.|Troisième voie en construction au droit de la sortie 1 en mars 2010.]]
+L'autoroute A71 a été construite {{Citation|sans prévision d'une mise à {{dunité|2|3|voies}}<ref name="AE-elargissementA71CLE" />}} ; plusieurs élargissements ont été menés par les deux sociétés d'autoroutes.
+
+Dans l'agglomération d'Orléans, Cofiroute a engagé l'élargissement de l'autoroute A71 entre les échangeurs 1 (Orléans-Centre) et 2 (Olivet), par la construction d'une troisième voie sur {{unité|6|km}}, afin de fluidifier le trafic et de réduire les émissions de [[dioxyde de carbone|CO<sub>2</sub>]]. Ce chantier a entraîné le dédoublement du [[Pont de l'A71 sur la Loire|pont sur la Loire]]. La livraison a eu lieu fin 2010<ref>{{Lien web|url=http://www.cofiroute.fr/cofiroute.nsf/fr/travaux-a71-chantier.htm|titre=Les zones de travaux de l'élargissement de l'A71|site=Cofiroute|consulté le=28 décembre 2010}}.</ref>.
+
+À l'entrée de Clermont-Ferrand, les derniers kilomètres de l'A71 ont été élargis à {{dunité|2|3|voies}}, entre la barrière de péage de Gerzat et l'autoroute A75. Menés par [[Autoroutes Paris-Rhin-Rhône|APRR]], les travaux préparatoires sont intervenus fin 2012 et la mise en service complète a eu lieu le {{date|22|décembre|2014|en France}}. Le coût de cet aménagement est de {{nobr|78 millions}} d'euros {{abréviation discrète|HT|hors taxes}}<ref name="montagne-20141221" />. L'élargissement a été opérationnel d'abord le {{date|10|juillet|2014|en France}} entre la barrière de péage de Gerzat, qui a dû être remanié<ref>{{Article|prénom1=Cédric|nom1=Gourin|titre=L'A71 élargie dans l'agglo de Clermont|périodique=La Montagne|jour=20|mois=2|année=2012|pages=3}}.</ref> (quatre voies par sens réservées au télépéage sans arrêt et franchissables à {{unité|30|km/h}}) et l'échangeur avec l'A89 au nord-est de Clermont-Ferrand<ref>{{Lien web|url=http://www.lamontagne.fr/auvergne/actualite/2014/07/10/l-a71-est-en-2x3-voies-des-ce-jeudi-a-partir-du-peage-de-gerzat_11076957.html|titre=L'A71 est en 2x3 voies dès ce jeudi à partir du péage de Gerzat|jour=10|mois=7|année=2014|site=La Montagne}}.</ref>) puis le {{date|22 décembre}} entre ce même échangeur et l'A75<ref name="montagne-20141221" />. Les travaux ont nécessité {{Citation|des emprises supplémentaires}}, l'élargissement se faisant au-delà de la plate-forme préexistante, et douze ouvrages d'art ont dû être traités<ref name="AE-elargissementA71CLE" />.
+
+Entre Theillay et Vierzon, le fort trafic entre deux échangeurs autoroutiers ([[Autoroute A85 (France)|A85]] et [[Autoroute A20 (France)|A20]]) nécessite d'élargir l'autoroute à trois voies dans chaque sens. Ce projet a nécessité deux ans d'études et de concertation ; il a été inauguré le {{Date|1|juillet|2015}}<ref>{{Lien web|prénom1=Christelle|nom1=Marilleau|titre=L'autoroute A71 entre Theillay et Vierzon est passée à trois voies|url=https://www.leberry.fr/vierzon/economie/2015/07/01/l-autoroute-a71-entre-theillay-et-vierzon-est-passee-a-trois-voies_11505446.html|jour=1|mois=juillet|année=2015|site=Le Berry|consulté le=28 janvier 2018}}.</ref>.
+
+Au sud de Gannat, un autre élargissement, de deux à trois voies, a été planifié sur sept kilomètres dans le sens Clermont – Paris<ref>{{Lien web |titre=Frédéric Cuvillier approuve des contrats de plan exigeants avec le groupe autoroutier APRR/AREA permettant d'investir 500 millions d'euros dans l'économie nationale |url=http://www.developpement-durable.gouv.fr/Frederic-Cuvillier-approuve-des.html |site=developpement-durable.gouv.fr |éditeur=[[Ministère de l'Écologie, du Développement durable et de l'Énergie]] |jour=27 |mois=janvier |année=2014 |brisé le=26 octobre 2023 |archive-url=https://web.archive.org/web/20160327221952/http://www.developpement-durable.gouv.fr/Frederic-Cuvillier-approuve-des.html |archive-date=27 mars 2016}}.</ref>. Il est mis en service en {{date|mai 2018}} ; la vitesse maximale est par ailleurs relevée de {{unité|110|à=130|km/h}}<ref name="LM-20180507">{{Lien web|url=https://www.lamontagne.fr/clermont-ferrand/travaux-urbanisme/2018/05/07/la-montee-des-volcans-en-trois-voies-et-a-130-km-h-est-desormais-ouverte-sur-l-autoroute-a-71_12840345.html|titre=La montée des Volcans en trois voies et à {{nobr|130 km/h}} est désormais ouverte sur l'autoroute A 71|prénom1=Laurent|nom1=Bernard|jour=7|mois=mai|année=2018|site=La Montagne|consulté le=7 mai 2018}}.</ref>.
+
+== Parcours ==
+'''Section concédée à [[Cofiroute]] et payante.'''
+* '''{{échangeur autoroutier|[[Autoroute A10 (France)|A10]]|A71}}''' à {{unité|0|km}} : [[Paris]], [[Le Mans]], [[Chartres]], [[Montargis]] ([[Autoroute A19 (France)|A19]]) [[Orléans]] - ''nord'' ; [[Bordeaux]], [[Tours]], [[Blois]] ''(km 98)''
+** [[Fichier:France road sign B14 (90).svg|22x22px]] Limitation à {{unité|90|km/h}}
+* {{Sortie|1 Orléans - ''centre''}} à {{unité|1|km}} : Orléans, [[La Chapelle-Saint-Mesmin]], [[Saint-Jean-de-la-Ruelle]] ''(km 99)''
+** [[Fichier:France road sign C24a.svg|22x22px]] Passage en {{dunité|2|3|voies}}.
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à {{unité|110|km/h}}
+** [[Fichier:AB-Brücke.svg]] [[Pont de l'A71 sur la Loire|Pont de l'A71]] sur la [[Fichier:Panneau cours d'eau France.png|20px]] [[Loire]]
+** [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à {{unité|130|km/h}}
+* {{Sortie|2 Olivet}} à {{unité|7|km}} : [[La Ferté-Saint-Aubin]], [[Olivet (Loiret)|Olivet]], Orléans - ''[[Orléans-la-Source|La Source]]'' ''(km 105)''
+** [[Fichier:Panneau-C24a-2.svg|22x22px]] Passage à {{dunité|2|2|voies}}
+** {{Aire de repos|du Bois de Bailly|Orléans-Clermont|du Bois du Télégraphe|Clermont-Orléans}}
+''Passage du département du Loiret à celui du [[Loir-et-Cher]].''
+* {{Aire de service|de [[Chaumont-sur-Tharonne]]|Orléans-Clermont|de [[La Ferté-Saint-Aubin]]|Clermont-Orléans}}
+* {{Sortie|3 Lamotte-Beuvron}} à {{unité|40|km}} : [[Lamotte-Beuvron]], La Ferté-Saint-Aubin, [[Nouan-le-Fuzelier]], [[Neung-sur-Beuvron]], [[Vouzon]] ''(km 137)''
+** {{Aire de repos|de l'Étang du Maras|Orléans-Clermont|de la Briganderie|Clermont-Orléans}}
+** {{Aire de repos|des Maremberts|Orléans-Clermont|de la Saulot|Clermont-Orléans}}
+* {{Sortie|4 Salbris}} à {{unité|59|km}} : [[Salbris]], Neung-sur-Beuvron, [[Romorantin-Lanthenay]] ''(km 157)''
+** {{Aire de service|de Salbris-Theillay|Orléans-Clermont|de Salbris-la-Loge|Clermont-Orléans}}
+** [[Fichier:AB-Brücke.svg]] Pont sur [[Fichier:Panneau cours d'eau France.png|20px]] la [[Rère]]
+* '''{{échangeur autoroutier|[[Autoroute A85 (France)|A85]]|A71}}''' à {{unité|74|km}} : [[Nantes]] ([[Autoroute A11 (France)|A11]]), [[Tours]], [[Blois]], Romorantin-Lanthenay ''(km 172)''
+** [[Fichier:France road sign C24a.svg|22x22px]] Passage à {{dunité|2|3|voies}}
+''Passage du département de Loir-et-Cher à celui du [[Cher (département)|Cher]].''
+* '''{{échangeur autoroutier|[[Autoroute A20 (France)|A20]]|A71}}''' ({{Sortie|5 Vierzon - ''nord''}}) à {{unité|80|km}} : [[Toulouse]], [[Limoges]], [[Châteauroux]], [[Vierzon]] - ''centre'' ''(km 177)''
+** [[Fichier:Panneau-C24a-2.svg|22x22px]] Passage à {{dunité|2|2|voies}}
+* {{Sortie|6 Vierzon - ''est''}} à {{unité|86|km}} : Vierzon, [[Mehun-sur-Yèvre]] ''(km 184)''
+** {{Aire de repos|de Quincy (anc. des Croquettes)|Orléans-Clermont|de la Chaussée de César|Clermont-Orléans}}
+** {{Aire de service|de Bourges - Sainte-Thorette|Orléans-Clermont|de Bourges - Marmagne|Clermont-Orléans}}
+(en projet) {{Sortie|6.1 Bourges - ''ouest''}} : [[Bourges]], [[Marmagne (Cher)|Marmagne]], Mehun-sur-Yèvre
+* {{Sortie|7 Bourges - ''sud''}} à {{unité|112|km}} : [[Nevers]], [[Bourges]], [[Issoudun]], [[Saint-Florent-sur-Cher]], [[Saint-Doulchard]] ''(km 210)''<br>
+'''Section concédée à [[Autoroutes Paris-Rhin-Rhône|APRR]] et payante (sauf entre la sortie 14 et l'A75).'''
+[[Fichier:A71 - Vers Orléans - sortie 7.JPG|vignette|alt=Échangeur de Bourges en direction de Paris|Échangeur de Bourges en direction de Paris en décembre 2009.]]
+[[Fichier:A71 - SN, Échangeur A714.jpg|vignette|alt=Échangeur avec l'A714 en direction de Paris|Échangeur avec l'A714 en direction de Paris en juillet 2011.]]
+[[Fichier:A71 debut de l'autoroute.jpg|vignette|Les premiers kilomètres de l'autoroute A71 à Clermont-Ferrand en 2017.]]
+* {{Aire de repos|du Gîte aux Loups|Orléans-Clermont|du Bois des Dames|Clermont-Orléans}}
+** [[Fichier:AB-Brücke.svg]] ''Pont sur le [[Fichier:Panneau cours d'eau France.png|20px]] [[Cher (rivière)|Cher]]''
+** {{Aire de service|du Centre de la France (Farges-Allichamps)|Orléans-Clermont|du Centre de la France (Bruère-Allichamps)|Clermont-Orléans}}
+* {{Sortie|8 Saint-Amand-Montrond}} à {{unité|154|km}} : [[Saint-Amand-Montrond]], Châteauroux ''(km 251)''
+''Passage de la région [[Centre-Val de Loire]] à la région [[Auvergne-Rhône-Alpes]].<br /> Passage du département du Cher à celui de l'[[Allier (département)|Allier]].''
+* {{Aire de repos|du Grand Meaulnes|Orléans-Clermont|de Vallon|Clermont-Orléans}}
+** [[Fichier:AB-Brücke.svg]] ''Pont sur le [[Fichier:Panneau cours d'eau France.png|20px]] Cher''
+* {{Sortie|9 Forêt de Tronçais}} à {{unité|183|km}} : [[Vallon-en-Sully]] ''(km 280)''
+* '''{{échangeur autoroutier|[[#Autoroute A714|A714]]|A71}}''' à {{unité|197|km}} : [[Guéret]], [[Montluçon]] ''(km 295)''
+** {{Aire de service|de l'Allier (Doyet)|Orléans-Clermont|de l'Allier (Saulzet)|Clermont-Orléans}} ''(km 304)''
+* '''{{échangeur autoroutier|[[Autoroute A79 (France)|A79]]|A71}}''' à {{unité|219|km}} : [[Mâcon]], [[Moulins (Allier)|Moulins]], [[Bourbon-l'Archambault]] ''(km 317)'' + {{Sortie|11 Montmarault}} à {{unité|220|km}} ''(km 318)'' : [[Montmarault]], [[Commentry]], [[Saint-Pourçain-sur-Sioule]], [[Saint-Éloy-les-Mines]]
+** [[Fichier:AB-Brücke.svg]] ''Viaduc du [[Venant (Bouble)|Venant]]'' ({{unité|340|m}}) ''(km 323)''
+** {{Aire de repos|de la [[Bouble]]|Orléans-Clermont|de Chantelle-en-Bourbonnais|Clermont-Orléans}}
+** ''[[Col de Naves]] (altitude {{unité|330|m}}) (km 340-341)''
+** [[Fichier:AB-Brücke.svg]] ''Passage sur la [[Fichier:Panneau cours d'eau France.png|20px]] [[Sioule]]'' ''(km 347)''
+* '''{{échangeur autoroutier|[[Autoroute A719 (France)|A719]]|A71}}''' à {{unité|252|km}} : [[Vichy]], [[Gannat]], Saint-Pourçain-sur-Sioule ''(km 350)''
+''Passage du département de l'Allier à celui du [[Puy-de-Dôme]].''
+* {{Aire de service|des Volcans d'Auvergne}}
+** [[Fichier:France road sign C24a.svg|22x22px]] Passage en {{dunité|2|3|voies}} ''(sens Clermont-Orléans)''
+* {{Sortie|12.1 Combronde}} à {{unité|263|km}} : [[Combronde]], Saint-Éloy-les-Mines ''(km 361)''
+* '''{{échangeur autoroutier|[[Autoroute A89 (France)|A89]] Ouest|A71}}''' à {{unité|266|km}} : [[Bordeaux]], [[Limoges]] ''(km 364)''
+''Début du tronc commun (A71/A89)''
+* {{Aire de repos|de Montpertuis|Orléans-Clermont|de Pessat-Villeneuve|Clermont-Orléans}}
+* {{Sortie|13 Riom}} à {{unité|276|km}} : [[Riom]], [[Volvic]], [[Châtel-Guyon]] ''(km 374)''
+* {{Péage|Péage de Gerzat (ou de Clermont-Barrière)}} + {{Sortie|14 Gerzat}} à {{unité|282|km}} : [[Gerzat]], ''Z. I. Ladoux'' ''(entrée sur la partie Est de la [[rocade de Clermont-Ferrand]])'' ''(km 380)''
+** [[Fichier:France road sign C24a.svg|22x22px]] [[Fichier:France road sign B3a.svg|22x22px]] [[Fichier:France road sign B14 (110).svg|22x22px]] Passage à {{dunité|2|3|voies}} et limitation à {{unité|110|km/h}}.
+* '''{{échangeur autoroutier|[[Autoroute A89 (France)|A89]] Est|A71}}''' à {{unité|283|km}} ''(demi-échangeur, depuis et vers Orléans)'' : [[Lyon]], [[Thiers (Puy-de-Dôme)|Thiers]], [[Saint-Étienne]] ([[Autoroute A72 (France)|A72]]) ''(km 384)'' + {{Sortie|15 Clermont-Ferrand - ''nord'' (A710)}} à {{unité|285|km}} : Clermont-Ferrand - ''Quartiers Nord'', Limoges, Riom ''(km 386)''
+''Fin du tronc commun''
+* {{Sortie|16 Clermont-Ferrand - Le Brézet ([[Route départementale 772 (Puy-de-Dôme)|RM 772]])}} à {{unité|289|km}} : Clermont-Ferrand - ''Quartiers Est'', ''[[Fichier:France road sign ID2.svg|15px|alt]] [[Aéroport de Clermont-Ferrand-Auvergne|Aulnat]]'', ''[[Fichier:France road sign ID3.svg|15px|alt]] [[Centre hospitalier universitaire de Clermont-Ferrand|C.H.R.U]]'' ''(km 389)''
+* '''{{échangeur autoroutier|[[Autoroute A711 (France)|A711]]|[[Autoroute A75 (France)|A75]]|A71}}''' à {{unité|290|km}} : Lyon (A89), Saint-Étienne (A72), Thiers ''(km 390)''.
+Au milieu de cet échangeur, l'A71 devient l'[[Autoroute A75 (France)|A75]] qui mène en direction de [[Montpellier]], d'[[Aurillac]], du [[Le Puy-en-Velay|Puy-en-Velay]] et qui prolonge l'Est de la rocade de Clermont-Ferrand jusqu'à sa sortie ({{sortie|2}}) ''(km 0 A75)''.
+
+== Antennes ==
+=== Autoroute A710 ===
+[[Fichier:A71 - 20100523 Bifurcation A71-A89-A710.JPG|vignette|alt=Photographie de l'échangeur entre les autoroutes A71 et A89/A710 en 2010. L'autoroute était encore à deux fois deux voies.|Échangeur entre les autoroutes A71 (vers Montpellier) et A89 (vers Lyon)<ref group="Note">Contrairement par rapport aux cartes routières, la section entre Gerzat et [[les Martres-d'Artière]] est bien l'A89. Il existe bien une double numérotation A89/A710.</ref> en mai 2010.]]
+Mise en service en 1998, l''''autoroute A710''', longue de sept kilomètres, reliait Clermont-Ferrand (au droit de l'échangeur avec l'autoroute A71) à l'autoroute A72 (au droit de la jonction avec l'autoroute A711). Elle a été renommée '''[[Autoroute A89 (France)|A89]]''' en 2008.
+
+À l'ouest de la bifurcation, l''''A710<sup>W</sup>''' dessert les quartiers nord de Clermont-Ferrand. Elle est accessible par la sortie 15 en venant du péage de Gerzat ou directement depuis l'A89 en provenance de Thiers. Elle est ouverte le {{date|29 octobre 1987}}, en même temps que l'autoroute A71.
+
+Son classement en autoroute s'arrête au droit de l'échangeur avec la {{nobr|route métropolitaine 210}}, où au-delà, la route devient métropolitaine  (boulevard Edgar-Quinet, {{nobr|RM 69}}). Elle se raccorde à la {{nobr|RM 2009}} (ancienne {{nobr|[[Route nationale 9 (France)|route nationale 9]]}}) au carrefour des Pistes.
+
+=== Autoroute A711 ===
+[[Fichier:A711 Fr - SO Vers Clermont-Ferrand.JPG|vignette|alt=Autoroute A711 vers Clermont-Ferrand|A711 en direction de Clermont-Ferrand en août 2009.]]
+{{Article détaillé|Autoroute A711 (France)}}
+Longue de douze kilomètres, l''''autoroute A711''' relie Clermont-Ferrand à l'autoroute A89 en direction de Thiers et de Lyon. Une partie de cette autoroute a été classée par mise aux normes autoroutières de la {{nobr|[[Route nationale 89 (France)|route nationale 89]]}} en 1976 (l'ancienne est déclassée, actuellement {{nobr|RM 766}}) ; son prolongement vers l'A72, anciennement '''A720''', est mis en service en 1978.
+
+'''Parcours :'''
+* Continuité de l'''avenue de l'Agriculture'', à {{dunité|2|2|voies}} ou {{dunité|2|3|voies}}
+* {{sortie|}} : ''Les Ronzières'' ''(km 0)''
+* {{sortie|}} : Aulnat, Gerzat, ''Z.I. du Brézet'' par {{nobr|[[Route départementale 766 (Puy-de-Dôme)|RM 766]]}} ''(quart-échangeur sens est-ouest uniquement, km 0,1)''
+* {{Sortie|1.1|Boulevard Jacques-Bingen}} : {{nobr|[[Route départementale 771 (Puy-de-Dôme)|RM 771]]}}, ville desservie [[Clermont-Ferrand]] ''Boulevard Jacques-Bingen''<ref group="Note">Sur les cartes routières l'autoroute se nomme [[Route nationale 89 (France)|N89]] entre la [[Route départementale 771 (Puy-de-Dôme)|M771]] et A71 sur une distance de {{unité|1|km}} alors qu'en réalité elle s'appelle A711.</ref> ''(km 0,5)''
+** {{sortie|1.1a}} : ''Le Brézet'', [[Aéroport de Clermont-Ferrand Auvergne|Aéroport d'Aulnat]] ''(quart-échangeur sens est-ouest uniquement)''
+** {{sortie|1.1b}} : ''La Pardieu'', ''C.H.R.U.'' ''(quart-échangeur sens est-ouest uniquement)''
+* {{échangeur autoroutier|[[Autoroute A75 (France)|A75]]|A71|A711}} ''(accès vers A75 sens est-ouest uniquement, km 1)''
+* {{Sortie|1.2}} : ville desservie [[Lempdes]] ouest ''(demi-échangeur, sens ouest-est uniquement, km 3)''
+* {{Sortie|1.3}} : Lempdes par RM 766 ''(demi-échangeur, entrée vers A89 / sortie vers Clermont-Ferrand, km 4,5)''
+* {{Sortie|1.4}} : [[Pont-du-Château]], [[Dallet]], [[Cournon-d'Auvergne]] ''(km 6)'' par l'autoroute A712
+* {{échangeur autoroutier|A89|A711}} : Jonction ''(km 12<small>S</small>)''
+
+=== Autoroute A712 ===
+[[Fichier:A712 Fr - E Vers Rond-point de Champ Lamet.JPG|vignette|alt=Autoroute A712|Autoroute A712 en août 2009.]]
+L''''autoroute A712''' est une bretelle entre l'A711 (sortie 1.4) et le rond-point de Champ-Lamet, à la limite des communes de [[Lempdes]] et de [[Pont-du-Château]] dans le [[Puy-de-Dôme]]. C'est l'une des plus courtes autoroutes de France avec une longueur de un kilomètre.
+
+Bien que classée comme autoroute (bandes d'arrêt d'urgence dans chaque sens de circulation), elle est intégralement à caractéristiques réduites équivalant à une route ordinaire : deux fois une voie sur l'ensemble de son parcours, vitesse limitée à {{unité|80|km/h}} et pas de plots de séparation.
+
+=== Autoroute A714 ===
+{{article détaillé|Route nationale 145}}
+L''''autoroute A714''' est l'antenne de [[Montluçon]]. Elle fait partie de la [[Route Centre-Europe Atlantique]] et est concédée à [[Autoroutes Paris-Rhin-Rhône]].
+
+Elle est mise en service en {{date|juin 2011}} (inauguration le {{1er}}<ref>{{Article|titre=La RCEA en version autoroutière|périodique=La Montagne|jour=1|mois=6|année=2011}}.</ref>{{,}}<ref>{{Lien web|format=pdf|url=http://www.aprr.com/Templates/0-cp-010611.pdf?FileID=pdf%2F0-cp-010611.pdf|titre=Communiqué de presse - Inauguration de l'A714, un nouvel espace de sécurité sur la RCEA dans l'Allier|jour=1|mois=juin|année=2011|éditeur=APRR|consulté le=18 mars 2016|brisé le = 2023-10-26}}.</ref>, mise en service le 29<ref>[http://www.aprr.fr/fr/travaux/a714 Construction de l'A714], site des Autoroutes Paris-Rhin-Rhône.</ref>{{,}}<ref>[http://www.aprr.fr/fr/travaux/Plaquette_A714.pdf?FileID=documents%2520aprr%2fplaquette_a714.pdf Plaquette de présentation de l'A714] {{pdf}}.</ref>) par mise aux normes autoroutières d'un tronçon de la [[route nationale 145]] entre l'échangeur 10 de l'autoroute A71 et l'échangeur de Saint-Victor (pont des Nautes) débouchant sur la {{nobr|RD 2144}} (ancienne [[Route nationale 144|route nationale]]).
+
+L'autoroute A714 permet une liaison intégralement à deux fois deux voies entre les autoroutes A71 et [[autoroute A20 (France)|A20]] (une voie supplémentaire pour véhicules lents est créée au niveau de la rampe de [[Désertines (Allier)|Désertines]]<ref name="DP-A714" />). Elle est aussi libre de péage {{Citation|pour le trafic local<ref name="DP-A714" />}}. La vitesse est limitée à {{unité|110|km/h}}.
+
+D'un coût de {{nobr|50 millions}} d'euros, la construction de cette autoroute a été intégralement financée par la société d'autoroutes<ref name="DP-A714" />.
+
+{{Référence nécessaire|La {{nobr|[[Route nationale 145|RN 145]]}} présentait un taux d'accidents supérieur à la moyenne nationale, avec plus de {{unité|11000|véhicules}} par jour ({{formatnum:7000}} au péage de Bizeneuille) dont 30 % de poids lourds. Son réaménagement permet au bassin montluçonnais et à la zone industrielle de la Loue de posséder une connexion routière plus performante, apte à écouler le trafic de la RCEA.|date=mars 2016}}
+
+'''Parcours :'''
+* {{échangeur autoroutier|A71|A714}} ''(km 0)''
+* {{Péage|Péage de Bizeneuille}} ''(km 0,5)''
+** {{Aire de repos|de Bedun|A71 – Montluçon|des Amarons|Montluçon – A71}} ''(km 1)''
+* {{sortie|35}} : ''La Croix de Fragne'', [[Bourbon-l'Archambault]], [[Cosne-d'Allier]] ''(km 2)''
+* {{sortie|36}} : [[Saint-Victor (Allier)|Saint-Victor]], [[Désertines (Allier)|Désertines]], ''Z.A. Pont des Nautes'', ''Parc Mécatronic'' ''(km 9,5)''
+* [[Fichier:France_road_sign_C208.svg|20px|Symbole Fin d'autoroute]] [[Fichier:France_road_sign_C107.svg|20px|Symbole Début de route à accès réglementé]] Fin d'autoroute et début de route à accès réglementé ({{nobr|[[Route nationale 145|N 145]]}}) ''(km 10,4)''
+
+=== Autoroute A719 ===
+{{Article détaillé|Autoroute A719 (France)}}
+[[Fichier:A719 km 7 avant la sortie 14.JPG|vignette|alt=Autoroute A719 - Panneaux indiquant la sortie 14|Échangeur 14 en direction de Gannat en juillet 2009.]]
+L''''autoroute A719''' relie l'A71, à l'ouest de Gannat, à [[Espinasse-Vozelle]], aux portes de Vichy, depuis le {{date|12|janvier|2015|en France}}<ref>{{Lien web|url=http://www.lamontagne.fr/auvergne/2014/12/22/l-a-719-vichy-gannat-ouvrira-le-12-janvier-a-midi_11269358.html|titre=L'A 719 Vichy-Gannat ouvrira le 12 janvier à midi|jour=22|mois=12|année=2014|site=La Montagne|consulté le=22 décembre 2014}}.</ref>.
+
+D'abord prévue pour contourner Gannat, le prolongement de l'autoroute A719, long de {{unité|14|km}}, a été déclaré d'utilité publique le {{date|16|août|2011|en France}}<ref name="dup-20110816">[http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000024473352 Décret du 16 août 2011 déclarant d'utilité publique les travaux de construction de l'autoroute A 719, section Gannat―Vichy, entre l'antenne autoroutière A 719 (commune de Gannat) et la RD 2209 (commune d'Espinasse-Vozelle), dans le département de l'Allier, et portant mise en compatibilité du schéma directeur de l'agglomération de Vichy valant schéma de cohérence territoriale et des plans locaux d'urbanisme des communes d'Espinasse-Vozelle et de Vendat (NOR: TRAT1115043D)]</ref>, afin d'améliorer la desserte de Vichy. Sa mise en service intervient avant celle des contournements sud-ouest (en service) et nord-ouest (en projet).
+
+'''Parcours :'''
+* '''{{Échangeur autoroutier|A71|A719}}''' à {{unité|0|km}} : [[Clermont-Ferrand]], [[Riom]], [[Paris]], [[Bourges]], [[Montluçon]], [[Moulins (Allier)|Moulins]]
+* {{Péage|Péage de Gannat}} ''(à système fermé)''
+* {{sortie|13 Ébreuil}} à {{unité|1,2|km}} : [[Ébreuil]]
+* {{sortie|14 Gannat - nord}} à {{unité|7|km}} : [[Gannat]] - centre, [[Moulins (Allier)|Moulins]], [[Saint-Pourçain-sur-Sioule]]
+* {{sortie|15 Gannat - est}} à {{unité|9,7|km}} : Gannat - sud, [[Bellerive-sur-Allier]], [[Vichy]] ''par RD ''
+** Passage sur ''la Touraine (km 10)''
+** Passage sur ''le [[Béron (affluent de l'Allier)|Béron]] (km 19)''
+* {{Péage|Péage de Vichy}} ''(à système ouvert)''
+** Passage sur ''la Goutte Jeanton (km 20,4)''
+** Passage sur ''la Goutte de la Fontaine (km 21,3)''
+* Fin d'autoroute sur un carrefour giratoire ({{nobr|D 2209}}, {{nobr|D 215}} et {{nobr|D 906}})
+
+=== RN 271 ===
+La '''[[Route nationale 271|RN 271]]''' correspondait à un ancien terminus de l'A71 ; elle a ouvert peu avant la section terminale, début 1980. Elle reliait l'A71 (sortie 2) à la {{nobr|[[Route nationale 20 (France)|RN 20]]}} au sud d'Orléans.
+
+=== RN 371 ===
+La '''[[Route nationale 371|RN 371]]''' reliait [[Montluçon]] à [[Montmarault]] en reprenant un tronçon de l'ancienne {{nobr|[[Route nationale 145|RN 145]]}} qui continuait alors vers l'échangeur 10 de l'autoroute. Elle est devenue {{nobr|RD 2371}}.
+
+== Sites remarquables ==
+[[Fichier:A71 - Aire des volcans d'Auvergne.jpg|vignette|alt=L'A71, vu depuis l'aire des Volcans d'Auvergne|L'A71, vue depuis l'aire des Volcans d'Auvergne, en direction de Clermont-Ferrand.]]
+La liste ci-dessous répertorie les sites remarquables dans un rayon maximal de quinze à trente kilomètres autour de l'autoroute<ref>{{ouvrage|titre=Atlas routier France/Europe 2009/2010|éditeur=Naumann & Göbel Verlagsgesellschaft mbH|année=2009|isbn=978-3-625-14234-8}}.</ref>.
+* Par la sortie 1 : [[Pont de l'Europe (Orléans)|pont de l'Europe]], sur la [[Loire (fleuve)|Loire]], en amont de l'autoroute et la [[cathédrale Sainte-Croix d'Orléans]].
+* Par la sortie 3 : [[château de la Ferté de La Ferté-Saint-Aubin|château de la Ferté]] et les églises typiquement solognotes.
+* Par la sortie 4 : chemin de fer touristique Salbris – Romorantin-Lanthenay.
+* Chaussée de César, une aire de repos porte ce nom dans le sens Clermont-Ferrand – Orléans.
+* Par la sortie 7 : le [[palais Jacques-Cœur]], [[Printemps de Bourges|printemps de la chanson]] et la [[cathédrale Saint-Étienne de Bourges]].
+* Par la sortie 8 : monument du centre de la France à [[Bruère-Allichamps]], sur la [[Route nationale 144|RD 2144]]. Une aire de service (Aire du Centre de la France) porte ce nom dans le sens Clermont-Ferrand – Orléans. Saint-Amand-Montrond, Cité de l'or (artisanat du bijou et joaillerie).
+* Par la sortie 9 : [[forêt de Tronçais]], forêt des chênes centenaires (futaie Colbert).
+* [[Bocage bourbonnais]].
+* Par l'échangeur A714 : Montluçon ([[Château des ducs de Bourbon à Montluçon|château des ducs de Bourbon]], ville d'art) – Commentry – Néris-les-Bains (station thermale).
+* Par la sortie 11 : Moulins (Ville d'art et d'histoire, [[Centre national du costume de scène]]), Saint-Pourçain-sur-Sioule ([[Saint-pourçain (AOC)|vignoble AOC]]).
+* Par l'échangeur A719 : les gorges de la [[Sioule]], Ébreuil, [[Paléopolis (Gannat)|Paléopolis]], Vichy (par {{nobr|RD 2209 ex-RN 209}}) à {{unité|25|km}} : grande cité thermale et commerçante, parcs d'Allier, courses hippiques, grands hôtels et palaces, [[Opéra de Vichy|opéra]].
+* ''Aire de service des Volcans d'Auvergne'' avec vente de produits régionaux, à l'entrée du département du Puy-de-Dôme, vue sur la [[chaîne des Puys]].
+* Par la sortie 13 : [[Châtel-Guyon]] (station thermale) et [[Volvic]] (production d'eau).
+* Clermont-Ferrand et [[Montferrand (quartier)|Montferrand]] : la [[cathédrale Notre-Dame-de-l'Assomption de Clermont]].
+
+=== Ouvrages d'art ===
+* [[Pont de l'A71 sur la Loire]].
+* ''Viaduc du Venant'' (longueur {{unité|340|m}}) ''(km 323)''.
+
+=== Cols traversés ===
+[[Fichier:A71 - NS Franchissement du col de Naves.jpg|vignette|alt=L'autoroute franchissant le col de Naves|Col de Naves en direction de Clermont-Ferrand en août 2011.]]
+* ''Col de Naves'' (altitude {{unité|330|m}}), commune de [[Naves (Allier)|Naves]] ''(km 340,5)''.
+
+== Lieux sensibles ==
+{{...}}
+* Dans le département de l'Allier : nombreuses pentes comme avant la sortie 9 vers Orléans, la « montée de la Sioule » à 6 % avant l'échangeur de l'A719, la rampe de Gannat sur l'A719 avec une pente à 5 %, ou la « montée des Volcans » entre Combronde et l'aire des volcans d'Auvergne sur l'A71.
+* Bouchons au péage de Gerzat en période de vacances. Un élargissement en 2007 a permis de réduire les bouchons ({{unité|4|km}} contre {{unité|19|km}} en 2006)<ref>''La Montagne'', août 2007</ref>, puis à nouveau en 2014 dans le cadre des travaux de l'élargissement de l'A71<ref name="montagne-20141221" />.
+* À Clermont-Ferrand, bouchons fréquents aux heures de sortie de bureau.
+
+== Notes et références ==
+=== Notes ===
+{{Références|groupe=Note}}
+
+=== Références ===
+{{Références|références=
+<ref name="DP-A714">{{Lien web|format=pdf|url=http://www.aprr.com/Templates/A714_DP_novembre_2010.pdf?FileID=pdf%2Fa714_dp_novembre_2010.pdf|titre=Dossier de presse A714 : Bretelle autoroutière de Montluçon|mois=novembre|année=2010|site=aprr.com|éditeur=[[Autoroutes Paris-Rhin-Rhône]]|consulté le=18 mars 2016|brisé le = 2023-10-26}}.</ref>
+<ref name="montagne-20141221">{{Lien web|url=http://www.lamontagne.fr/auvergne/actualite/2014/12/21/la71-a-deux-fois-trois-voies-mise-en-service-demain-soir_11268447.html|titre=L'A71 à deux fois trois voies mise en service demain soir|jour=21|mois=12|année=2014|site=La Montagne|consulté le=22 décembre 2014}}.</ref>
+<ref name="AE-elargissementA71CLE">{{Lien web|format=pdf|url=http://www.auvergne.developpement-durable.gouv.fr/IMG/pdf/63-Gerzat-Clermont-Elargissement_A71-APRR_cle6b6196.pdf|titre=Avis de l'autorité environnementale : Projet d'élargissement de l'autoroute A71 entre la barrière de GERZAT (63) et l'autoroute A75 - Dossier d'enquête préalable à la déclaration d'utilité publique|auteur=Préfecture de la région Auvergne|jour=27|mois=février|année=2012|consulté le=18 mars 2016}}.</ref>
+<ref name="A71-ech-Montmarault-2021">{{Lien web |auteur=R.B. |titre=Allier : l'échangeur de Montmarault entre l'A71 et la RCEA ouvert à la circulation après trois ans de travaux |url=https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/allier/allier-l-echangeur-de-montmarault-entre-l-a71-et-la-rcea-ouvert-a-la-circulation-apres-trois-ans-de-travaux-2205688.html |site=france3-regions.francetvinfo.fr |date=6 août 2021 |consulté le=8 octobre 2022}}.</ref>
+}}
+
+== Voir aussi ==
+{{Autres projets|commons=Category:A71 autoroute|commons titre=Autoroute A71}}
+=== Bibliographie ===
+* {{Article|prénom1=J.|nom1=Roussel|prénom2=M.|nom2=Deniau|titre=L'autoroute A71 de Bourges à Clermont-Ferrand|périodique=Revue générale des routes et aérodromes|numéro=644|année=1987|mois=9|pages=17-28|résumé=http://trid.trb.org/view.aspx?id=1024954}}
+* {{Article|prénom1=Jean|nom1=Varlet|prénom2=Christian|nom2=Jamet|titre=Autoroute A71, acteurs et territoires. Bilan d'une décennie d'observations|périodique=Géocarrefour|volume=77|numéro=1|année=2002|pages=21-36|lire en ligne=http://www.persee.fr/web/revues/home/prescript/article/geoca_1627-4873_2002_num_77_1_6259}}
+
+=== Articles connexes ===
+* [[Liste des autoroutes de France]]
+* [[Route européenne 9]]
+* [[Route européenne 11]]
+* Réseaux routiers [[Réseau routier du Loiret|du Loiret]], [[Réseau routier de Loir-et-Cher|de Loir-et-Cher]], [[Réseau routier du Cher|du Cher]], [[Réseau routier de l'Allier|de l'Allier]] et [[Réseau routier du Puy-de-Dôme|du Puy-de-Dôme]]
+
+=== Liens externes ===
+* [http://fr.structurae.de/projects/data/index.cfm?id=p0000319 Autoroute A71 sur Structurae]
+* [http://saratlas.free.fr/index.php?page=autoroute&route=a71&lang=fr Autoroute A71 dans Saratlas]
+* [http://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A71 Autoroute A71 sur WikiSara]
+
+{{Palette|Autoroutes de France|Boulevards périphériques en France}}
+{{Portail|route|Loiret|Loir-et-Cher|Cher|Allier|Puy-de-Dôme}}
+
+[[Catégorie:Autoroute en Centre-Val de Loire|071]]
+[[Catégorie:Autoroute en Auvergne-Rhône-Alpes|071]]
+[[Catégorie:Transport à Clermont-Ferrand|A 071]]
+[[Catégorie:Route Centre-Europe Atlantique|A 071]]
+[[Catégorie:Transport routier dans le Loiret]]

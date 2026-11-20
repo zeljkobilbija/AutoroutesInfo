@@ -1,0 +1,140 @@
+{{Voir homonymes|A72}}
+{{Ébauche|autoroute|française}}
+{{Infobox Route/France
+| statut = autoroute
+| numéro = 72
+| image = Neige-nord de saint-etienne vue depuis-La Feuilletiere 02.jpg
+| légende = L'autoroute A72 au nord de [[Saint-Étienne]]
+| carte = Autoroute A72 - plan.png
+| légende carte = Tracé initial de l'A72
+| autres_noms = 
+| ouverture = 1975-1985
+| fermeture = 
+| déclassement = 
+| longueur = 55
+| direction = nord-ouest / sud-est
+| ville 1 = {{Route européenne|70}} {{autoroute française|A89}} à [[Nervieux]]
+| direction 1 = nord-ouest
+| intersections = {{route nationale|488}} à [[Saint-Étienne]]
+| ville 2 ={{route nationale|88|France}} à [[Saint-Étienne]]
+| direction 2 = sud-est
+| villes = [[Feurs]], [[Montrond-les-Bains]], [[Montbrison (Loire)|Montbrison]],
+| réseau = [[Liste des autoroutes de la France|Autoroute française]]
+| concessionnaire = [[Autoroutes du Sud de la France|ASF]] (entre Nervieux et Andrézieux-Bouthéon)
+| gestionnaire = [[Direction interdépartementale des Routes#Direction interdépartementale des Routes Centre-Est|DIR Centre-Est]] (entre Andrézieux-Bouthéon et Saint-Etinne)
+| régions = [[Auvergne-Rhône-Alpes]]
+| départements = [[Loire (département)|Loire]]
+| nb_reg = 1
+| nb_dep = 1
+| nom_notes = Tracé actuel
+| nom = 
+}}
+L''''A72''' est une [[autoroute]] [[France|française]] qui relie l'[[Autoroute A89 (France)|A89]], à hauteur de [[Nervieux]] (à mi-chemin entre [[Roanne]] et [[Montbrison]]), à [[Saint-Étienne]] dans la [[Loire (département)|Loire]]. 
+
+À l'origine,  l'A72 reliait [[Clermont-Ferrand]] à [[Saint-Étienne]], jusqu'en [[2006]], quand la partie de [[Clermont-Ferrand]] à [[Nervieux]] est renumérotée [[Autoroute A89 (France)|A89]]. Celle-ci se poursuit au delà de [[Nervieux]] vers l'est en direction de [[Lyon]]. 
+Avant [[2006]], l'A72 faisait partie de l'[[Route européenne 70|E70]] entre [[Clermont-Ferrand]] et [[Nervieux]].
+
+== Caractéristiques ==
+Elle est concédée à la société [[Autoroutes du Sud de la France|Autoroutes du Sud de la France (ASF)]] dans laquelle elle fait partie de la zone Centre. [[Radio Vinci Autoroutes]] est disponible sur l'A72 sur la fréquence 107.7 FM.
+
+== Histoire ==
+{{Section à sourcer|date=décembre 2025}}
+Le premier tronçon autoroutier de l'A72 a été mis en service en [[1975]] par classement dans la voirie autoroutière (alors sous la numérotation '''B47''') de la section entre La Terrasse (sortie 12) et Méons (sortie 15), puis par l'ouverture de la section entre [[Andrézieux-Bouthéon]] (sortie 8b) et Ratarieux (sortie 10).
+
+Côté puydômois, une section de l'autoroute B71, construite par la [[Direction départementale de l'Équipement|DDE]] du [[Puy-de-Dôme]], ouvre en {{date||mars|1977|en France}} entre la [[Thiers (Puy-de-Dôme)|Thiers]]-Ouest (sortie 2, actuellement 29) et une fin provisoire débouchant sur la [[Route nationale 89 (France)|RN 89]] à [[Chabreloche]]. Cette section est prolongée à l'ouest vers [[Lussat (Puy-de-Dôme)|Lussat]] le {{date|24|octobre|1978|en France}}. Cette dernière section est inaugurée par le [[Président de la République française|Président de la République]] [[Valéry Giscard d'Estaing]].
+
+Ces deux sections sont renumérotées A72 en [[1982]].
+
+Une autre section ouvre entre Ratarieux et La Terrasse en [[1983]].
+
+L'autoroute atteint la plaine du [[Forez]] en [[1984]] et [[1985]] par l'ouverture complète de la liaison entre [[Clermont-Ferrand]] et [[Saint-Étienne]].
+
+En [[2006]], l'A72 a été renommée [[Autoroute A89 (France)|A89]] entre [[Clermont-Ferrand]] et [[Nervieux]].
+
+== Parcours ==
+'''Section concédée à [[Autoroutes du Sud de la France|ASF]] et payante.'''
+* '''{{échangeur autoroutier|[[Autoroute A89 (France)|A89]]|A72}}''' à {{unité|54,8|km}} : [[Clermont-Ferrand]], [[Thiers]] ; [[Roanne]], [[Lyon]] ([[Autoroute A6 (France)|A6]]) ''(km 84,6)'' 
+* {{Sortie|6 Feurs}} à {{unité|44|km}} : [[Feurs]], [[Boën]] ''(km 95)''
+** {{Aire de service|de la Plaine du Forez}}
+* {{Sortie|7 Montrond}} à {{unité|32|km}} : [[Montrond-les-Bains]], [[Montbrison (Loire)|Montbrison]] ''(km 107)''
+** {{Aire de repos|de Chante Perdrix|Clermont-Saint-Étienne|des Chaninats|Saint-Étienne-Clermont}}
+* {{Péage|Péage de [[Veauchette]] (à système fermé)}} 
+* {{Sortie|8/8a/8b Andrézieux-Bouthéon}} à {{unité|19 et 17|km}} ''(deux demi-échangeurs)'' : Thiers, Roanne, [[Veauche]], [[Andrézieux-Bouthéon]], ''Opéra Parc - Les Murons, Z. I. Nord'', Montrond-les-Bains, ''[[File:France road sign ID2.svg|15px|alt]] [[Aéroport de Saint-Étienne-Loire|Saint-Étienne-Loire]]'' ''(km 119 et 121)''
+'''Section non-concédée gérée par la [[Direction interdépartementale des Routes#Direction interdépartementale des Routes Centre-Est|DIR Centre-Est]] et gratuite.'''
+* {{Sortie|9/9a/9b La Fouillouse}} à {{unité|15|km}} : [[Saint-Just-Saint-Rambert]], [[La Fouillouse]], ''[[File:France road sign ID2.svg|15px|alt]] Saint-Étienne-Loire, Opéra Parcs - Autres Zones''
+** [[Fichier:France road sign C24a.svg|22x22px]] Passage à {{dunité|2|3|voies}}
+* {{Sortie|10 Saint-Etienne - ''ouest''}} à {{unité|10|km}} : [[Le Puy-en-Velay]], [[Firminy]], [[Roche-la-Molière]], [[Saint-Étienne]], [[Villars (Loire)|Villars]], La Fouillouse, ''[[File:France road sign ID3.svg|15px|alt]] [[Centre hospitalier universitaire de Saint-Étienne|Hôpital Nord]]''
+* {{Sortie|11 Saint-Priest-en-Jarez}} à {{unité|8|km}} ''(demi-échangeur, depuis et vers Clermont-Ferrand)'' : [[Saint-Priest-en-Jarez]], Saint-Étienne, ''[[File:France road sign ID1b.svg|15px|alt]] La Terrasse, [[Musée d'Art moderne et contemporain de Saint-Étienne Métropole|Musée d'Art Moderne]]''
+* {{Sortie|12 Saint-Étienne - ''[[Quartiers de Saint-Étienne#Quartier de Bergson La Terrasse|La Terrasse]]''}} à {{unité|6|km}} : Saint-Étienne - ''centre'', [[Saint-Héand]], Saint-Priest-en-Jarez, [[L'Étrat]], Villars, ''[[Zénith Saint-Étienne Métropole|Zénith]], [[Cité du design (Saint-Étienne)|Cité du design]], [[Stade Geoffroy-Guichard]], ''[[File:France road sign ID1b.svg|15px|alt]] La Terrasse''
+** [[Fichier:Panneau-C24a-2.svg|22x22px]] Passage à {{dunité|2|2|voies}}
+* {{Sortie|13 Saint-Étienne - ''[[Quartiers de Saint-Étienne#Quartier de Montreynaud|Montreynaud]]''}} à {{unité|5|km}} : Saint-Étienne, ''Campus Carnot, Cité du Design, Technopôle'' 
+* {{Sortie|14 La Talaudière}} à {{unité|4|km}} : Saint-Étienne, [[La Talaudière]], ''Stade Geoffroy-Guichard, Zénith, Cité du Design, [[File:France road sign ID35.svg|15px|alt]] Z. I. Molina, Parc Expositions'' 
+* {{Sortie|15 Saint-Etienne - ''[[Quartiers de Saint-Étienne#Quartier de Méons Le Soleil|Méons]]''}} à {{unité|3|km}} ''(trois-quarts-échangeur, non-accessible depuis Clermont-Ferrand)'' : Saint-Étienne, [[Sorbiers (Loire)|Sorbiers]], ''[[File:France road sign ID35.svg|15px|alt]] Z. I. Molina''
+* {{Sortie|16 Saint-Jean-Bonnefonds}} à {{unité|2|km}} ''(demi-échangeur, depuis et vers Clermont-Ferrand)'' : [[Saint-Jean-Bonnefonds]], Saint-Étienne - ''centre, [[Quartiers de Saint-Étienne#Quartier de Monthieu, Saint-François|Monthieu]], [[Quartiers de Saint-Étienne#Quartier de Terrenoire|Terrenoire]], [[File:France road sign ID1b.svg|15px|alt]] Pont de l'Ane''
+** [[Fichier:France road sign B14 (70).svg|22x22px]] Limitation à 70 km/h.
+* '''{{échangeur autoroutier|[[Route nationale 488|RN 488]]|A72}}''' à {{unité|1|km}} ''(demi-échangeur, depuis et vers Clermont)'' : [[Valence (Drôme)|Valence]], [[Lyon]] ([[Autoroute A7 (France)|A7]]), [[Saint-Chamond]] ([[Autoroute A47 (France)|A47]])
+* {{Sortie|17 Saint-Étienne - ''[[Quartiers de Saint-Étienne#Quartier de Monthieu, Saint-François|Monthieu]]''}} à {{unité|1|km}} ''(demi-échangeur, depuis et vers Le Puy-en-Velay)'' : Saint-Jean-Bonnefonds, Saint-Étienne, ''Centres Commerciaux''
+* '''{{échangeur autoroutier|[[Route nationale 88 (France)|RN 88]]|A72}}''' à {{unité|0|km}} : Le Puy-en-Velay, Annonay, Firminy, Saint-Étienne - [[Quartiers de Saint-Étienne|Autres-Quartiers]]
+
+=== Note sur le kilométrage ===
+L'A72 étant d'abord construite à [[Saint-Étienne]] sous le numéro B47, le kilométrage en est ainsi : le PR 0 est situé au niveau des échangeurs A72/RN 88/RN 488, et interrompt le kilométrage normal de l'A72 au kilomètre 123.
+
+Avec le renommage de la section [[Clermont-Ferrand]] – [[Nervieux]] en [[Autoroute A89 (France)|A89]], le kilométrage n'a pas été modifié sur l'A72 ; elle commence au kilomètre 84,63 très précisément<ref>[http://maps.google.fr/maps?hl=fr&q=nervieux&ie=UTF8&hq=&hnear=Nervieux,+Loire,+Rh%C3%B4ne-Alpes&ll=45.818601,4.113768&spn=0.003178,0.010986&z=17&layer=c&cbll=45.818726,4.113676&panoid=1oHg1JqnTjMkb6AnlYzwCw&cbp=12,142.89,,2,6.32 Image Street View du point kilométrique 84,63]</ref>. Le kilométrage de la section renommée A89 a été majoré de {{unité|400|kilomètres}} (km 29 A72 → km 429 A89). L'A72 fait {{unité|54.850|km}} dont {{unité|21|km}} à section gratuite.
+
+== Lieux touristiques ==
+[[Fichier:A89E Fr - O Franchissement du col de Cervières.JPG|thumb|Le franchissement du col de [[Cervières (Loire)|Cervières]] (altitude {{unité|806|m}}), en direction de [[Clermont-Ferrand]]]]
+* Les [[Monts du Forez]].
+* Le village médiéval de [[Cervières (Loire)|Cervières]], qui donne son nom au col traversé par l'autoroute à {{unité|806|m}} d'altitude.
+* Le château de la [[Château de la Bastie d'Urfé|Bâtie d'Urfé]].
+* Le château fort de [[Montrond-les-Bains]].
+* L'[[Écozone du Forez|Écopôle du Forez]]<ref>{{Lien web|titre = Ecopole du Forez - L'Écopôle du Forez : le site nature de référence dans la Loire|url = http://www.ecopoleduforez.fr/|site = www.ecopoleduforez.fr|consulté le = 2016-02-13}}</ref>, site de promenades et d'observation de la faune des étangs.
+* Le [[château de Bouthéon]].
+* La station thermale de [[Saint-Galmier]].
+
+== Lieux sensibles ==
+* Le tracé de l'ancienne A72 étant sinueux entre [[Thiers (Puy-de-Dôme)|Thiers]]-Ouest et [[Saint-Germain-Laval (Loire)|Saint-Germain-Laval]], la vitesse est limitée à {{unité|110|km/h}} ({{unité|100|km/h}} par temps de pluie) sur {{unité|40|km}}.
+* À [[Saint-Étienne]], le soir aux heures de pointe et quand il y a un match au [[stade Geoffroy-Guichard]] et un spectacle au [[Zénith de Saint-Étienne|Zénith]].
+
+== Galerie d’images ==
+<gallery>
+Fichier:A72 Fr - SE Sortie 14.JPG|Sortie 14
+Fichier:A72 Fr - SE Sortie 16.JPG|Sortie 16, avant la bifurcation A72/A47/N88
+</gallery>
+
+== Les constructions ==
+
+* 1975 (Nervieux-Andrézieux Bouthéron) Nouvelles Sorties: {{Sortie|8a/8b Andrézieux-Bouthéon}}, {{Sortie|8 Andrézieux-Bouthéon}}, {{Sortie|7 Montrond}}, {{Sortie|6 Feurs}}
+* 1980 (Andrézieux Bouthéron-Saint Étienne) Nouvelles Sorties: {{Sortie|10 Saint-Etienne - ouest}}, {{Sortie|9 La Fouillouse}}
+* 1981: Nouvelles Sorties: {{Sortie|14 La Talaudière}}, {{Sortie|12 Saint-Étienne - [[Quartiers de Saint-Étienne#Quartier de Bergson La Terrasse|La Terrasse]]}}
+* 1982: Nouvelles Sorties: {{Sortie|15 Saint-Etienne - [[Quartiers de Saint-Étienne#Quartier de Méons Le Soleil|Méons]]}}
+* 1983: Nouvelles Sorties: {{Sortie|13 Saint-Étienne - [[Quartiers de Saint-Étienne#Quartier de Montreynaud|Montreynaud]]}} Nouvelles aire de services: {{Aire de repos|de Chante Perdrix|Clermont-Saint-Étienne|des Chaninats|Saint-Étienne-Clermont}}
+* 1984: Nouvelles aire de services: {{Aire de service|de la Plaine du Forez}}
+* 1985: Nouvelles Sorties: {{Sortie|16 Saint-Jean-Bonnefonds}}
+* 1989: Nouvelles Sorties: {{Sortie|11 Saint-Priest-en-Jarez}}
+* 1994:Nouvelles Péages: {{Péage|Péage de [[Veauchette]] (à système fermé)}}
+
+== Notes et références ==
+<references />
+
+== Voir aussi ==
+{{autres projets|commons=Category:A72 autoroute|commons titre=Autoroute A72}}
+=== Bibliographie ===
+* {{article|prénom1=C.|nom1=Pairon|prénom2=J.|nom2=Tixler|titre=Deux réalisations autoroutières dans l'agglomération stéphanoise, l'autoroute nord de Saint-Étienne et la traverse de Firminy|périodique=Le Moniteur du BTP|numéro=45-46|année=1974|mois=11|jour=9|pages=73-78|résumé=http://trid.trb.org/view.aspx?id=1075380}} {{commentaire biblio|La desserte nord de Saint-Étienne constitue une première étape dans le désenclavement du Massif central, en créant une autoroute vers Clermont-Ferrand.}}
+* {{article|prénom1=A.|nom1=Vivet|titre=L'autoroute A72 Clermont-Ferrand - Saint-Étienne|périodique=Revue générale des routes et aérodromes|numéro=610|année=1984|mois=7|pages=29-30|résumé=http://trid.trb.org/view.aspx?id=1034326}}
+* {{article|prénom1=D.|nom1=Bernier|prénom2=P.|nom2=Choiset|prénom3=M.|nom3=Lasauniere|prénom4=J.|nom4=Maurin|prénom5=A.|nom5=Palacci|prénom6=J.|nom6=Ravix|titre=Viaduc sur la Loire - Autoroute A72|périodique=Travaux|numéro=592|année=1984|mois=10|pages=30-42|résumé=http://trid.trb.org/view.aspx?id=1034561}} {{commentaire biblio|Le viaduc de l'autoroute sur la Loire est construit selon la technique du pont-pousse.}}
+* {{article|prénom1=Ch.|nom1=Jamot|titre=Lyon, Clermont-Ferrand et l'autoroute A72|périodique=La terre et les hommes|année=1990|pages=175-194}}
+
+=== Articles connexes ===
+* [[Boulevard périphérique de Saint-Étienne]]
+
+=== Liens externes ===
+* [http://saratlas.free.fr/index.php?page=autoroute&route=a72&lang=fr L'autoroute A72 dans Saratlas]
+* [http://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A72 L'autoroute A72 sur WikiSara]
+* [http://fr.structurae.de/projects/data/index.cfm?id=p0000303 L'autoroute A72 sur Structurae]
+
+{{Palette Autoroutes de France}}
+
+{{Portail|route|département de la Loire}}
+
+[[Catégorie:Autoroute en Auvergne-Rhône-Alpes|072]]
+[[Catégorie:Transport routier dans la Loire]]

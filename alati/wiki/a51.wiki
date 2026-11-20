@@ -1,0 +1,289 @@
+{{Voir homonymes|A51}}
+{{Infobox Route/France
+| statut = autoroute
+| numéro = 51
+| image = A51-LaSaulce.jpg
+| légende = L'autoroute « Val de Durance » au sud de<br>[[La Saulce]] (Hautes-Alpes).
+| carte = France_A5X_A51.svg
+| autres_noms = Autoroute du Val de Durance<br />Autoroute du Trièves
+| ouverture = 1953-1999
+| fermeture = 
+| déclassement = 
+| longueur = 146 + 26
+| direction = nord - sud
+| ville 1 = {{Route européenne|714}} {{Autoroute française|A7}} à [[Septèmes-les-Vallons]]<br /> {{Route européenne|712}} {{Route départementale N|75|1075|France}} à [[Monestier-de-Clermont]]
+| direction 1 = sud
+| intersections = <poem>
+{{Route européenne|80}} {{Autoroute française|A8}}, {{Route européenne|712}} {{Route nationale|296}} à [[Aix-en-Provence]]
+{{Route européenne|712}} {{Route départementale N|75|4075|France}} {{Route départementale N|85|4085|France}} à [[Sisteron]]
+</poem>
+| ville 2 = {{Route nationale|85|France}} {{Route départementale N|85|4085|France}} à [[La Saulce]] <br />{{Route européenne|712}} {{Autoroute française|A480}} à [[Claix (Isère)|Claix]]
+| direction 2 = nord
+| villes = [[Marseille]], [[Aix-en-Provence]], [[Pertuis (Vaucluse)|Pertuis]], [[Manosque]], [[Sisteron]], [[Gap]], [[Grenoble]]
+| réseau = [[Liste des autoroutes de la France|Autoroute française]], également {{Route européenne|712}}
+| concessionnaire = [[AREA (société d'autoroutes)|AREA]] (entre Claix et Monestier-de-Clermont)<br />[[Autoroutes Esterel-Côte d'Azur|ESCOTA]] entre (Aix-en-Provence et La Saulce)
+| gestionnaire = [[Bouches-du-Rhône|Département des Bouches-du-Rhône]] (entre Septèmes-les-Vallons et Aix-en-Provence)
+| régions = [[Provence-Alpes-Côte d'Azur]], [[Auvergne-Rhône-Alpes]]
+| départements = [[Bouches-du-Rhône]], [[Vaucluse (département)|Vaucluse]], [[Alpes-de-Haute-Provence]], [[Hautes-Alpes]], [[Isère (département)|Isère]]
+| nb_reg = 2
+| nb_dep = 5
+| nom_notes = 
+}}
+En [[France]], l''''autoroute A51''' doit relier à terme [[Grenoble]] à [[Marseille]] ''via'' [[Gap]], [[Sisteron]] et [[Aix-en-Provence]]<ref>{{Lien web|url=http://www.laprovence.com/article/economie-a-la-une/alpes-du-sud-le-prolongement-de-la51-verra-t-il-le-jour|site=laprovence.com|titre=Le prolongement de l'A51 verra-t-il le jour ?}}</ref>. Elle a été amorcée par les deux extrémités :
+* depuis Marseille jusqu'à [[la Saulce]], au sud de Gap ;
+* depuis Grenoble jusqu'au [[col du Fau]].
+ 
+Toutefois, la partie manquante est très controversée et n'est pas aujourd'hui à l'ordre du jour. Cette autoroute est couverte par [[Autoroute Info]] sur la partie concédée à [[AREA (société d'autoroutes)|AREA]] et par [[Radio Vinci Autoroutes]] de La Saulce à Aix-en-Provence.
+
+== Historique ==
+=== Partie sud ===
+* 1953 : ouverture d'une antenne de l''''Autoroute nord''' de Marseille (aujourd'hui [[autoroute A7 (France)|autoroute A7]]) de [[Septèmes-les-Vallons]] à [[Bouc-Bel-Air]], avec raccordement sur la [[route nationale 8 (France)|route nationale 8]] (actuelle D 8<sup>N</sup>), soit cinq kilomètres, et demi-échangeur avec la [[route nationale 543]] (actuelle D 543) à [[Plan de Campagne]] (commune de [[Cabriès]]).
+* 1966 : cette antenne prend le nom de '''A 51'''.
+* 1970 : ouverture de la section [[Bouc-Bel-Air]] - [[Aix-en-Provence]], soit {{unité|12|kilomètres}} supplémentaires.
+* {{date|22 mars 1985}} : ouverture entre Aix (Venelles) et Pont-de-Mirabeau ({{unité|33|km}})<ref name="Gonguet2002_p30">[[#Gonguet2002|Gonguet-Mestre 2002]], {{p.}}30.</ref>.
+* {{date|12 décembre 1986}} : ouverture de la section Pont-de-Mirabeau - [[Manosque]] ({{unité|37|km}})<ref name="Gonguet2002_p30" />{{,}}<ref>{{Article|prénom1=Catherine|nom1=Mestre-Gonguet|titre=Autoroute et recompositions spatiales : l'exemple du Val de Durance|périodique=Géocarrefour|année=2002|volume=77|numéro=1|pages=37-44|sous-titre =Autoroutes, acteurs et dynamiques territoriales|lire en ligne=http://www.persee.fr/web/revues/home/prescript/article/geoca_1627-4873_2002_num_77_1_6260}}.</ref>.
+* {{date|21 décembre 1989}} : ouverture de la section [[Manosque]] – [[Aubignosc]] ({{unité|39|km}})<ref name="Gonguet2002_p30" />.
+* {{date|28 juin 1990}} : ouverture de la section [[Aubignosc]] – [[Sisteron]]-Nord ({{unité|6|km}})<ref name="Gonguet2002_p30" />.
+* {{date|25 juin 1999}} : ouverture de la section [[Sisteron]]-Nord - [[La Saulce]] ({{unité|30|km}})<ref name="Gonguet2002_p30" />.
+=== Partie nord ===
+* 1999 : ouverture de la section qui relie [[Claix (Isère)|Claix]] dans la [[Grenoble|banlieue grenobloise]] à [[Saint-Martin-de-la-Cluze]], sur {{unité|17|km}}
+* 2007 : ouverture de la section entre [[Saint-Martin-de-la-Cluze]] et le [[col du Fau]] sur {{unité|10.5|km}}.
+
+== État actuel ==
+Actuellement trois tronçons sont en service (sens sud-nord).
+# [[Marseille]] - [[Aix-en-Provence]] : section publique de {{nobr|18 kilomètres}}, depuis l'échangeur de [[Septèmes-les-Vallons]], au nord de Marseille, où elle se connecte à l'[[Autoroute A7 (France)|A7]] par un échangeur en triangle, jusqu'à l'échangeur de [[Jas-de-Bouffan]] à l'ouest d'[[Aix-en-Provence]] ; {{dunité|2|2|voies}} sauf section à {{dunité|2|3|voies}} du nord de l'échangeur de Septèmes à la sortie Bouc-Bel-Air - [[Gardanne]]) ; vitesse limitée à {{unité|90|km/h}}.
+# Aix-en-Provence - [[La Saulce]] : section du réseau [[Autoroutes Esterel-Côte-d'Azur|Escota]], à péage à partir de l'échangeur nord de [[Venelles]] ; commence au nord d'[[Aix-en-Provence|Aix]] (échangeur des Platanes), se termine à la sortie de [[La Saulce]] (Hautes-Alpes), longueur de ce tronçon {{unité|128|kilomètres}}, vitesse autorisée {{unité|130|km/h}} sauf ralentissements imposés à {{unité|110|km/h}} (dans les tunnels de [[Mirabeau (Vaucluse)|Mirabeau]] et de la Baume ([[Sisteron]]), sur le viaduc franchissant le canal au sud de Sisteron), aux environs du [[Le Poët|Poët]], et dans la descente vers [[Les Mées (Alpes-de-Haute-Provence)|Les Mées]] (sens nord-sud seulement).
+# [[Col du Fau]] - [[Claix (Isère)|Claix]] : ce tronçon nord de {{unité|26|km}}, à forte pente, se raccorde à l'[[Autoroute A480 (France)|A480]] dans la banlieue de [[Grenoble]]. Il est concédé à l'[[AREA (société d'autoroutes)|AREA]]. Il est à péage depuis le col de Fau jusqu'à l'échangeur de Vif (sortie 12), gratuit au-delà.
+
+=== Les deux tronçons sud ===
+[[Fichier:A51-Durance28.jpg|vignette|L'autoroute « Val de Durance » entre [[Pertuis (Vaucluse)|Pertuis]] et [[Centre de Cadarache|Cadarache]].]]
+La jonction entre les deux premiers tronçons est réalisée par une route à {{dunité|2|2|voies}} numérotée [[route nationale 296]], longue de six kilomètres, comportant un échangeur complexe avec la {{nobr|RD 7<sup>N</sup>}} (ex-{{nobr|[[Route nationale 7 (France métropolitaine)|RN 7]]}}) avec une limitation à {{unité|50|km/h}}.
+
+Cet ensemble, couramment appelé ''Autoroute du Val de Durance'', s'arrête à {{nobr|14 kilomètres}} au sud de [[Gap]]. Ni [[Digne-les-Bains|Digne]], ni [[Barcelonnette]] ni [[Briançon]] ne sont directement desservis par l'A51. Cependant elle facilite l'accès de l'[[Marseille|agglomération marseillaise]] aux stations des [[Alpes-de-Haute-Provence]] et des [[Hautes-Alpes]], ainsi qu'aux grands cols des Alpes du Sud ([[col de Larche]], [[col de Montgenèvre]], [[col de la Bonette]], [[col de la Cayolle]], [[col d'Allos]]).
+
+=== Le tronçon nord ===
+
+Le troisième tronçon a été réalisé en deux étapes : l'une ouverte en [[1999]] qui relie la ville de [[Claix (Isère)|Claix]] dans la [[Grenoble|banlieue grenobloise]] à [[Saint-Martin-de-la-Cluze]], sur {{unité|17|km}}. Cette partie fait débuter l'A51 à la limite de [[Claix (Isère)|Claix]] et de [[Varces]] dans le prolongement de l'[[Autoroute A480 (France)|A480]], et traverse ensuite la [[vallée de la Gresse]] en direction du sud. Le péage exploité par [[AREA (société d'autoroutes)|AREA]] est situé sur la commune de [[Vif (Isère)|Vif]], en amont des [[Viaducs autoroutiers du Crozet|viaducs du Crozet]].
+
+La deuxième étape consista à relier Saint-Martin-de-la-Cluze au [[col du Fau]] sur {{unité|10.5|km}}. Ouverte à la circulation depuis le {{date|21|mars|2007}}, cette partie comporte {{unité|4.5|km}} en {{dunité|2|1|voies}} ([[tunnel de Sinard]], [[viaduc de Monestier]]). Elle porte le nom d'''autoroute du Trièves''. Construit en cinq ans, après de nombreuses polémiques, cet aménagement aura coûté {{nobr|191 millions d'euros}} à [[AREA (société d'autoroutes)|AREA]]. Elle ouvre à [[Grenoble]] les portes du [[Trièves]] en l'espace de vingt-cinq minutes.
+
+== Sorties ==
+=== Autoroute du Val de Durance ===
+'''Section non-concédée gérée par le département des [[Bouches-du-Rhône]] et gratuite.'''
+* '''{{échangeur autoroutier|[[Autoroute A7 (France)|A7 Sud]]|A51}}''' à {{unité|0|km}} : [[Marseille]] - ''centre''
+** [[Fichier:France road sign C207.svg|24x24px]] [[Fichier:Panneau-C24a-2.svg|22x22px]] [[Fichier:France road sign B14 (90).svg|22x22px]] Début de l'autoroute, début de {{dunité|2|2|voies}} et limitation à {{unité|90|km/h}}.
+* '''{{échangeur autoroutier|[[Autoroute A517 (France)|A517 (A7 Nord)]]|A51}}''' à {{unité|1|km}} : [[Fos-sur-Mer|Fos]] - [[Martigues]] ([[Autoroute A55 (France)|A55]]), ''[[Fichier:France road sign ID2.svg|15px|alt]] [[Aéroport de Marseille-Provence|Marseille-Provence]]'', Marseille - ''[[L'Estaque]]''
+** [[Fichier:Panneau-C24a.svg|22x22px]] Passage à {{dunité|2|3|voies}}.
+* {{Sortie|1 ''Plan-de-Campagne''}} à {{unité|3|km}} : [[Cabriès]], [[Les Pennes-Mirabeau]], ''[[File:France road sign ID35.svg|15px|alt]] [[Plan de Campagne]]'', [[Septèmes-les-Vallons]]
+* {{Sortie|2 Bouc-Bel-Air}} '''({{Échangeur autoroutier|[[Autoroute A515 (France)|A515]]|A51}})''' à {{unité|5|km}} ''(demi-échangeur, depuis et vers Marseille)'' : [[Gardanne]], [[Simiane-Collongue]], [[Bouc-Bel-Air]]
+** {{Aire de service|des Chabauds|Marseille – Gap|de la Champouse|Gap – Marseille}}
+* {{Sortie|3 Luynes}} à {{unité|10|km}} : [[Aix-en-Provence]] - ''Pôle d'Activités'', Bouc-Bel-Air, [[Luynes (Bouches-du-Rhône)|Luynes]]
+* {{Sortie|4 Gardanne}} à {{unité|12|km}} : [[Gardanne]], Luynes
+* {{Sortie|5 ''Les Milles''}} à {{unité|14|km}} : Aix-en-Provence - ''Pôle d'Activités'', ''[[Pont-de-l'Arc]]'', ''[[Les Milles]]'', ''[[Fichier:France road sign ID12a.svg|15px|alt]] [[Gare d'Aix-en-Provence TGV|Aix - TGV]]'', ''[[Fichier:France road sign ID2.svg|15px|alt]] Marseille-Provence''
+* {{Sortie|6 Aix-en-Provence - ''centre''}} à {{unité|16|km}} ''(demi-échangeur, depuis et vers Marseille)'' : Aix-en-Provence
+* '''{{échangeur autoroutier|[[autoroute A8 (France)|A8]]|A51}}''' à {{unité|16,5|km}} ''(trois-quarts-échangeur)'' : [[Lyon]] (A7), [[Avignon]], [[Salon-de-Provence]], [[Nice]], [[Toulon]] ([[Autoroute A52 (France)|A52]]), [[Aubagne]], Aix-en-Provence - ''Pont de l'Arc, Val-Saint-André, Fenouillères''
+* {{Sortie|7 Aix-en-Provence - ''[[Jas-de-Bouffan]]''}} à {{unité|17|km}} : [[Berre-l'Étang]], Aix-en-Provence - ''Encagnane, centre'', Lyon (A8), Avignon, Salon-de-Provence
+** [[Fichier:France_road_sign_C107.svg|22x22px]] [[Fichier:France_road_sign_C208.svg|22x22px]] L'autoroute A51 devient la Route nationale 296
+{{Article détaillé|Route nationale 296}}
+* [[Fichier:France_road_sign_C108.svg|22x22px]] Fin de la Route nationale 296.
+'''Section concédée à [[Autoroutes Esterel-Côte d'Azur|ESCOTA]] et payante (sauf entre les sorties 12 à 14).'''
+* [[Fichier:France road sign C207.svg|24x24px]] [[Fichier:Panneau-C24a-2.svg|22x22px]] [[Fichier:France road sign B14 (110).svg|22x22px]] Début de l'autoroute, début de {{dunité|2|2|voies}} et limitation à {{unité|110|km/h}}.
+* {{Sortie|12 Aix-en-Provence - ''Les Platanes''}} à {{unité|24|km}} ''(trois-quarts-échangeur, pas accessible depuis Marseille)'' : Le Puy-Sainte-Réparade, Aix-en-Provence - ''nord''
+* {{Sortie|13 Venelles}} à {{unité|27|km}} : [[Venelles]]
+* {{Sortie|14 Meyrargues ([[Route nationale 96 (France)|RD 96]])}} à {{unité|29|km}} ''(demi-échangeur, depuis et vers Marseille)'' : [[Gap]], [[Digne-les-Bains]], [[Sisteron]], [[Manosque]], [[Meyrargues]], [[Pertuis (Vaucluse)|Pertuis]]
+** [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à 130 km/h.
+[[Fichier:A51-tunnel-Jouques82.jpg|vignette|Le tunnel de Jouques (défilé de Mirabeau).]]
+*  {{Aire de repos|de Meyrargues|Marseille – Gap}} + {{Aire de service|de Meyrargues-Fontbelle|Gap – Marseille}}
+* {{Péage|Péage de Meyrargues (à système fermé)}} + {{Sortie|15 Pertuis}} à {{unité|35|km}} : Le Puy-Sainte-Réparade, Pertuis
+** {{Aire de repos|de Jouques|Gap – Marseille}} 
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à 110 km/h.
+** [[Fichier:France road sign C111.svg|22x22px]] Tunnel de Mirabeau (400 m)
+** {{Aire de repos|du Pont Mirabeau|Marseille – Gap}}
+** [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à 130 km/h.
+* {{Sortie|17 Saint-Paul-lès-Durance}} à {{unité|56|km}} : [[Saint-Paul-lès-Durance]], [[Vinon-sur-Verdon]], [[Gréoux-les-Bains]], ''Centre d'Études Atomiques de Cadarache''
+''Passage du département des [[Bouches-du-Rhône]] à celui du [[Vaucluse (département)|Vaucluse]]''
+* [[Fichier:AB-Brücke.svg]] Viaduc sur [[Fichier:Panneau cours d'eau France.png|20px]] la [[Durance]]
+''Passage du département du Vaucluse à celui de l'[[Alpes-de-Haute-Provence]]''
+* [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à 110 km/h. (Gap – Marseille)
+** [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à 130 km/h. (Gap – Marseille)
+* {{Sortie|18 Manosque}} à {{unité|70|km}} : [[Valensole]], Gréoux-les-Bains, Manosque
+** {{Aire de service|de Manosque|Marseille – Gap|de Volx|Gap – Marseille}}
+* {{Sortie|19 La Brillanne}} à {{unité|84|km}} : [[Forcalquier]], [[Oraison (Alpes-de-Haute-Provence)|Oraison]]
+** {{Aire de repos|de Ganagobie}}
+* {{Sortie|20 Peyruis}} à {{unité|100|km}} : [[Digne-les-Bains]], [[Château-Arnoux-Saint-Auban]], [[Les Mées (Alpes-de-Haute-Provence)|Les Mées]], [[Peyruis]]
+** {{Aire de repos|du Belvédère de Peyruis - Les Mées|Gap – Marseille}}
+* {{Sortie|21 Aubignosc}} à {{unité|111|km}} : Nice, Digne-les-Bains, Château-Arnoux-Saint-Auban, [[Aubignosc]]
+** {{Aire de service|d'Aubignosc}}
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à 110 km/h.
+[[Fichier:A51 au sud de Sisteron direction Grenoble (septembre 2026).JPG|thumb|Au sud de [[Sisteron]], direction [[Grenoble]].]]
+** [[Fichier:AB-Brücke.svg]] Viaduc sur [[Fichier:Panneau cours d'eau France.png|20px]] la Durance
+** [[Fichier:AB-Brücke.svg]] Viaduc sur [[Fichier:Panneau cours d'eau France.png|20px]] le [[Canal EDF de la Durance|Canal EDF de Sisteron]]
+** [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à 130 km/h.
+* {{Sortie|22 Sisteron - ''sud''}} à {{unité|116|km}} : Sisteron - ''centre'', ''Vallée du Jabron''
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à 110 km/h.
+** [[Fichier:France road sign C111.svg|22x22px]] Tunnel de Baume (550 m) (sens Marseille – Gap), (450 m) (sens Gap – Marseille)
+** [[Fichier:AB-Brücke.svg]] Viaduc sur [[Fichier:Panneau cours d'eau France.png|20px]] la Durance
+** [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à 130 km/h.
+* {{Sortie|23 Sisteron - ''nord''}} à {{unité|123|km}} : [[Grenoble]] ''([[Col de la Croix-Haute]])'', [[La Motte-du-Caire]], [[Laragne-Montéglin]], Sisteron
+''Passage du département de l'Alpes-de-Haute-Provence à celui des [[Hautes-Alpes]]''
+* [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à 110 km/h.
+** [[Fichier:France road sign B14 (90).svg|22x22px]] Limitation à 90 km/h.
+** [[Fichier:France road sign B14 (70).svg|22x22px]] Limitation à 70 km/h.
+* {{Péage|Péage de La Saulce (à système fermé)}}
+** [[Fichier:France road sign C208.svg|22x22px]] Fin de l'autoroute au sud de Gap, au niveau de La Saulce
+* '''{{Carrefour giratoire|[[Route nationale 85 (France)|RN 85 et RD 1085]]|A51}}''' ({{Sortie|24 La Saulce}}) à {{unité|153|km}} : [[Briançon]], [[Coni|Coni (Cuneo)]] Gap, [[Barcelonnette]], La Motte-du-Caire, Laragne-Montéglin, [[La Saulce]], [[Tallard]]
+
+=== Autoroute du Trièves ===
+'''Section concédée à [[AREA (société d'autoroutes)|AREA]] et payante (sauf entre les sorties 10 à 12).'''
+* [[Autoroute A480 (France)|A480]] vers [[Grenoble]], [[Échirolles]], [[Claix (Isère)|Claix]] - ''centre''
+** [[Fichier:France road sign C207.svg|24x24px]] [[Fichier:Panneau-C24a-2.svg|22x22px]] [[Fichier:France road sign B14 (110).svg|22x22px]] Début de l'autoroute A51, début de {{dunité|2|2|voies}} et limitation à {{unité|110|km/h}}.
+* {{Sortie|10 Varces}} à {{unité|0,5|km}} ''(demi-échangeur, depuis et vers Grenoble)'' : [[Varces-Allières-et-Risset]], Claix - ''Les Bauches''
+** [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à 130 km/h.
+[[Fichier:A51 Gare péage du Crozet.jpg|vignette|Gare de péage du Crozet.]]
+* {{Sortie|11 Saint-Paul-de-Varces}} à {{unité|3,5|km}} ''(demi-échangeur, depuis et vers Grenoble)'' : [[Saint-Paul-de-Varces]]
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à 110 km/h.
+** [[Fichier:France_road_sign_C111.svg|22x22px]] [[Tunnel d'Uriol]] (490 m)
+** [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à 130 km/h.
+* {{Sortie|12 Vif}} à {{unité|5|km}} : [[Sisteron]], [[Vif]], Varces
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à 110 km/h.
+** [[Fichier:France road sign C111.svg|22x22px]] [[Tunnel du Petit Brion]] ({{Unité|500|m}})
+** [[Fichier:France road sign B14 (90).svg|22x22px]] Limitation à 90 km/h.
+** [[Fichier:AB-Brücke.svg]] [[Viaducs de La Rivoire|Viaduc de La Rivoire]] ({{Unité|245|m}})
+* {{Péage|Péage du Crozet (à système ouvert)}}
+** [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à 130 km/h.
+** [[Fichier:AB-Brücke.svg]] [[Viaducs autoroutiers du Crozet|Viaduc du Crozet]] ({{Unité|400|m}})
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à 110 km/h.
+* {{Sortie|13 Sinard}} à {{unité|19|km}} ''(demi-échangeur, depuis et vers Grenoble)'' : [[Sinard]], ''[[Lac de Monteynard-Avignonet]]'' + {{Aire de repos|des Jaillets|Grenoble – Sisteron|des Marceaux|Sisteron – Grenoble}}
+** [[Fichier:France road sign C28-3.svg|22x22px]] [[Fichier:France road sign B14 (90).svg|22x22px]] Réduction à {{dunité|2|1|voies}} et limitation à 90 km/h.
+** [[File:France road sign A18.svg|22x22px]] Passage à {{dunité|2|1|voie}}.
+** [[Fichier:France road sign C111.svg|22x22px]] [[Tunnel de Sinard]] ({{Unité|960|m}}) 
+** [[Fichier:AB-Brücke.svg]] [[Viaduc de Monestier]] ({{Unité|860|m}})
+** [[Fichier:France road sign C29b.svg|22x22px]] [[Fichier:France road sign B14 (110).svg|22x22px]] Passage à {{dunité|2|2|voies}} (2+1 voies) sur {{unité|1,6|km}} et limitation à 110 km/h. (sens Grenoble – Sisteron)
+** [[Fichier:France road sign C28-3.svg|22x22px]] [[Fichier:France road sign B14 (90).svg|22x22px]] Réduction à {{dunité|2|1|voies}} et limitation à 90 km/h. (sens Grenoble – Sisteron)
+** [[Fichier:France road sign B14 (70).svg|22x22px]] Limitation à 70 km/h. (sens Grenoble – Sisteron)
+** [[Fichier:France road sign C208.svg|22x22px]] Fin de l'autoroute au [[Col du Fau]].
+* '''{{Carrefour giratoire|[[Route nationale 75 (France)|RD 1075]]|A51}}''' : [[Nice]], [[Marseille]], [[Aix-en-Provence]], Sisteron, [[Mens]], [[Clelles]], ''[[Col de la Croix-Haute]]'', [[Monestier-de-Clermont]], [[Roissard]]
+
+== Principaux ouvrages d'art ==
+[[Fichier:Lurs-viaduc55.jpg|vignette|alt=Le viaduc de Lurs, vu par-dessous, et la voie ferrée|Viaduc de Lurs vu par-dessous.]]
+
+=== Sur la section sud (Autoroute du Val de Durance) ===
+
+* Tunnel du défilé de [[Mirabeau (Vaucluse)|Mirabeau]] (deux galeries, longueur {{nobr|450 mètres}})
+* Pont sur la [[Durance]] à Cadarache (longueur {{nobr|290 mètres}})<ref>[http://fr.structurae.de/structures/data/index.cfm?ID=s0007612 ''Viaduc du Val de Durance''], sur Structurae.</ref>
+* Pont sur le canal EDF à [[Sainte-Tulle]] (double pont métallique en poutre en treillis, longueur {{unité|114|mètres}})<ref>[http://fr.structurae.de/structures/data/index.cfm?ID=s0002907 ''Pont de Sainte-Tulle''], sur Structurae.</ref>
+* Pont sur la [[ligne de Lyon-Perrache à Marseille-Saint-Charles (via Grenoble)]] à [[Lurs]] (double pont en poutre en béton, longueur {{unité|187|mètres}}, en courbe et en pente)<ref>[http://fr.structurae.de/structures/data/index.cfm?ID=s0002906 ''Pont de Lurs''], sur Structurae.</ref>
+* Pont sur la Durance au sud de [[Sisteron]], prolongé par un pont sur le canal EDF (en courbe)
+* Tunnel de la Baume à Sisteron (deux galeries)
+* Pont sur la Durance au nord de Sisteron
+* Ponts supérieurs de la [[Route nationale 85 (France)|D 1085]] au [[le Poët|Poët]] (en S) et à [[la Saulce]] (en courbe)
+
+=== Sur la section nord (Autoroute du Trièves) ===
+
+Quatre grands ouvrages jalonnent cette section, dont :
+* le [[tunnel d'Uriol]] qui traverse la [[montagne d'Uriol]] à [[Varces-Allières-et-Risset]] ;
+* le [[tunnel du Petit Brion]] qui traverse le [[Petit Brion]] à [[Vif (Isère)|Vif]] ;
+* les [[viaducs de La Rivoire]] qui franchissent la gorge éponyme à Vif ;
+* les [[Viaducs autoroutiers du Crozet|viaducs du Crozet]] à Vif ;
+* le [[tunnel de Sinard]] qui traverse la colline de Clermont à [[Sinard]] et [[Monestier-de-Clermont]] ;
+* le [[viaduc de Monestier]] qui franchit la [[vallée du Fanjaret]] à Monestier-de-Clermont.
+
+<gallery mode="nolines" widths="180" perrow="3">
+A51 tunnel d'Uriol panneaux B3a B6d M2 C111 M9z B14 B17 M4m.jpg|Tunnel d'Uriol.
+Tunnel du Petit Brion.jpg|Tunnel du Petit Brion.
+Viaduc de La Rivoire (piles et tabliers).jpg|Viaduc de La Rivoire.
+A51 - Viaduc du Crozet -4.JPG|Viaduc du Crozet.
+A51 tunnel de Sinard poste de secours.jpg|Tunnel de Sinard.
+Viaduc, Monestier-de-Clermont.jpg|Viaduc de Monestier.
+</gallery>
+
+== Trafic ==
+{{Section à actualiser|date=juin 2026}}
+Le trafic est peu élevé : plafonnant à {{unité|11000|véhicules}} par jour en 1993, il atteint {{unité|14000|véhicules}} en 1999 du fait de sa longueur {{Citation|justifiant de la dépense du péage}}. Il est essentiellement de proximité (trajets professionnels) et de transit (loisirs)<ref>[[#Gonguet2002|Gonguet-Mestre 2002]], {{p.}}31.</ref>.
+
+Dans les Alpes-de-Haute-Provence, le trafic poids lourds s'élevait à {{unité|1137|véhicules}} par jour, dont 144 transportant des produits dangereux<ref name="ddrm74">Préfecture des Alpes-de-Haute-Provence, ''[http://www.alpes-de-haute-provence.pref.gouv.fr/pages/themes/defense/securite%20civile/index.html#menu1 Dossier départemental sur les risques majeurs dans les Alpes-de-Haute-Provence]'' {{Lien archive|url=http://www.alpes-de-haute-provence.pref.gouv.fr/pages/themes/defense/securite%20civile/index.html |horodatage archive=20120922124859 |titre=Copie archivée }} (DDRM), 2008, {{p.|74}}</ref>.
+
+== Lieux sensibles ==
+{{...}}
+
+* L'A51-nord se branche sur l'A480 directement à la sortie sud de Grenoble. Les trafics nord-sud et sud-nord imposent la traversée de l'agglomération grenobloise dont l'infrastructure routière est sous-dimensionnée aujourd'hui pour permettre une augmentation de trafic qu'engendrerait une continuité de l'A51.
+* L'A51-nord présente une grande descente depuis Sinard jusqu'à la barrière de péage de Crozet. Cette descente fait {{unité|11|km}} pour {{unité|470|m}} de dénivelé, soit plus de {{nobr|4 %}} de moyenne, avec plusieurs rampes à {{nobr|6 %}}. La vitesse des poids-lourds y est limitée à {{unité|70|km/h}}. Il y a aussi deux [[Voie de détresse|voies de détresse]] pour les véhicules hors de contrôle.
+* La partie urbaine de l'autoroute du Val de Durance, de l'échangeur de Septèmes jusqu'à Venelles, soit {{nobr|25 kilomètres}}, est en permanence susceptible de bouchons, et particulièrement vers {{nobr|17 heures}} en semaine, et les vendredis et dimanches soirs.
+* La [[route nationale 296]] comporte un virage particulièrement dangereux à la descente (sens nord - sud) ; vitesse limitée à {{unité|50|km/h}} ({{unité|110|km/h}} moins d'un kilomètre avant).
+
+== Entre Grenoble et Sisteron, un tronçon contesté ==
+{{Projet de transport}}
+La construction du tronçon de [[Grenoble]] à [[Sisteron]] a été l'objet de nombreuses contestations en raison de son [[impact environnemental]] : en [[1995]] par exemple, des manifestants ont entravé les travaux en s'enchaînant aux engins de construction de la section nord de l'autoroute.
+
+Depuis le nord, trois solutions principales sont envisagées :
+# le tracé direct par le [[col de la Croix-Haute]] et la vallée du [[Buëch]] jusqu'à [[Sisteron]] (coût initial estimé à environ {{nobr|1,8 milliard d'euros}}) ; plus court, il ne desservirait que l'ouest des Hautes-Alpes ([[Serres (Hautes-Alpes)|Serres]], [[Laragne-Montéglin|Laragne]]) ;
+# le tracé dit « par l'est de Gap » ''via'' le [[Trièves]], la vallée du [[Drac]], le [[col Bayard]] et la haute vallée de l'[[Avance (affluent de la Durance)|Avance]]) (coût initial estimé environ {{nobr|2,2 milliards d'euros}}) ; plus long et plus coûteux, mais qui permettrait :
+#* de désenclaver le [[Valgaudemar]] et le [[Champsaur]],
+#* de desservir les stations de sports d'hiver des Alpes du Sud ([[Queyras]], vallées de La Blanche et de l'[[Vallée de l'Ubaye|Ubaye]], [[Briançonnais]]) ;
+# l'aménagement de la [[réseau routier départemental français|départementale]] {{nobr|RD 1075}} (ancienne {{nobr|[[Route nationale 75 (France)|RN 75]]}}) et de la [[route nationale 85 (France)|route nationale 85]] (mise à {{nobr|2×2 voies}}, rectifications diverses) ; plus économique (coût estimé d'environ {{nobr|610 millions d'euros}}<ref>Synthèse du débat « ''Améliorer la liaison entre Grenoble et Sisteron, débat public juin octobre 2005'' »</ref>) aurait un impact environnemental plus faible au prix d'un moindre gain de temps, le gain de temps théorique d'une autoroute sur une voie express limitée à {{unité|110|km/h}} étant inférieur à {{nombre|10|minutes}} pour une centaine de kilomètres (éventuellement 15 selon les ralentissements dus au profil de la route).
+
+Plusieurs problèmes se posent :
+* le choix du tracé et le type de projet : autoroute concédée par [[AREA (société d'autoroutes)|AREA]], par [[Autoroutes Esterel-Côte d'Azur|ESCOTA]] ou par les deux ;
+* le financement du projet (75 % de financement public) et sa rentabilité ;
+* les difficultés techniques dues à la nature des terrains traversés : l'itinéraire par l'est de Gap passe dans des terrains composés d'argile et de roches gruyère posant des problèmes de génie civil ; l'itinéraire par le [[col de la Croix-Haute]] passe dans des terrains morainiques très instables (l'ex-[[Route nationale 75 (France)|nationale 75]] s'est d'ailleurs effondrée plusieurs fois dans les cinquante dernières années) ;
+* la réalisation de nombreux ouvrages d'art, notamment pour le tracé par l'est de Gap :
+** le viaduc sur l'[[Ébron]], d'environ {{unité|2|[[kilomètre|km]]}} de long et {{unité|200|[[mètre|m]]}} de haut ; à titre de comparaison, le [[viaduc de Millau]] ({{unité|2.4|km}} de long et {{unité|270|m}} de haut) a coûté environ {{nombre|400|millions}} d'euros,
+** tunnels de Lavars (environ {{unité|1|km}}) et du Faraut ({{unité|3.8|km}}),
+** plus de vingt autres viaducs de moindre importance, totalisant plus de cinq kilomètres de longueur cumulée<ref group="Note">Viaducs de Pisse-Vache ({{unité|120|m}}), de la Chalane ({{unité|75|m}}), des Archars ({{unité|360|m}}), de la croix de Pigne ({{unité|370|m}}), de la [[Souloise]] ({{unité|1000|m}}), du Rif Mannel ({{unité|75|m}}), de la Guinguette ({{unité|335|m}}), du Laus ({{unité|80|m}}), du Rageoux ({{unité|160|m}}), de la Bonne ({{unité|270|m}}), de Chauvet ({{unité|230|m}}), du Buzon ({{unité|360|m}}), de la Combe ({{unité|390|m}}), des Roubis ({{unité|140|m}}), de Lafangue ({{unité|140|m}}), des Blanchonnes ({{unité|150|m}}), de la Cote Chaude ({{unité|170|m}}), de [[la Bâtie-Neuve]] ({{unité|100|m}}), de la Drague ({{unité|280|m}}), de la Plaine ({{unité|540|m}}), de Trébaudon ({{unité|230|m}})</ref> ;
+* le fort impact environnemental, notamment sur le [[Trièves]], zone jusqu'ici très préservée.
+
+=== {{nombre|20|ans}} d'hésitations ===
+* 1987 : l'autoroute [[Sisteron]]-[[Grenoble]] est inscrite au ''Schéma directeur routier national'' ;
+* 1991 : [[Louis Besson]], ministre de l'Équipement, exprime sa préférence pour un tracé par [[Lus-la-Croix-Haute]].
+* 1995 : [[Bernard Pons]] décide que l'A51 passera par l'est de [[Gap]], lance une enquête publique, laquelle est suspendue par son successeur [[Jean-Claude Gayssot]].
+* 2003 : [[Gilles de Robien]], nouveau ministre de l'Équipement, se prononce pour un tracé par l'est de Gap.
+* 2005 : débat public sur la liaison. Quatre solutions : aménagement des [[réseau routier départemental français|départementale]] {{nobr|RD 1075}} (ancienne {{nobr|[[Route nationale 75 (France)|RN 75]]}}) et de la [[route nationale 85 (France)|route nationale 85]], développement du réseau ferroviaire, poursuite de l'A51 par l'est ou par l'ouest de Gap.
+* 2006 : le ministre des Transports [[Dominique Perben]] et le ministre délégué à l'Aménagement du territoire [[Christian Estrosi]] annoncent le {{date|16|mars|2006}} lors d'une conférence de presse avoir choisi le tracé est, par Gap.
+* 2009 : le ministre de l'Écologie, de l'Énergie, du Développement durable et de l'Aménagement du territoire [[Jean-Louis Borloo]], dans une lettre au président du conseil général des [[Hautes-Alpes]], écrit : {{citation|Les projets seront définitivement retenus après un examen au travers de critères et d'indicateurs caractérisant les territoires traversés et l'évaluation de leurs impacts environnementaux, économiques et sociaux}}, et annonce une décision gouvernementale sur {{citation|la poursuite du projet}} à l'automne 2009 après avis de l'Autorité environnementale, du comité de suivi du « [[Grenelle Environnement|Grenelle de l'environnement]] » et du Parlement{{Référence non conforme|<ref>''Le [[Dauphiné libéré]]'', 19 avril 2009, page 4.</ref>}}.
+* 2010 : le tronçon Col du Fau - La Saulce ne figure pas à l'avant-projet de [[Schéma national d'infrastructures de transport]] (SNIT) publié en {{date|juillet 2010}}<ref>{{Lien web|url=http://www.ledauphine.com/isere-sud/2010/07/15/le-projet-de-l-a51-abandonne|site=ledauphine.com|jour=15|mois=juillet|année=2010|titre=Le projet de l'A51 abandonné}}.</ref>.
+* {{date|22|juillet|2011}} : le chef de cabinet de l'Élysée, en réponse à un courrier d'un habitant de [[Pertuis (Vaucluse)|Pertuis]] ([[Vaucluse (département)|Vaucluse]]), répond que, compte tenu des contraintes techniques et financières (budget de {{nobr|2,5 milliards d'euros}} dont {{nobr|1,9 milliard}} à la charge de l'État, et impossibilité légale de l'adossement<ref group="Note">Financièrement, le principe d’adossement signifie de faire payer un tronçon de l'autoroute par l’ensemble du réseau de la société concessionnaire, lorsque le coût de celui-ci n'est pas équilibrable par le tarif d'un péage sur ce même tronçon.</ref>), le projet ne figure pas au [[Schéma national d'infrastructures de transport|SNIT]]<ref>[http://pertuisien.fr/imeven/A51Presidence.pdf Réponse de l’Élysée sur le projet de liaison Grenoble-Gap] {{pdf}}, sur le site ''pertuisien.fr''.</ref>. Le Sénat a mis en ligne un rapport reprenant les contraintes financières et juridiques<ref>[http://www.senat.fr/rap/r10-592/r10-59210.html PROJET DE L'A 51], sur le site du Sénat (consulté le 13 octobre 2012).</ref>.
+
+=== Les positions des intéressés ===
+Le débat public de 2005<ref>{{Lien web |format=pdf |titre=Le bilan du débat public sur la liaison Grenoble-Sisteron |url=http://www.debatpublic-cpdpgrenoblesisteron.org/docs/pdf/bilan/bilan1.pdf |site=debatpublic-cpdpgrenoblesisteron.org |consulté le=13 octobre 2012}}.</ref>{{,}}<ref>{{Lien web |format=pdf |titre=Le compte-rendu du débat public sur la liaison Grenoble-Sisteron |url=http://www.debatpublic-cpdpgrenoblesisteron.org/docs/pdf/bilan/compte-rend1.pdf |site=debatpublic-cpdpgrenoblesisteron.org |consulté le=13 octobre 2012}}.</ref> a montré une vive différence de points de vue suivant les secteurs géographiques concernés et, selon les termes de la [[Commission nationale du débat public]], {{citation|les intérêts portés par les différentes catégories d'intervenants, et les conceptions de la société et du type de développement qu'elle doit se donner}} :
+* le département des [[Alpes-de-Haute-Provence]] privilégie ''l'itinéraire ouest par le [[col de la Croix-Haute]]'', plus court ;
+* le conseil général des [[Hautes-Alpes]], les élus hauts-alpins de [[Droite (politique)|droite]], la [[chambre de commerce]], et une grande partie de la population de [[Gap]]<ref group="Note">Lors d’un référendum municipal sur le projet autoroutier de l’A51, les réponses ont été « Pour » à 90,84 % et « Contre » à 9,16 % ; à la question complémentaire « Quel tracé préférez-vous ? », les réponses ont été « Par Gap » à 86,69 % et « Par Lus » à 13,28 %. Le taux de participation est inconnu.</ref> sont ''partisans du tracé par l'est de Gap'' ;
+* la région [[Rhône-Alpes]], le département de l'[[Isère (département)|Isère]] et le syndicat d'aménagement du Trièves souhaitent ''l'aménagement des [[réseau routier départemental français|départementale]] {{nobr|RD 1075}} (ancienne {{nobr|[[Route nationale 75 (France)|RN 75]]}}) et de la [[route nationale 85 (France)|route nationale 85]] couplé à une meilleure desserte ferroviaire''.
+
+Les [[Conseil régional (France)|conseils régionaux]] de [[Rhône-Alpes]] et de [[Provence-Alpes-Côte d'Azur]] ont de plus fait connaître l'impossibilité pour eux de financer seuls un projet autoroutier de cette ampleur sans un investissement très majoritaire de l'État.
+
+À la suite de ce débat public, le ministre avait de nouveau annoncé en 2006 que l'A51 devrait se construire par l'est de [[Gap]]. On aurait alors pu effectuer en 2025 la liaison [[Grenoble]]-[[Marseille]] en {{nobr|3 heures}} ({{heure|2|50}} avec le trajet par le [[col de la Croix-Haute]]) au lieu des {{heure|3|15}} actuelles ''via'' [[Valence (Drôme)|Valence]], différence jugée minime par les opposants au projet en regard des coûts et des bouleversements environnementaux engendrés par le projet.
+
+== Notes et références ==
+=== Notes ===
+{{Références|groupe=Note|taille=30}}
+
+=== Références ===
+{{Références|taille=30}}
+
+== Voir aussi ==
+{{autres projets|commons=Category:A51 autoroute|commons titre=Autoroute A51}}
+{{Légende plume}}
+=== Bibliographie ===
+* {{Article|prénom1=C.|nom1=Barrio|titre=L'Autoroute A51 Val de Durance - Section Aix-en-Provence - Manosque ({{unité|47|km}})|périodique=Travaux|numéro=612|année=1986|mois=7|pages=1-5|résumé=http://trid.trb.org/view.aspx?id=1014735}} {{commentaire biblio|Contexte géologique et réalisations importantes sur cette section d'autoroute ouverte en 1986.}}
+* {{Article|prénom1=C.|nom1=Barrio|prénom2=G.|nom2=Baillet|prénom3=A.|nom3=Guenoun|titre=L'autoroute A51 - Val de Durance - Section Manosque-Sisteron ({{unité|53|km}})|périodique=Travaux|numéro=645|année=1989|mois=7|pages=115-123|résumé=http://trid.trb.org/view.aspx?id=1017615}}
+* {{Article|prénom1=V.|nom1=Vigneron|titre=Accessibilité routière au sud de l'agglomération grenobloise en liaison avec la construction de l'autoroute A51|périodique=Revue Internationale de Géomatique|année=1995|numéro=3-4}}
+* {{Article|prénom1=Régine|nom1=Bonnet|titre=Autoroute du val de Durance : les effets d'une infrastructure autoroutière dans l'économie d'une zone interne|périodique=Grands Travaux et Grands Équipements|lieu=Paris|éditeur=Éditions du CTHS|année=1997|pages=39-48}}
+* {{Article|prénom1=B.|nom1=Miet|prénom2=H.|nom=Magnon-Pujo|titre=A51 - Historique et contexte|périodique=Travaux|numéro=757|année=1999|mois=10|pages=18-22|résumé=http://trid.trb.org/view.aspx?id=947200}} {{commentaire biblio|Présentation de l'autoroute A51 Nord.}}
+* {{Article|prénom1=C.|nom1=Le Guellec|prénom2=C.|nom2=Maly|titre=A51 - Un projet qui n'était pas gagné - De l'opposition à l'adoption, du bétonneur à l'aménageur|périodique=Travaux|numéro=757|année=1999|mois=10|pages=23-25|résumé=http://trid.trb.org/view.aspx?id=947201}} {{commentaire biblio|Comment la société d'autoroutes a pu surmonter l'opposition à la construction de l'autoroute A51 Nord.}}
+* {{Ouvrage|prénom1=Catherine|nom1=Gonguet-Mestre|titre=L'axe durancien : aménagement et transport|éditeur=L'Harmattan|année=2002|isbn=2-7475-2087-0|présentation en ligne=https://books.google.fr/books?id=i1fQj0mCR20C&dq=autoroute+a51&hl=fr&source=gbs_navlinks_s|id=Gonguet2002}} {{plume}}
+
+=== Articles connexes ===
+* [[Liste des autoroutes de France]]
+* [[Route européenne 712]]
+
+=== Liens externes ===
+* [http://saratlas.free.fr/index.php?page=autoroute&route=a51&lang=fr L'autoroute A51 dans Saratlas]
+* [http://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A51 L'autoroute A51 sur WikiSara]
+* [http://www.unautrevoyage.fr/ Voyage sur l'autoroute A51]
+* [http://www.debatpublic-cpdpgrenoblesisteron.org/ Commission particulière du débat public - Liaison Grenoble - Sisteron]
+
+{{Palette|Autoroutes de France|Transport à Grenoble}}
+{{Portail|entreprises|Grenoble|Provence-Alpes-Côte d'Azur|Rhône-Alpes|route}}
+
+[[Catégorie:Autoroute en Provence-Alpes-Côte d'Azur|051]]
+[[Catégorie:Autoroute en Auvergne-Rhône-Alpes|051]]

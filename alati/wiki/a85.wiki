@@ -1,0 +1,123 @@
+{{Coord|47.304011|N|0.84881|E|source:enwiki|display=title}}
+{{Voir homonymes|A85}}
+{{Infobox Route/France|statut=A|numéro=85
+|autres_noms       = 
+|image             = 
+|légende           = 
+|carte             = France_A85.svg
+|longueur          = 206
+|direction         = ouest / est
+|dir1              = ouest
+|dir2              = est
+|ville1            = {{Route européenne|60}} {{Route européenne|501}} {{Autoroute française|A11}} à [[Corzé]]
+|ville2            = {{route européenne|9}} {{Autoroute française|A71}} à [[Theillay]] (Loir-et-Cher), près de Vierzon (Cher)
+|villes_principales= [[Saumur]], [[Tours]], [[Romorantin-Lanthenay]]
+|intersections     = {{route européenne|5}} {{Route européenne|60}} {{Autoroute française|A10}} à [[Veigné]]
+|ouverture         = de 1997 à 2007
+|réseau            = Autoroute française, également {{route européenne|60}} {{route européenne|604}}
+|régions=[[Pays de la Loire]], [[Centre-Val de Loire]]
+|départements=[[Maine-et-Loire]], [[Indre-et-Loire]], [[Loir-et-Cher]]
+|nb_reg=2|nb_dep=3
+|concessionnaire   = [[Cofiroute]]
+}}
+
+L{{'}}'''autoroute A85''' est une [[autoroute]] française qui relie l'[[Autoroute A11 (France)|A11]] (à l'Est d'[[Angers]]) à l'[[Autoroute A71 (France)|A71]] (à [[Theillay]] dans le Loir-et-Cher, au Nord de [[Vierzon]]), via le sud de [[Tours]]. Elle est longue de {{unité|206|km}} avec un tronçon gratuit entre Tours et Langeais. Elle possède {{dunité|2|2|voies}} tout le long de son parcours depuis la fin des travaux en 2021 sur plusieurs viaducs autrefois en {{dunité|2|1|voie}}. La section Tours-Vierzon fait partie du [[grand contournement de Paris]]. Cette autoroute est couverte par [[Radio Vinci Autoroutes|Radio VINCI Autoroutes]] (107.7 FM).
+
+== Historique ==
+
+Le premier tronçon de cette autoroute a été mis en service en [[1997]], reliant la barrière de péage de [[Corzé]], au Nord d'[[Angers]] (échangeur avec l'[[Autoroute A11 (France)|{{nobr|autoroute A11}}]]), à [[Bourgueil]] ([[Indre-et-Loire]]).
+
+En 2001 la section Est entre l'[[Autoroute A71 (France)|autoroute A71]] et [[Villefranche-sur-Cher]] est ouverte à la circulation, prolongée jusqu'à [[Saint-Romain-sur-Cher]] en 2003. Parallèlement, le tronçon [[Druye]] – [[Joué-lès-Tours]] est mis en service {{pas clair|en 2002}}, suivi par le franchissement de la Loire jusqu'à l'ouest de [[Langeais]] en 2003<ref name="moni"/>.
+
+Le tronçon [[Bourgueil]] – [[Langeais]] est inauguré le {{date|29 janvier 2007}}<ref name="moni"/>avec 7 mois d'avance sur le dernier planning. En effet, le démarrage des travaux aura énormément tardé (DUP annulée) pour des raisons environnementales (passage controversé de l'autoroute à travers un site protégé). Avec la mise en service de ce tronçon, la liaison autoroutière Tours-Angers est enfin achevée.
+
+La dernière section de l'A85, longue de {{unité|63|km}} entre [[Druye]] et [[Saint-Aignan (Loir-et-Cher)|Saint-Aignan-sur-Cher]], est mise en service le {{date|18 décembre 2007}}<ref>{{PDF}} [http://www.ouest.cerema.fr/IMG/pdf/BilanFinal-A85-M345-V6-pages_cle582ded.pdf « A85 : Druye — Saint-Romain-sur-Cher - Bilan environnemental 5 ans après la mise en service »], page 9 du PDF (consulté le 20 février 2016).</ref> avec 1,5 à {{unité|4.5|mois}} d'avance selon les deux sous-sections.
+
+À l'origine l’A85 se terminait jusqu’à la [[rocade de Tours]], via la section Druye - Joué-les-Tours mise en service en 2013.
+
+Finalement continuée jusqu'à Vierzon, et passant donc bien au sud de Tours, elle rend « obsolète » cette section {{nobr|Druye –}} Joué-lès-Tours, alors déclassée en voie express (numérotée {{nobr|[[Route nationale 851|RN 851]]}})<ref>[https://admi.net/jo/20060708/EQUR0601092D.html Décret relatif au déclassement de l'autoroute sur {{unité|8|km}}]</ref> puis transférée au département d'Indre-et-Loire sous le nom de {{nobr|RD 751}}.
+
+La section entre Langeais et Druye est gratuite pour permettre de délester la [[levée de la Loire]] entre Tours et Langeais.
+
+À partir de 2016, des travaux ont été réalisés pour fluidifier le trafic sur plusieurs viaducs. En effet, cinq ouvrages ont été doublés pour permettre la circulation sur 2 x 2 voies.
+
+Dans le Loir-et-Cher, les viaducs de la Sauldre (Pruniers-en-Sologne) et du Cher ont été mis en service fin 2019 en {{dunité|2|2|voies}}.
+
+Dans l'Indre-et-Loire, plus à l'Ouest, les viaducs de Langeais (enjambant le ruisseau des Agneaux et la ligne SNCF) et de la Perrée (sur la commune de Saint-Patrice) ont été mis en service en 2020 en {{dunité|2|2|voies}}. Le viaduc de la Roumer (enjambant la rivière du même nom) a également été mis en 2 x 2 voies fin {{date|avril 2021}}.
+
+Depuis 2022, des concertations sont en cours pour la réalisation de 2 nouveaux demi-échangeurs en Indre et Loire.
+
+L’aménagement du demi-diffuseur de [[Restigné]] d’une part, qui serait réalisé sur la commune de Coteaux-sur-Loire et permettra d’améliorer l’accès au nord et à l’est du Bourgueillois.
+
+D’autre part, l’aménagement d’un demi-diffuseur à Langeais Nord, sur la commune de Langeais, qui serait réalisé à 4 km à l’ouest de l’échangeur de Langeais Est (n°7), pour les usagers de l’autoroute A85 en provenance et à destination de Tours. Il se composera d’une bretelle d’entrée et d’une bretelle de sortie. L’une et l’autre seront situées au niveau de la RD57 et raccordées au réseau local par deux giratoires.
+La mise en service de ces 2 aménagements se ferait en 2026.
+
+== Échangeurs ==
+'''Section concédée à [[Cofiroute]] et payante (sauf entre les sorties 7 à 9.1)'''
+* '''{{échangeur autoroutier|[[Autoroute A11 (France)|A11]]|A85}}''' : [[Paris]], [[Le Mans]], [[Nantes]], [[Angers]] 
+* {{Péage|Péage de Corzé (à système fermé)}} - Depuis et vers Nantes, Angers. (Vers une section gratuite, traversée de la périphérie d'Angers)
+** [[Fichier:France road sign C207.svg|24x24px]] [[Fichier:Panneau-C24a-2.svg|22x22px]] [[Fichier:France road sign B14 (130).svg|22x22px]] Début de l'autoroute, début de {{dunité|2|2|voies}} et limitation à {{unité|130|km/h}}.
+* {{Sortie|1 Beaufort-en-Vallée}} : [[Beaufort-en-Vallée]]
+** {{Aire de service|Longué-La Couaille|Angers-Vierzon|Longué-Les Cossonnières|Vierzon-Angers}}
+* {{Sortie|2 Longué-Jumelles}} : [[Longué-Jumelles]], [[Baugé-en-Anjou]]
+* {{Sortie|3 Vivy / Saumur}} : [[Saumur]], [[Vivy]], [[Vernantes]]
+(en projet) {{Sortie|4 Brain-sur-Allonnes}} : [[Brain-sur-Allonnes]]<br />
+''Passage de la région des [[Pays de la Loire]] à celui du [[Centre-Val de Loire]].<br /> Passage du département [[Maine-et-Loire]] à celui de l'[[Indre-et-Loire]].''
+* {{Aire de repos|Chouzé-sur-Loire|Angers-Vierzon|Saint-Nicolas-de-Bourgueil|Vierzon-Angers}}
+* {{Sortie|5 Bourgueil}} : [[Bourgueil]], [[Chinon]]
+* {{Péage|Péage de Restigné (à système fermé)}}
+(en projet) {{Sortie|6 Côteaux-sur-Loire}}<ref>{{Lien web |titre=A85 {{!}} Demi-diffuseur de Coteaux-sur-Loire |url=https://www.a10-amenagement.com/les-operations-en-cours/a85-demi-diffuseur-de-coteaux-sur-loire/ |site=A10 Aménagement |consulté le=2025-12-11}}</ref> ''(demi-échangeur, depuis et vers Angers)'' : [[Côteaux-sur-Loire]], [[Restigné]]
+* [[Fichier:AB-Brücke.svg]] Viaduc de la Perrée.
+** [[Fichier:AB-Brücke.svg]] Viaduc de la [[Fichier:Panneau cours d'eau France.png|20px]] [[Roumer]].
+(en projet) {{Sortie|6.1 Langeais - ''nord''}}<ref>{{Lien web |titre=A85 {{!}} Demi-diffuseur de Langeais Nord |url=https://www.a10-amenagement.com/les-operations-en-cours/a85-demi-diffuseur-de-langeais-nord/ |site=A10 Aménagement |consulté le=2025-12-11}}</ref> ''(demi-échangeur, depuis et vers Vierzon)'' : [[Langeais]], [[Savigné-sur-Lathan]]
+* [[Fichier:AB-Brücke.svg]] Viaduc de Langeais sur la [[ligne de Tours à Saint-Nazaire|voie ferrée]] et sur [[Fichier:Panneau cours d'eau France.png|20px]] le Ruisseau des Agneaux.
+* {{Sortie|7 Langeais - ''est''}} : Saumur, Langeais, [[Cinq-Mars-la-Pile]], [[Luynes (Indre-et-Loire)|Luynes]], [[Sainte-Maure-de-Touraine]]
+** [[Fichier:AB-Brücke.svg]] Viaduc sur [[Fichier:Panneau cours d'eau France.png|20px]] la [[Loire]].
+** [[Fichier:AB-Brücke.svg]] Viaduc sur [[Fichier:Panneau cours d'eau France.png|20px]] le [[Vieux Cher]] 
+* {{Sortie|8 Villandry}} : [[Lignières-de-Touraine]], ''[[Fichier:France road sign ID16a.svg|15px|alt]] [[Château de Villandry|Villandry]]''
+* {{Sortie|8.1 : La Recoulière}} : ''Site industriel'' + {{Aire de service|des Jardins de Villandry}}
+* {{Sortie|9 Druye}} : [[Druye]], [[Monts (Indre-et-Loire)|Monts]], ''[[Fichier:France road sign ID16a.svg|15px|alt]] [[Château d'Azay-le-Rideau|Azay-le-Rideau]]'', Chinon
+* {{Sortie|9.1 Tours}} '''({{échangeur autoroutier|A85|RM 751}})''' ''(demi-échangeur, depuis et vers Angers)'' : [[Tours]] 
+* '''{{échangeur autoroutier|[[Autoroute A10 (France)|A10]]|A85}}''' : [[Bordeaux]], Paris, Tours
+* {{Péage|Péage de Veigné (à système fermé)}}
+* {{Sortie|10 Esvres-sur-Indre}} :[[Châteauroux]], [[Esvres-sur-Indre]], [[Chambray-lès-Tours]], [[Saint-Avertin]], [[Loches]], [[Saint-Pierre-des-Corps]]
+** {{Aire de service|du Val de Cher}}
+* {{Sortie|11 Bléré}} : [[Bléré]], [[Loches]], [[Amboise]], [[Montrichard]], ''[[Fichier:France road sign ID16a.svg|15px|alt]] [[Château de Chenonceau|Chenonceau]]''
+''Passage du département Indre-et-Loire à celui du [[Loir-et-Cher]].''
+* {{Aire de repos|La Canarderie|Angers-Vierzon|Le Bois de Faix|Vierzon-Angers}}
+** [[Fichier:AB-Brücke.svg]] Viaduc sur [[Fichier:Panneau cours d'eau France.png|20px]] le [[Cher (rivière)|Cher]].
+* {{Sortie|12 Saint-Romain-sur-Cher}} : [[Montrichard]], [[Saint-Aignan (Loir-et-Cher)|Saint-Aignan]], [[Saint-Romain-sur-Cher]]
+* {{Sortie|13 Chémery}} : [[Selles-sur-Cher]], ''[[Fichier:France road sign ID16a.svg|15px|alt]] [[Château de Cheverny|Cheverny]]'', [[Chémery]]
+** {{Aire de service|de Romorantin}}
+** [[Fichier:AB-Brücke.svg]] Viaduc sur [[Fichier:Panneau cours d'eau France.png|20px]] la [[Sauldre]].
+* {{Sortie|14 Villefranche-sur-Cher}} : [[Blois]], [[Romorantin-Lanthenay]], [[Villefranche-sur-Cher]]
+** {{Aire de repos|Le Jarrier|Angers-Vierzon|La Grange Rouge|Vierzon-Angers}}
+* '''{{échangeur autoroutier|[[Autoroute A71 (France)|A71]]|A85}}''' : [[Lyon]], [[Bourges]], [[Vierzon]], Paris
+** [[Fichier:France road sign C208.svg|22x22px]] Fin de l'autoroute A85.
+
+== Lieux sensibles ==
+{{Section vide ou incomplète}}<!--- uniquement les lieux à bouchons et les pentes dangereuses --->
+Cette autoroute présentait à l’origine de nombreux viaducs en 2 x 1 voie seulement (ou une voie et une voie pour véhicules lents en montée). Près de Langeais et d'Ingrandes, la vitesse était alors limitée à {{unité|90|km/h}}. Le Cher (près de Mareuil) et la Sauldre (près de Romorantin-Lanthenay) étaient également traversés autrefois par un viaduc à une seule voie par sens de circulation.
+
+Ces viaducs ont tous été mis à 2 x 2 voies entre 2016 et 2021.
+<gallery mode="packed">
+WV0032-A85 CinqMarsLaPile-Langeais ViaducLangeais.ogg|Viaduc de Langeais.
+WV0033-A85 Langeais ViaducRoumer.ogg|Viaduc de la Roumer.
+WV0034-A85 StPatrice ViaducPerree.ogg|Viaduc de la Perrée.
+WV0035-A85 Villandry-CinqMarsLaPile ViaducVieuxCher-ViaducLoire.ogg|Viaducs du Vieux-Cher et de la Loire.
+</gallery>
+Les viaducs du Vieux Cher et de la Loire à [[Villandry]], financés par le Conseil général d'Indre-et-Loire<ref>{{PDF}} [http://www.cgedd.developpement-durable.gouv.fr/IMG/pdf/no_010047-01_cle7758ff.pdf « Avis sur le bilan de réalisation de l'autoroute A 85 Angers-Vierzon »], page 8 du PDF (consulté le 20 janvier 2016).</ref> ont eux été construits dès 2003<ref name="moni">[http://www.lemoniteur.fr/article/cofiroute-va-exploiter-une-section-de-10-km-sur-l-a85-72271 « Cofiroute va exploiter une section de 10 km sur l’A85 »], article du ''Moniteur'' du 23 mai 2007 (consulté le 20 février 2016).</ref>, avant l'autoroute, en {{dunité|2|2|voies}}.
+
+== Notes et références ==
+{{Références}}
+
+== Voir aussi ==
+=== Liens externes ===
+* [http://saratlas.free.fr/index.php?page=autoroute&route=a85&lang=fr Autoroute A85 dans Saratlas]
+* [http://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A85 Article de l'A85 sur WikiSara]
+
+{{Palette|Autoroutes de France}}
+{{Portail|route|Pays de la Loire|Centre}}
+
+[[Catégorie:Autoroute dans les Pays de la Loire|085]]
+[[Catégorie:Autoroute en Centre-Val de Loire|085]]

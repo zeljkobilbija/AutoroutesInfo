@@ -1,0 +1,151 @@
+{{Voir homonymes|A62}}
+{{Ébauche|autoroute française}}
+{{Infobox Route/France
+| statut = A
+| numéro = 62
+| autres_noms = [[Autoroute des Deux Mers]] (avec l'A61)
+| image = FR-82-Autoroute entre Deux-Mers.JPG
+| légende = L'autoroute des Deux Mers à [[Montech]] près de [[Castelsarrasin]].
+| carte = France A6X A62.svg
+| longueur = 231
+| direction = nord-ouest / sud-est
+| dir1 = nord-ouest
+| dir2 = sud-est
+| ville1 = {{Route européenne|72}} {{Autoroute française|A630}} à [[Villenave-d'Ornon]]
+| ville2 = {{Route européenne|9}} {{Autoroute française|A61}} {{Autoroute française|A68}} à [[Toulouse]]
+| villes_principales = [[Bordeaux]], [[Langon (Gironde)|Langon]], [[Marmande]], [[Agen]], [[Castelsarrasin]], [[Montauban]], [[Toulouse]]
+| intersections = {{Route européenne|7}} {{Autoroute française|A65}} à [[Langon (Gironde)|Langon]]<br />{{Route européenne|9}} {{Autoroute française|A20}} à [[Montbartier]]<br />{{Route européenne|72}} {{Autoroute française|A620}} à [[Toulouse]]
+| ouverture = [[1975]]-[[1988]]
+| réseau = Autoroute française, également {{Route européenne|9}} {{Route européenne|72}}
+| régions = [[Nouvelle-Aquitaine]] et [[Occitanie (région administrative)|Occitanie]]
+| départements = [[Gironde (département)|Gironde]], [[Lot-et-Garonne]], [[Tarn-et-Garonne]] et [[Haute-Garonne]]
+| nb_reg = 2
+| nb_dep = 4
+| concessionnaire = [[Autoroutes du Sud de la France|ASF]] (entre La Brède et Toulouse)
+| gestionnaire = [[Direction interdépartementale des Routes#Direction interdépartementale des Routes Atlantique|DIR Atlantique]] (entre Villenave-d'Ornon et La Brède)
+| nom_notes = 
+}}
+
+L’'''autoroute A62''', qui relie [[Bordeaux]] à [[Toulouse]], forme avec l'[[Autoroute A61 (France)|A61]], qui relie Toulouse à [[Narbonne]], l'[[autoroute des Deux Mers]] (océan Atlantique-mer Méditerranée). Payante sur la quasi-totalité de son parcours, sauf de la [[rocade de Bordeaux]] (A630) à la sortie [[La Brède]], elle est exploitée par la société des [[Autoroutes du Sud de la France]] (ASF). Dans le réseau ASF, l'A62 fait partie de la [[zone ouest]].
+
+Elle est à {{dunité|2|2|voies}} de Bordeaux à [[Montauban]] et à {{dunité|2|3|voies}} de [[Montauban]] à [[Toulouse]], section qui supporte le trafic lié à l'[[Autoroute A20 (France)|A20]] (Vierzon-Montauban).
+
+== Parcours ==
+=== Informations pratiques ===
+[[Radio Vinci Autoroutes]] (107.7FM) fonctionne sur l'A62 secteur ASF.
+
+L'A62 coûte {{euro|22,20}} sur la totalité de son parcours, entre [[Saint-Selve]] et [[Toulouse]]<ref>{{Article|langue=fr|auteur1=https://www.vinci-autoroutes.com/fr/tarifs-peage-reseaux-vinci-autoroutes|titre=Tarif des péages Vinci|périodique=Site officiel Vinci|date=1er février 2018|lire en ligne=https://www.vinci-autoroutes.com/sites/default/files/2018-02/C1_fev18_vinci_web2_.pdf|consulté le=2018-04-04|pages=}}</ref>, soit un peu moins de {{euro|0.11}} le km (prix au {{date|1 janvier 2025}}).
+
+Depuis le {{date|1 janvier 2018}}, le tronçon entre Saint-Jory et Toulouse Nord est limité à {{unité|110|km/h}}.
+
+Depuis le {{date|18 novembre 2022}}, un nouvel échangeur Agen-ouest sortie 6.1 a été mis en service, assurant une meilleure répartition du trafic local et régional.
+
+=== Sorties ===
+'''Section non-concédée gérée par la [[Direction interdépartementale des Routes#Direction interdépartementale des Routes Atlantique|DIR Atlantique]] et gratuite.'''
+* '''{{échangeur autoroutier|[[Fichier:SU4 - Rocade France.svg|22x22px]] [[Rocade de Bordeaux|Rocade de Bordeaux (A630)]]|A62}}''' à {{unité|0|km}}  : 
+** ''Rocade intérieure'' : [[Bayonne]], [[Bassin d'Arcachon]] ([[Autoroute A63 (France)|A63]]), ''[[Fichier:France road sign ID2.svg|15px|alt]] [[aéroport de Bordeaux-Mérignac|Mérignac]]'', [[Villenave-d'Ornon]]
+** ''Rocade extérieure'' : [[Paris]], ([[Autoroute A10 (France)|A10]]), [[Lyon]] ([[Autoroute A89 (France)|A89]]), [[Bordeaux]], [[Bègles]], ''[[Fichier:France road sign ID12a.svg|15px|alt]] [[Gare de Bordeaux-Saint-Jean|Saint-Jean]]''
+** [[Fichier:France road sign C207.svg|24x24px]] [[Fichier:Panneau-C24a-2.svg|22x22px]] [[Fichier:France road sign B14 (130).svg|22x22px]] Début de l'autoroute, début de {{dunité|2|2|voies}} et limitation à 130 km/h.
+* {{Sortie|1 Saint-Médard-d'Eyrans}} à {{unité|6|km}} : [[Cadaujac]], [[Martillac]], [[Saint-Médard-d'Eyrans]], [[Léognan]], ''Technopole Bordeaux Montesquieu''
+* {{Sortie|1.1 La Brède}} à {{unité|10|km}} : [[Tarbes]], [[Pau]], [[Agen]], [[Langon (Gironde)|Langon]], [[La Brède]]
+'''Section concédée à [[Autoroutes du Sud de la France|ASF]] et payante (sauf le périphérique de Toulouse).'''
+* {{Péage|Péage de Saint-Selve (à système fermé)}} 
+** {{Aire de service|des Terres de Graves}}
+* {{Sortie|2 Podensac}} à {{unité|26|km}} : [[Cadillac (Gironde)|Cadillac]], [[Podensac]]
+* {{Sortie|3 Langon}} à {{unité|37|km}} : Tarbes, Pau, [[Mont-de-Marsan]], [[Bazas]], Langon, [[Sauternes (Gironde)|Sauternes]]
+* '''{{échangeur autoroutier|[[Autoroute A65 (France)|A65]]|A62}}''' : [[Saragosse]], Tarbes, Pau ([[Autoroute A64 (France)|A64]]), Mont-de-Marsan ''(situé à l'emplacement de l'ancienne aire de repos d'Auros)''
+** {{Aire de repos|de Bazadais}} ''(ancienne aire de service)''
+* {{Sortie|4 La Réole}} à {{unité|55|km}} : [[Libourne]], [[La Réole]]
+Passage du département de la [[Gironde (département)|Gironde]] à celui de [[Lot-et-Garonne]]
+* {{Aire de repos|de Cocumont}}
+* {{Sortie|5 Marmande}} à {{unité|72|km}} : [[Bergerac (Dordogne)|Bergerac]], [[Tonneins]], [[Casteljaloux (Lot-et-Garonne)|Casteljaloux]], [[Marmande]]
+** {{Aire de service|Mas-d'Agenais}} ''(ancienne aire de repos)''
+** {{Aire de repos|de Queyran}} ''(ancienne aire de service)''
+* {{Sortie|6 Aiguillon}} à {{unité|93|km}} : Mont-de-Marsan, [[Villeneuve-sur-Lot]], [[Nérac]], Tonneins, Casteljaloux, [[Damazan]], [[Aiguillon (Lot-et-Garonne)|Aiguillon]]
+** {{Aire de repos|Buzet-sur-Baïse}}
+** {{Aire de repos|Bruch}}
+** {{Aire de service|Agen Porte d'Aquitaine}}
+* {{Sortie|6.1 Agen - ''ouest''}} à {{unité|119|km}} : [[Agen]], [[Périgueux]], Nérac, ''[[Walygator Sud-Ouest|Parc de Loisirs - Centre Aquatique]]'', ''[[Fichier:France road sign ID12a.svg|15px|alt]] [[Gare d'Agen|Gare T.G.V d'Agen]]''
+** {{Aire de repos|Estillac|Toulouse-Bordeaux}}
+* {{Sortie|7 Agen - ''centre''}} à {{unité|124|km}} : [[Auch]], Agen, Villeneuve-sur-Lot, [[Fumel]], [[Condom (Gers)|Condom]], Nérac, [[Lectoure]], [[Le Passage (Lot-et-Garonne)|Le Passage d'Agen]]
+** {{Aire de repos|Moirax|Bordeaux-Toulouse}}
+** {{Aire de repos|Layrac}}
+''Passage de la région [[Nouvelle-Aquitaine]] à celui l'[[Occitanie (région administrative)|Occitanie]]. <br />Passage du département de Lot-et-Garonne à celui de [[Tarn-et-Garonne]]. ''
+* {{Aire de repos|Dunes}}
+* {{Sortie|8 Valence-d'Agen}} à {{unité|149|km}} : [[Cahors]], Lectoure, [[Valence (Tarn-et-Garonne)|Valence d'Agen]], [[Auvillar]] (plus beau village de France).
+** {{Aire de service|de la Garonne}}
+* {{Sortie|9 Castelsarrasin}} à {{unité|169|km}} : [[Castelsarrasin]], [[Moissac]]
+** {{Aire de repos|Escatalens|Bordeaux-Toulouse|Forêt de Saint-Porquier|Toulouse-Bordeaux}}
+** {{Aire de repos|Forêt de Montech|Bordeaux-Toulouse|Lacourt-Saint-Pierre|Toulouse-Bordeaux}}
+*  (projet)<ref>{{Lien web |langue=fr |titre=Bientôt une nouvelle sortie d'autoroute entre Montauban et Toulouse : voici le projet |url=https://actu.fr/occitanie/montauban_82121/bientot-une-nouvelle-sortie-d-autoroute-entre-montauban-et-toulouse-voici-le-projet_46692667.html |site=actu.fr |consulté le=2022-07-21}}</ref>{{Sortie|10 Montauban - ''ouest''}} : [[Montauban]], [[Montech]], [[Lacourt-Saint-Pierre]], [[Bressols]]
+*  '''{{échangeur autoroutier|[[Autoroute A20 (France)|A20]]|A62}}''' ({{Sortie|10 Montauban}}) à {{unité|193|km}} : Paris, [[Orléans]], [[Vierzon]], [[Limoges]], Montauban - ''centre''
+** [[Fichier:France road sign C24a.svg|22x22px]] Passage à {{dunité|2|3|voies}}.
+** {{Aire de repos|Naudy|Bordeaux-Toulouse|Campsas|Toulouse-Bordeaux}}
+''Passage du département de Tarn-et-Garonne à celui de la [[Haute-Garonne]].''
+* {{Aire de service|du Frontonnais}}
+* {{Sortie|10.1 [[Eurocentre]]}} à {{unité|213|km}} : [[Grenade (Haute-Garonne)|Grenade]], ''[[File:France road sign ID35.svg|15px|alt]] Saint-Jory - nord'', [[Villeneuve-lès-Bouloc]], [[Saint-Jory]]
+* {{Sortie|11 Saint-Jory}} à {{unité|219|km}} : [[Fronton (Haute-Garonne)|Fronton]], [[Fenouillet (Haute-Garonne)|Fenouillet]], [[Saint-Alban (Haute-Garonne)|Saint-Alban]], Saint-Jory
+** [[Fichier:France_road_sign_B14_(110).svg|20px]] Limitation à 110 km/h.
+* {{Péage|Péage de Toulouse-Nord (à système fermé)}}
+* '''{{échangeur autoroutier|[[Fichier:SU4 - Rocade France.svg|22x22px]] [[Périphérique de Toulouse|Périphérique de Toulouse (A620 -  Ouest / A62 - Est)]]|A62}}''' à {{unité|225|km}} : Tarbes, [[Lourdes]] (A64), Auch, ''[[Fichier:France road sign ID2.svg|15px|alt]] [[aéroport de Toulouse-Blagnac|Blagnac]]'', [[Toulouse]] - ''centre, ouest''
+Début de la partie appartenant au '''[[Périphérique de Toulouse|Périphérique Est de Toulouse]]'''.
+* [[Fichier:France_road_sign_B14_(90).svg|20px]] Limitation à 90 km/h.
+* {{Sortie|12 ''[[Trois Cocus (quartier de Toulouse)|Les Izards]]''}} à {{unité|226|km}} ''(demi-échangeur, depuis et vers la sortie 13)'' : Agen, Montauban, [[Aucamville (Haute-Garonne)|Aucamville]], [[Villemur]], [[Castelginest]]
+* {{Sortie|13 ''[[Borderouge]]''}} à {{Unité|227|km}} : [[Launaguet]]
+* {{Sortie|14 ''[[Quartier Croix-Daurade|Croix-Daurade]]''}} à {{unité|229|km}} : [[File:France road sign B8.svg|15px|alt]] '''(7,5t)''' [[Albi]], [[L'Union (Haute-Garonne)|L'Union]], Toulouse - ''[[Bonnefoy (Toulouse)|Bonnefoy]]''
+Fin de l'autoroute A62
+* '''{{échangeur autoroutier|[[Autoroute A68 (France)|A68]] ([[Fichier:Péage.png|30 px]])|[[Fichier:SU4 - Rocade France.svg|22x22px]] [[Périphérique de Toulouse|Périphérique Est de Toulouse (A61 / A62)]]}}'''  à {{unité|230|km}} : Albi, [[Castres]] - [[Mazamet]] ([[Autoroute A69 (France)|A69]]), [[Lavaur (Tarn)|Lavaur]]
+Début de l'A61 vers : [[Barcelone|Barcelone (Barcelona)]], [[Montpellier]] ([[Autoroute A61 (France)|A61]]), [[Foix]] ([[Autoroute A66 (France)|A66]]), Toulouse - ''centre, sud, [[Gramont (Balma)|Gramont]]'', [[Fichier:France road sign B8.svg|15px|alt]] '''(7,5t)''' Lavaur
+
+== Historique ==
+{{Section vide ou incomplète}}
+
+== Géographie ==
+=== Régions et départements traversés ===
+* [[Nouvelle-Aquitaine]] : [[Gironde (département)|Gironde]], [[Lot-et-Garonne]] 
+* [[Occitanie (région administrative)|Occitanie]] : [[Tarn-et-Garonne]], [[Haute-Garonne]]
+
+=== Relief et secteurs sensibles ===
+* {{Sortie|8|Valence-d'Agen}} à {{unité|149|km}} : nombreuses pentes dangereuses pour PL et caravanes.
+
+=== Lieux touristiques ===
+* [[Bordeaux]]
+* vignoble de l'[[Entre-deux-mers (AOC)|Entre-deux-mers]]
+* [[Langon (Gironde)|Langon]]
+* [[Château de Buzet-sur-Baïse]] (visible depuis l'autoroute)
+* vignoble de [[Buzet (AOC)|Buzet]]
+* [[Walygator Sud-Ouest]]
+* [[Auvillar]], l'un des « plus beaux villages de France »
+* [[Castelsarrasin]] 
+* [[Moissac]], avec l'église Saint-Pierre et son cloître, classé au [[Patrimoine mondial|patrimoine mondial de l'Unesco]]
+* [[Montauban]]
+* vignoble de [[Fronton (AOC)|Fronton]]
+* [[Toulouse]]
+* [[Bassin de la Garonne]]
+
+== L'A62 dans la culture ==
+* {{refnec|2018 : chanson ''Champignon'' par le groupe Astaffort Mods}}.
+
+== Notes et références ==
+{{Références}}
+
+== Voir aussi ==
+=== Articles connexes ===
+* [[Autoroute A61 (France)|A61]]
+* [[Liste des autoroutes de France]]
+* [[Route européenne 9]]
+* [[Route européenne 72]]
+
+=== Liens externes ===
+* [http://saratlas.free.fr/index.php?page=autoroute&route=a62&lang=fr L'A 62 dans Saratlas]
+* [http://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A62_(Historique) Historique de l'A 62]
+* [http://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A62 L'autoroute A62 sur WikiSara]
+
+{{Palette Autoroutes de France}}
+
+{{Portail|Midi-Pyrénées|Aquitaine|route}}
+
+[[Catégorie:Autoroute en Nouvelle-Aquitaine|062]]
+[[Catégorie:Autoroute en région Occitanie|062]]
+[[Catégorie:Autoroute à Toulouse|062]]
+[[Catégorie:Transport à Bordeaux]]

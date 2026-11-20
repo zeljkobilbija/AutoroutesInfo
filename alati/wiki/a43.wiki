@@ -1,0 +1,307 @@
+{{Voir homonymes|A43}}
+{{Infobox Route/France
+| statut = A
+| numéro = 43
+| autres_noms = Autoroute de la Maurienne (entre Aiton et le tunnel du Fréjus)
+| image = Autoroute A43 - Entrée en Savoie.JPG
+| légende = L'A43 à un kilomètre du [[Guiers]] et de son entrée en [[Savoie (département)|Savoie]]. Le [[mont Tournier]] et la [[chaîne de l'Épine]] visibles ici seront tour à tour traversés par les tunnels de [[Tunnel de Dullin|Dullin]] et de l'[[Tunnel de l'Épine|Épine]].
+| carte = France A43.svg
+| longueur = 185
+| ouverture = 1972 – 2001
+| direction = nord-ouest / sud-est
+| dir1 = nord-ouest
+| dir2 = sud-est
+| ville1 = [[Boulevard périphérique de Lyon]] à [[Lyon]]
+| ville2 = {{Route européenne|70}} {{Route nationale|543}} à la [[Frontière entre la France et l'Italie]], dans le [[Tunnel routier du Fréjus|tunnel du Fréjus]]
+| villes_principales = [[Lyon]], [[Bourgoin-Jallieu]], [[La Tour-du-Pin]], [[La Motte-Servolex]], [[Chambéry]], [[Modane]]
+| intersections = {{Route européenne|15}} {{Autoroute française|A46}} à [[Saint-Priest]]<br>{{Route européenne|70}} {{Autoroute française|A432}} à [[Saint-Laurent-de-Mure]]<br>{{Route européenne|711}} {{Autoroute française|A48}} à [[Cessieu]]<br>{{Route européenne|712}} {{Autoroute française|A41}} à [[La Motte-Servolex]] puis à [[Porte-de-Savoie]]<br>{{Autoroute française|A430}} à [[Aiton]]
+| réseau = Autoroute française, également {{Route européenne|70}} {{Route européenne|711}} {{Route européenne|712}}
+| régions = [[Auvergne-Rhône-Alpes]]
+| départements = [[Métropole de Lyon]]<!--Pas un département, mais au vu de l'absence de catégorie spécifique et à l'instar de la loi, on l'assimile comme tel-->, [[Rhône (département)|Rhône]], [[Isère (département)|Isère]], [[Savoie (département)|Savoie]]
+| concessionnaire = [[AREA (société d'autoroutes)|AREA]] (entre Lyon et La Motte-Servolex ; La Ravoire et Aiton)<br/>[[Société française du tunnel routier du Fréjus|SFTRF]] (entre Aiton et Fréjus)
+|gestionnaire      = [[Direction interdépartementale des Routes#Direction interdépartementale des Routes Centre-Est|DIR Centre-Est]] (Chambéry / RN 201)
+| nb_reg = 1
+| nb_dep = 4
+| collectivité = oui
+}}
+
+En [[France]], l''''autoroute A43''' relie [[Bron]] dans l'agglomération [[lyon]]naise à [[Modane]] pour rejoindre le [[Tunnel routier du Fréjus|tunnel du Fréjus]] en direction de l'[[Italie]]. Elle est divisée en deux sections reliées par la [[route nationale 201]] au niveau de [[Chambéry]]. Sa partie intra-alpine entre [[Aiton]] et le tunnel du Fréjus est appelée '''autoroute de la Maurienne'''.
+
+Mise en service entre 1972 et 2001, l'A43 est gérée par l'[[AREA (société d'autoroutes)|AREA]] et la [[Société française du tunnel routier du Fréjus|SFTRF]] pour la partie autoroute de la Maurienne.
+
+Depuis Lyon, sa partie Ouest permet d'accéder au [[sillon alpin]] et au [[bassin lémanique]] tandis que sa partie Est sert au transit transalpin ([[route européenne 70]]) et à l'accès aux [[Liste des stations de sports d'hiver de Savoie|stations de sports d'hiver]] de [[Savoie (département)|Savoie]], notamment dans la Maurienne.
+
+== Caractéristiques ==
+
+* {{dunité|2|2|voies}} (''en boulevard urbain)'' : du boulevard Pinel au [[boulevard périphérique de Lyon]] (1 km)
+* {{dunité|2|3|voies}} : de [[Villefontaine]] ''(sortie 6)'' au [[Tunnel routier du Fréjus|Tunnel du Fréjus]] (165 km)
+* {{dunité|2|4|voies}} : du [[boulevard périphérique de Lyon]] à [[Villefontaine]] ''(sortie 6)'' (19 km)
+* {{unité|185|kilomètres}} de longueur
+* Aires de service
+* Relie la banlieue du Nord-Isère à Lyon en 15 minutes ; Lyon à l'Italie en {{heure|1|50}}.
+
+== Historique ==
+* [[Années 1940]] : dans le cadre du plan [[Camille Chalumeau|Chalumeau]]<ref>Plan général de la commune de Lyon et des améliorations projetées pour son extension, par Camille René Just Chalumeau (1879-1972), ingénieur en chef de la ville, et Pierre Eugène Lapeyre (né en 1887), ingénieur voyer principal, {{date|29 juillet 1935}}. [http://www.archives-lyon.fr/static/archives/contenu/old/fonds/plan-g/p27.htm#1 Manuscrit sur fond de plan imprimé].</ref>, il est prévu de réaliser des pénétrantes dans la ville de Lyon qui vont croiser le [[boulevard périphérique de Lyon]]. Comme le boulevard de ceinture, ces pénétrantes doivent avoir un caractère de boulevard urbain. Une pénétrante est construite au départ de la place du [[Le Bachut|Bachut]], par l'actuelle avenue [[Jean Mermoz]] avant de croiser le périphérique et de rejoindre la [[Route nationale 6 (France métropolitaine)|RN6]] au niveau de l'[[Aéroport de Lyon-Bron|aéroport de Bron]]. L'avenue, arborée, est à une ou deux chaussées suivant les sections.
+* 1973 : ouverture du tronçon Lyon - [[Bourgoin-Jallieu]]. À la sortie de Lyon, l'autoroute réutilise l'emprise de la pénétrante. Le premier kilomètre, entre la rue de la Moselle et le périphérique (autopont par-dessus le boulevard Pinel), est réalisé par l'État alors que la suite est concédée. L'autoroute est directement en {{dunité|2|3|voies}} jusqu'à la barrière de péage de Saint-Quentin-Fallavier.
+* 1974 : ouverture de Bourgoin-Jallieu - Chambéry.
+* 1982-1988 : agrandissement de l'échangeur Porte des Alpes (sortie 3). Initialement, la seule possibilité était Chambéry ↔ D112-sud. Après, tout est possible sauf Chambéry → D112-nord.
+* 1988 : ouverture du demi-échangeur de Belmont-Tramonet (sortie 11) de/vers Chambéry.
+* 1989 : ouverture depuis l'embranchement avec l'[[Autoroute A41 (France)|A41S]] ([[Francin]]) jusqu'à [[Montmélian]]. Le tronçon de l'A41 entre Chambéry/[[Route nationale 201|RN 201]] et Francin est renuméroté A43.
+* 1989 : ouverture de l'échangeur de Villefontaine (sortie 6).
+* 1990 : mise à {{dunité|2|3|voies}} entre [[Saint-Quentin-Fallavier]] et la bifurcation de l'A48 (Coiranne).
+* 1991 : mise en service du deuxième tube (sud) du tunnel de l'Épine.
+* 1991 : ouverture de Montmélian - Aiton. L'[[Autoroute A430 (France)|A430]] est mise en service simultanément ainsi que leur échangeur commun ([[Pont Royal (Savoie)|Pont-Royal]]).
+* 1992 : la barrière de péage de Chambéry-Sud est reculée à [[Chignin]]. Ouverture simultanée du demi-échangeur de [[Saint-Baldoph]] rendant l'autoroute gratuite jusqu'à cette sortie et permettant d'éviter la traversée de [[la Ravoire]] ({{nobr|CD 5}}).
+* 1997 : mise à {{dunité|2|3|voies}} entre la barrière de péage de Chignin et l'embranchement de l'A41S (Francin).
+* 1997 : ouverture de la section Aiton - [[Sainte-Marie-de-Cuines]].
+* 1998 : ouverture de la section Sainte-Marie-de-Cuines - [[Saint-Michel-de-Maurienne]].
+* 1998 : mise à {{dunité|2|3|voies}} entre la fin de la N201 et la sortie Saint-Baldoph.
+* 1998-2004 : mise en {{dunité|2|4|voies}} entre Saint-Priest (A46) et Saint-Quentin-Fallavier.
+* 2000 : ouverture de Saint-Michel-de-Maurienne - [[Freney (Savoie)|Freney]], avec intégration de la [[Route nationale 566|RN 566]] menant au tunnel du Fréjus. La partie dans le tunnel garde le statut de route nationale sous l’appellation [[Route nationale 543|RN 543]].
+* 2002 : l'échangeur 11 (Belmont-Tramonet) est complet (reconstruction pour entrée/sortie côté Lyon également).
+* 2004 : l'échangeur 20 (Saint-Baldoph) est complet (construction des bretelles côté [[Turin]]). Mise en {{dunité|2|3|voies}} jusqu'aux aires de repos voisines (Granier/Abis)
+* 2009 : Le premier kilomètre de l'autoroute (non-concédé) au départ de Bron est déclassé par décret en date du {{date|11 juin 2009}} et reclassé en {{nobr|RN 2043}}<ref>
+{{Lien web|url=https://www.legifrance.gouv.fr/eli/decret/2009/6/11/DEVT0909184D/jo/texte|titre=Décret du 11 juin 2009 portant déclassement de la catégorie des autoroutes de la section d'extrémité Est de l'autoroute A 43 à Lyon (Rhône) et reclassement dans la voirie nationale sous la dénomination RN {{n°|2043}}|site=[[Légifrance]]|jour=13|mois=juin|année=2009|consulté le=10 mai 2020}}.
+</ref>. L'autopont de cette section sera détruit par la suite et remplacé par un boulevard urbain<ref>{{Lien web|url=http://www.leprogres.fr/fr/region/le-rhone/rhone/article/3649565/Mermoz-Pinel-le-tablier-de-l-A-43-n-est-plus-qu-un-tas-de-gravats.html|titre=Lyon - travaux - Mermoz-Pinel : le tablier de l'A 43 n'est plus qu'un tas de gravats|site=[[Le Progrès (Lyon)|Le Progrès]]|jour=20|mois=août|année=2010|consulté le=20 août 2010}}</ref>{{,}}<ref>{{Lien web|url=http://www.aprr.fr/fr/toute-l-actualite-aprr-area-lyon-est-circulation-perturbee-sur-l-a43-a-partir-de-mars|titre=Lyon Est : circulation perturbée sur l’A43 à partir de mars|site=[[Autoroutes Paris-Rhin-Rhône]]|jour=20|mois=août|année=2010|consulté le=20 août 2010}}</ref>{{,}}<ref>{{Lien web|titre=Lyon: la démolition du viaduc de l'A43 démarre|site=[[20 Minutes (France)|20minutes.fr]]|jour=2|mois=août|année=2010|url=https://www.20minutes.fr/article/587079/Lyon-Lyon-la-demolition-du-viaduc-de-l-A43-demarre.php|consulté le=2 août 2010}}.</ref>.
+* 2014 : ouverture de l'échangeur 9.1, orienté vers Lyon, à l'est de [[La Tour-du-Pin]] (commune de [[Saint-Didier-de-la-Tour]]), parallèlement à l'élargissement de l'autoroute. Ce projet a coûté {{unité|8.3|millions}} d'euros hors taxes, financé par le [[Conseil départemental de l'Isère|Conseil général de l'Isère]] et la [[communauté de communes Les Vallons de la Tour]]. Il a en outre nécessité la construction d'un nouveau pont sur la [[Route nationale 6 (France métropolitaine)|route départementale 1006]]<ref>{{Lien web|url=http://www.aprr.com/fr/amenagement_reseau/acces-supplementaires/a43-latour-du-pin-est-en-direct-vers-lyon|titre=A43 La Tour-du-Pin|site=aprr.com|consulté le=23 juillet 2015}}.</ref>. Ajout d'une quatrième voie entre La Tour-du-Pin-ouest et l'Aire des Marouettes.
+* 2014 : ajout d'une troisième voie dans la montée de Chambéry-nord au tunnel de l'Épine.
+
+== Sorties ==
+=== A43 Ouest ===
+'''Section non-concédée à [[Direction interdépartementale des Routes#Direction interdépartementale des Routes Centre-Est|DIR Centre-Est]] et gratuite.'''
+[[fichier:Échangeur A43 - Périphérique Lyon.svg|vignette|Le raccord entre l'A43 et le [[boulevard périphérique de Lyon]] utilise un système d'[[Échangeur autoroutier|échangeur]] complexe.]]
+* Sortie de l'agglomération lyonnaise
+** [[Fichier:Panneau-C24a-2.svg|22x22px]] [[Fichier:France road sign B14 (50).svg|22x22px]] Début de {{dunité|2|2|voies}} et limitation à {{unité|50|km/h}}. Avenue Jean Mermoz (Bron, section déclassée) à {{unité|0|km}}
+** [[Fichier:France road sign C207.svg|24x24px]] [[Fichier:France road sign B14 (70).svg|22x22px]] Début de l'autoroute A43 à {{unité|1|km}} et limitation à {{unité|70|km/h}}.
+* '''{{échangeur autoroutier|[[Fichier:SU4 - Rocade France.svg|22x22px]] [[Boulevard périphérique de Lyon|Boulevard périphérique de Lyon (Boulevard Laurent Bonnevay, RD 383)]]|A43}}''' + {{Sortie|''Porte des Essarts'' <small>(sortie 12 du Périphérique)</small>}} à {{unité|1,5|km}} : 
+** ''Péripherique Nord'' : [[Paris]] ([[Autoroute A6 (France)|A6]]), [[Lyon]] - ''centre'', ''Porte de Montchat'' + {{Sortie|''Porte du Vinatier'' <small>(sortie 11 du Périphérique)</small>}}
+** ''Périphérique Sud'' : [[Marseille]] ([[Autoroute A7 (France)|A7]]), [[Saint-Étienne]] ([[Autoroute A47 (France)|A47]]), ''Porte de Parilly <small>(sortie 13 du Périphérique)</small>''
+** ''Porte des Essarts'' : Lyon - ''Part-Dieu, Mermoz''
+** [[Fichier:Panneau-C24a.svg|22x22px]] Passage à {{dunité|2|3|voies}}.
+* {{Sortie|1 Bron - ''Parilly''}} à {{unité|1,7|km}} ''(quart-échangeur, depuis Italie)'' : [[Bron]]
+* {{Sortie|2 Bron - ''Rebufer''}} à {{unité|2|km}} : Bron, ''[[Parc de Parilly]]'', ''[[Hippodrome de Parilly]]''
+** [[Fichier:France road sign B14 (90).svg|22x22px]] Limitation à 90 km/h.
+* {{Sortie|3/3a/3b/3c Portes des Alpes}} à {{unité|3|km}} : ''[[Eurexpo]]'', [[Université Lumière-Lyon-II|Université Lumière-Lyon 2]]'', Bron - ''Albert-Camus'', ''Parc de Parilly, Parc de Saint-Exupéry'', ''[[File:France road sign ID36.svg|15px|alt]] Portes des Alpes'', ''[[File:France road sign ID35.svg|15px|alt]] Parc du Chêne''
+'''Section concédée à [[AREA (société d'autoroutes)|AREA]] et payante (sauf la sortie 4/4a/4b).'''
+* {{Sortie|4/4a/4b [[Aéroport de Lyon-Bron|Bron - ''Aviation'']]}} à {{unité|4|km}} : ''[[File:France road sign ID35.svg|15px|alt]] Le Parc Technologique'', [[Grenoble]], [[Chambéry]], ''Parc Technologique''
+* '''{{échangeur autoroutier|[[Autoroute A46 (France)|A46 Sud]]|[[Route nationale 346|RN 346 (A46 Nord)]]|A43}}''' à {{unité|7,5|km}} : 
+** A46 Sud : Paris (A6), ''[[File:France road sign ID35.svg|15px|alt]] Mi-Plaine'', Eurexpo - ''Exposants''
+** RN 346 : Marseille (A7), Saint-Étienne (A47), ''[[File:France road sign ID35.svg|15px|alt]] Lyon Sud-Est'' 
+** {{Aire de service|de Saint-Priest|Lyon – Italie|de Manissieux|Italie – Lyon}} à {{unité|8,5|km}}
+** [[Fichier:Panneau-C24a-4.svg|22x22px]] Passage à {{dunité|2|4|voies}}.
+** [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à 130 km/h.
+[[Fichier:Péage A43 Saint-Quentin-Fallavier.jpg|vignette|Vue aérienne du péage de<br>[[Saint-Quentin-Fallavier]].]]
+[[Fichier:Autoroute A43 Aiguebelette.jpg|vignette|alt=L'échangeur vers la D921 et le lac d'Aiguebelette|L'échangeur vers la {{nobr|[[Route nationale 521d|D 921d]]}} et le [[lac d'Aiguebelette]].]]
+[[Fichier:Autoroute A43 près de l'Épine.JPG|vignette|alt=Près du tunnel sous l'Épine en direction de Lyon|Direction Lyon à moins d'un kilomètre de l'entrée du [[tunnel de l'Épine]].]]
+* '''{{échangeur autoroutier|[[Autoroute A432 (France)|A432]]|A43}}''' à {{unité|15|km}} : Paris (A6), [[Strasbourg]] ([[Autoroute A39 (France)|A39]]), [[Clermont-Ferrand]] ([[Autoroute A89 (France)|A89]]), [[Genève]], [[Bourg-en-Bresse]] ([[Autoroute A42 (France)|A42]]), ''[[File:France road sign ID2.svg|15px|alt]] [[Aéroport de Lyon-Saint-Exupéry|Saint-Exupéry]]''
+''Passage du département du [[Rhône (département)|Rhône]] au département de l'[[Isère (département)|Isère]]
+* [[Fichier:Panneau-C24a-4.svg|22x22px]] Passage à {{dunité|2|4|voies}}. (sens Italie – Lyon)
+* {{Sortie|5 Saint-Quentin-Fallavier}} à {{unité|16|km}} et à {{unité|21,2|km}} ''(deux demi-échangeurs)'' : [[Heyrieux]], [[Pont-de-Chéruy]], [[L'Isle-d'Abeau]] - ''Chesnes'', [[Saint-Quentin-Fallavier]], ''[[File:France road sign ID35.svg|15px|alt]] Chesnes''
+* {{Péage|Péage de Saint-Quentin-Fallavier (à système fermé)}} à {{unité|21|km}}
+** [[Fichier:Panneau-C24a.svg|22x22px]] Passage à {{dunité|2|3|voies}}.
+* {{Sortie|6 Villefontaine}} à {{unité|19|km}} : [[Villefontaine]], [[La Verpillière]], [[Vaulx-Milieu]], L'Isle-d'Abeau - ''Parc Technologique''
+** {{Aire de service|L'Isle-d'Abeau}}
+* {{Sortie|7 L'Isle-d'Abeau - ''centre''}} à {{unité|24|km}} : L'Isle-d'Abeau - ''Les Sayes'', [[Morestel]], Bourgoin-Jallieu - ''ouest'', [[Crémieu]]
+* {{Sortie|8 Bourgoin-Jallieu}} à {{unité|31|km}} : Bourgoin-Jallieu - ''centre'', [[Nivolas-Vermelle]], [[Ruy-Montceau]]
+** {{Aire de repos|du Vernay|Lyon – Italie|de Coiranne|Italie – Lyon}}
+* '''{{échangeur autoroutier|[[Autoroute A48 (France)|A48]]|A43}}''' : Marseille (A7), [[Valence (Drôme)|Valence]] ([[Autoroute A49 (France)|A49]]), Grenoble
+** [[Fichier:Panneau-C24a-2.svg|22x22px]] Passage à {{dunité|2|2|voies}}.
+* {{Sortie|9 La Tour-du-Pin - ''centre''}} à {{unité|41|km}} : [[La Tour-du-Pin]]
+* {{Sortie|9.1 La Tour-du-Pin - ''est''}} à {{unité|48|km}} ''(demi-échangeur, depuis et vers Lyon)'' : La Tour-du-Pin
+** {{Aire de repos|Les Marouettes|Lyon – Italie|Les Sitelles|Italie – Lyon}}
+* {{Sortie|10 Chimilin}} à {{unité|62|km}} : [[Le Pont-de-Beauvoisin (Isère)]], [[Les Avenières Veyrins-Thuellin]], [[Les Abrets en Dauphiné]]
+** {{Aire de service|Romagnieu|Lyon – Italie|Le Guiers|Italie – Lyon}}
+** [[Fichier:AB-Brücke.svg]] Passage sur [[Fichier:Panneau cours d'eau France.png|20px]] Le [[Guiers]]
+''Passage du département de l'[[Isère (département)|Isère]] au département de la [[Savoie]].
+* {{Sortie|11 Belmont-Tramone}} à {{unité|66|km}} : Bourg-en-Bresse, [[Le Pont-de-Beauvoisin (Savoie)]], [[Belley]], [[Saint-Genix-les-Villages]]
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à 110 km/h.
+** [[Fichier:France road sign C111.svg|24x24px]] [[Tunnel de Dullin]] (1 600 m).
+** {{Aire de repos|Le Lavaret|Lyon – Italie|L'Omble|Italie – Lyon}}
+* {{Sortie|12 ''[[Lac d'Aiguebelette]]''}} à {{unité|79|km}} : , [[Novalaise]], [[Aiguebelette-le-Lac]]
+** [[Fichier:France road sign C111.svg|22x22px]] [[Tunnel de l'Épine]] (3 200m)
+** [[Fichier:Panneau-C24a.svg|22x22px]] Passage à {{dunité|2|3|voies}}.
+** [[Fichier:Panneau-C24a-4.svg|22x22px]] Passage à {{dunité|2|4|voies}}.
+** [[Fichier:Panneau-C24a-2.svg|22x22px]] Passage à {{dunité|2|2|voies}}.
+* '''{{échangeur autoroutier|[[Autoroute A41 (France)|A41N]]|A43/A41N|A43}}''' à {{unité|88|km}} : Genève, [[Annecy]], [[Aix-les-Bains]]
+Début du tronc commun avec l'A41N
+* {{Péage|Péage de Chambéry - nord}} à {{unité|89|km}}
+** [[Fichier:Panneau-C24a.svg|22x22px]] [[Fichier:France road sign B14 (50).svg|22x22px]] Passage à {{dunité|2|3|voies}} et limitation à 50 km/h. ''(1 voie de gauche vers RN 201 Nord et 2 voies de droite vers RN 201 Sud)''
+* '''{{échangeur autoroutier|[[Route nationale 201|RN 201 Nord]]|A43/A41N}}''' à {{unité|89|km}} : Lyon, Bourg-en-Bresse, Annecy, Aix-les-Bains, ''[[Savoie Technolac]]'', ''[[File:France road sign ID2.svg|15px|alt]] [[Aéroport de Chambéry - Savoie-Mont-Blanc|Chambéry - Savoie]]''
+
+=== [[Route nationale 201|RN 201]] (VRU de Chambéry) ===
+[[Fichier:Panoramique VRU Chambéry.JPG|vignette|alt=La route nationale 201|La [[route nationale 201]] sortant du [[tunnel des Monts]] et continuant en direction des A43 et [[Autoroute A41 (France)|A41 Sud]].]]
+L'A43 est absorbée par la {{nobr|RN 201}} ('''V'''oie '''R'''apide '''U'''rbaine) pour la traversée de Chambéry.<br>
+'''Section non-concédée à [[Direction interdépartementale des Routes#Direction interdépartementale des Routes Centre-Est|DIR Centre-Est]] et gratuite.'''
+* [[Fichier:Panneau-C24a-2.svg|22x22px]] Passage à {{dunité|2|2|voies}}.
+** [[Fichier:France_road_sign_C208.svg|20px|Symbole Fin d'autoroute]] [[Fichier:France_road_sign_C107.svg|20px|Symbole Début de route à accès réglementé]] Fin des autoroutes (A41N/A43) et début de route à accès réglementé ({{nobr|RN 201}}) à {{unité|89|km}}
+* {{Sortie|14 La Motte-Servolex}} à {{unité|89|km}} : [[La Motte-Servolex]], ''[[File:France road sign ID35.svg|15px|alt]] Les Landiers - sud''
+** [[Fichier:Panneau-C24a.svg|22x22px]] [[Fichier:France road sign B14 (90).svg|22x22px]] Passage à {{dunité|2|3|voies}} et limitation à {{unité|90|km/h}}.
+* {{Sortie|15 Chambéry - ''[[Hauts-de-Chambéry|Le Haut]]''}} '''''([[Échangeur de la Boisse]])''''' à {{unité|91|km}} : [[Chambéry]] - ''ouest'', [[Les Échelles]], [[Cognin]], ''[[File:France road sign ID3.svg|15px|alt]] [[Centre hospitalier Métropole Savoie|Centre Hospitalier]]''
+* {{Sortie|16 Chambéry - ''La Cassine''}} à {{unité|92|km}} : Chambéry - ''centre'', ''[[File:France road sign ID12a.svg|15px|alt]] [[Gare de Chambéry - Challes-les-Eaux|Gare]]''
+** [[Fichier:France road sign C111.svg|22x22px]] [[Tunnel des Monts]] (880 m)
+* {{Sortie|17 Bassens}} à {{unité|94|km}} : Chambéry - ''centre'', [[Bassens (Savoie)|Bassens]]
+* {{Sortie|18 Barberaz}} à {{unité|95|km}} : [[Albertville]], Grenoble, Chambéry - ''sud'', [[Barberaz]], ''[[Massif des Bauges]], [[Massif de la Chartreuse]]''
+* {{Sortie|19 La Ravoire}} à {{unité|96|km}} : [[La Ravoire]], Barberaz
+
+=== A43 Est===
+'''Section concédée à [[AREA (société d'autoroutes)|AREA]] et payante (sauf la sortie 20).'''
+[[Fichier:A43 (vue Mont-Blanc).JPG|vignette|alt=Autoroute à Montmélian|L'A43 à [[Montmélian]], devant le [[mont Blanc]].]]
+[[Fichier:Séparation A430 & A43.JPG|vignette|alt=Séparation des autoroutes A43 et A430|Séparation A43-[[Autoroute A430 (France)|A430]] pour la [[Vallée de la Tarentaise|Tarentaise]].]]
+[[Fichier:Entrée Tunnel du Fréjus.JPG|vignette|alt=Extrémité de l'autoroute|Extrémité de l'autoroute : [[Tunnel routier du Fréjus|tunnel du Fréjus]] vers l'[[Italie]].]]
+* [[Fichier:France_road_sign_C108.svg|20px|Symbole Début de route à accès réglementé]] [[Fichier:France road sign C207.svg|22x22px]] [[Fichier:France road sign B14 (110).svg|22x22px]] Fin de route à accès réglementé et début du statut autoroutier de l'A43 (toujours en tronc commun avec l'A41) et limitation à {{unité|110|km/h}}.
+* {{Sortie|20 Saint-Baldoph}} à {{unité|99|km}} : [[Saint-Baldoph]], [[Challes-les-Eaux]], [[Myans]]
+** {{Aire de service|Le Granier|Lyon – Italie|L'Abis|Italie – Lyon}}
+* {{Péage|Péage de Chignin (à système fermé)}} à {{unité|103|km}}
+* {{Sortie|21 Chignin}} à {{unité|104|km}} : [[Chignin]], Les Marches
+** [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à 130 km/h.
+* '''{{échangeur autoroutier|A41S|A43}}''' à {{unité|106|km}} : Grenoble
+Fin du tronc commun avec l'A41S
+* [[Fichier:Panneau-C24a-2.svg|22x22px]] Passage à {{dunité|2|2|voies}}.
+** [[Fichier:AB-Brücke.svg]] Passage sur [[Fichier:Panneau cours d'eau France.png|20px]] l'[[Isère (rivière)|Isère]].
+* {{Sortie|22 Montmélian}} à {{unité|110|km}} : [[Montmélian]]
+* {{Sortie|23 Saint-Pierre-d'Albigny}} à {{unité|120|km}} ''(demi-échangeur, depuis et vers Lyon)'' : [[Saint-Pierre-d'Albigny]], [[Chamoux-sur-Gelon]] + {{Aire de service|[[Val Gelon|Val-Gelon]]|Lyon – Italie|L'Arclusaz|Italie – Lyon}}
+* '''{{échangeur autoroutier|[[Autoroute française A430|A430]]|A43}}''' à {{unité|125|km}} : ''[[Vallée de la Tarentaise|Tarentaise]]'', ''[[Val d'Arly]]'', ''[[Beaufortain]]'', [[Albertville]]
+* {{Sortie|24 Aiton}} à {{unité|127|km}} : [[Val-d'Arc]], ''[[chaîne des Hurtières|Massif des Hurtières]]'', [[Valgelon-La Rochette|La Rochette]], Saint-Pierre-d'Albigny, Chamoux-sur-Gelon, [[Aiton]]
+'''Section concédée à [[Société française du tunnel routier du Fréjus|SFTRF]] et payante (Autoroute de la [[Maurienne]])'''
+* [[Fichier:AB-Brücke.svg]] Passage sur [[Fichier:Panneau cours d'eau France.png|20px]] l'[[Arc (affluent de l'Isère)|Arc]]
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à 110 km/h.
+** [[Fichier:France road sign C111.svg|22x22px]] Tunnel d'Aiguebelle ({{unité|926|m}} sens Lyon – Italie, {{unité|905|m}} sens Italie – Lyon)
+** [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à 130 km/h.
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à 110 km/h.
+** [[Fichier:France road sign C111.svg|22x22px]] Tunnel des Hurtières ({{unité|1198|m}} sens Lyon – Italie, {{unité|1183|m}} sens Italie – Lyon)
+** [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à 130 km/h.
+* {{Sortie|25 Saint-Pierre-de-Belleville / Épierre}} à {{unité|141|km}} : Val-d'Arc, ''Massif des Hurtières'', [[Épierre]], ''[[Col du Grand Cucheron]]'' +  {{Aire de repos|Saint-Pierre-de-Belleville|Lyon – Italie}}
+** {{Aire de repos|Saint-Léger|Italie – Lyon}}
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à 110 km/h.
+** [[Fichier:France road sign C111.svg|22x22px]] Tunnel de Saint-Étienne-de-Cuines ({{unité|300|m}})
+** [[Fichier:France road sign B14 (130).svg|22x22px]] Limitation à 130 km/h.
+* {{Sortie|26 Saint-Marie-de-Cuines}} à {{unité|157|km}} : [[La Chambre (Savoie)|La Chambre]], ''[[Vallée des Villards]], [[Col de la Madeleine]], [[Col du Glandon]]'' + {{Aire de repos|Sainte-Marie-de-Cuines|Lyon – Italie|Saint-Avre|Italie – Lyon}}
+** [[Fichier:AB-Brücke.svg]] Passage sur [[Fichier:Panneau cours d'eau France.png|20px]] l'Arc
+* {{Sortie|27 Hermillon}} à {{unité|163|km}} ''(demi-échangeur, depuis et vers Lyon)'' : [[Saint-Jean-de-Maurienne]], [[Hermillon]], ''Vallée de l'Arvan, [[Col de la Croix de Fer]]''
+** [[Fichier:AB-Brücke.svg]] Passage sur [[Fichier:Panneau cours d'eau France.png|20px]] l'Arc
+* {{Sortie|28 Saint-Julien-Mont-Denis}} à {{unité|171|km}} ''(demi-échangeur, depuis et vers Italie)'' : Saint-Jean-de-Maurienne, [[Saint-Julien-Mont-Denis]], ''Vallée de l'Arvan, Col de la Croix de Fer''
+** {{Aire de service|Saint-Julien-Montdenis|Italie – Lyon|Rieu-Sec (réservée aux poids-lourds)|Lyon – Italie}}
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à 110 km/h.
+** [[Fichier:AB-Brücke.svg]] Passage sur [[Fichier:Panneau cours d'eau France.png|20px]] l'Arc.
+* {{Sortie|29 Saint-Michel-de-Maurienne}} à {{unité|177|km}} et à {{unité|178|km}} ''(deux demi-échangeurs)'' : [[Saint-Michel-de-Maurienne]], [[Valloire]], [[Valmeinier]], ''[[Col du Galibier]]'' 
+* {{Péage|Péage de Saint-Michel-de-Maurienne (à système fermé)}} à {{unité|177|km}}
+** {{Aire de service|Saint-Michel-de-Maurienne|Lyon – Italie}}
+** [[Fichier:France road sign B14 (90).svg|22x22px]] Limitation à 90 km/h.
+** [[Fichier:France road sign C111.svg|22x22px]] Tunnel des Sorderettes ({{unité|372|m}}, sens Lyon-Italie)
+** [[Fichier:France road sign C28-3.svg|22x22px]] Réduction à {{dunité|2|1|voies}}
+** [[File:France road sign A18.svg|22x22px]] Section en {{dunité|2|1|voies}}
+** [[Fichier:France road sign C111.svg|22x22px]] [[Tunnel d'Orelle]] ({{unité|3692|m}})
+** [[Fichier:Panneau-C24a-2.svg|22x22px]]  Passage à {{dunité|2|2|voies}}
+** [[Fichier:France road sign B14 (110).svg|22x22px]] Limitation à 110 km/h.
+** [[Fichier:AB-Brücke.svg]] Viaduc de Saint-André sur [[Fichier:Panneau cours d'eau France.png|20px]] l'Arc (900 m)
+** [[Fichier:France road sign B14 (90).svg|22x22px]] Limitation à 90 km/h.
+** [[Fichier:France road sign C28-3.svg|22x22px]] Réduction à {{dunité|2|1|voies}}.
+* {{Sortie|30 Modane}} à {{unité|190|km}} : Chambéry, Albertville, Modane, ''Haute Maurienne - Vanoise'', ''[[Col du Mont-Cenis]], [[Col de l'Iseran]]'' 
+** [[Fichier:France road sign C29b.svg|22x22px]] Passage en section en 2+1 voies (2 files en direction du tunnel et 1 file vers Lyon) sur 1 000 m
+** [[Fichier:France road sign C28-3.svg|22x22px]] Réduction à {{dunité|2|1|voies}} (sens Lyon – Italie)
+** [[File:France road sign A18.svg|22x22px]] Section en {{dunité|2|1|voies}}
+** [[Fichier:AB-Brücke.svg]] [[Viaduc du Charmaix]] (281 m)
+* {{Sortie|31 Valfréjus}} à {{unité|193|km}} ''(demi-échangeur, depuis et vers Italie)'' : [[Valfréjus]], Modane
+** [[Fichier:France road sign C29b.svg|22x22px]] Passage en section en 2+1 voies (2 files en direction du tunnel et 1 file vers Lyon) sur 1 000 m
+* {{Péage|Péage du Tunnel du Fréjus (à système mixte)}} à {{unité|195|km}}
+** [[Fichier:France road sign C208.svg|22x22px]] [[Fichier:France road sign C107.svg|22x22px]] Fin de l'autoroute A43 et devient la [[Route nationale 543|Route nationale 543 (RN 543)]]
+** [[Fichier:France road sign B14 (70).svg|22x22px]] Limitation à 70 km/h.
+** [[Fichier:France road sign C111.svg|22x22px]] [[Tunnel routier du Fréjus|Tunnel du Fréjus]] ({{unité|13|km}})
+'''{{France}} / {{Italie}}''', [[Frontière entre la France et l'Italie|Frontière franco-italienne]] à l'intérieur du tunnel + Fin de la route nationale 543
+* [[Fichier:Italian traffic signs - confine di Stato tra paesi della Comunità Europea (figura II 97-a).svg|22x22px]] Entrée sur le territoire italien : Tunnel T4 ([[Fichier:Italian traffic signs - inizio autostrada (figura II 345).svg|18px]] l'[[Autoroute A32 (Italie)]]) en direction de : [[Milan|Milan (Milano)]], [[Turin|Turin (Torino)]], [[Oulx]], [[Bardonèche|Bardonèche (Bardonecchia)]]
+
+== Ouvrages d’art ==
+* [[Tunnel d'Orelle]] ({{unité|3692|m}}), [[Liste des tunnels les plus longs de France|classé {{11e}} tunnel routier le plus long de France]]<ref>{{Lien web |langue=fr |titre=Tunnel d'Orelle (Orelle, 2000) |url=https://structurae.net/fr/ouvrages/tunnel-d-orelle |site=Structurae |consulté le=2022-09-07}}</ref> ;
+* [[Tunnel de l'Épine]] ({{unité|3200|m}}) ;
+* [[Tunnel de Dullin]] ({{unité|1600|m}}) ;
+* [[Tunnels d'Aiguebelle et des Hurtières|Tunnel des Hurtières]] ({{unité|1198|m}} / {{unité|1160|m}}) ;
+* [[Tunnel des Monts]] ({{unité|870|m}} / {{unité|889|m}}) ;
+* [[Tunnels d'Aiguebelle et des Hurtières|Tunnel d'Aiguebelle]] ({{unité|924|m}} / {{unité|901|m}}) ;
+* [[Pont-rivière du Glandon]] ;
+* [[Pont-rivière du ravin Saint-Julien]] ;
+* [[Pont-rivière du ruisseau de Claret]] ;
+* [[Pont-rivière du ruisseau Saint-Bernard]] ;
+* [[Tunnel des Sorderettes]] ({{unité|385|m}}) ;
+* Viaduc d'Achard ({{unité|387|m}})<ref>[http://www.tpi.setec.fr/FR/pdf/01-ouvragesart/fich-o28.pdf Setec tpi : Viaducs mixtes bi-poutre sur l’autoroute de la Maurienne]</ref> ;
+* [[Viaduc du Charmaix]] ({{unité|346|m}}) ;
+* Viaduc d'Aiton ({{unité|260|m}}) ;
+* Viaduc des Fourneaux ({{unité|201|m}}) ;
+* Viaduc du Freney ({{unité|207|m}})<ref>[http://www.tpi.setec.fr/FR/pdf/01-ouvragesart/fich-o31.pdf Setec tpi : Viaducs mixtes en caisson sur l’autoroute de la Maurienne]</ref> ;
+* Viaduc de La Praz ({{unité|145|m}}) ;
+* Viaduc du Pont-des-Chèvres ({{unité|354|m}}) ;
+* Viaduc du Rocher-de-l'Escalade ({{unité|239|m}}) ;
+* Viaduc de Saint-André ({{unité|902|m}})<ref>[http://www.tpi.setec.fr/FR/pdf/01-ouvragesart/fich-o30.pdf Stec tpi : Viaduc de Saint-André sur l’autoroute de la Maurienne]</ref> ;
+* Viaduc de la Saussaz ({{unité|223|m}}).
+<gallery mode="packed" caption="Sélection de vues d'ouvrages d'art de l'A43.">
+Fichier:A43 - 2013-07-27 - IMG 1533.jpg|Entrée Ouest du [[tunnel d'Orelle]].
+Fichier:Entrée ouest - Tunnel de l'Épine.JPG|{{centrer|Extrémités ouest du [[tunnel de l'Épine]].}}
+Fichier:Autoroute A43 - La Maurienne - 2012-07-16 - IMG 5858.jpg|{{centrer|Extrémités sud du [[Tunnels d'Aiguebelle et des Hurtières|tunnel d'Aiguebelle]].}}
+Fichier:Autoroute A43 - La Maurienne - 2012-07-16 - IMG 5852.jpg|{{centrer|Extrémités sud du [[Tunnels d'Aiguebelle et des Hurtières|tunnel des Hurtières]].}}
+Fichier:Autoroute A43 - La Maurienne - 2012-07-16 - IMG 5828.jpg|{{centrer|[[Pont-rivière du Glandon]] au-dessus de l'A43 à [[Saint-Étienne-de-Cuines]].}}
+</gallery>
+
+== Lieux sensibles ==
+[[Fichier:Chassé-croisé d'hiver 2019 au sud de Chambéry (direction des stations).JPG|thumb|Ralentissements lors d'un chassé-croisé de vacanciers au sud de [[Chambéry]] en hiver avec en arrière-plan la [[chaîne de Belledonne]].]]
+{{Section vide ou incomplète}}
+* Bouchons fréquents entre Lyon et Chambéry (surtout en vacances d’hiver).
+* Ralentissements à la bifurcation A41 (depuis Annecy) – A43 (depuis Chambéry).
+* Bouchons entre l'A430 et le tunnel du Fréjus.
+* Circulation à l'arrêt quotidiennement aux heures de pointe entre Bourgoin-Jallieu et Lyon (30km)
+
+== Croisements autoroutiers ==
+[[Fichier:Autoroutes A41 & A43.JPG|vignette|alt=Jonction des autoroutes A41 et A43|L'[[Autoroute A41 (France)|A41]] joint l'A43 à [[Porte-de-Savoie]] avec en arrière-plan le [[massif des Bauges]].]]
+* vers [[Autoroute A46 (France)|A46]] ([[Lyon]] Est)
+* vers [[Autoroute A432 (France)|A432]] ( Lyon Est, [[aéroport de Lyon-Saint-Exupéry]])
+* vers [[Autoroute A48 (France)|A48]] ([[Grenoble]])
+* vers [[Autoroute A41 (France)|A41]] ([[Suisse]])
+* vers [[Autoroute A41 (France)|A41]] (Grenoble)
+* vers [[Autoroute A430 (France)|A430]] ([[Albertville]])
+
+== Départements traversés ==
+
+L'autoroute A43 traverse trois [[Département français|départements]] et une [[Collectivité à statut particulier|métropole à statut de collectivité territoriale]], assimilée à un département.
+
+La liste suivante répertorie les villes desservies et les sites remarquables à proximité de l'autoroute.
+;[[Métropole de Lyon]]
+* [[Lyon]]
+* [[Aéroport de Lyon-Bron]]
+;[[Rhône (département)|Rhône]]
+* [[Aéroport de Lyon-Saint-Exupéry]] (par autoroute A432)
+;[[Isère (département)|Isère]]
+* [[Ville nouvelle de L'Isle-d'Abeau]]
+* [[Bourgoin-Jallieu]]
+* [[La Tour-du-Pin]]
+;[[Savoie (département)|Savoie]]
+* [[Lac d'Aiguebelette]]
+* [[Chambéry]]
+* [[Saint-Jean-de-Maurienne]]
+* [[Modane]] et le [[tunnel routier du Fréjus]]
+
+== Galerie d'images ==
+<gallery>
+A43 Fr - E Sortie 6 vers Chambéry.JPG|A43 au niveau de la sortie 6, vers Chambéry.
+A43 Fr - E Sortie 7 vers Chambéry.JPG|A43 au niveau de la sortie 7, vers Chambéry.
+110605-Autoroute-A43-01.jpg|A43 à Lyon.
+150614-Autoroute-A43-01.jpg|Échangeur entre l'A43 et l'A432.
+</gallery>
+
+== Notes et références ==
+{{Références}}
+
+== Voir aussi ==
+=== Articles connexes ===
+* [[Liste des autoroutes de France]]
+* [[Route européenne 70]]
+* [[Route européenne 711]]
+
+=== Liens externes ===
+{{Autres projets|commons=Category:A43 autoroute|commons titre=l’autoroute A43}}
+{{Liens}}
+* [http://saratlas.free.fr/index.php?page=autoroute&route=a43&lang=fr Autoroute A43 dans Saratlas]
+* [http://routes.wikia.com/wiki/Autoroute_fran%C3%A7aise_A43 Article de l'A43 sur WikiSara]
+* [http://fr.structurae.de/projects/data/index.cfm?ID=p0000073 Autoroute A43 sur Structurae]
+
+{{Palette|Autoroutes de France}}
+{{Portail|route|Rhône-Alpes|Savoie|massif du Jura}}
+
+[[Catégorie:Autoroute A43 (France)|*]]

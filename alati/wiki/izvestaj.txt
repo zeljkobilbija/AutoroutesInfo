@@ -1,0 +1,50 @@
+a1.json: Vikipedija 64 redova, upareno 46, važi 38, u podatke 20 + 156 tabli iz OSM-a (154 se slaže sa Vikipedijom), najveća rupa 9 km
+a10.json: Vikipedija 52 redova, upareno 47, važi 44, u podatke 44 + 0 tabli iz OSM-a (0 se slaže sa Vikipedijom), najveća rupa 37 km
+a11.json: Vikipedija 38 redova, upareno 35, važi 28, u podatke 28 + 0 tabli iz OSM-a (0 se slaže sa Vikipedijom), najveća rupa 31 km
+a13.json: Vikipedija 73 redova, upareno 53, važi 46, u podatke 46 + 0 tabli iz OSM-a (0 se slaže sa Vikipedijom), najveća rupa 19 km
+a16.json: Vikipedija 57 redova, upareno 59, važi 57, u podatke 22 + 163 tabli iz OSM-a (116 se slaže sa Vikipedijom), najveća rupa 11 km
+a19.json: Vikipedija 7 redova, upareno 7, važi 7, u podatke 7 + 0 tabli iz OSM-a (0 se slaže sa Vikipedijom), najveća rupa 29 km
+a2.json: Vikipedija 20 redova, upareno 19, važi 16, u podatke 2 + 22 tabli iz OSM-a (0 se slaže sa Vikipedijom), najveća rupa 23 km
+a20.json: Vikipedija 0 redova, upareno 0, važi 0 – ostaju table iz OSM-a (0)
+a23.json: Vikipedija 11 redova, upareno 11, važi 9, u podatke 9 + 0 tabli iz OSM-a (0 se slaže sa Vikipedijom), najveća rupa 15 km
+a25.json: Vikipedija 19 redova, upareno 14, važi 14, u podatke 6 + 46 tabli iz OSM-a (37 se slaže sa Vikipedijom), najveća rupa 9 km
+a26.json: Vikipedija 36 redova, upareno 37, važi 28, u podatke 28 + 0 tabli iz OSM-a (0 se slaže sa Vikipedijom), najveća rupa 46 km
+a28.json: Vikipedija 30 redova, upareno 29, važi 25, u podatke 25 + 0 tabli iz OSM-a (0 se slaže sa Vikipedijom), najveća rupa 55 km
+a29.json: Vikipedija 27 redova, upareno 27, važi 23, u podatke 23 + 0 tabli iz OSM-a (0 se slaže sa Vikipedijom), najveća rupa 35 km
+a31.json: Vikipedija 49 redova, upareno 49, važi 46, u podatke 46 + 0 tabli iz OSM-a (0 se slaže sa Vikipedijom), najveća rupa 33 km
+a35.json: Vikipedija 48 redova, upareno 31, važi 26, u podatke 26 + 0 tabli iz OSM-a (0 se slaže sa Vikipedijom), najveća rupa 12 km
+a36.json: Vikipedija 27 redova, upareno 28, važi 28, u podatke 28 + 0 tabli iz OSM-a (0 se slaže sa Vikipedijom), najveća rupa 30 km
+a39.json: Vikipedija 11 redova, upareno 9, važi 9, u podatke 9 + 0 tabli iz OSM-a (0 se slaže sa Vikipedijom), najveća rupa 28 km
+a4.json: Vikipedija 115 redova, upareno 112, važi 93, u podatke 93 + 0 tabli iz OSM-a (0 se slaže sa Vikipedijom), najveća rupa 25 km
+a40.json: Vikipedija 40 redova, upareno 35, važi 27, u podatke 27 + 0 tabli iz OSM-a (0 se slaže sa Vikipedijom), najveća rupa 31 km
+a41.json: Vikipedija 39 redova, upareno 39, važi 27, u podatke 27 + 0 tabli iz OSM-a (0 se slaže sa Vikipedijom), najveća rupa 28 km
+a42.json: Vikipedija 11 redova, upareno 9, važi 8, u podatke 5 + 17 tabli iz OSM-a (17 se slaže sa Vikipedijom), najveća rupa 9 km
+a43.json: Vikipedija 39 redova, upareno 29, važi 23, u podatke 23 + 0 tabli iz OSM-a (0 se slaže sa Vikipedijom), najveća rupa 17 km
+a48.json: Vikipedija 9 redova, upareno 8, važi 6, u podatke 6 + 0 tabli iz OSM-a (0 se slaže sa Vikipedijom), najveća rupa 25 km
+a49.json: Vikipedija 14 redova, upareno 6, važi 6, u podatke 6 + 19 tabli iz OSM-a (19 se slaže sa Vikipedijom), najveća rupa 9 km
+a5.json: Vikipedija 24 redova, upareno 12, važi 11, u podatke 2 + 174 tabli iz OSM-a (115 se slaže sa Vikipedijom), najveća rupa 13 km (pomak prema tablama -8 km)
+a50.json: Vikipedija 21 redova, upareno 18, važi 16, u podatke 15 + 3 tabli iz OSM-a (3 se slaže sa Vikipedijom), najveća rupa 8 km
+a51.json: Vikipedija 26 redova, upareno 26, važi 22, u podatke 22 + 0 tabli iz OSM-a (0 se slaže sa Vikipedijom), najveća rupa 85 km
+a54.json: Vikipedija 7 redova, upareno 5, važi 4, u podatke 4 + 0 tabli iz OSM-a (0 se slaže sa Vikipedijom), najveća rupa 62 km
+a57.json: Vikipedija 14 redova, upareno 12, važi 12, u podatke 12 + 8 tabli iz OSM-a (8 se slaže sa Vikipedijom), najveća rupa 20 km
+a6.json: Vikipedija 131 redova, upareno 106, važi 83, u podatke 83 + 0 tabli iz OSM-a (0 se slaže sa Vikipedijom), najveća rupa 13 km
+a61.json: Vikipedija 12 redova, upareno 12, važi 11, u podatke 10 + 53 tabli iz OSM-a (53 se slaže sa Vikipedijom), najveća rupa 8 km
+a62.json: Vikipedija 18 redova, upareno 17, važi 16, u podatke 16 + 0 tabli iz OSM-a (0 se slaže sa Vikipedijom), najveća rupa 43 km
+a63.json: Vikipedija 24 redova, upareno 24, važi 22, u podatke 22 + 0 tabli iz OSM-a (0 se slaže sa Vikipedijom), najveća rupa 28 km
+a64.json: Vikipedija 44 redova, upareno 40, važi 40, u podatke 40 + 0 tabli iz OSM-a (0 se slaže sa Vikipedijom), najveća rupa 20 km
+a65.json: Vikipedija 14 redova, upareno 13, važi 9, u podatke 9 + 0 tabli iz OSM-a (0 se slaže sa Vikipedijom), najveća rupa 29 km
+a66.json: Vikipedija 6 redova, upareno 7, važi 7, u podatke 7 + 0 tabli iz OSM-a (0 se slaže sa Vikipedijom), najveća rupa 21 km
+a68.json: Vikipedija 12 redova, upareno 10, važi 10, u podatke 10 + 0 tabli iz OSM-a (0 se slaže sa Vikipedijom), najveća rupa 11 km
+a7.json: Vikipedija 25 redova, upareno 26, važi 22, u podatke 22 + 0 tabli iz OSM-a (0 se slaže sa Vikipedijom), najveća rupa 48 km
+a71.json: Vikipedija 17 redova, upareno 13, važi 12, u podatke 9 + 88 tabli iz OSM-a (88 se slaže sa Vikipedijom), najveća rupa 10 km (pomak prema tablama +97.7 km)
+a72.json: Vikipedija 11 redova, upareno 11, važi 10, u podatke 10 + 0 tabli iz OSM-a (0 se slaže sa Vikipedijom), najveća rupa 17 km
+a75.json: Vikipedija 70 redova, upareno 70, važi 63, u podatke 63 + 0 tabli iz OSM-a (0 se slaže sa Vikipedijom), najveća rupa 20 km
+a77.json: Vikipedija 46 redova, upareno 35, važi 32, u podatke 32 + 0 tabli iz OSM-a (0 se slaže sa Vikipedijom), najveća rupa 16 km
+a8.json: Vikipedija 33 redova, upareno 33, važi 28, u podatke 28 + 0 tabli iz OSM-a (0 se slaže sa Vikipedijom), najveća rupa 44 km
+a81.json: Vikipedija 5 redova, upareno 5, važi 5, u podatke 5 + 23 tabli iz OSM-a (23 se slaže sa Vikipedijom), najveća rupa 20 km (pomak prema tablama +174.2 km)
+a83.json: Vikipedija 19 redova, upareno 17, važi 15, u podatke 15 + 0 tabli iz OSM-a (0 se slaže sa Vikipedijom), najveća rupa 23 km
+a84.json: Vikipedija 22 redova, upareno 22, važi 22, u podatke 9 + 157 tabli iz OSM-a (151 se slaže sa Vikipedijom), najveća rupa 10 km (pomak prema tablama +98.4 km)
+a85.json: Vikipedija 0 redova, upareno 0, važi 0 – ostaju table iz OSM-a (0)
+a87.json: Vikipedija 1 redova, upareno 0, važi 0 – ostaju table iz OSM-a (81)
+a89.json: Vikipedija 0 redova, upareno 0, važi 0 – ostaju table iz OSM-a (0)
+a9.json: Vikipedija 19 redova, upareno 15, važi 12, u podatke 6 + 146 tabli iz OSM-a (71 se slaže sa Vikipedijom), najveća rupa 17 km
