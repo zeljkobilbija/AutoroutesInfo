@@ -66,7 +66,7 @@ First release: exits, service areas, fuel stations with average prices, EV charg
 - [x] R8 + pravila, release proveren na telefonu
 - [x] Politika privatnosti EN/FR na sajtu
 - [x] Tekstovi FR/EN, ikona, naslovna, remove_ads ikona, snimci fr_/en_ (`python alati/uramljivanje.py`)
-- [ ] Video za Vožnju (`play/voznja_video.mp4`) → YouTube „Non in elenco“
+- [x] Video za Vožnju `play/voznja_video.mp4` (26 s, aplikacija na francuskom); [ ] postaviti na YouTube „Non in elenco“
 - [ ] Novi ključ (Create new… → `keystore-kljuceviutoroutesinfo.jks`), potpisan .aab
 - [ ] Play Console: Crea app, listing, Contenuti dell'app, interni test, remove_ads, produkcija
 - [ ] Posle objave: AdMob „Aggiungi store“ na ISTOJ aplikaciji (~9059684986)
